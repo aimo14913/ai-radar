@@ -1,0 +1,32 @@
+name: Update AI Radar
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "20 0,6,12,18 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Fetch latest AI news
+        run: node fetch-ai-radar.mjs --limit 180 --days 21
+
+      - name: Commit updates
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index.html ai-radar-data.json
+          git diff --cached --quiet || git commit -m "Update AI Radar data"
+          git push

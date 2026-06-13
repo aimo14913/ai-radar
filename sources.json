@@ -1,0 +1,469 @@
+{
+  "meta": {
+    "name": "AI Radar Sources",
+    "version": "1.0.0",
+    "description": "Public RSS, Atom, and crawlable pages for collecting global AI updates. Keep only sources you are allowed to access and respect each site's terms.",
+    "defaultDays": 21,
+    "defaultLimit": 180,
+    "requestDelayMs": 650,
+    "timeoutMs": 15000,
+    "userAgent": "AI-Radar/1.0 (+local research dashboard; contact: you@example.com)"
+  },
+  "categories": [
+    {
+      "id": "foundation-models",
+      "name": "基礎模型",
+      "keywords": [
+        "foundation model",
+        "large language model",
+        "llm",
+        "gpt",
+        "claude",
+        "gemini",
+        "llama",
+        "mistral",
+        "mixture of experts",
+        "moe",
+        "reasoning model",
+        "multimodal",
+        "transformer",
+        "pretraining",
+        "post-training"
+      ]
+    },
+    {
+      "id": "agents",
+      "name": "智慧體與工作流",
+      "keywords": [
+        "agent",
+        "agents",
+        "autonomous",
+        "workflow",
+        "tool use",
+        "function calling",
+        "computer use",
+        "browser use",
+        "multi-agent",
+        "orchestration",
+        "planning"
+      ]
+    },
+    {
+      "id": "ai-infra",
+      "name": "AI Infra 與算力",
+      "keywords": [
+        "gpu",
+        "nvidia",
+        "training cluster",
+        "inference",
+        "serving",
+        "vector database",
+        "rag",
+        "retrieval",
+        "quantization",
+        "fine-tuning",
+        "mlops",
+        "cuda",
+        "tpu",
+        "chip",
+        "accelerator"
+      ]
+    },
+    {
+      "id": "applications",
+      "name": "應用與生產力",
+      "keywords": [
+        "copilot",
+        "assistant",
+        "productivity",
+        "enterprise ai",
+        "customer service",
+        "sales",
+        "office",
+        "workspace",
+        "search",
+        "automation",
+        "coding assistant",
+        "developer tools"
+      ]
+    },
+    {
+      "id": "media-generation",
+      "name": "圖像影片音訊生成",
+      "keywords": [
+        "image generation",
+        "video generation",
+        "text-to-video",
+        "text to video",
+        "ai video",
+        "ai image",
+        "image model",
+        "video model",
+        "diffusion",
+        "sora",
+        "veo",
+        "runway ai",
+        "runway gen",
+        "runwayml",
+        "pika",
+        "pika labs",
+        "midjourney",
+        "stable diffusion",
+        "stability ai",
+        "adobe firefly",
+        "kling ai",
+        "luma ai",
+        "ideogram ai",
+        "black forest labs",
+        "flux.1",
+        "audio generation",
+        "suno",
+        "udio",
+        "voice",
+        "music generation",
+        "tts"
+      ]
+    },
+    {
+      "id": "robotics",
+      "name": "機器人與具身智慧",
+      "keywords": [
+        "robot",
+        "robotics",
+        "embodied",
+        "humanoid",
+        "autonomous vehicle",
+        "self-driving",
+        "drone",
+        "manipulation",
+        "physical ai",
+        "world model"
+      ]
+    },
+    {
+      "id": "ai-science",
+      "name": "AI for Science",
+      "keywords": [
+        "protein",
+        "alphafold",
+        "drug discovery",
+        "biology",
+        "chemistry",
+        "materials",
+        "climate",
+        "scientific discovery",
+        "genomics",
+        "healthcare",
+        "medical ai"
+      ]
+    },
+    {
+      "id": "policy-safety",
+      "name": "監管安全與治理",
+      "keywords": [
+        "safety",
+        "alignment",
+        "governance",
+        "policy",
+        "regulation",
+        "copyright",
+        "privacy",
+        "security",
+        "red team",
+        "eval",
+        "benchmark",
+        "risk",
+        "responsible ai",
+        "ai act"
+      ]
+    },
+    {
+      "id": "open-source",
+      "name": "開源生態",
+      "keywords": [
+        "open source",
+        "hugging face",
+        "github",
+        "model weights",
+        "dataset",
+        "benchmark",
+        "leaderboard",
+        "license",
+        "apache 2.0",
+        "mit license"
+      ]
+    },
+    {
+      "id": "capital-market",
+      "name": "投融資與商業",
+      "keywords": [
+        "funding",
+        "startup",
+        "valuation",
+        "acquisition",
+        "ipo",
+        "revenue",
+        "partnership",
+        "investment",
+        "venture",
+        "market",
+        "business",
+        "deal"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "openai-news",
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/rss.xml",
+      "type": "rss",
+      "region": "US",
+      "trust": "official",
+      "enabled": true
+    },
+    {
+      "id": "openai-developers",
+      "name": "OpenAI Developers",
+      "url": "https://developers.openai.com/rss.xml",
+      "type": "rss",
+      "region": "US",
+      "trust": "official",
+      "enabled": true
+    },
+    {
+      "id": "google-ai",
+      "name": "Google AI Blog",
+      "url": "https://blog.google/technology/ai/rss/",
+      "type": "rss",
+      "region": "US",
+      "trust": "official",
+      "enabled": true
+    },
+    {
+      "id": "google-research",
+      "name": "Google Research Blog",
+      "url": "https://research.google/blog/rss/",
+      "type": "rss",
+      "region": "US",
+      "trust": "official",
+      "enabled": true
+    },
+    {
+      "id": "deepmind",
+      "name": "Google DeepMind",
+      "url": "https://deepmind.google/blog/rss.xml",
+      "type": "rss",
+      "region": "UK",
+      "trust": "official",
+      "enabled": true
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/feed.xml",
+      "type": "rss",
+      "region": "Global",
+      "trust": "official",
+      "enabled": true
+    },
+    {
+      "id": "nvidia-ai",
+      "name": "NVIDIA AI Blog",
+      "url": "https://blogs.nvidia.com/blog/category/deep-learning/feed/",
+      "type": "rss",
+      "region": "US",
+      "trust": "official",
+      "enabled": true
+    },
+    {
+      "id": "microsoft-ai",
+      "name": "Microsoft AI Blog",
+      "url": "https://blogs.microsoft.com/ai/feed/",
+      "type": "rss",
+      "region": "US",
+      "trust": "official",
+      "enabled": true
+    },
+    {
+      "id": "meta-ai",
+      "name": "Meta AI Blog",
+      "url": "https://ai.meta.com/blog/",
+      "type": "html",
+      "region": "US",
+      "trust": "official",
+      "enabled": true
+    },
+    {
+      "id": "aws-ml",
+      "name": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "type": "rss",
+      "region": "US",
+      "trust": "official",
+      "enabled": true
+    },
+    {
+      "id": "arxiv-ai",
+      "name": "arXiv Artificial Intelligence",
+      "url": "https://rss.arxiv.org/rss/cs.AI",
+      "type": "rss",
+      "region": "Global",
+      "trust": "research",
+      "enabled": true
+    },
+    {
+      "id": "arxiv-ml",
+      "name": "arXiv Machine Learning",
+      "url": "https://rss.arxiv.org/rss/cs.LG",
+      "type": "rss",
+      "region": "Global",
+      "trust": "research",
+      "enabled": true
+    },
+    {
+      "id": "arxiv-cl",
+      "name": "arXiv Computation and Language",
+      "url": "https://rss.arxiv.org/rss/cs.CL",
+      "type": "rss",
+      "region": "Global",
+      "trust": "research",
+      "enabled": true
+    },
+    {
+      "id": "techcrunch-ai",
+      "name": "TechCrunch AI",
+      "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "type": "rss",
+      "region": "US",
+      "trust": "media",
+      "enabled": true
+    },
+    {
+      "id": "venturebeat-ai",
+      "name": "VentureBeat AI",
+      "url": "https://venturebeat.com/category/ai/feed/",
+      "type": "rss",
+      "region": "US",
+      "trust": "media",
+      "enabled": true
+    },
+    {
+      "id": "mit-ai",
+      "name": "MIT Technology Review AI",
+      "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed/",
+      "type": "rss",
+      "region": "US",
+      "trust": "media",
+      "enabled": true
+    },
+    {
+      "id": "the-decoder",
+      "name": "THE DECODER",
+      "url": "https://the-decoder.com/feed/",
+      "type": "rss",
+      "region": "EU",
+      "trust": "media",
+      "enabled": true
+    },
+    {
+      "id": "synced-ai",
+      "name": "Synced AI",
+      "url": "https://syncedreview.com/feed/",
+      "type": "rss",
+      "region": "China/Global",
+      "trust": "media",
+      "enabled": true
+    },
+    {
+      "id": "jiqizhixin",
+      "name": "機器之心",
+      "url": "https://www.jiqizhixin.com/rss",
+      "type": "rss",
+      "region": "China",
+      "trust": "media",
+      "enabled": true
+    },
+    {
+      "id": "cna-tech",
+      "name": "中央社科技",
+      "url": "https://feeds.feedburner.com/rsscna/technology",
+      "type": "rss",
+      "region": "Taiwan",
+      "trust": "media",
+      "enabled": true
+    },
+    {
+      "id": "ithome-ai",
+      "name": "iThome AI 主題中心",
+      "url": "https://www.ithome.com.tw/ai",
+      "type": "html",
+      "region": "Taiwan",
+      "trust": "media",
+      "enabled": true
+    },
+    {
+      "id": "digitimes-tech",
+      "name": "DIGITIMES 科技網",
+      "url": "https://www.digitimes.com.tw/tech/",
+      "type": "html",
+      "region": "Taiwan",
+      "trust": "media",
+      "enabled": true
+    },
+    {
+      "id": "google-news-taiwan-ai",
+      "name": "Google News: Taiwan AI",
+      "url": "https://news.google.com/rss/search?q=(AI%20OR%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7%20OR%20%E7%94%9F%E6%88%90%E5%BC%8FAI%20OR%20%E5%8F%B0%E7%A9%8D%E9%9B%BB%20AI%20OR%20%E8%BC%9D%E9%81%94%20%E5%8F%B0%E7%81%A3)%20when:14d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+      "type": "rss",
+      "region": "Taiwan",
+      "trust": "aggregator",
+      "enabled": true
+    },
+    {
+      "id": "google-news-ai",
+      "name": "Google News: AI",
+      "url": "https://news.google.com/rss/search?q=(artificial%20intelligence%20OR%20generative%20AI%20OR%20LLM)%20when:7d&hl=en-US&gl=US&ceid=US:en",
+      "type": "rss",
+      "region": "Global",
+      "trust": "aggregator",
+      "enabled": true
+    },
+    {
+      "id": "google-news-ai-media-generation",
+      "name": "Google News: AI Image/Video Generation",
+      "url": "https://news.google.com/rss/search?q=(%22AI%20video%22%20OR%20%22AI%20image%22%20OR%20%22image%20generation%22%20OR%20%22video%20generation%22%20OR%20Sora%20OR%20Veo%20OR%20%22Runway%20AI%22%20OR%20%22Runway%20Gen%22%20OR%20Midjourney%20OR%20%22Pika%20Labs%22%20OR%20%22Kling%20AI%22%20OR%20%22Adobe%20Firefly%22%20OR%20%22Luma%20AI%22%20OR%20%22Ideogram%20AI%22%20OR%20%22Black%20Forest%20Labs%22%20OR%20%22FLUX.1%22)%20when:7d&hl=en-US&gl=US&ceid=US:en",
+      "type": "rss",
+      "region": "Global",
+      "trust": "aggregator",
+      "enabled": true
+    },
+    {
+      "id": "google-news-taiwan-ai-media-generation",
+      "name": "Google News: Taiwan AI Image/Video Generation",
+      "url": "https://news.google.com/rss/search?q=(AI%20%E5%BD%B1%E5%83%8F%20OR%20AI%20%E5%BD%B1%E7%89%87%20OR%20AI%20%E7%94%9F%E5%9C%96%20OR%20%E5%9C%96%E5%83%8F%E7%94%9F%E6%88%90%20OR%20%E5%BD%B1%E7%89%87%E7%94%9F%E6%88%90%20OR%20Sora%20OR%20Veo%20OR%20%22Runway%20AI%22%20OR%20Midjourney%20OR%20%22Pika%20Labs%22%20OR%20%22Kling%20AI%22%20OR%20%22Adobe%20Firefly%22%20OR%20%22Luma%20AI%22)%20when:7d&hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
+      "type": "rss",
+      "region": "Taiwan",
+      "trust": "aggregator",
+      "enabled": true
+    },
+    {
+      "id": "google-news-china-ai",
+      "name": "Google News: China AI",
+      "url": "https://news.google.com/rss/search?q=(AI%20OR%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%20OR%20%E5%A4%A7%E6%A8%A1%E5%9E%8B)%20when:7d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+      "type": "rss",
+      "region": "China",
+      "trust": "aggregator",
+      "enabled": true
+    },
+    {
+      "id": "eu-ai-policy-news",
+      "name": "Google News: EU AI Policy",
+      "url": "https://news.google.com/rss/search?q=(AI%20Act%20OR%20AI%20regulation%20OR%20AI%20safety)%20when:14d&hl=en-GB&gl=GB&ceid=GB:en",
+      "type": "rss",
+      "region": "EU",
+      "trust": "aggregator",
+      "enabled": true
+    }
+  ]
+}
