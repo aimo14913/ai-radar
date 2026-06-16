@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T17:22:14.614Z",
+  "generatedAt": "2026-06-16T21:21:03.159Z",
   "windowDays": 21,
   "totalItems": 180,
   "sourceCount": 28,
@@ -208,8 +208,299 @@
   ],
   "items": [
     {
-      "id": "ai-a2e6ie",
-      "title": "Sixty percent of U.S. consumers say ‘AI’ in brand messaging is a turnoff, survey finds",
+      "id": "ai-1aau81w",
+      "title": "The Legal Tech-To-English Dictionary (2.0): The Ghosts Of Artificial Intelligence Past - Above the Law",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLTIydFJ1b1FtZUpRYmM2RWZ3WjEtdnNVTFJRLTJvSTlYdTNmYWdNeFdyUTF4cV95Y29CSFNGUDBKcl9VVTdyRUJiY1E2WUpBemZGdEt1NERCb3hCa05oWEFzSkVPTTJxOFZZRGtlS3ZUcWJGd1NiQnJ2aHRGakdkOENhWEwwSGxuc2NVcGthZzJ3R3J5aHBjanRJV20zOF9BWHJ0QTVhQ0RiLUsweHYxdjFtRVExQ2M?oc=5",
+      "summary": "The Legal Tech-To-English Dictionary (2.0): The Ghosts Of Artificial Intelligence Past Above the Law",
+      "publishedAt": "2026-06-16T20:21:00.000Z",
+      "timestamp": 1781641260000,
+      "source": {
+        "id": "google-news-ai",
+        "name": "Google News: AI",
+        "region": "Global",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 65
+    },
+    {
+      "id": "ai-11ylwvp",
+      "title": "Introducing container caching in Amazon SageMaker AI for faster model scaling",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-container-caching-in-amazon-sagemaker-ai-for-faster-model-scaling/",
+      "summary": "Today, we’re excited to announce container image caching for Amazon SageMaker AI inference, the next major advancement in our faster scaling optimization journey. This speeds up end-to-end latency by up to 2x for generative AI models during scale-out events.",
+      "publishedAt": "2026-06-16T20:16:02.000Z",
+      "timestamp": 1781640962000,
+      "source": {
+        "id": "aws-ml",
+        "name": "AWS Machine Learning Blog",
+        "region": "US",
+        "trust": "official"
+      },
+      "categories": [
+        "ai-infra"
+      ],
+      "score": 91
+    },
+    {
+      "id": "ai-r5ne9g",
+      "title": "SpaceX valuation balloons to $2.6T, briefly passes Amazon",
+      "url": "https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/",
+      "summary": "SpaceX's valuation has increased by $1 trillion since its shares started trading on Friday.",
+      "publishedAt": "2026-06-16T20:11:00.000Z",
+      "timestamp": 1781640660000,
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "region": "US",
+        "trust": "media"
+      },
+      "categories": [
+        "capital-market"
+      ],
+      "score": 73
+    },
+    {
+      "id": "ai-naruta",
+      "title": "“AI焦虑”怎么看 - 求是",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBCWXJhY3pkSFMyb0N4bl9qdVZVbFJGSi03QTBON0x6WXdkc1pmUDNuTmlpMm4zSnVLQm1mcGZ5UmRmTWduT0ZxVlpIbHV3OVNDV3E0SE43UEFhZE13VktXSExFRlgwdWFsMzJvY0Rzenp2UDl1QWVIUjFiWUo?oc=5",
+      "summary": "“AI焦虑”怎么看 求是",
+      "publishedAt": "2026-06-16T20:01:06.000Z",
+      "timestamp": 1781640066000,
+      "source": {
+        "id": "google-news-china-ai",
+        "name": "Google News: China AI",
+        "region": "China",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 65
+    },
+    {
+      "id": "ai-1avq2rh",
+      "title": "Artificial intelligence creates new digital divide in business world - Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWjdObEJLR2V3SDhBVzZ0d0RuUVRCTUFrVmdFczNoUEZqSjZCSlVac3Y4UmZkc3FiZ0xrVE1DMGRObW9sRGNyY3lhVmZLcDRGTU9XWXIxOEZiYmY1Mk8xNFFpb1piMlRybzVkam42a3BZMTdPdDNYeHMwcTM3NmRpcm5kSDhYZlFhejViWVlDNXFCUlAyelVRNHl6RVZZOEw2d3J3YzZkRy1lOFU?oc=5",
+      "summary": "Artificial intelligence creates new digital divide in business world Anadolu Ajansı",
+      "publishedAt": "2026-06-16T19:55:03.000Z",
+      "timestamp": 1781639703000,
+      "source": {
+        "id": "google-news-ai",
+        "name": "Google News: AI",
+        "region": "Global",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "capital-market"
+      ],
+      "score": 73
+    },
+    {
+      "id": "ai-1tzseed",
+      "title": "Leading the Development of a Cybersecurity and AI Ecosystem in Puerto Rico - Georgetown University",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdUVPYnRHZ19yVDJlbzlfaEZobUZiSi12LUZCUThoLVplam5EcVNtQVd6Znk3SXk4SnVsOS1WYml5dDZaTXpRakc0OF8tenJ4N2lyRllJelVXZDNTX0hxTUJ5TENRa0cybkIwNHkxU2FqblNzeGNGM2FQOHpJczJOdjNoSzNIVm1GbmYwcU5IMDh1VDhKWFJkNkxTQnQwY1hnSmtpVDQ3b3ZtZkQ0c3JMWQ?oc=5",
+      "summary": "Leading the Development of a Cybersecurity and AI Ecosystem in Puerto Rico Georgetown University",
+      "publishedAt": "2026-06-16T19:39:18.000Z",
+      "timestamp": 1781638758000,
+      "source": {
+        "id": "google-news-ai",
+        "name": "Google News: AI",
+        "region": "Global",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "policy-safety"
+      ],
+      "score": 73
+    },
+    {
+      "id": "ai-11bwovg",
+      "title": "Microsoft's Copilot Cowork moves to usage-based billing and may tap DeepSeek",
+      "url": "https://the-decoder.com/microsofts-copilot-cowork-moves-to-usage-based-billing-and-may-tap-deepseek/",
+      "summary": "Microsoft is weighing a fine-tuned version of Deepseek V4 as a cheaper model option for Copilot Cowork. The company is also switching to usage-based billing, since Copilot head Charles Lamanna says flat-rate pricing isn't sustainable. The move fits a broader pattern in the industry. The article Microsoft's Copilot Cowork moves to usage-based billing and may tap DeepSeek appeared first on The Decoder .",
+      "publishedAt": "2026-06-16T19:32:38.000Z",
+      "timestamp": 1781638358000,
+      "source": {
+        "id": "the-decoder",
+        "name": "THE DECODER",
+        "region": "EU",
+        "trust": "media"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 73
+    },
+    {
+      "id": "ai-mgfc7w",
+      "title": "Artificial intelligence: A future of promise and concern for women and children - yourvalley.net",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLUs5TlBQekpzQlhRZWZUeVRvbFlmZjM2X19pSnJXU2djT2hJMVhZcjNPM0lvZDNka29MbnVoc1BPZWpfbkpEMVBQSjZubFdaMGowR0NwZGRtZDFXeTBOZXVUN1RYdWV1ZlpDUEg4UEh4dGNOT3d0NjFwRzNLaEFFNVRyckRZSjRHZW5obnBlLXFuRHduU0ZaOWtIZ3UxOExid2xXaWl2RkROMWV1Vjg4OW5MWG05TGhBN0pPUQ?oc=5",
+      "summary": "Artificial intelligence: A future of promise and concern for women and children yourvalley.net",
+      "publishedAt": "2026-06-16T19:00:00.000Z",
+      "timestamp": 1781636400000,
+      "source": {
+        "id": "google-news-ai",
+        "name": "Google News: AI",
+        "region": "Global",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 64
+    },
+    {
+      "id": "ai-7klhkn",
+      "title": "Court Holds Google Liable for Incorrect AI Answers - ASIS",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOb0w5aDdNcTlocnRNOFdObHFGdEJWYzc0VmprM19XeTRCN1BJdmowLWJIbE9OWjNBcEY1RkJmOF9BcXJfVkU1ZmZGTHh0VU9LOENOWE5RZ0RXc0NoeWQxSmRzeTVmQXBFSnVUUkJQdDFENnplX0hBRWROQ2Y2Y2wzbHh4SVJZaEVpZWw1SVdnYzdRWkxtZjhCMUlLNHJqbXhvYlI0Q3RoOGxxcUJJYmpYSTlKNDVoMTVfOWQ4?oc=5",
+      "summary": "Court Holds Google Liable for Incorrect AI Answers ASIS",
+      "publishedAt": "2026-06-16T18:50:20.000Z",
+      "timestamp": 1781635820000,
+      "source": {
+        "id": "google-news-ai",
+        "name": "Google News: AI",
+        "region": "Global",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 64
+    },
+    {
+      "id": "ai-rtw80",
+      "title": "Berlin court rules Google's AI Overviews are just a new search format, not original content",
+      "url": "https://the-decoder.com/berlin-court-rules-googles-ai-overviews-are-just-a-new-search-format-not-original-content/",
+      "summary": "A Berlin court has ruled that Google's AI-generated summaries are just a \"new search result format\" and that Google has no \"decisive influence\" over the content. A perfume company had sued because AI search displayed its brand names alongside cheaper knockoffs and linked to their websites. The ruling partly contradicts a recent Munich decision that held Google directly liable for false AI responses, though the two ca",
+      "publishedAt": "2026-06-16T18:19:40.000Z",
+      "timestamp": 1781633980000,
+      "source": {
+        "id": "the-decoder",
+        "name": "THE DECODER",
+        "region": "EU",
+        "trust": "media"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 72
+    },
+    {
+      "id": "ai-1ksk6a5",
+      "title": "Your patients are using AI. Here’s how to talk with them about it. - American Psychological Association (APA)",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeHpEMkQ1QVRZT1h4ZjBYQmQtb0dWVEFnVUZFaC1PWDVwVWEwUXh3bTBKOHBDRGk0NG1CZkJITklrbFF2X3lhRGZHV1dfTEpLNnROTnhiUWFQVEUyb3FyMi1vaTNHY1dmVi1HTnBUZWgyR2ZqdTVyRXFMczM0cDhadzZSMi0xZXpyZ0xrUHQtSDFJNjRhQzlxT1owdzBoaVk?oc=5",
+      "summary": "Your patients are using AI. Here’s how to talk with them about it. American Psychological Association (APA)",
+      "publishedAt": "2026-06-16T18:10:59.000Z",
+      "timestamp": 1781633459000,
+      "source": {
+        "id": "google-news-ai",
+        "name": "Google News: AI",
+        "region": "Global",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 64
+    },
+    {
+      "id": "ai-1petp34",
+      "title": "Artificial Intelligence Full Course | Free AI Course 2026 | Intellipaat Pedri (4uTVq5zIeS) - Mshale",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9rQlBadE5aM3d0dktuRExMTjNMRjk5N3FTM3NNYjk3ZmtjQW1KNXpNRXVTbDNIRTctdW5YWDZScTd6emRNeXBQblBMZEJwLU9JWEkzOVlJZ3FmRFdqT0tMZw?oc=5",
+      "summary": "Artificial Intelligence Full Course | Free AI Course 2026 | Intellipaat Pedri (4uTVq5zIeS) Mshale",
+      "publishedAt": "2026-06-16T18:04:44.000Z",
+      "timestamp": 1781633084000,
+      "source": {
+        "id": "google-news-ai",
+        "name": "Google News: AI",
+        "region": "Global",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 64
+    },
+    {
+      "id": "ai-161hos1",
+      "title": "Android 17 launches with new multitasking tools as Google expands Gemini features",
+      "url": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
+      "summary": "Google has released Android 17 and Wear OS 7, introducing new multitasking features, parental controls, security tools, and smartwatch upgrades. The launch is also accompanied by a Pixel Drop that brings Google’s latest AI models to its devices.",
+      "publishedAt": "2026-06-16T18:00:00.000Z",
+      "timestamp": 1781632800000,
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "region": "US",
+        "trust": "media"
+      },
+      "categories": [
+        "foundation-models",
+        "policy-safety"
+      ],
+      "score": 90
+    },
+    {
+      "id": "ai-lg2alf",
+      "title": "Parallelize speculative decoding with P-EAGLE on Amazon SageMaker AI",
+      "url": "https://aws.amazon.com/blogs/machine-learning/parallelize-speculative-decoding-with-p-eagle-on-amazon-sagemaker-ai/",
+      "summary": "This post walks you through how to use P-EAGLE directly within Amazon SageMaker AI. It will demonstrate how to select a compatible model from the SageMaker JumpStart catalog, configure the parallel drafting specifications, and deploy a highly optimized real-time SageMaker AI endpoint to accelerate your generative AI applications.",
+      "publishedAt": "2026-06-16T17:47:09.000Z",
+      "timestamp": 1781632029000,
+      "source": {
+        "id": "aws-ml",
+        "name": "AWS Machine Learning Blog",
+        "region": "US",
+        "trust": "official"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 82
+    },
+    {
+      "id": "ai-1cvosrr",
+      "title": "From pixels to planning: Earth AI for nature restoration",
+      "url": "https://research.google/blog/from-pixels-to-planning-earth-ai-for-nature-restoration/",
+      "summary": "Climate & Sustainability",
+      "publishedAt": "2026-06-16T17:30:00.000Z",
+      "timestamp": 1781631000000,
+      "source": {
+        "id": "google-research",
+        "name": "Google Research Blog",
+        "region": "US",
+        "trust": "official"
+      },
+      "categories": [
+        "agents",
+        "applications",
+        "ai-science"
+      ],
+      "score": 100
+    },
+    {
+      "id": "ai-266bqn",
+      "title": "EU Lawmakers Move to Ban AI Nudifiers, but Enforcement Remains Unclear - Tech Policy Press",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdHpVamZ3eFZfU1BKYkpzY2tkTVRHeW5zbEk5SGQxQ29TTWNZM0RXUlRQVjJRbFQwbkVGVzNtVkJYc2VGOUFUZVV4ekxmZ1JiOTYxZ2EwdzhTeTFLaFlvLUZuWWlGekNmdWhZZlVRSXk5UlhabGNYdWp1ZGZuMUJHd3AtYU4zMFJLaHZ1bDhyRnpYLWY2TDlOUXp3?oc=5",
+      "summary": "EU Lawmakers Move to Ban AI Nudifiers, but Enforcement Remains Unclear Tech Policy Press",
+      "publishedAt": "2026-06-16T17:11:40.000Z",
+      "timestamp": 1781629900000,
+      "source": {
+        "id": "eu-ai-policy-news",
+        "name": "Google News: EU AI Policy",
+        "region": "EU",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "policy-safety"
+      ],
+      "score": 72
+    },
+    {
+      "id": "ai-4b5b6w",
+      "title": "Sixty percent of US consumers say ‘AI’ in brand messaging is a turnoff, survey finds",
       "url": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
       "summary": "WordPress VIP’s latest survey suggests consumers are wary of AI-generated answers even as companies increasingly view AI search as an important referral channel.",
       "publishedAt": "2026-06-16T16:49:44.000Z",
@@ -223,26 +514,7 @@
       "categories": [
         "applications"
       ],
-      "score": 73
-    },
-    {
-      "id": "ai-r22hhq",
-      "title": "How AI Is changing enterprise storage security - IT Brief UK",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NOUZESXdkTUtuSFEyYkxFMFdNc1JpTVRJRE53cXNpZV9OWjJQNjA5T1dyeG8ySXBxQ2xyYWFNZ3B4YXpHa3hISXZORmtYMFFJaERfTWtsUGFLcktrdjUtMzYyUk9DQmlpTWlPYkVqZFg4c1NhZXJpbjN1UHJRMTg?oc=5",
-      "summary": "How AI Is changing enterprise storage security IT Brief UK",
-      "publishedAt": "2026-06-16T16:45:06.000Z",
-      "timestamp": 1781628306000,
-      "source": {
-        "id": "eu-ai-policy-news",
-        "name": "Google News: EU AI Policy",
-        "region": "EU",
-        "trust": "aggregator"
-      },
-      "categories": [
-        "policy-safety",
-        "ai-infra"
-      ],
-      "score": 81
+      "score": 72
     },
     {
       "id": "ai-1nk0wrp",
@@ -260,7 +532,25 @@
       "categories": [
         "applications"
       ],
-      "score": 65
+      "score": 64
+    },
+    {
+      "id": "ai-whns6l",
+      "title": "台灣大攻 AI 代理商務 - 經濟日報",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5JV1J0eDZWWWZKb0hBX0hLT3NRWGZxNzU3aS1iLTM3ZEwxYXVhZW5CTF92d3ZLNzdYREJnVHUydnN6N1Y3TUNrUFc4MGppZjdOV1duZFRxNGJrbWVzeU9yUDhPODBZLVJ5N3pIZi1LTkp0OGdPYV9wSXQ5NFjSAV9BVV95cUxNTk5NLXc4NlpWc25iTjk2UXM1LTB5OHJGSldBemJ0R0NLMlNTSjcxclFNRG5JblBocE4xbzI3SmhEUVJJV0Z6dUl2eW1UR3d3WGdYVnVhOW9sTnUyTm81TQ?oc=5",
+      "summary": "台灣大攻 AI 代理商務 經濟日報",
+      "publishedAt": "2026-06-16T16:18:01.000Z",
+      "timestamp": 1781626681000,
+      "source": {
+        "id": "google-news-taiwan-ai",
+        "name": "Google News: Taiwan AI",
+        "region": "Taiwan",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 64
     },
     {
       "id": "ai-1mtujrf",
@@ -278,7 +568,7 @@
       "categories": [
         "media-generation"
       ],
-      "score": 73
+      "score": 72
     },
     {
       "id": "ai-ae2e9u",
@@ -297,7 +587,43 @@
         "capital-market",
         "ai-infra"
       ],
-      "score": 81
+      "score": 80
+    },
+    {
+      "id": "ai-zsfhbt",
+      "title": "Challenges in Implementing AI in Sleep Medicine Draw Focus at Sleep Conference - The American Journal of Managed Care® (AJMC®)",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLUoxUHVpamFwY09TajB1aDJrNy11QWZmSk1UT3ZCS2pLXzRKVmhIdlNtdzM5ZzI5S25NLUFNeUg5cXZSQU1mSnZnSjI5eXN3VWZiUC04R1FzRnJuNGh3N3ZNMG02MTNuRVdqakpMeUlpTl9XeFNDVktxNTRVMFY2d1MtdEg2cnlTWUZmckdNM0hEWFhzWkdQSUpScWtEYmxYZ2VxTFNWRQ?oc=5",
+      "summary": "Challenges in Implementing AI in Sleep Medicine Draw Focus at Sleep Conference The American Journal of Managed Care® (AJMC®)",
+      "publishedAt": "2026-06-16T15:36:08.000Z",
+      "timestamp": 1781624168000,
+      "source": {
+        "id": "google-news-ai",
+        "name": "Google News: AI",
+        "region": "Global",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 64
+    },
+    {
+      "id": "ai-14twtzw",
+      "title": "AI is scaling human exploitation. Here’s why we must act now - The World Economic Forum",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTFpfUENiaFJHVENmaXZBQ01zNmlTdTlUY1g1X0RyRXgxT3FfanFiZjB0TEhpVk5jQi1nTnRHdV9mVGFpWlZuUy1kNFh1c1VnZVJpM2ZkU3J5YTktby01Nm5hLVNYaE8yZjcyNWJMZ1pTeFF2SEtfQWp1QUJZV0I4cTJxTm9PUmFTZU10ZWdIdUY?oc=5",
+      "summary": "AI is scaling human exploitation. Here’s why we must act now The World Economic Forum",
+      "publishedAt": "2026-06-16T15:34:00.000Z",
+      "timestamp": 1781624040000,
+      "source": {
+        "id": "google-news-ai",
+        "name": "Google News: AI",
+        "region": "Global",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 64
     },
     {
       "id": "ai-1uij4dr",
@@ -315,7 +641,43 @@
       "categories": [
         "policy-safety"
       ],
-      "score": 83
+      "score": 82
+    },
+    {
+      "id": "ai-v7p8jz",
+      "title": "Berkshire Hathaway Has Plowed Over $21 Billion Into This Artificial Intelligence (AI) Stock Since Warren Buffett Stepped Down - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNXFjbmZWc2FrUmZmbjR6Y2lLWm5qZmtBSElOSWNoX3MyM0NZcHRXVVB2SWI3d2MtSDR2c1RrTEZya2JQX3JveU5fcW1vZXFPZ1k5Nm91bWd5QnkzSi1ONHhxSFZxQUdIbXplXzFmUl9FSmxTMUxzUTJLMUR3RmdGamREM1NHLTVIRmZlMWFEM0o3elBZVFUwSQ?oc=5",
+      "summary": "Berkshire Hathaway Has Plowed Over $21 Billion Into This Artificial Intelligence (AI) Stock Since Warren Buffett Stepped Down The Motley Fool",
+      "publishedAt": "2026-06-16T15:30:00.000Z",
+      "timestamp": 1781623800000,
+      "source": {
+        "id": "google-news-ai",
+        "name": "Google News: AI",
+        "region": "Global",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 64
+    },
+    {
+      "id": "ai-mgpr6h",
+      "title": "AI adoption correlates with incident frequency, underscoring need for governance - Cybersecurity Dive",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTUhoNDNRcXQzNW1ma09kdlpSd1A5WmxjbHl1elFhbTFnSnpWdFBJSVZEWUlaLU53NXZrTksxTDBNRF9UZlk0a0tBa0o4OEZlVzdJcl9NTlV2RVI3UkdnSnlVTVZnVHM2TkU2ZHZ2TTFrNE50a256TVc0bUFfenBwVGZ5NGhab3N0SkVDdVlPcXFlWUU?oc=5",
+      "summary": "AI adoption correlates with incident frequency, underscoring need for governance Cybersecurity Dive",
+      "publishedAt": "2026-06-16T15:28:14.000Z",
+      "timestamp": 1781623694000,
+      "source": {
+        "id": "google-news-ai",
+        "name": "Google News: AI",
+        "region": "Global",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "policy-safety"
+      ],
+      "score": 72
     },
     {
       "id": "ai-qshj8f",
@@ -333,7 +695,7 @@
       "categories": [
         "capital-market"
       ],
-      "score": 72
+      "score": 71
     },
     {
       "id": "ai-1a14ha",
@@ -351,7 +713,7 @@
       "categories": [
         "policy-safety"
       ],
-      "score": 72
+      "score": 71
     },
     {
       "id": "ai-xuf64w",
@@ -369,7 +731,7 @@
       "categories": [
         "capital-market"
       ],
-      "score": 72
+      "score": 71
     },
     {
       "id": "ai-a5oush",
@@ -387,25 +749,7 @@
       "categories": [
         "applications"
       ],
-      "score": 64
-    },
-    {
-      "id": "ai-5knprg",
-      "title": "Berkshire Hathaway Has Plowed Over $21 Billion Into This Artificial Intelligence (AI) Stock Since Warren Buffett Stepped Down - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMEpBLTNYcGNQRlpxWUpORDFlbnpsQ3FpbFhyTDVJS3hFd1dQQWRDX0xsZ2VVVmtjYTg5NV9zOUxSN056cS1jTG1EekJ1MzNSaWhTdkhwQ0JjTDBtaWo1QjM0YjBwUWZVSGNEeVJkQUFsbDBQSndaUjJqMU55NmhNWHExQ3ozY0dOdDNVZEZIcTlJZTFzUGVUOGE3OHF0QQ?oc=5",
-      "summary": "Berkshire Hathaway Has Plowed Over $21 Billion Into This Artificial Intelligence (AI) Stock Since Warren Buffett Stepped Down Yahoo Finance",
-      "publishedAt": "2026-06-16T14:50:00.000Z",
-      "timestamp": 1781621400000,
-      "source": {
-        "id": "google-news-ai",
-        "name": "Google News: AI",
-        "region": "Global",
-        "trust": "aggregator"
-      },
-      "categories": [
-        "applications"
-      ],
-      "score": 64
+      "score": 63
     },
     {
       "id": "ai-kg6p5d",
@@ -423,45 +767,7 @@
       "categories": [
         "policy-safety"
       ],
-      "score": 72
-    },
-    {
-      "id": "ai-ni6jg1",
-      "title": "AI robots can go rogue – a researcher on how easily it happens - oxfordmartin.ox.ac.uk",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdF9vcTBjSGIybU4tMWNtX25JUzZwaWx1cFJNQXZaemVIamgzZ3hiQ3AwYXl2dF9uSlpIRFB2OWR5UXZCMHJkRl9vV1l3NHZ1TXFtdkU2TjdVQ2lMZDJGa1poclpWM0NSMk14ck5WbHJMSXVWXzFzeVYxN0x3S0VraVB6SS1odUk1U0JKTDZVdlMtZmFpdlhUUjNwR1lLWmp2?oc=5",
-      "summary": "AI robots can go rogue – a researcher on how easily it happens oxfordmartin.ox.ac.uk",
-      "publishedAt": "2026-06-16T14:36:53.000Z",
-      "timestamp": 1781620613000,
-      "source": {
-        "id": "eu-ai-policy-news",
-        "name": "Google News: EU AI Policy",
-        "region": "EU",
-        "trust": "aggregator"
-      },
-      "categories": [
-        "applications",
-        "robotics",
-        "policy-safety"
-      ],
-      "score": 88
-    },
-    {
-      "id": "ai-v7p8jz",
-      "title": "Berkshire Hathaway Has Plowed Over $21 Billion Into This Artificial Intelligence (AI) Stock Since Warren Buffett Stepped Down - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNXFjbmZWc2FrUmZmbjR6Y2lLWm5qZmtBSElOSWNoX3MyM0NZcHRXVVB2SWI3d2MtSDR2c1RrTEZya2JQX3JveU5fcW1vZXFPZ1k5Nm91bWd5QnkzSi1ONHhxSFZxQUdIbXplXzFmUl9FSmxTMUxzUTJLMUR3RmdGamREM1NHLTVIRmZlMWFEM0o3elBZVFUwSQ?oc=5",
-      "summary": "Berkshire Hathaway Has Plowed Over $21 Billion Into This Artificial Intelligence (AI) Stock Since Warren Buffett Stepped Down The Motley Fool",
-      "publishedAt": "2026-06-16T14:33:20.000Z",
-      "timestamp": 1781620400000,
-      "source": {
-        "id": "google-news-ai",
-        "name": "Google News: AI",
-        "region": "Global",
-        "trust": "aggregator"
-      },
-      "categories": [
-        "applications"
-      ],
-      "score": 64
+      "score": 71
     },
     {
       "id": "ai-1nso98t",
@@ -479,43 +785,25 @@
       "categories": [
         "capital-market"
       ],
-      "score": 72
+      "score": 71
     },
     {
-      "id": "ai-zblgyx",
-      "title": "贝索斯驳斥“AI抢饭碗”论：未来十年将迎多个黄金时代 - 财联社",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5CQmVPR05xSHFMV2xLdk8xYkVvTDBfdUlMa3ZHQkRReG9COW9lVnNBWkdubEJZY1pYbm1CRmVDOGtRV184RjVYWA?oc=5",
-      "summary": "贝索斯驳斥“AI抢饭碗”论：未来十年将迎多个黄金时代 财联社",
-      "publishedAt": "2026-06-16T14:05:12.000Z",
-      "timestamp": 1781618712000,
+      "id": "ai-ybx6a4",
+      "title": "AI governance at Data + AI Summit 2026: What’s new with Unity AI Gateway - Databricks",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUlQwUUNpNU0xWmRSWlFjeFdLWXhYcmxSNWZ1WmxfeS1uVVB5NHFsZFg3S3FmNXdWZEdKcnEzRTJxT0NLaldBNHNtY01jTldYSXZIdGlSWjRWbGFiSkpfTUluNnk3VjlWV0Vod0JYUi1vUlJySVRxUEotOU5tRmlyX0w3MnllVnBoNXh2S1BDNzY4Mmh2aHUw?oc=5",
+      "summary": "AI governance at Data + AI Summit 2026: What’s new with Unity AI Gateway Databricks",
+      "publishedAt": "2026-06-16T13:46:45.000Z",
+      "timestamp": 1781617605000,
       "source": {
-        "id": "google-news-china-ai",
-        "name": "Google News: China AI",
-        "region": "China",
+        "id": "eu-ai-policy-news",
+        "name": "Google News: EU AI Policy",
+        "region": "EU",
         "trust": "aggregator"
       },
       "categories": [
-        "applications"
+        "policy-safety"
       ],
-      "score": 64
-    },
-    {
-      "id": "ai-1etldcc",
-      "title": "SpaceX passes Amazon as valuation balloons to $2.7T",
-      "url": "https://techcrunch.com/2026/06/16/spacex-passes-amazon-as-valuation-balloons-to-2-7t/",
-      "summary": "SpaceX's valuation has increased by $1 trillion since its shares started trading on Friday.",
-      "publishedAt": "2026-06-16T13:48:37.000Z",
-      "timestamp": 1781617717000,
-      "source": {
-        "id": "techcrunch-ai",
-        "name": "TechCrunch AI",
-        "region": "US",
-        "trust": "media"
-      },
-      "categories": [
-        "capital-market"
-      ],
-      "score": 72
+      "score": 71
     },
     {
       "id": "ai-njcoj9",
@@ -533,25 +821,25 @@
       "categories": [
         "applications"
       ],
-      "score": 64
+      "score": 63
     },
     {
-      "id": "ai-1ksk6a5",
-      "title": "Your patients are using AI. Here’s how to talk with them about it. - American Psychological Association (APA)",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeHpEMkQ1QVRZT1h4ZjBYQmQtb0dWVEFnVUZFaC1PWDVwVWEwUXh3bTBKOHBDRGk0NG1CZkJITklrbFF2X3lhRGZHV1dfTEpLNnROTnhiUWFQVEUyb3FyMi1vaTNHY1dmVi1HTnBUZWgyR2ZqdTVyRXFMczM0cDhadzZSMi0xZXpyZ0xrUHQtSDFJNjRhQzlxT1owdzBoaVk?oc=5",
-      "summary": "Your patients are using AI. Here’s how to talk with them about it. American Psychological Association (APA)",
-      "publishedAt": "2026-06-16T13:27:45.000Z",
-      "timestamp": 1781616465000,
+      "id": "ai-r6q89a",
+      "title": "護國群山！韓媒：台灣半導體生態系比台積電威力更大 - 自由財經",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE56VFRYMnZuam9Na3gtWjlGRno5NFJET1c1YWV3NzJPOWZaYzdvbGViaVRlakVrY3JVSHVvSUdDZjZiZlNKeFREM1F4M1gwRmJlZ3JXQnVCN0hBWHk3QnVn0gFkQVVfeXFMTXBpcXd3UmpxZEtLblZfMTB0SE53QWduRkFXb2M1djVKUmVrSmZBOFVyZkhrQVB4aWQzeTZyMExBTEQxQm5QNEJFT05ZVld1TldhQk1UVTl3UHJKSjhFMDRqOHl2bA?oc=5",
+      "summary": "護國群山！韓媒：台灣半導體生態系比台積電威力更大 自由財經",
+      "publishedAt": "2026-06-16T13:29:56.000Z",
+      "timestamp": 1781616596000,
       "source": {
-        "id": "google-news-ai",
-        "name": "Google News: AI",
-        "region": "Global",
+        "id": "google-news-taiwan-ai",
+        "name": "Google News: Taiwan AI",
+        "region": "Taiwan",
         "trust": "aggregator"
       },
       "categories": [
         "applications"
       ],
-      "score": 64
+      "score": 63
     },
     {
       "id": "ai-9c9oug",
@@ -569,7 +857,7 @@
       "categories": [
         "policy-safety"
       ],
-      "score": 72
+      "score": 71
     },
     {
       "id": "ai-1ms72j6",
@@ -587,7 +875,7 @@
       "categories": [
         "applications"
       ],
-      "score": 64
+      "score": 63
     },
     {
       "id": "ai-me5ec4",
@@ -605,7 +893,7 @@
       "categories": [
         "applications"
       ],
-      "score": 64
+      "score": 63
     },
     {
       "id": "ai-105j5mu",
@@ -623,25 +911,7 @@
       "categories": [
         "capital-market"
       ],
-      "score": 72
-    },
-    {
-      "id": "ai-1hsvifn",
-      "title": "Joint declaration signed in Geneva against use of AI in warfare - Vatican News",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRW9VQ2FyWWlGbDhGOWlJeVdaNnNOYVhHdnJCdnJzUG5FS0J3cUwyZEpYazByX2RraWlZeFFtZENDVXo3U2MzUV9pZG1TZ1p2MnFqRHZGTFNkUThxeEdiRmZfWm9EeTdWRnduWjZLei1Pbml6c1ZzMDBBWHo2YTNEbnhOeEluam5nemk1dzhYWXhwSjB2ZjlOVkpRbDhZUFNQNkJHdk9uakQwaGZuMjJJZUlTeERVdw?oc=5",
-      "summary": "Joint declaration signed in Geneva against use of AI in warfare Vatican News",
-      "publishedAt": "2026-06-16T13:02:39.000Z",
-      "timestamp": 1781614959000,
-      "source": {
-        "id": "google-news-ai",
-        "name": "Google News: AI",
-        "region": "Global",
-        "trust": "aggregator"
-      },
-      "categories": [
-        "applications"
-      ],
-      "score": 64
+      "score": 71
     },
     {
       "id": "ai-9l0hq9",
@@ -659,7 +929,7 @@
       "categories": [
         "applications"
       ],
-      "score": 64
+      "score": 63
     },
     {
       "id": "ai-tqy4dl",
@@ -677,25 +947,44 @@
       "categories": [
         "applications"
       ],
-      "score": 64
+      "score": 63
     },
     {
-      "id": "ai-280k9",
-      "title": "AI支付从“扫码”到“看一眼就付” 智能体百花齐放重塑金融业务｜直击2026中国国际金融展 - 东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtSlpETnFEdVVNcElYNnRYVlRMSnI0aUZnSXhHdG1GRjVsZktiV0tUaTFyYU50ZmQtcEhWb1ZuWG9KczcyU190VFVCTTd3MHlDTUFaWlV3ZHZyRWJCWUlZVw?oc=5",
-      "summary": "AI支付从“扫码”到“看一眼就付” 智能体百花齐放重塑金融业务｜直击2026中国国际金融展 东方财富",
-      "publishedAt": "2026-06-16T12:14:40.000Z",
-      "timestamp": 1781612080000,
+      "id": "ai-r22hhq",
+      "title": "How AI Is changing enterprise storage security - IT Brief UK",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NOUZESXdkTUtuSFEyYkxFMFdNc1JpTVRJRE53cXNpZV9OWjJQNjA5T1dyeG8ySXBxQ2xyYWFNZ3B4YXpHa3hISXZORmtYMFFJaERfTWtsUGFLcktrdjUtMzYyUk9DQmlpTWlPYkVqZFg4c1NhZXJpbjN1UHJRMTg?oc=5",
+      "summary": "How AI Is changing enterprise storage security IT Brief UK",
+      "publishedAt": "2026-06-16T12:18:00.000Z",
+      "timestamp": 1781612280000,
       "source": {
-        "id": "google-news-china-ai",
-        "name": "Google News: China AI",
-        "region": "China",
+        "id": "eu-ai-policy-news",
+        "name": "Google News: EU AI Policy",
+        "region": "EU",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "policy-safety",
+        "ai-infra"
+      ],
+      "score": 79
+    },
+    {
+      "id": "ai-1kbakyb",
+      "title": "【投書】從北士科到 AI 城市：輝達能否成為能源責任的領導者？ - gcaa.org.tw",
+      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE5UVkRZU1plNkpNejhyNUxlamdLYW52WmtHVDJTaF9OMjhEQVVlbUd0dEdWd1Jqcm53cnBWZDZsTQ?oc=5",
+      "summary": "【投書】從北士科到 AI 城市：輝達能否成為能源責任的領導者？ gcaa.org.tw",
+      "publishedAt": "2026-06-16T12:16:22.000Z",
+      "timestamp": 1781612182000,
+      "source": {
+        "id": "google-news-taiwan-ai",
+        "name": "Google News: Taiwan AI",
+        "region": "Taiwan",
         "trust": "aggregator"
       },
       "categories": [
         "applications"
       ],
-      "score": 64
+      "score": 63
     },
     {
       "id": "ai-lbhjfy",
@@ -713,7 +1002,25 @@
       "categories": [
         "applications"
       ],
-      "score": 64
+      "score": 63
+    },
+    {
+      "id": "ai-11581n5",
+      "title": "E-News | Issues continue to rise with the use of generative AI - West Virginia University",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTVZSTnlmRnVSMVFGdkRyOUdKVGdLdW03VjdTRzhVUHFFZEtsNWFCOFI2OHQxMlV1TnFiaFNMblZqUUp6RUc5MXpVYjRPVGNmeW5Db3VkQnNjM0wzbmx0R0dFNXc2M1U5a3BkUnpuZWFXelRiTlpCVWFjYUhTcjVWRlg5X3JhbXFsM0ZZdjV5V05wQ1NrZlUwRV85bw?oc=5",
+      "summary": "E-News | Issues continue to rise with the use of generative AI West Virginia University",
+      "publishedAt": "2026-06-16T12:01:00.000Z",
+      "timestamp": 1781611260000,
+      "source": {
+        "id": "google-news-ai",
+        "name": "Google News: AI",
+        "region": "Global",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 63
     },
     {
       "id": "ai-10kl5j7",
@@ -731,7 +1038,25 @@
       "categories": [
         "ai-science"
       ],
-      "score": 72
+      "score": 71
+    },
+    {
+      "id": "ai-c1frvr",
+      "title": "中小企業不缺數位工具、缺AI執行力 台灣大輸出內部AI實戰能力 - 台灣大哥大| Open Possible 能所不能",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVVNUM0dFOXZBd0NZU1gtbEtzbWNzVnJLQjlEQjdPQWFTMVJvWGV0RjJDWklVZ1dCUWNVaDZINThseWNmdFN0STZpTHJhYjRsblJZNVlKcXdNS29jZmFIejA3UWpVOUFnQk5LYndrclNYeHN1cEpKVWRsc3RfMHkyQw?oc=5",
+      "summary": "中小企業不缺數位工具、缺AI執行力 台灣大輸出內部AI實戰能力 台灣大哥大| Open Possible 能所不能",
+      "publishedAt": "2026-06-16T11:33:41.000Z",
+      "timestamp": 1781609621000,
+      "source": {
+        "id": "google-news-taiwan-ai",
+        "name": "Google News: Taiwan AI",
+        "region": "Taiwan",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 63
     },
     {
       "id": "ai-xge2ky",
@@ -750,7 +1075,7 @@
         "policy-safety",
         "open-source"
       ],
-      "score": 90
+      "score": 89
     },
     {
       "id": "ai-1bzpk9u",
@@ -768,7 +1093,7 @@
       "categories": [
         "applications"
       ],
-      "score": 64
+      "score": 63
     },
     {
       "id": "ai-h6wudh",
@@ -804,7 +1129,7 @@
       "categories": [
         "applications"
       ],
-      "score": 71
+      "score": 70
     },
     {
       "id": "ai-zbfn9z",
@@ -822,7 +1147,7 @@
       "categories": [
         "policy-safety"
       ],
-      "score": 71
+      "score": 70
     },
     {
       "id": "ai-v8uqh4",
@@ -840,7 +1165,7 @@
       "categories": [
         "policy-safety"
       ],
-      "score": 71
+      "score": 70
     },
     {
       "id": "ai-fv2j11",
@@ -858,7 +1183,25 @@
       "categories": [
         "applications"
       ],
-      "score": 63
+      "score": 62
+    },
+    {
+      "id": "ai-39qvlx",
+      "title": "國泰世華林啟超看下半年：AI供應鏈重組助台灣成大贏家 GDP成長邁向10% - news.cnyes.com",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1qUkZyS2Y1NHdpMXNBNEpoR3U4MlM5YXA5cVpJbnFFSWxEM2ZaMk1EY2N4MWZmM1p4STJ3R1c4YTd5SnFwOFBiVXk5RmhyS0E?oc=5",
+      "summary": "國泰世華林啟超看下半年：AI供應鏈重組助台灣成大贏家 GDP成長邁向10% news.cnyes.com",
+      "publishedAt": "2026-06-16T10:55:08.000Z",
+      "timestamp": 1781607308000,
+      "source": {
+        "id": "google-news-taiwan-ai",
+        "name": "Google News: Taiwan AI",
+        "region": "Taiwan",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 62
     },
     {
       "id": "ai-u9qxs7",
@@ -876,7 +1219,7 @@
       "categories": [
         "applications"
       ],
-      "score": 63
+      "score": 62
     },
     {
       "id": "ai-1q4ejbk",
@@ -894,7 +1237,27 @@
       "categories": [
         "applications"
       ],
-      "score": 63
+      "score": 62
+    },
+    {
+      "id": "ai-1mnqrre",
+      "title": "ChatGPT’s market share slips below 50% for first time",
+      "url": "https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/",
+      "summary": "The chatbot still remains the most popular AI assistant worldwide with over 1.1 billion monthly users, followed by Gemini with 662 million and Claude with 245 million.",
+      "publishedAt": "2026-06-16T10:30:00.000Z",
+      "timestamp": 1781605800000,
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "region": "US",
+        "trust": "media"
+      },
+      "categories": [
+        "foundation-models",
+        "applications",
+        "capital-market"
+      ],
+      "score": 86
     },
     {
       "id": "ai-1aje1q4",
@@ -912,7 +1275,7 @@
       "categories": [
         "applications"
       ],
-      "score": 63
+      "score": 62
     },
     {
       "id": "ai-130aig",
@@ -930,25 +1293,25 @@
       "categories": [
         "applications"
       ],
-      "score": 63
+      "score": 62
     },
     {
-      "id": "ai-q4psos",
-      "title": "Government must address AI liability risk for clinicians, experts warn - The Pharmacist News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaHl3YUNUTlVMTElZMm12VlpOVVRnRi00N293dlR2dnhua2gzREY5bTFBMWtFRXJoY3l3cGZyMXoxOGZ1MkZSbWNPc2RSVlZibW9xaG04QzVaNWFfLTRndk9BVzgydUc0WENmTF9wTG12T19RMjEwSG5SUU1jZ0pMREl5bnpSN2IySzgwcE4zNWxsNDE3OVdXaDM0R19ZNmQzeDF3VVkwT01zYWU4ZElYT0ljdXY?oc=5",
-      "summary": "Government must address AI liability risk for clinicians, experts warn The Pharmacist News",
-      "publishedAt": "2026-06-16T09:53:58.000Z",
-      "timestamp": 1781603638000,
+      "id": "ai-10iab5d",
+      "title": "NVIDIA 不只是AI 晶片霸主：Vera Rubin 七晶片稱霸機架、$400 億生態投資飛輪，黃仁勳正在把NVIDIA 變成一家金融公司｜股市話題｜豐雲學堂2026 年 06 月 - sinotrade.com.tw",
+      "url": "https://news.google.com/rss/articles/CBMihAVBVV95cUxPLW82SVY3ckFiTV9IOFNXWUI0aWVHN0t5dHdVaVdCTGlIaGZkOXJ0RHdBc1NFdUpXQUxKWXhPRVlCNTF0MmstRG1WQ3lSNll6NHA1al9lYlFUZHVaZ3ZBUDJpd3JDSlo0VjU0UVd5ZWo4UVh4dkNqa1ZhZl9IZlUteWt3dW5QeC1kMG1GVV9MTW9ISG5ydk9HZG5iWnl6RWRLdGlhbEJtOFFlOVNsS2Jkakt3aE1HZzZSelAwM0NLR1VBSlNzN0E4TDFEek1CZUdiQlZjMVg4YUtsWnFCNU5mYjRRVWQxMVFSdGhtRmtHQkV5Qnh3eDh1eWRlS3Iwa0g1TWRIOU5mZGw1bmNRUGk2NTY1dV9UUnNPQnN6Q3RwT21FMlRtY3czaHRpcEY5MDhjMUlpRl9vV1Rub0xTZVNkaklLQkUzVGxwR0VjcThvRkJwUUg4YURKSjE0UElHdC1OYzFkY0JINGN0WHYzb2tkZjVPS1N1NTZTNURxekdhMmp6djFWbXF2UkU0V3llVW1zUW12YmdoYnlSY3c4T0hta2NjYVRhUE0tQ3c3Ri11SnVTenVJeVBleXdtMDRfbWJmYjV5c1pGSng0bUlYalQ3V2o2RXlVVEp6YV9SYVRyWlhpb1FpLUVReHZXVnNJYTh2UnVRX3pla3BPZUtSZ2h0Y0hNZThiSUNUQ3pFVktmM3pWWGFnV0dvQjVJb1NieTJyNmVYNVV6cldkODBVLW5LOThIdm14ZEpFc1dVNlZnNUJydVFXWV9LWmdrZWdqTzFXREM0QXlCcFhqSktZRzhIVnIwRFhWZlFiSlFpZzJMbzNGbkVPdGViUnozdEs5REkzd3h5UA?oc=5",
+      "summary": "NVIDIA 不只是AI 晶片霸主：Vera Rubin 七晶片稱霸機架、$400 億生態投資飛輪，黃仁勳正在把NVIDIA 變成一家金融公司｜股市話題｜豐雲學堂2026 年 06 月 sinotrade.com.tw",
+      "publishedAt": "2026-06-16T10:23:57.000Z",
+      "timestamp": 1781605437000,
       "source": {
-        "id": "eu-ai-policy-news",
-        "name": "Google News: EU AI Policy",
-        "region": "EU",
+        "id": "google-news-taiwan-ai",
+        "name": "Google News: Taiwan AI",
+        "region": "Taiwan",
         "trust": "aggregator"
       },
       "categories": [
-        "policy-safety"
+        "ai-infra"
       ],
-      "score": 71
+      "score": 70
     },
     {
       "id": "ai-1b0vy6w",
@@ -966,7 +1329,7 @@
       "categories": [
         "media-generation"
       ],
-      "score": 71
+      "score": 70
     },
     {
       "id": "ai-t1p96",
@@ -985,7 +1348,7 @@
         "foundation-models",
         "agents"
       ],
-      "score": 89
+      "score": 88
     },
     {
       "id": "ai-1j69f05",
@@ -1003,7 +1366,7 @@
       "categories": [
         "capital-market"
       ],
-      "score": 81
+      "score": 80
     },
     {
       "id": "ai-1eomokh",
@@ -1021,7 +1384,26 @@
       "categories": [
         "applications"
       ],
-      "score": 63
+      "score": 62
+    },
+    {
+      "id": "ai-12sutv2",
+      "title": "Zscaler unveils tools to secure autonomous AI agents - SecurityBrief UK",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUE9UU1VLWWF3ZnlLamw5RHdsX2paX2xVWVpBR1p0R2VYdnRFYTBfSHQyaDNUcTJwbXl0dkxGY0VYNlp3TTFNWTc1U0xGb2dzcHh5TUFCMWpSdDZTajdpanZRNmZrdmEyZVJPVWQ2RDdDdjdEYW1UYXQ3OVlQS0pwT0NnVld2eG9pRmpDMm9Zbw?oc=5",
+      "summary": "Zscaler unveils tools to secure autonomous AI agents SecurityBrief UK",
+      "publishedAt": "2026-06-16T09:23:00.000Z",
+      "timestamp": 1781601780000,
+      "source": {
+        "id": "eu-ai-policy-news",
+        "name": "Google News: EU AI Policy",
+        "region": "EU",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "agents",
+        "policy-safety"
+      ],
+      "score": 78
     },
     {
       "id": "ai-1gvdxud",
@@ -1039,7 +1421,7 @@
       "categories": [
         "applications"
       ],
-      "score": 63
+      "score": 62
     },
     {
       "id": "ai-1tg5tmk",
@@ -1057,7 +1439,7 @@
       "categories": [
         "applications"
       ],
-      "score": 63
+      "score": 62
     },
     {
       "id": "ai-8jo02r",
@@ -1075,7 +1457,7 @@
       "categories": [
         "applications"
       ],
-      "score": 63
+      "score": 62
     },
     {
       "id": "ai-1ld4k1o",
@@ -1093,7 +1475,7 @@
       "categories": [
         "applications"
       ],
-      "score": 63
+      "score": 62
     },
     {
       "id": "ai-1t1ngwp",
@@ -1111,7 +1493,25 @@
       "categories": [
         "policy-safety"
       ],
-      "score": 71
+      "score": 70
+    },
+    {
+      "id": "ai-86zigp",
+      "title": "支撑人工智能等高质量发展 算力网开启万亿级投资周期 - 财联社",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAxSTVwRzRGb3NBUkpQOU1zNzEzOGpQZWpvd3hrUml3WHJKX29uQ1FrcW5uNWJ6UzFWZDVRUE9ycTJXYmpKR2FubQ?oc=5",
+      "summary": "支撑人工智能等高质量发展 算力网开启万亿级投资周期 财联社",
+      "publishedAt": "2026-06-16T09:02:24.000Z",
+      "timestamp": 1781600544000,
+      "source": {
+        "id": "google-news-china-ai",
+        "name": "Google News: China AI",
+        "region": "China",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 62
     },
     {
       "id": "ai-lyu8sr",
@@ -1129,7 +1529,26 @@
       "categories": [
         "applications"
       ],
-      "score": 63
+      "score": 62
+    },
+    {
+      "id": "ai-6x1pup",
+      "title": "Cequence backs behaviour-based zero trust for AI agents - SecurityBrief UK",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZ3B6UDMzUGxkMi1WYTFCN3BfRTg2ZXJwMUpWRkVUTk1Da3V1TGV6MXRBaXpaV0FieHF6R1hVX3NkaU51dGh1akZKZmdBS3JKX0kwMDNJOTJXZ2Nyek1wS0NTWDNkVUNFSkIxYk1SaUN0c3g0TW5YSTh5cU5IZmdDNFFNVTI1OHVJaW93MlRMbU5jUkk?oc=5",
+      "summary": "Cequence backs behaviour-based zero trust for AI agents SecurityBrief UK",
+      "publishedAt": "2026-06-16T08:51:00.000Z",
+      "timestamp": 1781599860000,
+      "source": {
+        "id": "eu-ai-policy-news",
+        "name": "Google News: EU AI Policy",
+        "region": "EU",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "agents",
+        "policy-safety"
+      ],
+      "score": 78
     },
     {
       "id": "ai-vmauyd",
@@ -1147,7 +1566,7 @@
       "categories": [
         "policy-safety"
       ],
-      "score": 71
+      "score": 70
     },
     {
       "id": "ai-1b2ixoq",
@@ -1165,7 +1584,7 @@
       "categories": [
         "policy-safety"
       ],
-      "score": 71
+      "score": 70
     },
     {
       "id": "ai-1l16b7j",
@@ -1183,7 +1602,25 @@
       "categories": [
         "applications"
       ],
-      "score": 63
+      "score": 62
+    },
+    {
+      "id": "ai-1k2ojvv",
+      "title": "討論牆 | OpenAI 的 Sora 收掉了！想做 AI 影片現在該用哪一個替代工具？ - LINE TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE84enhWdGJydFhPbUswMnF6U2ZuSHFsQzFnVzRpT2lldHRHRzk0RkJqYTBxaWVCS2VRQkdnbjNPcDhOSDViQUpoVERZVVdKeDhCbnhVcHNnVkFEUkFKc1JCd0lXUFA?oc=5",
+      "summary": "討論牆 | OpenAI 的 Sora 收掉了！想做 AI 影片現在該用哪一個替代工具？ LINE TODAY",
+      "publishedAt": "2026-06-16T07:55:58.000Z",
+      "timestamp": 1781596558000,
+      "source": {
+        "id": "google-news-taiwan-ai-media-generation",
+        "name": "Google News: Taiwan AI Image/Video Generation",
+        "region": "Taiwan",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "media-generation"
+      ],
+      "score": 70
     },
     {
       "id": "ai-mi3ay0",
@@ -1201,7 +1638,7 @@
       "categories": [
         "applications"
       ],
-      "score": 63
+      "score": 62
     },
     {
       "id": "ai-hc4hiq",
@@ -1220,7 +1657,7 @@
         "policy-safety",
         "applications"
       ],
-      "score": 79
+      "score": 78
     },
     {
       "id": "ai-rffmai",
@@ -1238,7 +1675,7 @@
       "categories": [
         "applications"
       ],
-      "score": 63
+      "score": 62
     },
     {
       "id": "ai-1030di9",
@@ -1256,7 +1693,7 @@
       "categories": [
         "media-generation"
       ],
-      "score": 71
+      "score": 70
     },
     {
       "id": "ai-120yxq9",
@@ -1274,7 +1711,7 @@
       "categories": [
         "media-generation"
       ],
-      "score": 70
+      "score": 69
     },
     {
       "id": "ai-f525tu",
@@ -1293,13 +1730,13 @@
         "agents",
         "capital-market"
       ],
-      "score": 78
+      "score": 77
     },
     {
-      "id": "ai-v7ubj0",
-      "title": "The VA and Artificifial Intelligence - Small Wars Journal",
+      "id": "ai-1pq7drr",
+      "title": "The VA and Artificial Intelligence - Small Wars Journal",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMGJsUThHLWl0d3J6bVlNTlJFd3F5SkZwUktXejRZYlh1ZkpxUlp6YmpNcVVoRkNUTFFVRkR1dVZ1U29GX0tlUEdjNXUxVTFSOWg4WVN1VkdVUlEwdWozcWttX3EtSGFPOS12ZFVIaHRtM3poSkdWRW5lTmNCX3JNQWpCSQ?oc=5",
-      "summary": "The VA and Artificifial Intelligence Small Wars Journal",
+      "summary": "The VA and Artificial Intelligence Small Wars Journal",
       "publishedAt": "2026-06-16T06:57:11.000Z",
       "timestamp": 1781593031000,
       "source": {
@@ -1311,7 +1748,25 @@
       "categories": [
         "applications"
       ],
-      "score": 62
+      "score": 61
+    },
+    {
+      "id": "ai-mb8okg",
+      "title": "台灣大攜手Visa 打造台灣首個AI代理商務消費場景 - UDN",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5PNmtvOXhOa0pPQnU2Q0pPdE1MZ0RFYTBacGQ1S3hNeGhuX2tjRW5VQ0RBVVVOVFJIWVl6Mm1QZ2Z5VVUtaE1xQ09tWk5odnFVSWNTaGZB0gFWQVVfeXFMTk82a285eE5rSk9CdTZDSk90TUxnREVhMFpwZDVLeE14aG5fa2NFblVDREFVVU5UUkhZWXoybVBnZnlVVS1oTXFDT21aTmh2cVVJY1NoZkE?oc=5",
+      "summary": "台灣大攜手Visa 打造台灣首個AI代理商務消費場景 UDN",
+      "publishedAt": "2026-06-16T06:56:08.000Z",
+      "timestamp": 1781592968000,
+      "source": {
+        "id": "google-news-taiwan-ai",
+        "name": "Google News: Taiwan AI",
+        "region": "Taiwan",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 61
     },
     {
       "id": "ai-1box6ls",
@@ -1329,7 +1784,25 @@
       "categories": [
         "applications"
       ],
-      "score": 62
+      "score": 61
+    },
+    {
+      "id": "ai-pldvm8",
+      "title": "投資雷達》台灣經濟奇蹟再現？AI 從股市題材變成經濟成長引擎 - news.cnyes.com",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFMnk2NWhOeUV4TXJVQ3hGTlZ2OGVFOHBHMHNZMWptYkN6UGZpNXI3MXdiUlM2T3RfaGlnSXdkWUIyNlhyaElPZC1Rb3ktMFU?oc=5",
+      "summary": "投資雷達》台灣經濟奇蹟再現？AI 從股市題材變成經濟成長引擎 news.cnyes.com",
+      "publishedAt": "2026-06-16T06:36:26.000Z",
+      "timestamp": 1781591786000,
+      "source": {
+        "id": "google-news-taiwan-ai",
+        "name": "Google News: Taiwan AI",
+        "region": "Taiwan",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 61
     },
     {
       "id": "ai-1wimek6",
@@ -1347,26 +1820,7 @@
       "categories": [
         "policy-safety"
       ],
-      "score": 80
-    },
-    {
-      "id": "ai-1hbqm47",
-      "title": "AI in Healthcare: Current and Future Applications in Diagnostics, Therapeutics, and Clinical Decision Making - EMJ",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNSHc4MkFxNUhyWU5oN0g2UDZSenYzVkdpMU0yN2F3V21sU3lBUnpyUEhtd000aktWZEtFeVBsYURpd3BPTmVaOEkzekdYOUQ5cE1xc19fcElia0NTdFQteDhVNENibEEtM2MySU9RYUJKdGhlWlpFZDBfSi1iOWs1cl9FWFRKUjk1RGc2bTZFc09XdnZuOWJiS1p6c3p4ZHU1aTBNdVM4V3ZIS2tWOUNMaFRkNFZnWTRid05WT2ttMHJuYmVhRmp5M2Y4cDNrVzZ2V2xHbV9FOGJhTUZlMVdQSU44Mm9fZDdDZXNQUHNZS08xdmN5YU14cA?oc=5",
-      "summary": "AI in Healthcare: Current and Future Applications in Diagnostics, Therapeutics, and Clinical Decision Making EMJ",
-      "publishedAt": "2026-06-16T06:28:57.000Z",
-      "timestamp": 1781591337000,
-      "source": {
-        "id": "eu-ai-policy-news",
-        "name": "Google News: EU AI Policy",
-        "region": "EU",
-        "trust": "aggregator"
-      },
-      "categories": [
-        "ai-science",
-        "policy-safety"
-      ],
-      "score": 78
+      "score": 79
     },
     {
       "id": "ai-178plre",
@@ -1384,7 +1838,7 @@
       "categories": [
         "media-generation"
       ],
-      "score": 70
+      "score": 69
     },
     {
       "id": "ai-1ykcwts",
@@ -1402,7 +1856,7 @@
       "categories": [
         "media-generation"
       ],
-      "score": 70
+      "score": 69
     },
     {
       "id": "ai-16atl5b",
@@ -1420,25 +1874,25 @@
       "categories": [
         "applications"
       ],
-      "score": 62
+      "score": 61
     },
     {
-      "id": "ai-poncqn",
-      "title": "IMDA, Microsoft team up to advancing AI safety and security - TNGlobal",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNb0VnbWFYRDVPNXhuOExqTi1Ld1FvZmtMYVM2ZHpwUlRFSUgwS2ttQ1pEOUx3R1ZCajRmSmZ2SkU4RVhJYllLZkpWR3drdGdER2ZEN1hUOURSNUF0M0lSbnhwTkdRODY1NXZGY2JQcTUydmV3QlRPODRPVVhHQjlsMU1TSURhRGJRakh4R1ZyU3NQRU9NbjVCcXVn?oc=5",
-      "summary": "IMDA, Microsoft team up to advancing AI safety and security TNGlobal",
-      "publishedAt": "2026-06-16T05:32:17.000Z",
-      "timestamp": 1781587937000,
+      "id": "ai-1c18ohi",
+      "title": "媒体关注丨上海举行基础教育论坛 ：AI时代学习如何进化？学生哪些能力容易退化？ - ecnu.edu.cn",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBiTXdlY21senRJaVBtWGdzQV94RlZMLTNhVHViU2M3U2RKQi1oVHdIbXgxWHItTmw4bG5ibG15Y0JWdndpbGRZWkJIMDk1RlZLU3pucjJB?oc=5",
+      "summary": "媒体关注丨上海举行基础教育论坛 ：AI时代学习如何进化？学生哪些能力容易退化？ ecnu.edu.cn",
+      "publishedAt": "2026-06-16T05:28:00.000Z",
+      "timestamp": 1781587680000,
       "source": {
-        "id": "eu-ai-policy-news",
-        "name": "Google News: EU AI Policy",
-        "region": "EU",
+        "id": "google-news-china-ai",
+        "name": "Google News: China AI",
+        "region": "China",
         "trust": "aggregator"
       },
       "categories": [
-        "policy-safety"
+        "applications"
       ],
-      "score": 80
+      "score": 61
     },
     {
       "id": "ai-ui5uik",
@@ -1456,7 +1910,7 @@
       "categories": [
         "applications"
       ],
-      "score": 62
+      "score": 61
     },
     {
       "id": "ai-1b51qqs",
@@ -1474,7 +1928,7 @@
       "categories": [
         "applications"
       ],
-      "score": 62
+      "score": 61
     },
     {
       "id": "ai-1enye3w",
@@ -1492,7 +1946,7 @@
       "categories": [
         "agents"
       ],
-      "score": 70
+      "score": 69
     },
     {
       "id": "ai-1sid68g",
@@ -1510,7 +1964,7 @@
       "categories": [
         "applications"
       ],
-      "score": 62
+      "score": 61
     },
     {
       "id": "ai-1j8h71a",
@@ -1529,7 +1983,7 @@
         "foundation-models",
         "ai-infra"
       ],
-      "score": 90
+      "score": 89
     },
     {
       "id": "ai-guhrn4",
@@ -1548,7 +2002,7 @@
         "agents",
         "applications"
       ],
-      "score": 90
+      "score": 89
     },
     {
       "id": "ai-1lv0svn",
@@ -1566,7 +2020,7 @@
       "categories": [
         "applications"
       ],
-      "score": 74
+      "score": 73
     },
     {
       "id": "ai-jgkasa",
@@ -1584,7 +2038,7 @@
       "categories": [
         "agents"
       ],
-      "score": 82
+      "score": 81
     },
     {
       "id": "ai-qjd6q9",
@@ -1604,7 +2058,7 @@
         "foundation-models",
         "ai-infra"
       ],
-      "score": 98
+      "score": 97
     },
     {
       "id": "ai-so7e3x",
@@ -1624,7 +2078,7 @@
         "foundation-models",
         "applications"
       ],
-      "score": 98
+      "score": 97
     },
     {
       "id": "ai-v6y50r",
@@ -1642,7 +2096,7 @@
       "categories": [
         "applications"
       ],
-      "score": 82
+      "score": 81
     },
     {
       "id": "ai-dpc354",
@@ -1661,7 +2115,7 @@
         "policy-safety",
         "foundation-models"
       ],
-      "score": 90
+      "score": 89
     },
     {
       "id": "ai-bljfcd",
@@ -1700,7 +2154,7 @@
         "foundation-models",
         "policy-safety"
       ],
-      "score": 90
+      "score": 89
     },
     {
       "id": "ai-1cg8qmq",
@@ -1739,7 +2193,7 @@
         "agents",
         "ai-infra"
       ],
-      "score": 90
+      "score": 89
     },
     {
       "id": "ai-1j31we7",
@@ -1757,7 +2211,7 @@
       "categories": [
         "foundation-models"
       ],
-      "score": 82
+      "score": 81
     },
     {
       "id": "ai-1sq4d3p",
@@ -1777,7 +2231,7 @@
         "policy-safety",
         "open-source"
       ],
-      "score": 98
+      "score": 97
     },
     {
       "id": "ai-1nqxmnj",
@@ -1796,7 +2250,7 @@
         "ai-infra",
         "policy-safety"
       ],
-      "score": 90
+      "score": 89
     },
     {
       "id": "ai-1qqc7p3",
@@ -1815,7 +2269,7 @@
         "foundation-models",
         "policy-safety"
       ],
-      "score": 90
+      "score": 89
     },
     {
       "id": "ai-1dlvw1o",
@@ -1833,7 +2287,7 @@
       "categories": [
         "ai-infra"
       ],
-      "score": 82
+      "score": 81
     },
     {
       "id": "ai-ocm2nt",
@@ -1853,7 +2307,7 @@
         "agents",
         "applications"
       ],
-      "score": 98
+      "score": 97
     },
     {
       "id": "ai-1i8ffdl",
@@ -1873,7 +2327,7 @@
         "applications",
         "policy-safety"
       ],
-      "score": 98
+      "score": 97
     },
     {
       "id": "ai-3x99v",
@@ -1891,7 +2345,7 @@
       "categories": [
         "applications"
       ],
-      "score": 74
+      "score": 73
     },
     {
       "id": "ai-1ovwaxy",
@@ -1910,7 +2364,7 @@
         "agents",
         "capital-market"
       ],
-      "score": 90
+      "score": 89
     },
     {
       "id": "ai-bglkbf",
@@ -1930,7 +2384,7 @@
         "policy-safety",
         "open-source"
       ],
-      "score": 98
+      "score": 97
     },
     {
       "id": "ai-1wmvw10",
@@ -1949,7 +2403,7 @@
         "foundation-models",
         "ai-infra"
       ],
-      "score": 90
+      "score": 89
     },
     {
       "id": "ai-1h4mulb",
@@ -1968,7 +2422,7 @@
         "foundation-models",
         "ai-infra"
       ],
-      "score": 90
+      "score": 89
     },
     {
       "id": "ai-1sivh4m",
@@ -1987,7 +2441,7 @@
         "agents",
         "applications"
       ],
-      "score": 90
+      "score": 89
     },
     {
       "id": "ai-3ytf6c",
@@ -2007,7 +2461,7 @@
         "ai-infra",
         "applications"
       ],
-      "score": 98
+      "score": 97
     },
     {
       "id": "ai-oy4cb7",
@@ -2045,7 +2499,7 @@
       "categories": [
         "foundation-models"
       ],
-      "score": 82
+      "score": 81
     },
     {
       "id": "ai-1a98e0j",
@@ -2065,7 +2519,7 @@
         "policy-safety",
         "capital-market"
       ],
-      "score": 98
+      "score": 97
     },
     {
       "id": "ai-1rh3yh6",
@@ -2084,7 +2538,7 @@
         "applications",
         "agents"
       ],
-      "score": 90
+      "score": 89
     },
     {
       "id": "ai-1vc8j9w",
@@ -2102,7 +2556,7 @@
       "categories": [
         "applications"
       ],
-      "score": 74
+      "score": 73
     },
     {
       "id": "ai-14qxg6o",
@@ -2122,7 +2576,7 @@
         "foundation-models",
         "ai-science"
       ],
-      "score": 98
+      "score": 97
     },
     {
       "id": "ai-1ttlyim",
@@ -2141,7 +2595,7 @@
         "foundation-models",
         "policy-safety"
       ],
-      "score": 90
+      "score": 89
     },
     {
       "id": "ai-26pnbi",
@@ -2179,7 +2633,7 @@
       "categories": [
         "policy-safety"
       ],
-      "score": 82
+      "score": 81
     },
     {
       "id": "ai-4t8ann",
@@ -2198,7 +2652,7 @@
         "agents",
         "capital-market"
       ],
-      "score": 90
+      "score": 89
     },
     {
       "id": "ai-13aa5iv",
@@ -2216,7 +2670,7 @@
       "categories": [
         "ai-infra"
       ],
-      "score": 82
+      "score": 81
     },
     {
       "id": "ai-6a75yw",
@@ -2236,7 +2690,7 @@
         "ai-infra",
         "applications"
       ],
-      "score": 98
+      "score": 97
     },
     {
       "id": "ai-ysiuxi",
@@ -2256,7 +2710,7 @@
         "foundation-models",
         "policy-safety"
       ],
-      "score": 98
+      "score": 97
     },
     {
       "id": "ai-1ww3e3",
@@ -2276,7 +2730,7 @@
         "ai-infra",
         "policy-safety"
       ],
-      "score": 98
+      "score": 97
     },
     {
       "id": "ai-1kf2h4n",
@@ -2295,7 +2749,7 @@
         "foundation-models",
         "ai-infra"
       ],
-      "score": 90
+      "score": 89
     },
     {
       "id": "ai-1wsmnss",
@@ -2313,7 +2767,7 @@
       "categories": [
         "foundation-models"
       ],
-      "score": 82
+      "score": 81
     },
     {
       "id": "ai-1fxp3sz",
@@ -2352,7 +2806,7 @@
         "policy-safety",
         "applications"
       ],
-      "score": 100
+      "score": 99
     },
     {
       "id": "ai-lbivi",
@@ -2372,7 +2826,7 @@
         "foundation-models",
         "policy-safety"
       ],
-      "score": 98
+      "score": 97
     },
     {
       "id": "ai-1sdacwk",
@@ -2432,7 +2886,7 @@
         "policy-safety",
         "open-source"
       ],
-      "score": 98
+      "score": 97
     },
     {
       "id": "ai-1m7txzr",
@@ -2450,7 +2904,7 @@
       "categories": [
         "foundation-models"
       ],
-      "score": 82
+      "score": 81
     },
     {
       "id": "ai-dh7u1a",
@@ -2469,7 +2923,7 @@
         "policy-safety",
         "capital-market"
       ],
-      "score": 90
+      "score": 89
     },
     {
       "id": "ai-148fzk7",
@@ -2487,7 +2941,7 @@
       "categories": [
         "capital-market"
       ],
-      "score": 82
+      "score": 81
     },
     {
       "id": "ai-1bv80au",
@@ -2505,7 +2959,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 82
+      "score": 81
     },
     {
       "id": "ai-1xbabg5",
@@ -2525,7 +2979,7 @@
         "foundation-models",
         "open-source"
       ],
-      "score": 98
+      "score": 97
     },
     {
       "id": "ai-1wcohar",
@@ -2545,7 +2999,7 @@
         "ai-infra",
         "policy-safety"
       ],
-      "score": 98
+      "score": 97
     },
     {
       "id": "ai-13belur",
@@ -2563,7 +3017,7 @@
       "categories": [
         "agents"
       ],
-      "score": 82
+      "score": 81
     },
     {
       "id": "ai-f8nqjz",
@@ -2583,7 +3037,7 @@
         "ai-infra",
         "policy-safety"
       ],
-      "score": 98
+      "score": 97
     },
     {
       "id": "ai-i6729u",
@@ -2601,7 +3055,7 @@
       "categories": [
         "applications"
       ],
-      "score": 74
+      "score": 73
     },
     {
       "id": "ai-i5it00",
@@ -2619,7 +3073,7 @@
       "categories": [
         "agents"
       ],
-      "score": 82
+      "score": 81
     },
     {
       "id": "ai-ef2mer",
@@ -2637,7 +3091,7 @@
       "categories": [
         "foundation-models"
       ],
-      "score": 82
+      "score": 81
     },
     {
       "id": "ai-1w4qqw1",
@@ -2675,7 +3129,7 @@
       "categories": [
         "foundation-models"
       ],
-      "score": 82
+      "score": 81
     },
     {
       "id": "ai-1nlxwqj",
@@ -2694,7 +3148,7 @@
         "foundation-models",
         "agents"
       ],
-      "score": 90
+      "score": 89
     },
     {
       "id": "ai-rq3eco",
@@ -2734,7 +3188,7 @@
         "agents",
         "policy-safety"
       ],
-      "score": 98
+      "score": 97
     },
     {
       "id": "ai-1ihxpce",
@@ -2754,7 +3208,7 @@
         "applications",
         "policy-safety"
       ],
-      "score": 98
+      "score": 97
     },
     {
       "id": "ai-bzpl30",
@@ -2772,7 +3226,7 @@
       "categories": [
         "applications"
       ],
-      "score": 74
+      "score": 73
     },
     {
       "id": "ai-129dsas",
@@ -2792,7 +3246,7 @@
         "robotics",
         "policy-safety"
       ],
-      "score": 98
+      "score": 97
     },
     {
       "id": "ai-lkf99x",
@@ -2810,7 +3264,7 @@
       "categories": [
         "applications"
       ],
-      "score": 74
+      "score": 73
     },
     {
       "id": "ai-mede9h",
@@ -2829,7 +3283,7 @@
         "policy-safety",
         "capital-market"
       ],
-      "score": 90
+      "score": 89
     },
     {
       "id": "ai-1mkd9cw",
@@ -2848,7 +3302,7 @@
         "foundation-models",
         "ai-infra"
       ],
-      "score": 90
+      "score": 89
     },
     {
       "id": "ai-11xu6b7",
@@ -2866,7 +3320,7 @@
       "categories": [
         "applications"
       ],
-      "score": 74
+      "score": 73
     },
     {
       "id": "ai-1gmfud9",
@@ -2884,7 +3338,7 @@
       "categories": [
         "foundation-models"
       ],
-      "score": 82
+      "score": 81
     },
     {
       "id": "ai-wjht9",
@@ -2904,7 +3358,7 @@
         "ai-infra",
         "ai-science"
       ],
-      "score": 98
+      "score": 97
     },
     {
       "id": "ai-sek8a4",
@@ -2922,7 +3376,7 @@
       "categories": [
         "foundation-models"
       ],
-      "score": 82
+      "score": 81
     },
     {
       "id": "ai-uzayou",
@@ -2940,7 +3394,7 @@
       "categories": [
         "ai-infra"
       ],
-      "score": 82
+      "score": 81
     },
     {
       "id": "ai-1me8oll",
@@ -2960,7 +3414,7 @@
         "policy-safety",
         "capital-market"
       ],
-      "score": 98
+      "score": 97
     },
     {
       "id": "ai-1gf6khp",
@@ -2980,7 +3434,7 @@
         "policy-safety",
         "open-source"
       ],
-      "score": 98
+      "score": 97
     },
     {
       "id": "ai-1ftbicq",
@@ -3000,7 +3454,7 @@
         "policy-safety",
         "open-source"
       ],
-      "score": 98
+      "score": 97
     },
     {
       "id": "ai-tpsz42",
@@ -3018,7 +3472,7 @@
       "categories": [
         "policy-safety"
       ],
-      "score": 82
+      "score": 81
     },
     {
       "id": "ai-qf8roh",
@@ -3037,7 +3491,7 @@
         "foundation-models",
         "ai-infra"
       ],
-      "score": 90
+      "score": 89
     },
     {
       "id": "ai-1ppim3r",
@@ -3056,7 +3510,7 @@
         "foundation-models",
         "policy-safety"
       ],
-      "score": 100
+      "score": 99
     },
     {
       "id": "ai-vw0z9l",
@@ -3076,7 +3530,7 @@
         "foundation-models",
         "policy-safety"
       ],
-      "score": 98
+      "score": 97
     },
     {
       "id": "ai-v8lq1v",
@@ -3094,477 +3548,7 @@
       "categories": [
         "agents"
       ],
-      "score": 82
-    },
-    {
-      "id": "ai-329vsl",
-      "title": "AdaSTORM: Scaling LLM Reasoning on Dynamic Graphs via Adaptive Spatio-Temporal Multi-Agent Collaboration",
-      "url": "https://arxiv.org/abs/2606.16328",
-      "summary": "arXiv:2606.16328v1 Announce Type: new Abstract: Large Language Models (LLMs) demonstrate remarkable potential in dynamic graph reasoning, but suffer from a scaling bottleneck: current models can only handle graphs with tens of nodes, constrained by exponential reasoning overhead and finite context windows. While multi-agent systems (MAS) offer collective reasoning and topology-aware orchestration, capabilities natura",
-      "publishedAt": "2026-06-16T04:00:00.000Z",
-      "timestamp": 1781582400000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "agents",
-        "foundation-models"
-      ],
-      "score": 90
-    },
-    {
-      "id": "ai-vstmyw",
-      "title": "Exploiting Search in Symbolic Numeric Planning with Patterns",
-      "url": "https://arxiv.org/abs/2606.16329",
-      "summary": "arXiv:2606.16329v1 Announce Type: new Abstract: In this paper, we present a procedure for numeric planning based on Symbolic Pattern Planning (SPP). Given a numeric planning problem $\\Pi$, a pattern $\\prec$ is a sequence of actions used to define a formula encoding the subsequences of $\\prec$ executable from a starting state $S$. Cardellini, Giunchiglia, and Maratea (2024a) follow the Planning as Satisfiability appro",
-      "publishedAt": "2026-06-16T04:00:00.000Z",
-      "timestamp": 1781582400000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "agents",
-        "applications"
-      ],
-      "score": 90
-    },
-    {
-      "id": "ai-1yzqiko",
-      "title": "Phase-Aware Guidance Injection for Recurrent MAPPO in Assembly-Line Disruption Recovery",
-      "url": "https://arxiv.org/abs/2606.16330",
-      "summary": "arXiv:2606.16330v1 Announce Type: new Abstract: Disruption recovery in industrial assembly lines requires timely decisions under machine faults, worker absence, and emergency orders. Existing methods either rely on rigid handcrafted recovery logic or learn adaptive policies that do not readily exploit heterogeneous external recovery knowledge at decision time to reduce abnormal recovery time (ART) and preserve on-tim",
-      "publishedAt": "2026-06-16T04:00:00.000Z",
-      "timestamp": 1781582400000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "applications"
-      ],
-      "score": 74
-    },
-    {
-      "id": "ai-houftu",
-      "title": "Medical Heuristic Learning: An LLM-Driven Framework for Interpretable and Auditable Clinical Decision Rules",
-      "url": "https://arxiv.org/abs/2606.16337",
-      "summary": "arXiv:2606.16337v1 Announce Type: new Abstract: Predictive modeling for clinical tabular data is central to clinical decision support and therefore requires not only strong predictive performance but also transparent decision logic. Although deep learning and tree-based ensemble methods can achieve high accuracy, their black-box nature remains a major obstacle to clinical deployment. This challenge is further compoun",
-      "publishedAt": "2026-06-16T04:00:00.000Z",
-      "timestamp": 1781582400000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "foundation-models"
-      ],
-      "score": 82
-    },
-    {
-      "id": "ai-1ib0lfu",
-      "title": "Whose hotel does the AI recommend? An algorithm audit of reputation signals in LLM-assisted hotel selection",
-      "url": "https://arxiv.org/abs/2606.16344",
-      "summary": "arXiv:2606.16344v1 Announce Type: new Abstract: Travelers increasingly ask large language model (LLM) assistants which hotel to book, making these systems gatekeepers of property visibility -- yet what moves their recommendations is undocumented. We conduct a pre-specified algorithm audit using a randomized choice-based conjoint: across personas, prompt templates, and twelve open-weight and proprietary models, assist",
-      "publishedAt": "2026-06-16T04:00:00.000Z",
-      "timestamp": 1781582400000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "foundation-models",
-        "applications"
-      ],
-      "score": 90
-    },
-    {
-      "id": "ai-1hsum42",
-      "title": "Looking Is Not Picking: An Attention-Segment Account of Tool-Selection Failures in LLM Agents",
-      "url": "https://arxiv.org/abs/2606.16364",
-      "summary": "arXiv:2606.16364v1 Announce Type: new Abstract: LLM agents mis-call tools, and the natural guess is that the model failed to see the right tool in a crowded harness. We show the opposite through a lens concurrent work sets aside -- the model's attention to labeled tool-definition segments. On real BFCL failures, by per-candidate attention argmax the model attends most to the correct tool 80% of the time (vs. 21% chan",
-      "publishedAt": "2026-06-16T04:00:00.000Z",
-      "timestamp": 1781582400000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "agents",
-        "foundation-models"
-      ],
-      "score": 90
-    },
-    {
-      "id": "ai-4i5xnf",
-      "title": "Posterior Twins: Distributional Behavioral Simulation for Enterprise Decisions",
-      "url": "https://arxiv.org/abs/2606.16415",
-      "summary": "arXiv:2606.16415v1 Announce Type: new Abstract: Enterprise behavioral simulation requires more than producing a plausible response. Many decisions depend on the shape of a population under a proposed action: which segments accept, defect, hesitate, or move into risk-sensitive states. This paper introduces Posterior Twins, a memory-grounded digital-twin approach that represents likely behavior as an updated distributi",
-      "publishedAt": "2026-06-16T04:00:00.000Z",
-      "timestamp": 1781582400000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "policy-safety"
-      ],
-      "score": 82
-    },
-    {
-      "id": "ai-1vadg14",
-      "title": "When Agent Automation Becomes Profitable: Quantifying and Insuring Autonomous AI Risk through Trace-Economic Underwriting",
-      "url": "https://arxiv.org/abs/2606.16465",
-      "summary": "arXiv:2606.16465v1 Announce Type: new Abstract: AI agents can now take irreversible actions in operational systems, but agent-caused losses are still not clearly assigned, priced, or transferred. Providers often disclaim consequential damages, users are left with uncompensated losses, and default human review limits the efficiency gains of automation. We ask when autonomous AI deployment can become economically accep",
-      "publishedAt": "2026-06-16T04:00:00.000Z",
-      "timestamp": 1781582400000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "agents",
-        "applications",
-        "policy-safety"
-      ],
-      "score": 98
-    },
-    {
-      "id": "ai-1wxzoa1",
-      "title": "Tensor-Coord: Algebraic Decomposition of Joint Plan Tensors for Conflict-Free Multi-Agent LLM Planning",
-      "url": "https://arxiv.org/abs/2606.16478",
-      "summary": "arXiv:2606.16478v1 Announce Type: new Abstract: Large language models (LLMs) remain limited in multi-agent planning because independently generated plans can create coordination failures such as spatial collisions, resource contention, and temporal deadlocks. We introduce Tensor-Coord, a multilinear algebra framework that represents the joint plan of N agents as a third-order tensor \\(T \\in R^{N \\times H \\times A}\\) ",
-      "publishedAt": "2026-06-16T04:00:00.000Z",
-      "timestamp": 1781582400000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "agents",
-        "foundation-models"
-      ],
-      "score": 90
-    },
-    {
-      "id": "ai-tdq362",
-      "title": "Steering Emotional Dynamics for Art Therapy: Controllable Narrative Script Generation through Hierarchically Guided LLM Agents",
-      "url": "https://arxiv.org/abs/2606.16481",
-      "summary": "arXiv:2606.16481v1 Announce Type: new Abstract: Art therapy plays a vital role in emotional healing, in which narrative creation acts as the primary vehicle for emotional expression. Given the inherently dynamic nature of emotions during healing, narratives with finely controlled emotional fluctuations enable individuals to safely project inner conflicts and achieve emotional catharsis. Recently, with the rapid devel",
-      "publishedAt": "2026-06-16T04:00:00.000Z",
-      "timestamp": 1781582400000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "agents",
-        "foundation-models"
-      ],
-      "score": 90
-    },
-    {
-      "id": "ai-examkl",
-      "title": "Post-Hoc Merging is Not Enough: Many-Shot Model Merging with Loss-Gap Balancing",
-      "url": "https://arxiv.org/abs/2606.16501",
-      "summary": "arXiv:2606.16501v1 Announce Type: new Abstract: Model merging has become a practical post-training strategy for building a single multi-task large language model (LLM) by combining multiple task-specialized models. However, most existing approaches rely on post-hoc merging, in which task-specific models are merged only once after training. This one-shot aggregation often suffers from task interference, leading to inf",
-      "publishedAt": "2026-06-16T04:00:00.000Z",
-      "timestamp": 1781582400000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "foundation-models"
-      ],
-      "score": 82
-    },
-    {
-      "id": "ai-sq74tw",
-      "title": "Model Graph Inductive Learning for Knowledge Graph Completion",
-      "url": "https://arxiv.org/abs/2606.16509",
-      "summary": "arXiv:2606.16509v1 Announce Type: new Abstract: Link prediction in knowledge graphs fundamentally depends on the quality of learned embeddings for entities and relations. However, most existing methods derive these embeddings by aggregating only the local neighborhood of each entity, neglecting the global structure of the knowledge graph. This limited view prevents models from capturing higher-level structural patter",
-      "publishedAt": "2026-06-16T04:00:00.000Z",
-      "timestamp": 1781582400000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "applications"
-      ],
-      "score": 74
-    },
-    {
-      "id": "ai-2rhjs",
-      "title": "Kairos: A Native World Model Stack for Physical AI",
-      "url": "https://arxiv.org/abs/2606.16533",
-      "summary": "arXiv:2606.16533v1 Announce Type: new Abstract: World models are transitioning from passive visual generators to foundational, operational infrastructure for Physical AI: they must natively acquire world knowledge from heterogeneous experience, maintain persistent states over long horizons, and execute efficiently within real deployment constraints. We introduce Kairos, a native world model stack designed around thes",
-      "publishedAt": "2026-06-16T04:00:00.000Z",
-      "timestamp": 1781582400000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "robotics"
-      ],
-      "score": 82
-    },
-    {
-      "id": "ai-1cdzjtu",
-      "title": "The Faithfulness Gap: Certifying Semantic Equivalence Between Natural-Language and Formal Mathematical Statements",
-      "url": "https://arxiv.org/abs/2606.16541",
-      "summary": "arXiv:2606.16541v1 Announce Type: new Abstract: Autoformalization, translating natural-language mathematics into formal proof assistants, is bottlenecked not by translation fluency but by \\emph{faithfulness}: a formal statement can typecheck and be provable, yet still encode a different theorem than the source intended. We introduce \\emph{Bidirectional Provability Fingerprinting} (\\bpf{}), a framework that certifies ",
-      "publishedAt": "2026-06-16T04:00:00.000Z",
-      "timestamp": 1781582400000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "applications"
-      ],
-      "score": 82
-    },
-    {
-      "id": "ai-u07lkj",
-      "title": "ROSA-RL: Uncertainty-Aware Roundabout Optimized Speed Advisory with Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2606.16558",
-      "summary": "arXiv:2606.16558v1 Announce Type: new Abstract: Roundabouts challenge automated driving in mixed traffic, as heterogeneous and non-deterministic human behavior, unknown driving intentions, and high interaction complexity create uncertainty about whether the conflict zone will be blocked or available at the moment of entry. We present ROSA-RL -- uncertainty-aware Roundabout Optimized Speed Advisory with Reinforcement ",
-      "publishedAt": "2026-06-16T04:00:00.000Z",
-      "timestamp": 1781582400000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "applications"
-      ],
-      "score": 74
-    },
-    {
-      "id": "ai-yxhbt1",
-      "title": "TNODEV: Toolbox for Neural ODE Verification",
-      "url": "https://arxiv.org/abs/2606.16567",
-      "summary": "arXiv:2606.16567v1 Announce Type: new Abstract: Neural ordinary differential equations (neural ODE) have started to appear in safety critical settings such as continuous-time controllers for cyber-physical systems and classifiers integrated into automated decision pipelines, raising the question of whether their behavior can be formally verified. Existing tools dedicated to neural ODE provide only a single reachabili",
-      "publishedAt": "2026-06-16T04:00:00.000Z",
-      "timestamp": 1781582400000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "policy-safety"
-      ],
-      "score": 92
-    },
-    {
-      "id": "ai-12edill",
-      "title": "ARB4WM: An Adversarial Robustness Benchmark for World Models in Continuous Control",
-      "url": "https://arxiv.org/abs/2606.16605",
-      "summary": "arXiv:2606.16605v1 Announce Type: new Abstract: World models are widely used in robotic and agentic engineering control systems due to their ability to learn latent dynamics for planning and decision-making. As these systems are increasingly deployed in safety-critical settings, understanding their robustness under adversarial conditions has become essential. However, existing evaluations lack a unified benchmark for",
-      "publishedAt": "2026-06-16T04:00:00.000Z",
-      "timestamp": 1781582400000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "policy-safety",
-        "agents",
-        "robotics"
-      ],
-      "score": 100
-    },
-    {
-      "id": "ai-uqyfqg",
-      "title": "CoffeeBench: Benchmarking Long-Horizon LLM Agents in Heterogeneous Multi-Agent Economies",
-      "url": "https://arxiv.org/abs/2606.16613",
-      "summary": "arXiv:2606.16613v1 Announce Type: new Abstract: As LLM agents become capable of increasingly long-horizon tasks, evaluating their performance in economic systems is becoming increasingly important. Unlike existing benchmarks that primarily evaluate a single agent interacting with a passive environment, economic systems are inherently multi-agent, requiring autonomous agents to communicate, negotiate, and transact whi",
-      "publishedAt": "2026-06-16T04:00:00.000Z",
-      "timestamp": 1781582400000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "agents",
-        "policy-safety",
-        "foundation-models"
-      ],
-      "score": 98
-    },
-    {
-      "id": "ai-1xmtz9q",
-      "title": "MR-GVNO: A Geometry-Aware Variational Physics-Informed Neural Operator for Mindlin-Reissner Plates on Irregular Domains",
-      "url": "https://arxiv.org/abs/2606.16624",
-      "summary": "arXiv:2606.16624v1 Announce Type: new Abstract: Plate and shell structures are widely used in engineering, making rapid response prediction under varying geometries, materials, and loads highly desirable. However, conventional finite element methods require repeated modeling and solution, resulting in high computational costs. This study proposes a geometry-aware variational neural operator for Mindlin-Reissner plate",
-      "publishedAt": "2026-06-16T04:00:00.000Z",
-      "timestamp": 1781582400000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "ai-science"
-      ],
-      "score": 82
-    },
-    {
-      "id": "ai-1epb16v",
-      "title": "The Integrator Advantage: Controlled Agentic AI for Small and Medium-Sized Companies",
-      "url": "https://arxiv.org/abs/2606.16649",
-      "summary": "arXiv:2606.16649v1 Announce Type: new Abstract: Agentic AI marks a new phase of enterprise automation. Unlike traditional automation or conversational AI, agentic systems can interpret goals, plan multi step tasks, access tools, interact with enterprise systems, and execute workflows with varying degrees of autonomy. For small and medium sized companies, this creates potential to reduce administrative burden, acceler",
-      "publishedAt": "2026-06-16T04:00:00.000Z",
-      "timestamp": 1781582400000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "agents",
-        "applications"
-      ],
-      "score": 90
-    },
-    {
-      "id": "ai-1e2ppzl",
-      "title": "From Affect Prediction to Affect Forecasting: Evidence for Distinct Information Sources in Longitudinal Text",
-      "url": "https://arxiv.org/abs/2606.16687",
-      "summary": "arXiv:2606.16687v1 Announce Type: new Abstract: Modeling dimensional affect in longitudinal text requires distinguishing current affect estimation from future affective change forecasting. Existing approaches often treat each text as an independent observation and apply similar assumptions to both tasks, without testing whether they rely on different information sources. This paper investigates that distinction using",
-      "publishedAt": "2026-06-16T04:00:00.000Z",
-      "timestamp": 1781582400000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "applications"
-      ],
-      "score": 74
-    },
-    {
-      "id": "ai-14mygq5",
-      "title": "User as Code: Executable Memory for Personalized Agents",
-      "url": "https://arxiv.org/abs/2606.16707",
-      "summary": "arXiv:2606.16707v1 Announce Type: new Abstract: A personalized AI agent needs a user memory: a persistent model of who the user is, built across many conversations and consulted on each new one. Today this memory is almost always stored as unstructured text, a knowledge graph, or a flat store of facts, and consulted by retrieval -- fetching the entries most similar to the current request. Such \"bag-of-facts\" memory r",
-      "publishedAt": "2026-06-16T04:00:00.000Z",
-      "timestamp": 1781582400000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "agents",
-        "ai-infra",
-        "policy-safety"
-      ],
-      "score": 98
-    },
-    {
-      "id": "ai-js6s82",
-      "title": "Medical world models: representing medical states, modelling clinical dynamics and guiding intervention policies",
-      "url": "https://arxiv.org/abs/2606.16721",
-      "summary": "arXiv:2606.16721v1 Announce Type: new Abstract: Medical diagnosis and treatment are dynamic processes in which patient states evolve over time and clinical interventions alter future outcomes. Although current medical AI can detect disease, estimate risk and generate reports, many systems still return static labels or scores, offering limited insight into how illness may progress or how alternative interventions may ",
-      "publishedAt": "2026-06-16T04:00:00.000Z",
-      "timestamp": 1781582400000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "robotics",
-        "ai-science",
-        "policy-safety"
-      ],
-      "score": 98
-    },
-    {
-      "id": "ai-nnpil7",
-      "title": "AgentFairBench: Do LLM Agents Discriminate When They Act?",
-      "url": "https://arxiv.org/abs/2606.16723",
-      "summary": "arXiv:2606.16723v1 Announce Type: new Abstract: Large language model (LLM) agents increasingly take actions (screening applicants, recommending credit, triaging patients), yet fairness for LLMs is still measured by grading answers. We introduce AgentFairBench, a cheap, reproducible, multi-domain benchmark for demographic disparity in the actions of LLM agents. Grounded in a companion framework, the Bias Conduction Fr",
-      "publishedAt": "2026-06-16T04:00:00.000Z",
-      "timestamp": 1781582400000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "foundation-models",
-        "agents",
-        "policy-safety"
-      ],
-      "score": 100
-    },
-    {
-      "id": "ai-hsv5un",
-      "title": "A First-Principles Derivation of LLM Policy Optimization: From Expected Reward to GRPO and Its Structural Extensions",
-      "url": "https://arxiv.org/abs/2606.16733",
-      "summary": "arXiv:2606.16733v1 Announce Type: new Abstract: Policy gradient algorithms for language models optimize the same objective $J(\\theta) = \\mathbb{E}*{\\tau \\sim p*\\theta(\\tau)}[R(\\tau)]$, which has exactly two factors: the trajectory probability $p_\\theta(\\tau)$ and the reward $R(\\tau)$. Every method from REINFORCE to PPO to GRPO and their descendants modifies one or both factors to address a specific failure in the pre",
-      "publishedAt": "2026-06-16T04:00:00.000Z",
-      "timestamp": 1781582400000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "foundation-models",
-        "policy-safety"
-      ],
-      "score": 90
+      "score": 81
     }
   ],
   "errors": [
