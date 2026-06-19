@@ -3,7 +3,7 @@ name: Update AI Radar
 on:
   workflow_dispatch:
   schedule:
-    - cron: "20 0,6,12,18 * * *"
+    - cron: "20 0,12 * * *"
 
 permissions:
   contents: write
