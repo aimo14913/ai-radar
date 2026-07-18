@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T03:36:11.712Z",
+  "generatedAt": "2026-07-18T13:52:53.808Z",
   "windowDays": 21,
   "totalItems": 180,
   "sourceCount": 28,
@@ -208,12 +208,30 @@
   ],
   "items": [
     {
-      "id": "ai-e93gx",
-      "title": "哈工大共同承办2026世界人工智能大会自主智能无人系统前沿与应用论坛 - 哈尔滨工业大学",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9nZ296SmdTdzJzSlM1MXVtUDNVU2tqTlNFZ3VmUVpOQTZaQ3k5SE9Hd0RhdTVmeEF4X2QzalN3UlVoNGxnZFlpeThwc3duZzlsZGJiTWFSYVpkOEZzdFRRNzl1VUo?oc=5",
-      "summary": "哈工大共同承办2026世界人工智能大会自主智能无人系统前沿与应用论坛 哈尔滨工业大学",
-      "publishedAt": "2026-07-18T03:25:27.000Z",
-      "timestamp": 1784345127000,
+      "id": "ai-5fxnsk",
+      "title": "AI大會兩岸論壇 業界盼深化產業合作 | 中華日報 - LINE TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBRGVndW5QbV9pZS1ta1J4TWNxSGg1VmdHeTNZV1o3ZW1fQVNtTDI1a25aa1V3WVh2T2lDeGF1Z1FwN3E1NWF2by1BVm10dUYzR3l5Ympn?oc=5",
+      "summary": "AI大會兩岸論壇 業界盼深化產業合作 | 中華日報 LINE TODAY",
+      "publishedAt": "2026-07-18T13:41:15.000Z",
+      "timestamp": 1784382075000,
+      "source": {
+        "id": "google-news-taiwan-ai",
+        "name": "Google News: Taiwan AI",
+        "region": "Taiwan",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 65
+    },
+    {
+      "id": "ai-19kcim7",
+      "title": "追光丨AI，悄然焕新世界杯赛场内外 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZEUyNWN0VzFTUDZvUFM3REJpN3NWZ2x4VXYxMXZDMWRrOE9wUnQxc1lFQVBBX3hGeHc2V05rX09hdTJ5bE9JWHZaVFozcG5JYmc1NDJLNWJxMDM5dXV6ekJzY3lSTkVYd0ItVklab3FrOVB0QmU4eFNzbU8zWTQxLQ?oc=5",
+      "summary": "追光丨AI，悄然焕新世界杯赛场内外 新华网",
+      "publishedAt": "2026-07-18T12:47:08.000Z",
+      "timestamp": 1784378828000,
       "source": {
         "id": "google-news-china-ai",
         "name": "Google News: China AI",
@@ -224,6 +242,601 @@
         "applications"
       ],
       "score": 65
+    },
+    {
+      "id": "ai-8so17w",
+      "title": "2026人工智能大會 中國國產超節點、大模型受矚目",
+      "url": "https://www.cna.com.tw/news/acn/202607180200.aspx",
+      "summary": "（中央社記者廖文綺上海18日電）2026人工智能大會在上海舉行，本屆亮點包括華為「昇騰950超節點」真機首次公開亮相、月之暗面發布全球最大開源模型Kimi K3、宇樹科技展出載人變形機甲GD01等。",
+      "publishedAt": "2026-07-18T12:37:32.000Z",
+      "timestamp": 1784378252000,
+      "source": {
+        "id": "cna-tech",
+        "name": "中央社科技",
+        "region": "Taiwan",
+        "trust": "media"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 65
+    },
+    {
+      "id": "ai-1b8bz1w",
+      "title": "透过展品看趋势，世界人工智能大会传递了哪些新信号？ - 四川新闻",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBGSjByT2E5bmNBbUZOTUZ4NTZkeUxFd0RzUF96SjMyazJ0Yk0yOV9oaW5KZ2w1Y1pKREd3MmZpa3dnM183aW0wdWNGVExFdWpORVRZbEZCOFJ5eV9WdTJHcDFFbw?oc=5",
+      "summary": "透过展品看趋势，世界人工智能大会传递了哪些新信号？ 四川新闻",
+      "publishedAt": "2026-07-18T11:47:53.000Z",
+      "timestamp": 1784375273000,
+      "source": {
+        "id": "google-news-china-ai",
+        "name": "Google News: China AI",
+        "region": "China",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 64
+    },
+    {
+      "id": "ai-1ty8xwu",
+      "title": "AI、機器人手術改變眼科醫療 眼科醫：AI讓人工水晶體設計更精準 - 民報",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LRjA2cUFxdlJBN1VfS2JleTU5N0lnU1o4alRERjNhWERlQ1FKTzdBWGh4b3RwTWhJbjBOT3dPdTY5TGtpVzZDZ0pFQUVSMWtnM2ZQaS1HVzdiMzZlelN0Qw?oc=5",
+      "summary": "AI、機器人手術改變眼科醫療 眼科醫：AI讓人工水晶體設計更精準 民報",
+      "publishedAt": "2026-07-18T10:58:34.000Z",
+      "timestamp": 1784372314000,
+      "source": {
+        "id": "google-news-taiwan-ai",
+        "name": "Google News: Taiwan AI",
+        "region": "Taiwan",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 64
+    },
+    {
+      "id": "ai-x88uzb",
+      "title": "2026世界人工智能大会自主智能无人系统前沿与应用论坛在同济大学举行 - 同济大学新闻网",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDY2lNSXFKZXpDb3k1UXIzS0RRdEdtV3cxVzR2UGdlbzJEeWRuZVp4VXJuYVJkVXlPUndjOVpuS0REQktKY0FhdmRMdFBkVDN6UzZQMm5Xa3J3dw?oc=5",
+      "summary": "2026世界人工智能大会自主智能无人系统前沿与应用论坛在同济大学举行 同济大学新闻网",
+      "publishedAt": "2026-07-18T10:54:05.000Z",
+      "timestamp": 1784372045000,
+      "source": {
+        "id": "google-news-china-ai",
+        "name": "Google News: China AI",
+        "region": "China",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 64
+    },
+    {
+      "id": "ai-1fmk136",
+      "title": "China's new World Artificial Intelligence Cooperation Organization is President Xi's clearest play yet for a parallel AI order",
+      "url": "https://the-decoder.com/chinas-new-world-artificial-intelligence-cooperation-organization-is-president-xis-clearest-play-yet-for-a-parallel-ai-order/",
+      "summary": "At the World AI Conference in Shanghai, Xi Jinping announced 5,000 AI training slots for Global South countries and the launch of the \"World Artificial Intelligence Cooperation Organization.\" Cooperation centers with ASEAN, the African Union, BRICS, and other alliances are planned to follow. China is systematically building a parallel AI governance structure outside Western influence. The article China's new World Ar",
+      "publishedAt": "2026-07-18T10:46:04.000Z",
+      "timestamp": 1784371564000,
+      "source": {
+        "id": "the-decoder",
+        "name": "THE DECODER",
+        "region": "EU",
+        "trust": "media"
+      },
+      "categories": [
+        "policy-safety"
+      ],
+      "score": 82
+    },
+    {
+      "id": "ai-4fvty4",
+      "title": "Open-weight models now match frontier cyber performance from just four months ago at a fraction of the cost",
+      "url": "https://the-decoder.com/open-weight-models-now-match-frontier-cyber-performance-from-just-four-months-ago-at-a-fraction-of-the-cost/",
+      "summary": "The British AI Security Institute warns that open-weight models like GLM-5.2 and DeepSeek V4-Pro now trail closed frontier models in cyber capabilities by four to seven months. At the start of 2025, the gap was still six to ten months. It also found that safety measures on open models are largely ineffective, leaving defenders less time to prepare. The article Open-weight models now match frontier cyber performance f",
+      "publishedAt": "2026-07-18T10:16:02.000Z",
+      "timestamp": 1784369762000,
+      "source": {
+        "id": "the-decoder",
+        "name": "THE DECODER",
+        "region": "EU",
+        "trust": "media"
+      },
+      "categories": [
+        "policy-safety"
+      ],
+      "score": 82
+    },
+    {
+      "id": "ai-7dzyvm",
+      "title": "腾讯智能体集中亮相世界人工智能大会，携“AI Buddy”共创数智未来 - 中国日报网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBVTGNuZGpGV21lc3BjRU9vRFVjWE0yaFBoeFl5UGJyUVdqc0tyeUd0SUFOSEI1Mk9IaUV1NW5kUG5sYm1vbXF1a1RCWkpza0tKYmtUYWkxT2lWNDIxWFc3Tm1YcTYyX1VxVWRlWnQ1bFA3WkV2ckZlMU05UnM?oc=5",
+      "summary": "腾讯智能体集中亮相世界人工智能大会，携“AI Buddy”共创数智未来 中国日报网",
+      "publishedAt": "2026-07-18T10:13:22.000Z",
+      "timestamp": 1784369602000,
+      "source": {
+        "id": "google-news-china-ai",
+        "name": "Google News: China AI",
+        "region": "China",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 64
+    },
+    {
+      "id": "ai-hn0499",
+      "title": "印度民營軌道運載火箭首飛 爭搶商業發射市場大餅",
+      "url": "https://www.cna.com.tw/news/ait/202607180149.aspx",
+      "summary": "（中央社班加羅爾18日綜合外電報導）印度太空新創公司Skyroot Aerospace今天發射該國首枚由民營企業研發的軌道運載火箭，這是印度爭取在全球商業發射市場中提高巿占率一項關鍵測試。",
+      "publishedAt": "2026-07-18T09:06:39.000Z",
+      "timestamp": 1784365599000,
+      "source": {
+        "id": "cna-tech",
+        "name": "中央社科技",
+        "region": "Taiwan",
+        "trust": "media"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 64
+    },
+    {
+      "id": "ai-1tl8ihy",
+      "title": "2026世界人工智能大会：硬核“黑科技” 有趣又有料 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9QelhqWEc4SEJXMkdHY0xiQzRsYkVxWm04VXdvLVRSMlc4cU5mRE5IbEwxS3RxaXFRaXVhQnpLaDU5RGdJZEI0aWM5YmFYdkRzblZTaXo3ckx2V0xRejZyYk0tcDBhTm0wV3dNOGRpOVUzOTNWZlJJ?oc=5",
+      "summary": "2026世界人工智能大会：硬核“黑科技” 有趣又有料 新华网",
+      "publishedAt": "2026-07-18T08:54:36.000Z",
+      "timestamp": 1784364876000,
+      "source": {
+        "id": "google-news-china-ai",
+        "name": "Google News: China AI",
+        "region": "China",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 64
+    },
+    {
+      "id": "ai-k9f3lo",
+      "title": "傳SpaceX洽供五角大廈算力 擴大軍事AI合作",
+      "url": "https://www.cna.com.tw/news/ait/202607180134.aspx",
+      "summary": "（中央社紐約17日綜合外電報導）「華爾街日報」今天援引知情人士說法披露，馬斯克旗下的SpaceX正與美國五角大廈談判，擬提供價值數十億美元的資料中心算力，以運作人工智慧（AI）模型。",
+      "publishedAt": "2026-07-18T08:25:05.000Z",
+      "timestamp": 1784363105000,
+      "source": {
+        "id": "cna-tech",
+        "name": "中央社科技",
+        "region": "Taiwan",
+        "trust": "media"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 64
+    },
+    {
+      "id": "ai-70xt3b",
+      "title": "Experts praise Hawaii’s new laws on abusive use of generative A.I. - Hawaii News Now",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNY1hxLTJTWDZpb1NMV1hXbnNBUjRiaURyeUpCRlUzVFBzVUJCNWxPV3hMVmZEbzZtc09BS09CbFZjN3pvZU1lNUFQbG9lNUdaT3NmaXJzMXBFMzRjTk05ZmVOU0RsZ0daZ1hxM3dtN3ZLWHozSnJ3UklzSEhTdEc0UE1Oc2pMVGVLbGJXek1yRzdmZ2tNYW1jMHhLM2Y2SEpY0gG0AUFVX3lxTFA5b2hIN193cThScFZEeXcxYUstV0s0Y2RDaUVmSkJDdW5HTUtCX2x3anVadE5rSHhCX1hpRGl0S0lfRFVvYUNYVk9wREwtVGJydVF1Mkl3aVNkbWJyUnRiRi1YX2Qyal8zclJrQ2pQUk1yaGxSNG9jVUdtWmpiYjZkUDdQSThTWTlxZnF6ZjgtamhyLTY0b1BLcDFaeXhrVXlsc0VFZmtMbmhBMmtnT2hDR0xlNg?oc=5",
+      "summary": "Experts praise Hawaii’s new laws on abusive use of generative A.I. Hawaii News Now",
+      "publishedAt": "2026-07-18T08:17:00.000Z",
+      "timestamp": 1784362620000,
+      "source": {
+        "id": "google-news-ai",
+        "name": "Google News: AI",
+        "region": "Global",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 64
+    },
+    {
+      "id": "ai-160qch4",
+      "title": "教育之问｜高校如何培育不被AI“接管”的新生代？ - ecnu.edu.cn",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JVTRHZnhNOHplMzVieXd4cmdKR0VNejFjcWVwQWxLOHhOb0drUEx4ZmdRZ0RLZ2FQMGVkTUw3cXVEZnMxRTVMdTRhVmt3YzFFMUROYUhR?oc=5",
+      "summary": "教育之问｜高校如何培育不被AI“接管”的新生代？ ecnu.edu.cn",
+      "publishedAt": "2026-07-18T08:16:11.000Z",
+      "timestamp": 1784362571000,
+      "source": {
+        "id": "google-news-china-ai",
+        "name": "Google News: China AI",
+        "region": "China",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 64
+    },
+    {
+      "id": "ai-1llshby",
+      "title": "The Pentagon's new AI playbook treats slow adoption as a bigger risk than imperfect alignment",
+      "url": "https://the-decoder.com/the-pentagons-new-ai-playbook-treats-slow-adoption-as-a-bigger-risk-than-imperfect-alignment/",
+      "summary": "The US Department of the Navy has signed a strategy to \"weaponize\" data and AI and build an \"AI-first\" fleet. Large language models would run directly on warships, and an AI war council would prioritize mission scenarios. The core message is that moving too slowly carries greater risks than \"imperfect alignment.\" The article The Pentagon's new AI playbook treats slow adoption as a bigger risk than imperfect alignment",
+      "publishedAt": "2026-07-18T08:10:40.000Z",
+      "timestamp": 1784362240000,
+      "source": {
+        "id": "the-decoder",
+        "name": "THE DECODER",
+        "region": "EU",
+        "trust": "media"
+      },
+      "categories": [
+        "policy-safety",
+        "foundation-models"
+      ],
+      "score": 80
+    },
+    {
+      "id": "ai-1ei7lhi",
+      "title": "“物理AI重塑智能制造”主题论坛举行 - 科学网—新闻",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XUUdaUDM5MnFac25UUktvejNNNS1zaFRWcEJDZ09UVmVkRUk1b1dSRWlZOVc3dXpFNUFfaUZuTUdWYXF1dTZGWjVNamZ3ajlKcG9PY0dtZGk4bXd6NWFCNjRmNVo?oc=5",
+      "summary": "“物理AI重塑智能制造”主题论坛举行 科学网—新闻",
+      "publishedAt": "2026-07-18T07:19:41.000Z",
+      "timestamp": 1784359181000,
+      "source": {
+        "id": "google-news-china-ai",
+        "name": "Google News: China AI",
+        "region": "China",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 63
+    },
+    {
+      "id": "ai-15h41do",
+      "title": "Anthropic slashes Claude Fable 5 limits in Max and Team Premium and pushes Pro users toward API pricing",
+      "url": "https://the-decoder.com/anthropic-slashes-claude-fable-5-limits-in-max-and-team-premium-and-pushes-pro-users-toward-api-pricing/",
+      "summary": "Anthropic will include Claude Fable 5 in Max and Team Premium plans starting July 20, but at just 50 percent of regular limits, which themselves drop by a third that same day. Pro users get a one-time $100 credit, then pay API rates. The reversal from Anthropic's original plan to pull Fable from subscriptions entirely likely comes down to competitive pressure from OpenAI's cheaper GPT-5.6 Sol. The article Anthropic s",
+      "publishedAt": "2026-07-18T07:17:11.000Z",
+      "timestamp": 1784359031000,
+      "source": {
+        "id": "the-decoder",
+        "name": "THE DECODER",
+        "region": "EU",
+        "trust": "media"
+      },
+      "categories": [
+        "foundation-models"
+      ],
+      "score": 71
+    },
+    {
+      "id": "ai-luvc4v",
+      "title": "外交部部长助理刘彬出席人工智能全球治理高级别会议 - mfa.gov.cn",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE05UkZQOTVJSnVHYng0UjdSZWR0cU84SVFvSkctb0wxV0pVSjM4VnV0d045X1p3WVF4UjUyZDdRd2NHNDJHNDhKYm1QTk5Cbm40Rjd3YWh2YlJPRDRWdHJ2ZVhRN09yYkljN0kxYnBJRG5LUQ?oc=5",
+      "summary": "外交部部长助理刘彬出席人工智能全球治理高级别会议 mfa.gov.cn",
+      "publishedAt": "2026-07-18T07:15:00.000Z",
+      "timestamp": 1784358900000,
+      "source": {
+        "id": "google-news-china-ai",
+        "name": "Google News: China AI",
+        "region": "China",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 63
+    },
+    {
+      "id": "ai-luux62",
+      "title": "AI 光收發模組市場進入高速成長階段，LPO、矽光子技術受關注 - TechNews 科技新報",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOFo1cTVUejBraE1jTFJ0VERDS0t3ZjBLcGFJUjFVQzVGU3hHMHROOEw1MUxGTWdFaXJ0dVlTVU9nY2VJcDBHOU9uUWFidEoyVTNNeWNzUlJnaDZ2SUxGclc5RkVCRGhXd2RxSTl6SXlRLXc5WGNaVFFQVkxKVnRBRUhZSzhyckhURmc?oc=5",
+      "summary": "AI 光收發模組市場進入高速成長階段，LPO、矽光子技術受關注 TechNews 科技新報",
+      "publishedAt": "2026-07-18T06:45:28.000Z",
+      "timestamp": 1784357128000,
+      "source": {
+        "id": "google-news-taiwan-ai",
+        "name": "Google News: Taiwan AI",
+        "region": "Taiwan",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 63
+    },
+    {
+      "id": "ai-93boty",
+      "title": "At an artificial intelligence conference in Shanghai on Friday, China’s leader, Xi Jinping, urged open and global collaboration, aimed at supporting the technological advancement of developing countries. Read more: https://nyti.ms/4hprQ70 - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcHNTUUlSZFpBbm95UjJBVXdiRUVYaUlVS3A5VUpuNkVXT3pSS1p4MnhkUVRlTnB1OW9PV0trOEpfMXBISWV0MGdIcS1udnRUR09NNUhSd0RWWmNOQUFNVUY4LUh2T3h1NWZZWTRGdzNqQnZ4UUxuUHVVMWtSejh1Q0V3b0VIZGMwV0FQRkFzTWpXV0hYSmh6OGNSOHJjYjBNMTA5OVBWR1VGOWdRX2x6YWJBRkZ4QzQ5TjlHbFFpb1QtMWVxTmswb09UMnBZSktCT0Nn?oc=5",
+      "summary": "At an artificial intelligence conference in Shanghai on Friday, China’s leader, Xi Jinping, urged open and global collaboration, aimed at supporting the technological advancement of developing countries. Read more: https://nyti.ms/4hprQ70 facebook.com",
+      "publishedAt": "2026-07-18T06:41:59.000Z",
+      "timestamp": 1784356919000,
+      "source": {
+        "id": "google-news-ai",
+        "name": "Google News: AI",
+        "region": "Global",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 63
+    },
+    {
+      "id": "ai-1ry7ltp",
+      "title": "滴滴在WAIC分享：AI升级出行体验 好服务连接消费烟火气 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1KTzZDQ09oZzVtWXlOWU9lN25NQTlpOWpPYXpxTjJ1NVk2ZTBOTzFfNUFrdjNKQ3pSM3NSN3d4bEN3YV90UmZOUEdWam1NVmIxVzktQ0luQTlzMllxc3dRSnY3bEFnUkhfZGVBdFA4RXRRcHdaVjJ2d0V1QU0?oc=5",
+      "summary": "滴滴在WAIC分享：AI升级出行体验 好服务连接消费烟火气 新华网",
+      "publishedAt": "2026-07-18T06:39:32.000Z",
+      "timestamp": 1784356772000,
+      "source": {
+        "id": "google-news-china-ai",
+        "name": "Google News: China AI",
+        "region": "China",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 63
+    },
+    {
+      "id": "ai-13zhlzs",
+      "title": "AI大會兩岸論壇 業界盼深化AI產業交流",
+      "url": "https://www.cna.com.tw/news/acn/202607180104.aspx",
+      "summary": "（中央社記者廖文綺上海18日電）2026人工智能（慧）大會在上海舉行，今天上午召開「兩岸論壇」，多位台灣與中國產學界人士齊聚探討兩岸AI領域發展。台灣業界人士表示，台灣電子供應鏈與中國市場各具優勢，盼深化AI產業合作。",
+      "publishedAt": "2026-07-18T06:31:00.000Z",
+      "timestamp": 1784356260000,
+      "source": {
+        "id": "cna-tech",
+        "name": "中央社科技",
+        "region": "Taiwan",
+        "trust": "media"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 63
+    },
+    {
+      "id": "ai-1tdlcrp",
+      "title": "AI大會兩岸論壇業界盼深化AI產業交流| 兩岸 - 中央社 CNA",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9SQWJFY3BoUVNhQWVUeDAwY2R0S2tueEdKb0pRYlU3ckxWdkpKSnQwMEtwWm1GZjNCdzBUVmRLZGFsZU51MXdjZjhqaHQ5NDFpVk5FWlJnbUExYUVlR3c?oc=5",
+      "summary": "AI大會兩岸論壇業界盼深化AI產業交流| 兩岸 中央社 CNA",
+      "publishedAt": "2026-07-18T06:31:00.000Z",
+      "timestamp": 1784356260000,
+      "source": {
+        "id": "google-news-taiwan-ai",
+        "name": "Google News: Taiwan AI",
+        "region": "Taiwan",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 63
+    },
+    {
+      "id": "ai-1rke901",
+      "title": "国产Token优化工厂在2026世界人工智能大会正式发布 - 中国科技网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5QTlhVSERlVXNvQ2hkMUhkMzdNNlNVZGV1TmlGcW1BTEI5UTJWREhzM1l5d3otUFhwRWtyZHhhaHhFWWw5dDBHWVNhbWtmek5faFdLcG1YTUVLaU5hRlF6VjBzR0ZqQjFhM2lLeWxYelg?oc=5",
+      "summary": "国产Token优化工厂在2026世界人工智能大会正式发布 中国科技网",
+      "publishedAt": "2026-07-18T06:02:21.000Z",
+      "timestamp": 1784354541000,
+      "source": {
+        "id": "google-news-china-ai",
+        "name": "Google News: China AI",
+        "region": "China",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 63
+    },
+    {
+      "id": "ai-1cjsbkn",
+      "title": "国内首个水风光一体化智慧运营大模型正式发布 - 中国科技网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzQm1Ba3F2bU1HeFY3UGF5SzIxR2NzSkFpWlFXUFFnQXVHcUNNOTltMGZ1Z2p1WEF3UnBTVGtyYURoWXZzZzUzRFlqU1YtOXVSZ2tLTDROMnJBbUpkM1ZXanQ4OF9Ec2hsMWdNcTNxYUY?oc=5",
+      "summary": "国内首个水风光一体化智慧运营大模型正式发布 中国科技网",
+      "publishedAt": "2026-07-18T06:00:32.000Z",
+      "timestamp": 1784354432000,
+      "source": {
+        "id": "google-news-china-ai",
+        "name": "Google News: China AI",
+        "region": "China",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 63
+    },
+    {
+      "id": "ai-1lsjjho",
+      "title": "瑞幸打造AI Lucky智能体 亮相2026世界人工智能大会 - 人民网财经",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFcjFEcmx1aGFueENsakFrU01JM3IybHpFU3ZUX3lXUUV6T2hhek9XdWtqUGl5Qk80bTdPeUNMYUE0NlNSbFRoNlVJQi10eU9rTDBYcXFUSUJScE1GSlhUbDgtU2VHSjhYVTBySmN3?oc=5",
+      "summary": "瑞幸打造AI Lucky智能体 亮相2026世界人工智能大会 人民网财经",
+      "publishedAt": "2026-07-18T05:53:00.000Z",
+      "timestamp": 1784353980000,
+      "source": {
+        "id": "google-news-china-ai",
+        "name": "Google News: China AI",
+        "region": "China",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 63
+    },
+    {
+      "id": "ai-1bziuy2",
+      "title": "Google DeepMind CEO Calls for Frontier AI Standards Body - TechNewsWorld",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdy04T1ZNMEEwS3hwc2tlaExNLW9jUmdCR3BSNVVZcTNyRUNBNjV4QWpwX1RQM3Q3RnRTbWtKYzM0S0JvN1NpYkxwR0NQSFVheGk4VG9ZT2gtczVrZ1JwOXBsUjRUeDlxRjVKVGtqTGpLSWk0VmRXLWJEMVBxVnJKVFpBQmpPcjBJNm1NSWdpRDhoX1lFS3lvLTVXaGJHWHdEQU8tcmZJcw?oc=5",
+      "summary": "Google DeepMind CEO Calls for Frontier AI Standards Body TechNewsWorld",
+      "publishedAt": "2026-07-18T05:15:25.000Z",
+      "timestamp": 1784351725000,
+      "source": {
+        "id": "eu-ai-policy-news",
+        "name": "Google News: EU AI Policy",
+        "region": "EU",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "policy-safety"
+      ],
+      "score": 71
+    },
+    {
+      "id": "ai-1kq846a",
+      "title": "Artificial intelligence for supply chain advantage - Today's Medical Developments",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUHZzZHByNndlWFlhWlFYck5QNWNhZU52MTF4VENkR19NTHFYNVlDSFJQYnlOOWdoS3ZnYW5qRVpDZVZvU2d5MEtwcHFCc2hnVG5ueUJNaFJNdFV0QmFhVVNDWTN6NVlSY241MHFIam00ZktzanFwNTRnZk9zZGMzbGRZSmpxUkwzcjBtWm5rQ3MxamJ0VmRkVHZn?oc=5",
+      "summary": "Artificial intelligence for supply chain advantage Today's Medical Developments",
+      "publishedAt": "2026-07-18T05:00:00.000Z",
+      "timestamp": 1784350800000,
+      "source": {
+        "id": "google-news-ai",
+        "name": "Google News: AI",
+        "region": "Global",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 63
+    },
+    {
+      "id": "ai-xp3hx4",
+      "title": "歐盟翻修ETS碳交易系統 放慢減排減輕產業壓力",
+      "url": "https://www.cna.com.tw/news/ait/202607180078.aspx",
+      "summary": "（中央社布魯塞爾17日綜合外電報導）歐盟執委會今天就歐洲旗艦級氣候政策「歐盟排放權交易系統」（EU ETS）提出大翻修，新方案放寬減排達標速率，同時提供更多財務支持以投資潔淨技術，減輕產業界壓力。",
+      "publishedAt": "2026-07-18T04:54:03.000Z",
+      "timestamp": 1784350443000,
+      "source": {
+        "id": "cna-tech",
+        "name": "中央社科技",
+        "region": "Taiwan",
+        "trust": "media"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 63
+    },
+    {
+      "id": "ai-1n90od2",
+      "title": "兩岸AI論壇 潘賢掌：兩岸產業優勢互補 加大合作正當其時 - 工商時報",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBIZEpVWUFVZzMyWTlSTDJ2WWdral9HVnZFUFEwVUZ6anFha2hsQnJuNEtSRlY0WkdiZ2ljQXVXdjNRTTNqTXMwRUQ4Yng5TlRLbVlaWl90dGpzVmo4Tmhr?oc=5",
+      "summary": "兩岸AI論壇 潘賢掌：兩岸產業優勢互補 加大合作正當其時 工商時報",
+      "publishedAt": "2026-07-18T04:51:00.000Z",
+      "timestamp": 1784350260000,
+      "source": {
+        "id": "google-news-taiwan-ai",
+        "name": "Google News: Taiwan AI",
+        "region": "Taiwan",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 63
+    },
+    {
+      "id": "ai-nd8qqr",
+      "title": "Neil Rimer thinks the AI money is coming back out",
+      "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+      "summary": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily.",
+      "publishedAt": "2026-07-18T04:47:25.000Z",
+      "timestamp": 1784350045000,
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "region": "US",
+        "trust": "media"
+      },
+      "categories": [
+        "capital-market"
+      ],
+      "score": 71
+    },
+    {
+      "id": "ai-157kn2w",
+      "title": "联想陈敏仪：以世界杯实践为起点 让AI成为人人可用的普惠生产力 - 中国科技网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WMHV2TldmVTcycEQyck9MNFhwZHJ6YTdGWGxhVlNnVWw2blJXVm5SdDhELUE1SnZNdzlKU3BKX3RQR3VrS3hLbmJnWk5oN2g3QXNpVFh4OVRsb2xEdTF1amVYem1TeWQ3dV9XOWgyTTA?oc=5",
+      "summary": "联想陈敏仪：以世界杯实践为起点 让AI成为人人可用的普惠生产力 中国科技网",
+      "publishedAt": "2026-07-18T03:56:13.000Z",
+      "timestamp": 1784346973000,
+      "source": {
+        "id": "google-news-china-ai",
+        "name": "Google News: China AI",
+        "region": "China",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 63
+    },
+    {
+      "id": "ai-1liennv",
+      "title": "让AI“看不见”数据也能完成计算 - 中国科技网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5aaTR5NEY0cmZZUFlPdFZ2UkljWVFnbHl5a3ZTbm9QaHBuOTBYaThSMDN3Vlp0VnFMRkNyLTNPRHpZLU1oWmJVY3lRVXd5OFNGNkdrZGNnQ1JGTTlmSDVYWXlqTVlZNE9NZlZ5QlpaSFo?oc=5",
+      "summary": "让AI“看不见”数据也能完成计算 中国科技网",
+      "publishedAt": "2026-07-18T03:55:44.000Z",
+      "timestamp": 1784346944000,
+      "source": {
+        "id": "google-news-china-ai",
+        "name": "Google News: China AI",
+        "region": "China",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 63
+    },
+    {
+      "id": "ai-1e29rp9",
+      "title": "“爱学AI学习实验室”亮相2026世界人工智能大会 - 中国科技网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Cc19uUWs2SUJzcHlxYWkzVzR0Uy1Vdml2RTN6TGVUZUx1SzJXaHRkUU5zUkMwTFpuNlhucnoyU3JDaWhsbUFrWnN2V05vTGJqcGFhVUdjclJoTndCcTRMemItQmZCbmZxLS1aMm5iSTg?oc=5",
+      "summary": "“爱学AI学习实验室”亮相2026世界人工智能大会 中国科技网",
+      "publishedAt": "2026-07-18T03:52:19.000Z",
+      "timestamp": 1784346739000,
+      "source": {
+        "id": "google-news-china-ai",
+        "name": "Google News: China AI",
+        "region": "China",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 62
+    },
+    {
+      "id": "ai-e93gx",
+      "title": "哈工大共同承办2026世界人工智能大会自主智能无人系统前沿与应用论坛 - 哈尔滨工业大学",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9nZ296SmdTdzJzSlM1MXVtUDNVU2tqTlNFZ3VmUVpOQTZaQ3k5SE9Hd0RhdTVmeEF4X2QzalN3UlVoNGxnZFlpeThwc3duZzlsZGJiTWFSYVpkOEZzdFRRNzl1VUo?oc=5",
+      "summary": "哈工大共同承办2026世界人工智能大会自主智能无人系统前沿与应用论坛 哈尔滨工业大学",
+      "publishedAt": "2026-07-18T03:28:41.000Z",
+      "timestamp": 1784345321000,
+      "source": {
+        "id": "google-news-china-ai",
+        "name": "Google News: China AI",
+        "region": "China",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 62
     },
     {
       "id": "ai-12naz8c",
@@ -241,15 +854,15 @@
       "categories": [
         "applications"
       ],
-      "score": 65
+      "score": 62
     },
     {
-      "id": "ai-habxe3",
-      "title": "金山办公获2026世界人工智能大会AI办公效率合作伙伴，将展示两款全新AI办公智能体 - 新华网客户端",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWmxybTVKcy1aWmdRcHN2Wm1fdzZLTmZhcDJxZlRKT3JjSEJ1dDFTejVoMUVEeTFyUDhVRmplM3JKQjVqUWltTy0zbDRzMTE2LUlsSUg4ZXVMNldhcURMdGpfbVh1WEJFamUtcEUwekpSRU5Pai0xUmMtM3U4b2k2YXFodWNUUk5BQ2ZMbFNmak1Nb2hZTFhvRTF3?oc=5",
-      "summary": "金山办公获2026世界人工智能大会AI办公效率合作伙伴，将展示两款全新AI办公智能体 新华网客户端",
-      "publishedAt": "2026-07-18T02:30:03.000Z",
-      "timestamp": 1784341803000,
+      "id": "ai-1cf7h8y",
+      "title": "以“元因果”重构AI产业逻辑，中数睿智“AI for Reasoning”为复杂工业场景赋能 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5HcDV4SHZWMlg4Q2hZYzJiSDVCWktkT1dMenhxRU5GV2RIdHBVV0sycUZaekY0TG1QU1o2MHRRYXF5Sko0eUtYTENhQlZSWmtPdDE1YnhDZndUYXlwY2dlTElQQlNxaFpXQWlMNFhweTNKbHk0eGRHdDJhZ2I?oc=5",
+      "summary": "以“元因果”重构AI产业逻辑，中数睿智“AI for Reasoning”为复杂工业场景赋能 新华网",
+      "publishedAt": "2026-07-18T02:55:43.000Z",
+      "timestamp": 1784343343000,
       "source": {
         "id": "google-news-china-ai",
         "name": "Google News: China AI",
@@ -259,7 +872,61 @@
       "categories": [
         "applications"
       ],
-      "score": 65
+      "score": 62
+    },
+    {
+      "id": "ai-qgmsp1",
+      "title": "图灵奖获得者：中国将在人工智能领域发挥重要作用 - 新华网客户端",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQc2FIYWs4bnZaYVdYM0s2NFlUMUxJUDVnbVpDSHpqOUZ2MmctRXZuUnhiYnFwa092VUxKN0d3SFZPbk9ZUExOOENBSDB1UVFBUmpaZDRRUzBzR2Y1a1I0VllERzFfbDJ0WmhqTGxGWkJiUDNVOGxxWWFPTEliaW41MV9sOWZjeXdfUzAtQkI4T0hDZG9ZOFQ5dW5B?oc=5",
+      "summary": "图灵奖获得者：中国将在人工智能领域发挥重要作用 新华网客户端",
+      "publishedAt": "2026-07-18T02:38:40.000Z",
+      "timestamp": 1784342320000,
+      "source": {
+        "id": "google-news-china-ai",
+        "name": "Google News: China AI",
+        "region": "China",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 62
+    },
+    {
+      "id": "ai-11d5vqz",
+      "title": "金山办公获2026世界人工智能大会AI办公效率合作伙伴，将展示两款全新AI办公智能体 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSDRzMU4tS0gxMnRTTG9zVkJ1STBWb2tHQXJ4OFc3YXp5b2RUcmFDWFdNQTgxNGFUaURlcVlPTlpzay1YRXlNX2I4UF9lQUZyeTc5WmdHV2dmTms1d1N3S0JncWpxUDJNdjJXR1pwSmo2cVJIb3Z6VWZzU3dUVzFpdQ?oc=5",
+      "summary": "金山办公获2026世界人工智能大会AI办公效率合作伙伴，将展示两款全新AI办公智能体 新华网",
+      "publishedAt": "2026-07-18T02:21:37.000Z",
+      "timestamp": 1784341297000,
+      "source": {
+        "id": "google-news-china-ai",
+        "name": "Google News: China AI",
+        "region": "China",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 62
+    },
+    {
+      "id": "ai-8y6d75",
+      "title": "中国AI公司月之暗面发布全球最大规模开源模型 - DW.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPd1JYUmFMRTc0V1RFZ2JYWE0yZkVQS1VtV1pabnZOXzE2VmVhSUFEb3hWUWczaUxfamVkU0JwcE1BY29HLW14dm4zR05MWTQ3SzVOSkVLUkhSWmRSRy1NWXF1LXl2dFVLRjJua3Fpcm5sZFpyUnprN0hNNDdsRXY5dy1LSDRzZi1sMGFKNm96aXVPQ3B6VVQ4UEtaVzNsTEljZ1lydExlMnp4bFQ0aFBsWnRGWFB4MjF5dWhEY2szcEFGNG1WVnFHNy16T0laQ0FjUUNnYmx4M1pod0dob2NHdnZGRERFV0E0emRZU3Azd05OMXh2bmV3cE9sVC1kNEpQN1VWX2w3M2YycHdSRk5fLUxURjVWVU9uTWFEZTN0R1JzMFFmdkt5aE81R3I2eDRMUExhZndpSkF3U0HSAbsCQVVfeXFMUHQ0dk15M192ZDczNTdBcVJLMFp5WkFSZ3hZLTJTZmx6SkZ5Q2kweWs2WnVoWE02eDRSVG16SGMxd2lVRWhuQWluaGhoRW5TVS1CcUctQ1VxQ0JLWUstd0l1SkJiSUM4YzBJcndXYTFXZG5CS1BpbmhWQ0dPZTlUYWtWWmdpZDFYTVBSaFBKczh5dTY3bmg0N1Y5Q0Y1QnAxZlFnLUNrUmF6Nzl0QlM0MHgyMlBoc05sN0tvMEhieHRNb2dmUUFodVZ3RGZHMDJOUlhreFk4YVNzaExFY2lEVk5WQ0k2ODZ1UEZoX3BPT0RqOGt4UG5aUk1rbW5PMVJ0T25EcWYwN0dqNVlHaVFudTBmVGZCVVU5LW02dEZKcG1hR1lmdVdsSGNJRXc4NXdJcl9rc1ZBRDlHRHZr?oc=5",
+      "summary": "中国AI公司月之暗面发布全球最大规模开源模型 DW.com",
+      "publishedAt": "2026-07-18T02:08:21.000Z",
+      "timestamp": 1784340501000,
+      "source": {
+        "id": "google-news-china-ai",
+        "name": "Google News: China AI",
+        "region": "China",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 62
     },
     {
       "id": "ai-iziafi",
@@ -277,7 +944,7 @@
       "categories": [
         "applications"
       ],
-      "score": 64
+      "score": 62
     },
     {
       "id": "ai-yb4sal",
@@ -295,7 +962,7 @@
       "categories": [
         "applications"
       ],
-      "score": 64
+      "score": 62
     },
     {
       "id": "ai-1uywp41",
@@ -313,7 +980,7 @@
       "categories": [
         "applications"
       ],
-      "score": 64
+      "score": 61
     },
     {
       "id": "ai-cbih1d",
@@ -332,7 +999,25 @@
         "agents",
         "policy-safety"
       ],
-      "score": 80
+      "score": 77
+    },
+    {
+      "id": "ai-kl710u",
+      "title": "你也在看AI劇嗎? BBC：AI摧毀中國短劇產業鏈「人類」 全面敗退 - MSN",
+      "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPcU9ObVFMWGRkZS1ZR2YyVlRKUHpObGVRblRpdkE1eDVWcG1lRU1FMGt5TVN1cGdjQzdLTURNN01KdnlCRFpiLUFXQmctQUxNZmxtajkyeDNpS3ZNeDA3WndGdGFjN2RDSGFHSF9FWmNrdGpWYnFIYnE2aERyNzlLU3NySmdQU1A4TmNjREJEVk5wVnZHT0RRemxwNS1OVzQtMGQxU2xldzJMSXhfNk4ycVpxYXZaUHBqY0JIRXppMU9sS3pHU3lCa1lBM1cyM1JQS0tvZXlmbjJ2UWFZX2RqYmx4djN5TnZXT2V2ZzR4d3prdVFjZmxkWFpEMUFmemVLRUZlMkE4YkZJY0U4UEpYNDZjdEhBR3E1YmtLMFZUSHp4aFFqNV80RFdxZ2J1Rmc3a2NuQTBkQ0VZU3otbnEza29SX3dJd2h1LW03OXh5OU8tZFdTYlVqMDlnYXpUeS1jNTlxai1MWVE2c2JMU2tLT1Z4ZHBSalYxVXlHRG1HYWI5OVlSUXc?oc=5",
+      "summary": "你也在看AI劇嗎? BBC：AI摧毀中國短劇產業鏈「人類」 全面敗退 MSN",
+      "publishedAt": "2026-07-17T22:44:21.000Z",
+      "timestamp": 1784328261000,
+      "source": {
+        "id": "google-news-taiwan-ai-media-generation",
+        "name": "Google News: Taiwan AI Image/Video Generation",
+        "region": "Taiwan",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "media-generation"
+      ],
+      "score": 69
     },
     {
       "id": "ai-prhnyq",
@@ -350,7 +1035,7 @@
       "categories": [
         "applications"
       ],
-      "score": 64
+      "score": 61
     },
     {
       "id": "ai-6wmpa0",
@@ -368,7 +1053,7 @@
       "categories": [
         "applications"
       ],
-      "score": 64
+      "score": 61
     },
     {
       "id": "ai-1nmcov4",
@@ -387,15 +1072,15 @@
         "applications",
         "capital-market"
       ],
-      "score": 80
+      "score": 77
     },
     {
-      "id": "ai-ji8s51",
-      "title": "习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话 - politics.people.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5rRTN0Zlo2c0pMaHUwZGhWWGNhZGJSOFZPTjJ1S0RaclVPSXlzVnp6YWlrYXVCbzZzaWFjRWxFb2V2MGwzYm9SMnMwQjhHRWJxNmdNbWNGOEpJNTVDZUwwVTBHMU96THcxVEZOTGNuaw?oc=5",
-      "summary": "习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话 politics.people.com.cn",
-      "publishedAt": "2026-07-17T21:54:00.000Z",
-      "timestamp": 1784325240000,
+      "id": "ai-1p4nbk5",
+      "title": "习近平倡议中国建立全球AI新秩序 挑战美国主导地位 - DW.com",
+      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOekpzVWVuVE41UWZwNEV4cllua0pPVDI2NXZveXNNRExrckNlRmFfWjNfNXZoNUFzb05GbzJvYlNJTmt6bmduRXRBNXhQNU1wOU5NTzZWczdEbHV6ZUhlS1kxb3d0OHc4Uzdxc09YS3l6N2dwX3lMZVJSVEp1ZWlaaEt2NUdPYnZ1QmRhLThGRVUxTnh5dkx2aE9yY0hRRUhha1lka2J2OHNzcDJLUVJTbEhyQWRtZG5JNGk5WWlJcjBHbFIxT1dMNTllTHVvS3hyakx5U0tEYV9EMngybWNnb2R1eEk3VDZxY1h6bEs4c21KdTczYmQ3Qk81ZVZMWGJfYnBxMHBtZnpQZ2U5SXVEU0pGNFhjNE83dGR4ZXB0T21BUWdYenByUVl4R0E0WTZhLUh5US1UMTE1aGVYSWRobUxiNVk5MzlId25jUVRTdEllbjJx0gHUAkFVX3lxTE1nZ29NZUpqYUV0MTl6SlR0Vlc5TWowa0l2MEdBcmVQVndnQnhMeHo2T0tkb2tGczZCY0l6LTRsX3U0Yl9qRGo3WVg2RTNWUGV0QlM2djBZSkhxWTYtNEJUd0ctTmF2eGVuRnd2Q0gteE9qV0FyOHNzNlRMWVZ6TlY3eGdUaHRhcEVrYXdfbkJ0TzhXV2hYZjFPd3E5UWpCSGZfWmhleHVjdXBxbGtMdEF1MUMweEFnWmFLQ1IxX21iWkxMU2VwZWU0UEZHbC1UWkJfcHRyS3JzUEp2bUZxNVA0LUFpeXdwV3dhS3FKbU5kdnkxazVLUXZ4U1RpOU1RcHRhTWNWTXFoZjA4UG9WbTJBODBZZ2w1VUpJYnZGU3BlSzlkX21wckp3Z1dOZ2RReDBkWURHMmtJZTR1MGxKRFBkRWxBMXgwUWNtR3BhTDIxRExoVXI?oc=5",
+      "summary": "习近平倡议中国建立全球AI新秩序 挑战美国主导地位 DW.com",
+      "publishedAt": "2026-07-17T22:02:10.000Z",
+      "timestamp": 1784325730000,
       "source": {
         "id": "google-news-china-ai",
         "name": "Google News: China AI",
@@ -405,7 +1090,7 @@
       "categories": [
         "applications"
       ],
-      "score": 64
+      "score": 61
     },
     {
       "id": "ai-1vi96eb",
@@ -423,7 +1108,7 @@
       "categories": [
         "applications"
       ],
-      "score": 63
+      "score": 61
     },
     {
       "id": "ai-1e73reu",
@@ -441,7 +1126,7 @@
       "categories": [
         "applications"
       ],
-      "score": 63
+      "score": 61
     },
     {
       "id": "ai-8kmhb6",
@@ -459,7 +1144,25 @@
       "categories": [
         "applications"
       ],
-      "score": 63
+      "score": 61
+    },
+    {
+      "id": "ai-1r9s7ut",
+      "title": "Cisco AI Defense: Built for the Way AI Is Actually Used - Cisco Blogs",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN3VZd0ZOZU02ekZ0eThNUFduVEtiREYyeVR5cmQ4a0dfNlBnRFotTEwxQ3hNSFBDam1qTVY3VTdVSGxhZTlYZ0FMSzZlTWJ3emxiNDdCU1pNQkNhLWk0d01NT1RTUEYyQ19uRVRBYlJBZ29LakRRT0dOTWZqVF9NSXNQUDRwenJE?oc=5",
+      "summary": "Cisco AI Defense: Built for the Way AI Is Actually Used Cisco Blogs",
+      "publishedAt": "2026-07-17T20:21:44.000Z",
+      "timestamp": 1784319704000,
+      "source": {
+        "id": "google-news-ai",
+        "name": "Google News: AI",
+        "region": "Global",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 61
     },
     {
       "id": "ai-iiu5lw",
@@ -477,7 +1180,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 71
+      "score": 69
     },
     {
       "id": "ai-ystwtd",
@@ -495,7 +1198,7 @@
       "categories": [
         "capital-market"
       ],
-      "score": 71
+      "score": 69
     },
     {
       "id": "ai-hn9nu2",
@@ -513,7 +1216,7 @@
       "categories": [
         "applications"
       ],
-      "score": 63
+      "score": 60
     },
     {
       "id": "ai-c6oj5a",
@@ -531,7 +1234,7 @@
       "categories": [
         "applications"
       ],
-      "score": 63
+      "score": 60
     },
     {
       "id": "ai-10efjuc",
@@ -549,7 +1252,7 @@
       "categories": [
         "foundation-models"
       ],
-      "score": 71
+      "score": 68
     },
     {
       "id": "ai-1ll4cwl",
@@ -567,7 +1270,7 @@
       "categories": [
         "applications"
       ],
-      "score": 73
+      "score": 70
     },
     {
       "id": "ai-nm9pwl",
@@ -585,7 +1288,7 @@
       "categories": [
         "applications"
       ],
-      "score": 63
+      "score": 60
     },
     {
       "id": "ai-1iw52m8",
@@ -608,12 +1311,30 @@
       "score": 100
     },
     {
-      "id": "ai-bozef8",
+      "id": "ai-tj590k",
+      "title": "企業 AI 新戰場在算力基礎設施 CNEX 以台灣為亞洲樞紐布局 | 信傳媒 - LINE TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sanF6a215MGllbzFCMUdEVVlqT0g3Q0Zxa0hZbGFHMm84cUExZ2lpbUtlU3ZmcmhrMDZmb3BMVExiWUN2QWpyenBadzhTRFlob3YxT2Rn?oc=5",
+      "summary": "企業 AI 新戰場在算力基礎設施 CNEX 以台灣為亞洲樞紐布局 | 信傳媒 LINE TODAY",
+      "publishedAt": "2026-07-17T18:41:37.000Z",
+      "timestamp": 1784313697000,
+      "source": {
+        "id": "google-news-taiwan-ai",
+        "name": "Google News: Taiwan AI",
+        "region": "Taiwan",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 60
+    },
+    {
+      "id": "ai-n6v03d",
       "title": "把握应对人工智能机遇挑战 共创人类社会更加美好未来 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaGxqLURHMkZBbGtrZmdiUUxwSlZ2YmVMcHpWMzVBdWVMR1dtLUR1eDduenRrczh1YjcwMDhTd3c5NEQ4cVdGcWMtUm5HaGVjZzBjeTZpNXcxY3NETlJFVlI4UU1WeHZnSkJ5SlNkNkoxM0hCa3cwMjlEYVhzcllhbENLS2p6T1czaERQaHBn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjOV9PR1A4MkdfMV9JNmlNQnduYkViNzN5YkVSNTZDN2dobkU4T0hZODBUbkxadUFtaHdRVDJObURiYVFXcEI1Nl9nLWxkcjZLX1VObkhyWUg5bFk4YjY5MWlVdEotYk9nNlNMLUtIaU15UlczTEFjdnhNSGJwZ0E?oc=5",
       "summary": "把握应对人工智能机遇挑战 共创人类社会更加美好未来 新华网",
-      "publishedAt": "2026-07-17T18:38:06.000Z",
-      "timestamp": 1784313486000,
+      "publishedAt": "2026-07-17T18:38:10.000Z",
+      "timestamp": 1784313490000,
       "source": {
         "id": "google-news-china-ai",
         "name": "Google News: China AI",
@@ -623,7 +1344,7 @@
       "categories": [
         "applications"
       ],
-      "score": 63
+      "score": 60
     },
     {
       "id": "ai-1l5709j",
@@ -641,7 +1362,25 @@
       "categories": [
         "applications"
       ],
-      "score": 63
+      "score": 60
+    },
+    {
+      "id": "ai-19hcq4q",
+      "title": "要闻分析 - 习近平在人工智能大会谈“开源” 巧遇半导体等科技股来“称熊” - RFI",
+      "url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxNSDdycWhCOFVNMkhQMTZydzUyMk52SW5DUVJkMDhJM3dZekpJZEJad3IwSWVfRXcyYk1Hci1BZDVZZEpTOWF5dXJRdllkOGVQRGIzR0ZpVG53ZUxIdE5YMEQ3VmlieklhSkVLNlJPN0QtdlI2SHA1VjIzNFZucXV2bDZXby1ZOVZ5b3RTV0NVVVI5SGU2ZHJyQld6WllNM3FaYUFuMU5ZdkJPaGZEZ21EZ01YQk9kazNkRTBKYzFPQTdWR2JfUV9ILVNhQTlycm5HT0c2Vi1xd1haZEpUemx0bjJpZ0dJcnN1SkQwOEszbmZhVXRrRWYzY1Y1bHl1aVVTSTBXV2xGdm9FR2tpMGdZLVNiZ0pHa0dWX2ttRVU2aTVwYWh3cWduVWwwZFdwUXdXSng5eGVJSXptcFNOWTZkZ3NBSE9hS2RGVVpHMFV4QktkQ2lPU3A2eC1pQTlHNWNJQnF0TUlXXzcxMHZjV0h1Wmo0MkN2TldKMmNabFNNMDR2QlBXeHNxbHlvNXlsRVlxT3VRdGJrUVU4MWdKaERQX1g1NHV1RVhFTHh4aUxsNGZlY2R6NGN2UllkRFpUU01xZm1iVlhHVnlPMFk?oc=5",
+      "summary": "要闻分析 - 习近平在人工智能大会谈“开源” 巧遇半导体等科技股来“称熊” RFI",
+      "publishedAt": "2026-07-17T18:25:54.000Z",
+      "timestamp": 1784312754000,
+      "source": {
+        "id": "google-news-china-ai",
+        "name": "Google News: China AI",
+        "region": "China",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 60
     },
     {
       "id": "ai-19wuqaz",
@@ -659,7 +1398,7 @@
       "categories": [
         "applications"
       ],
-      "score": 63
+      "score": 60
     },
     {
       "id": "ai-1co80wm",
@@ -677,7 +1416,7 @@
       "categories": [
         "applications"
       ],
-      "score": 63
+      "score": 60
     },
     {
       "id": "ai-gdokwg",
@@ -696,25 +1435,7 @@
         "applications",
         "capital-market"
       ],
-      "score": 79
-    },
-    {
-      "id": "ai-gxk92u",
-      "title": "总编辑圈点丨AI设计出合成RNA引导核酸酶，不仅能模仿自然，更能超越自然 - 中国科技网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB1bEw0Y1BQVUhtQ2pLTkY4aE5QdTRfSVAxdG5nRFJWbWtlZHVDNUw2XzNob3hxbVRYQmhybG9WOFFjRTBERGZWUkRGcVZuY2N2QU00OWp2QXRVT1JVbVpxeWdMRk5TMUo1akhHN1RaQU4?oc=5",
-      "summary": "总编辑圈点丨AI设计出合成RNA引导核酸酶，不仅能模仿自然，更能超越自然 中国科技网",
-      "publishedAt": "2026-07-17T17:45:00.000Z",
-      "timestamp": 1784310300000,
-      "source": {
-        "id": "google-news-china-ai",
-        "name": "Google News: China AI",
-        "region": "China",
-        "trust": "aggregator"
-      },
-      "categories": [
-        "applications"
-      ],
-      "score": 63
+      "score": 76
     },
     {
       "id": "ai-1rz0r58",
@@ -732,7 +1453,7 @@
       "categories": [
         "policy-safety"
       ],
-      "score": 70
+      "score": 68
     },
     {
       "id": "ai-1025pla",
@@ -750,7 +1471,7 @@
       "categories": [
         "applications"
       ],
-      "score": 62
+      "score": 60
     },
     {
       "id": "ai-158m6od",
@@ -768,7 +1489,7 @@
       "categories": [
         "capital-market"
       ],
-      "score": 88
+      "score": 86
     },
     {
       "id": "ai-oczwue",
@@ -786,7 +1507,25 @@
       "categories": [
         "applications"
       ],
-      "score": 62
+      "score": 60
+    },
+    {
+      "id": "ai-1mio35n",
+      "title": "新华社评论员：让人工智能不断增进全人类福祉、推动人类文明进步 - 中华人民共和国国防部",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1RVi11dXVoVlgwVUVzMWFBc09BT3pqcWVlSEFFM1hsWS04WXNmU2h0U3RVelIzcFZDSXgydU9DZWhlMVFBYnU3MTI2RjAwWS14bXduZ3Rybzl5dGFISER2ZVh1b1B0Zw?oc=5",
+      "summary": "新华社评论员：让人工智能不断增进全人类福祉、推动人类文明进步 中华人民共和国国防部",
+      "publishedAt": "2026-07-17T16:41:19.000Z",
+      "timestamp": 1784306479000,
+      "source": {
+        "id": "google-news-china-ai",
+        "name": "Google News: China AI",
+        "region": "China",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 60
     },
     {
       "id": "ai-g5irnx",
@@ -804,7 +1543,7 @@
       "categories": [
         "applications"
       ],
-      "score": 62
+      "score": 60
     },
     {
       "id": "ai-1qng5cv",
@@ -822,25 +1561,7 @@
       "categories": [
         "policy-safety"
       ],
-      "score": 88
-    },
-    {
-      "id": "ai-1qaxn1s",
-      "title": "金色相框｜携手构建公正合理的全球人工智能治理体系 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQU2I0a2NqSVdrN3R1SHBfclRkd3hSSXNrbmdPZ1NPbmRWMEpETS1tZ2xTaFBxaGdqZmtEVzR5YTJmMlhMNVNRRG8xRm0yQzh1WUpqYk10NV9RNnVWcVh0ZWQ4U3huVTQya2h5SlNlb3BQckJuZklkR241aFRnZ3hGOUdPdVA2aF83OTJqcHBR?oc=5",
-      "summary": "金色相框｜携手构建公正合理的全球人工智能治理体系 新华网",
-      "publishedAt": "2026-07-17T16:20:09.000Z",
-      "timestamp": 1784305209000,
-      "source": {
-        "id": "google-news-china-ai",
-        "name": "Google News: China AI",
-        "region": "China",
-        "trust": "aggregator"
-      },
-      "categories": [
-        "applications"
-      ],
-      "score": 62
+      "score": 86
     },
     {
       "id": "ai-xyzh6c",
@@ -858,7 +1579,7 @@
       "categories": [
         "applications"
       ],
-      "score": 62
+      "score": 60
     },
     {
       "id": "ai-s6p5l",
@@ -876,15 +1597,15 @@
       "categories": [
         "applications"
       ],
-      "score": 62
+      "score": 60
     },
     {
-      "id": "ai-1poy68n",
+      "id": "ai-d93lpq",
       "title": "近镜头｜共奏人工智能发展全球合作的交响 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNamVQMDloVTZDaHJjOW5memIwbWVTclRPcTdjMGxpZFlNcUM3d1dwTVRubG1GQVJrUGpoc3ppbTI2b2NjQUJDanBrRHlIMmhJMk4xUjhYYlVuQzdWNEZQbDVMYlM3UjVYbk16aHBZTkI0YldHeEZiS0pidzVaeWdKMU5kNC03VjFuNWxwVzlB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nMk9uNnFwXzRZbGxhdWYxdUU0N3c3NjhFcHR0STFJa0g5Q2doZ0drV1dvMlFTYmpsWk5GVzRBUnVjSzRLVDJNSGptSnlRdW9paFAxS1dQVVdOOUNVMTI2VjlqT0dtYUtKdWx5NUhsVkxHdUdOVmxEOFcxTHhtaDg?oc=5",
       "summary": "近镜头｜共奏人工智能发展全球合作的交响 新华网",
-      "publishedAt": "2026-07-17T16:05:29.000Z",
-      "timestamp": 1784304329000,
+      "publishedAt": "2026-07-17T16:05:32.000Z",
+      "timestamp": 1784304332000,
       "source": {
         "id": "google-news-china-ai",
         "name": "Google News: China AI",
@@ -894,7 +1615,25 @@
       "categories": [
         "applications"
       ],
-      "score": 62
+      "score": 60
+    },
+    {
+      "id": "ai-1uunp5a",
+      "title": "UK’s nuclear plants face risks of AI-powered cyber-attacks and insider threats - New Civil Engineer",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcTFVSEw4azd1R0JSLTVOWkwtLWV3R29xaGRBX2N0em1odmpvakN3UkRmeUtZTXVyUHo5TWdNSDJmTWlhRzB0R05FcDA1LU0xbE5peTFUdDNmOTZCMVhRWTctRHBMM0JRVS1PNGhoTWV1MEdDV3oxU3lZdS1yOWZGWkNtQkZRbGhSX2xsYk9DX2NkVVd1elA0REo0NXNLZEpHaGV1QVZCa0ZrZ2hKWVhSVjh1Z1BWNXlrUUp6N0kxMk0zZmhnSWRZNg?oc=5",
+      "summary": "UK’s nuclear plants face risks of AI-powered cyber-attacks and insider threats New Civil Engineer",
+      "publishedAt": "2026-07-17T16:01:56.000Z",
+      "timestamp": 1784304116000,
+      "source": {
+        "id": "eu-ai-policy-news",
+        "name": "Google News: EU AI Policy",
+        "region": "EU",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "policy-safety"
+      ],
+      "score": 68
     },
     {
       "id": "ai-phk500",
@@ -913,7 +1652,7 @@
         "policy-safety",
         "ai-infra"
       ],
-      "score": 78
+      "score": 76
     },
     {
       "id": "ai-1chawvj",
@@ -931,7 +1670,7 @@
       "categories": [
         "media-generation"
       ],
-      "score": 70
+      "score": 68
     },
     {
       "id": "ai-1tyep0n",
@@ -969,7 +1708,7 @@
       "categories": [
         "applications"
       ],
-      "score": 62
+      "score": 60
     },
     {
       "id": "ai-mi9xw6",
@@ -987,7 +1726,25 @@
       "categories": [
         "applications"
       ],
-      "score": 62
+      "score": 59
+    },
+    {
+      "id": "ai-pexbta",
+      "title": "Xi offers AI olive branch to the world, calling for ‘symphony of global cooperation’ - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSGoyZVdVdFIyM2tNbGxzNFhCUTFZVHNMTE91U2FBaF9ZaUZ1MlRjTDNjS3hfel95WHVNYWNDOXFtYWQwUE10SnFlZXJMV0dKS2ptR3hZWmw0dFZKd1ZKQ1VpN0RWUjJVYnUtZnM2ZTUta1RiczVBa1FNakJuXzUzcHFieUtNQQ?oc=5",
+      "summary": "Xi offers AI olive branch to the world, calling for ‘symphony of global cooperation’ Fortune",
+      "publishedAt": "2026-07-17T15:37:00.000Z",
+      "timestamp": 1784302620000,
+      "source": {
+        "id": "google-news-ai",
+        "name": "Google News: AI",
+        "region": "Global",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 59
     },
     {
       "id": "ai-c3ugdx",
@@ -1005,61 +1762,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 70
-    },
-    {
-      "id": "ai-fev1gp",
-      "title": "港澳办 - hmo.gov.cn",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5keTh0OEJZSWNTaF85Ri1uNms1dUJCc05kWUxKNkczc0c3Zm9sUXZxYTdqeV9vNUlKT2duVm9DUGxTTWs2UFdoZ0IxZ3kwUUozT3ZaVzkyeDBnd0lhS0k5NkJmYTlqSjFaNHFxdg?oc=5",
-      "summary": "港澳办 hmo.gov.cn",
-      "publishedAt": "2026-07-17T15:03:57.000Z",
-      "timestamp": 1784300637000,
-      "source": {
-        "id": "google-news-china-ai",
-        "name": "Google News: China AI",
-        "region": "China",
-        "trust": "aggregator"
-      },
-      "categories": [
-        "applications"
-      ],
-      "score": 62
-    },
-    {
-      "id": "ai-mwc9oe",
-      "title": "世界人工智能大会上，四川AI“天团”带来了啥展品？ - 四川新闻",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5OdzV2Qkpyc0I3LXN4WHJVdWthaVU0LTMzOHhrUUo5dTNYaVBpVkZRdUhGTFZzMmx5cHdCV2Q4MHRIbzJWT1AyQkdUdEN3alk5dWljNVo4aTRWa204NzVIdDI2Yw?oc=5",
-      "summary": "世界人工智能大会上，四川AI“天团”带来了啥展品？ 四川新闻",
-      "publishedAt": "2026-07-17T15:02:03.000Z",
-      "timestamp": 1784300523000,
-      "source": {
-        "id": "google-news-china-ai",
-        "name": "Google News: China AI",
-        "region": "China",
-        "trust": "aggregator"
-      },
-      "categories": [
-        "applications"
-      ],
-      "score": 62
-    },
-    {
-      "id": "ai-v86p40",
-      "title": "CT redoubles efforts to equip workforce for AI economy - CT Mirror",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMG5qUHBGUGFfTDY1MGlxc2RxeVBWRmJOQ2paeWRyd2VnTlhUZjQ5RG9ad1lkbVBNb3FEU2hyQmJXRmhOQUdYdWpYWFVSWFBmR0dZekxVMlI2NEpxX0FmcXZWQmdKc21UQzJnRTdvc2dtaHlnUWdqTEY0LTEzcEo2Mk42X3o?oc=5",
-      "summary": "CT redoubles efforts to equip workforce for AI economy CT Mirror",
-      "publishedAt": "2026-07-17T15:00:00.000Z",
-      "timestamp": 1784300400000,
-      "source": {
-        "id": "google-news-ai",
-        "name": "Google News: AI",
-        "region": "Global",
-        "trust": "aggregator"
-      },
-      "categories": [
-        "applications"
-      ],
-      "score": 62
+      "score": 67
     },
     {
       "id": "ai-w1ujcg",
@@ -1077,7 +1780,7 @@
       "categories": [
         "applications"
       ],
-      "score": 62
+      "score": 59
     },
     {
       "id": "ai-yev4kz",
@@ -1095,7 +1798,7 @@
       "categories": [
         "applications"
       ],
-      "score": 62
+      "score": 59
     },
     {
       "id": "ai-1uisvna",
@@ -1113,7 +1816,7 @@
       "categories": [
         "applications"
       ],
-      "score": 62
+      "score": 59
     },
     {
       "id": "ai-16u4y3d",
@@ -1131,7 +1834,7 @@
       "categories": [
         "applications"
       ],
-      "score": 62
+      "score": 59
     },
     {
       "id": "ai-107yf6k",
@@ -1149,7 +1852,7 @@
       "categories": [
         "policy-safety"
       ],
-      "score": 70
+      "score": 67
     },
     {
       "id": "ai-6w9ks2",
@@ -1168,7 +1871,7 @@
         "applications",
         "capital-market"
       ],
-      "score": 78
+      "score": 75
     },
     {
       "id": "ai-1ok9q0g",
@@ -1186,7 +1889,7 @@
       "categories": [
         "applications"
       ],
-      "score": 62
+      "score": 59
     },
     {
       "id": "ai-169qmuz",
@@ -1204,7 +1907,7 @@
       "categories": [
         "policy-safety"
       ],
-      "score": 70
+      "score": 67
     },
     {
       "id": "ai-18qug25",
@@ -1222,7 +1925,7 @@
       "categories": [
         "applications"
       ],
-      "score": 62
+      "score": 59
     },
     {
       "id": "ai-1nqt86u",
@@ -1240,7 +1943,7 @@
       "categories": [
         "applications"
       ],
-      "score": 62
+      "score": 59
     },
     {
       "id": "ai-138f2un",
@@ -1258,7 +1961,7 @@
       "categories": [
         "applications"
       ],
-      "score": 62
+      "score": 59
     },
     {
       "id": "ai-1p2rvdk",
@@ -1276,7 +1979,25 @@
       "categories": [
         "capital-market"
       ],
-      "score": 69
+      "score": 67
+    },
+    {
+      "id": "ai-ty3l79",
+      "title": "Shopping With AI - Ipsos",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5JRWN4NWNXTXFtREhUb1ZMR0hjdDhIejM0dGdoYTVQRFlERmJ0bklGZEFQWjZmMUl0X01ROUpGSVdLOTNUVG5HbkJJaVpabUlaYXIyZ1I3bw?oc=5",
+      "summary": "Shopping With AI Ipsos",
+      "publishedAt": "2026-07-17T13:14:03.000Z",
+      "timestamp": 1784294043000,
+      "source": {
+        "id": "google-news-ai",
+        "name": "Google News: AI",
+        "region": "Global",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 59
     },
     {
       "id": "ai-1ttn7ph",
@@ -1294,7 +2015,7 @@
       "categories": [
         "applications"
       ],
-      "score": 61
+      "score": 59
     },
     {
       "id": "ai-60nyyb",
@@ -1312,7 +2033,7 @@
       "categories": [
         "applications"
       ],
-      "score": 61
+      "score": 59
     },
     {
       "id": "ai-13yibnq",
@@ -1330,7 +2051,7 @@
       "categories": [
         "policy-safety"
       ],
-      "score": 69
+      "score": 67
     },
     {
       "id": "ai-1de842i",
@@ -1348,15 +2069,15 @@
       "categories": [
         "policy-safety"
       ],
-      "score": 69
+      "score": 67
     },
     {
-      "id": "ai-1p4nbk5",
-      "title": "习近平倡议中国建立全球AI新秩序 挑战美国主导地位 - DW.com",
-      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOekpzVWVuVE41UWZwNEV4cllua0pPVDI2NXZveXNNRExrckNlRmFfWjNfNXZoNUFzb05GbzJvYlNJTmt6bmduRXRBNXhQNU1wOU5NTzZWczdEbHV6ZUhlS1kxb3d0OHc4Uzdxc09YS3l6N2dwX3lMZVJSVEp1ZWlaaEt2NUdPYnZ1QmRhLThGRVUxTnh5dkx2aE9yY0hRRUhha1lka2J2OHNzcDJLUVJTbEhyQWRtZG5JNGk5WWlJcjBHbFIxT1dMNTllTHVvS3hyakx5U0tEYV9EMngybWNnb2R1eEk3VDZxY1h6bEs4c21KdTczYmQ3Qk81ZVZMWGJfYnBxMHBtZnpQZ2U5SXVEU0pGNFhjNE83dGR4ZXB0T21BUWdYenByUVl4R0E0WTZhLUh5US1UMTE1aGVYSWRobUxiNVk5MzlId25jUVRTdEllbjJx0gHUAkFVX3lxTE1nZ29NZUpqYUV0MTl6SlR0Vlc5TWowa0l2MEdBcmVQVndnQnhMeHo2T0tkb2tGczZCY0l6LTRsX3U0Yl9qRGo3WVg2RTNWUGV0QlM2djBZSkhxWTYtNEJUd0ctTmF2eGVuRnd2Q0gteE9qV0FyOHNzNlRMWVZ6TlY3eGdUaHRhcEVrYXdfbkJ0TzhXV2hYZjFPd3E5UWpCSGZfWmhleHVjdXBxbGtMdEF1MUMweEFnWmFLQ1IxX21iWkxMU2VwZWU0UEZHbC1UWkJfcHRyS3JzUEp2bUZxNVA0LUFpeXdwV3dhS3FKbU5kdnkxazVLUXZ4U1RpOU1RcHRhTWNWTXFoZjA4UG9WbTJBODBZZ2w1VUpJYnZGU3BlSzlkX21wckp3Z1dOZ2RReDBkWURHMmtJZTR1MGxKRFBkRWxBMXgwUWNtR3BhTDIxRExoVXI?oc=5",
-      "summary": "习近平倡议中国建立全球AI新秩序 挑战美国主导地位 DW.com",
-      "publishedAt": "2026-07-17T12:57:19.000Z",
-      "timestamp": 1784293039000,
+      "id": "ai-dchuhs",
+      "title": "总台周末看点丨你好，AI新伙伴 - 央视网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBtenlWN0psQzRDaE5JSEh4a29yRWN2RWFWd1N6TTYwSTd3Qjg0bnF5MTgzMDJiOVlQcmlZaXRQSUJsVGpmVUkxOW5fcFZtS2V1Q0k1b0xLeVFJMk5GeFRsU3FHbDJMcGp6eHprQmhFS2Y3cl8zdmZ3?oc=5",
+      "summary": "总台周末看点丨你好，AI新伙伴 央视网",
+      "publishedAt": "2026-07-17T12:50:00.000Z",
+      "timestamp": 1784292600000,
       "source": {
         "id": "google-news-china-ai",
         "name": "Google News: China AI",
@@ -1366,7 +2087,7 @@
       "categories": [
         "applications"
       ],
-      "score": 61
+      "score": 59
     },
     {
       "id": "ai-149gemq",
@@ -1384,7 +2105,7 @@
       "categories": [
         "applications"
       ],
-      "score": 61
+      "score": 59
     },
     {
       "id": "ai-14bilnz",
@@ -1402,7 +2123,7 @@
       "categories": [
         "applications"
       ],
-      "score": 61
+      "score": 59
     },
     {
       "id": "ai-13z2d17",
@@ -1420,7 +2141,7 @@
       "categories": [
         "policy-safety"
       ],
-      "score": 69
+      "score": 67
     },
     {
       "id": "ai-1s01osc",
@@ -1439,15 +2160,15 @@
         "ai-infra",
         "capital-market"
       ],
-      "score": 77
+      "score": 75
     },
     {
-      "id": "ai-1fpmssa",
-      "title": "海尔智家李华刚：全面推进AI落地向平台服务型科技生态企业转型 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAwMU5hazdIZTdSc2NJbGt2eUZXQTQ5aVBGRC1LcmltY3RpRnQ2OVo1bVhZSlRPdXVxZXFwZm9sSW5fTkgyZE1JaVVkdXFOa1BZaWIyeFh5dktEU25VUjZMWDg1bEFZRXBXeXFwTjZLanhoUmFLVUdkSENwMTA?oc=5",
-      "summary": "海尔智家李华刚：全面推进AI落地向平台服务型科技生态企业转型 新华网",
-      "publishedAt": "2026-07-17T11:59:52.000Z",
-      "timestamp": 1784289592000,
+      "id": "ai-e3vszp",
+      "title": "文汇视讯｜徐立：适合长期发展和存在的AI，是让人获得成长的AI - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIMlRyVVJQVl84NnBrMzMzRGJ5ZEdqejRUSVNqNHZsVmo0Z3BBWnZkQzdSandxLVlqUTZsdXRpRWNRQnIzby1sVlJDTHZ3X1VzUXU4NlByeXdrQUhiWERwMw?oc=5",
+      "summary": "文汇视讯｜徐立：适合长期发展和存在的AI，是让人获得成长的AI 东方财富",
+      "publishedAt": "2026-07-17T11:54:35.000Z",
+      "timestamp": 1784289275000,
       "source": {
         "id": "google-news-china-ai",
         "name": "Google News: China AI",
@@ -1457,25 +2178,7 @@
       "categories": [
         "applications"
       ],
-      "score": 61
-    },
-    {
-      "id": "ai-hk8vh8",
-      "title": "千问AI眼镜将升级为智能体眼镜：能灵活调用Skill和Agent，能全天候感知 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9INGNWVjZPQ1NjbEJZVXFtRklJWURBOUZBdXUwVzdTODNxeGprUHNIalpWR3FWMFZKakxsOW5CSzBIWmtUb0dMLXFoRVIzNEYySU9uWjNLZm13RnluM1lDSUhZejVsRXplbWxYTWFmWDVYekpxcTd1RDB3Vzc?oc=5",
-      "summary": "千问AI眼镜将升级为智能体眼镜：能灵活调用Skill和Agent，能全天候感知 新华网",
-      "publishedAt": "2026-07-17T11:48:41.000Z",
-      "timestamp": 1784288921000,
-      "source": {
-        "id": "google-news-china-ai",
-        "name": "Google News: China AI",
-        "region": "China",
-        "trust": "aggregator"
-      },
-      "categories": [
-        "agents"
-      ],
-      "score": 69
+      "score": 59
     },
     {
       "id": "ai-1wr3chd",
@@ -1493,7 +2196,7 @@
       "categories": [
         "media-generation"
       ],
-      "score": 69
+      "score": 66
     },
     {
       "id": "ai-1k6sx16",
@@ -1511,25 +2214,25 @@
       "categories": [
         "applications"
       ],
-      "score": 61
+      "score": 58
     },
     {
-      "id": "ai-1gaocjn",
-      "title": "AI股失寵拖累台日韓股市投顧：後市觀察台積電動向| 證券 - 中央社 CNA",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB6alpjeW1Dd0xnMm1hSXEwejhfUTgtbE1DVWZkQ2R6UndaUHdxeE1COFRiclNIcWR5MUszdlJyZnNrR3RoM1J3R3kwczAtLU9sTTNpRkhZRXJ5LV9RWWc?oc=5",
-      "summary": "AI股失寵拖累台日韓股市投顧：後市觀察台積電動向| 證券 中央社 CNA",
-      "publishedAt": "2026-07-17T11:43:00.000Z",
-      "timestamp": 1784288580000,
+      "id": "ai-9rvig8",
+      "title": "2026世界人工智能大会今日启幕 300余款首发产品展现AI产业新突破 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1dDVOM2dBa0ZYSDFUT3k0NDlfVlFGZ2hlOEREMEp2Vm95VGdlQ3p3LU4tOUtETGNLcWpmQUc0QjZFRWpSQzBubTQ2dWtvODVaRmtXNnMxMWVueWQzczNmWA?oc=5",
+      "summary": "2026世界人工智能大会今日启幕 300余款首发产品展现AI产业新突破 东方财富",
+      "publishedAt": "2026-07-17T11:38:26.000Z",
+      "timestamp": 1784288306000,
       "source": {
-        "id": "google-news-taiwan-ai",
-        "name": "Google News: Taiwan AI",
-        "region": "Taiwan",
+        "id": "google-news-china-ai",
+        "name": "Google News: China AI",
+        "region": "China",
         "trust": "aggregator"
       },
       "categories": [
         "applications"
       ],
-      "score": 61
+      "score": 58
     },
     {
       "id": "ai-8p046u",
@@ -1547,7 +2250,7 @@
       "categories": [
         "applications"
       ],
-      "score": 61
+      "score": 58
     },
     {
       "id": "ai-1ej7tlm",
@@ -1565,7 +2268,7 @@
       "categories": [
         "policy-safety"
       ],
-      "score": 69
+      "score": 66
     },
     {
       "id": "ai-1cr2ki9",
@@ -1583,7 +2286,7 @@
       "categories": [
         "applications"
       ],
-      "score": 61
+      "score": 58
     },
     {
       "id": "ai-hfo0lq",
@@ -1601,7 +2304,7 @@
       "categories": [
         "applications"
       ],
-      "score": 61
+      "score": 58
     },
     {
       "id": "ai-jc0dit",
@@ -1619,7 +2322,25 @@
       "categories": [
         "applications"
       ],
-      "score": 61
+      "score": 58
+    },
+    {
+      "id": "ai-6tmzzm",
+      "title": "《人工智能合作发展行动计划》发布_总台之声 - 央视网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Ha3dncVctXzNIVXJ1VDZsLTZTZnVWTTRPSHdSNkxXLTQ3aWtiYlBib2lodURlbGtWSzVDOWdYUzNaVHJITDMzYXZETnRNMEp2RDBsTml0bUR1aXBleXRHRzJMMWZheGNsTk5ZTFFXV09lVHYyb2xZ?oc=5",
+      "summary": "《人工智能合作发展行动计划》发布_总台之声 央视网",
+      "publishedAt": "2026-07-17T11:02:00.000Z",
+      "timestamp": 1784286120000,
+      "source": {
+        "id": "google-news-china-ai",
+        "name": "Google News: China AI",
+        "region": "China",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 58
     },
     {
       "id": "ai-1i3zr8f",
@@ -1637,7 +2358,7 @@
       "categories": [
         "applications"
       ],
-      "score": 61
+      "score": 58
     },
     {
       "id": "ai-rc45oc",
@@ -1655,7 +2376,7 @@
       "categories": [
         "applications"
       ],
-      "score": 61
+      "score": 58
     },
     {
       "id": "ai-f5rwx0",
@@ -1673,25 +2394,25 @@
       "categories": [
         "applications"
       ],
-      "score": 61
+      "score": 58
     },
     {
-      "id": "ai-tj590k",
-      "title": "企業 AI 新戰場在算力基礎設施 CNEX 以台灣為亞洲樞紐布局 | 信傳媒 - LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sanF6a215MGllbzFCMUdEVVlqT0g3Q0Zxa0hZbGFHMm84cUExZ2lpbUtlU3ZmcmhrMDZmb3BMVExiWUN2QWpyenBadzhTRFlob3YxT2Rn?oc=5",
-      "summary": "企業 AI 新戰場在算力基礎設施 CNEX 以台灣為亞洲樞紐布局 | 信傳媒 LINE TODAY",
-      "publishedAt": "2026-07-17T10:25:34.000Z",
-      "timestamp": 1784283934000,
+      "id": "ai-8x6umb",
+      "title": "2026世界人工智能大会在上海开幕 - 中国日报网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9udllMZXBVbXJCcHJBSW4xcmJheVBjUjhiZEE4bWhoaVBab2pQSFRNT25NX0dUajYzbGI2QUlscFBGcXF4SHBvbHZVUXlHblh3Y0pob1h3SmMwVG5GTXd0Tk9DNjYtb0VSVG9uVkpoelk4VVR0RWZ1SGhOdkI?oc=5",
+      "summary": "2026世界人工智能大会在上海开幕 中国日报网",
+      "publishedAt": "2026-07-17T10:29:01.000Z",
+      "timestamp": 1784284141000,
       "source": {
-        "id": "google-news-taiwan-ai",
-        "name": "Google News: Taiwan AI",
-        "region": "Taiwan",
+        "id": "google-news-china-ai",
+        "name": "Google News: China AI",
+        "region": "China",
         "trust": "aggregator"
       },
       "categories": [
         "applications"
       ],
-      "score": 61
+      "score": 58
     },
     {
       "id": "ai-1szlkfj",
@@ -1709,7 +2430,7 @@
       "categories": [
         "media-generation"
       ],
-      "score": 69
+      "score": 66
     },
     {
       "id": "ai-l6kbzv",
@@ -1727,25 +2448,7 @@
       "categories": [
         "applications"
       ],
-      "score": 61
-    },
-    {
-      "id": "ai-uzepse",
-      "title": "China’s AI Ascendance Gives Xi a Stage and a Security Dilemma - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNmg1cGo5bG9kT2RIcDc3ajYyN3J3RG9UWTBrZGJnajBrZmRrenVmZnZleEdNWXFKT0RwYUlYV01uR2lmUnBkR216T3JVdG9zYmhhWG94R0d3NWI5d09FY1FNdnh5MHN2X2xubkFaSGtYeEdxbEpuUXpsS2cxM0l2NmpxT1l1MmVJYTFfMDMxcW44aUdUMzJYZDJvX2pGUkNjSjRJcjI0bHJvV21lQWM0VVNB?oc=5",
-      "summary": "China’s AI Ascendance Gives Xi a Stage and a Security Dilemma Bloomberg.com",
-      "publishedAt": "2026-07-17T10:09:45.000Z",
-      "timestamp": 1784282985000,
-      "source": {
-        "id": "eu-ai-policy-news",
-        "name": "Google News: EU AI Policy",
-        "region": "EU",
-        "trust": "aggregator"
-      },
-      "categories": [
-        "policy-safety"
-      ],
-      "score": 69
+      "score": 58
     },
     {
       "id": "ai-1vd8zut",
@@ -1763,7 +2466,7 @@
       "categories": [
         "policy-safety"
       ],
-      "score": 79
+      "score": 76
     },
     {
       "id": "ai-4c4mew",
@@ -1781,7 +2484,7 @@
       "categories": [
         "applications"
       ],
-      "score": 61
+      "score": 58
     },
     {
       "id": "ai-12uuc4y",
@@ -1799,7 +2502,25 @@
       "categories": [
         "applications"
       ],
-      "score": 79
+      "score": 76
+    },
+    {
+      "id": "ai-1vgqvp2",
+      "title": "金句来了！“让人工智能这匹千里马既跑得快又跑得稳” - 中国科技网",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96T25xUlhGYkw0Qml5MEpLX0FvZjR5VXBWQjJieE5DNlZfVlJESDJ1bzA0QmZQU3haUnp1dDFWdlJzNDJkdF9Eb1FGcDMwLVVGZGRsT1QwcWhfdmItd3dqeVlWOXN2ajlUWnc?oc=5",
+      "summary": "金句来了！“让人工智能这匹千里马既跑得快又跑得稳” 中国科技网",
+      "publishedAt": "2026-07-17T09:54:00.000Z",
+      "timestamp": 1784282040000,
+      "source": {
+        "id": "google-news-china-ai",
+        "name": "Google News: China AI",
+        "region": "China",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 58
     },
     {
       "id": "ai-dchec3",
@@ -1817,7 +2538,7 @@
       "categories": [
         "applications"
       ],
-      "score": 61
+      "score": 58
     },
     {
       "id": "ai-bjnhuk",
@@ -1835,7 +2556,7 @@
       "categories": [
         "applications"
       ],
-      "score": 61
+      "score": 58
     },
     {
       "id": "ai-xq08u",
@@ -1853,7 +2574,7 @@
       "categories": [
         "applications"
       ],
-      "score": 61
+      "score": 58
     },
     {
       "id": "ai-1j47paa",
@@ -1871,7 +2592,25 @@
       "categories": [
         "applications"
       ],
-      "score": 60
+      "score": 58
+    },
+    {
+      "id": "ai-hxel8h",
+      "title": "世界人工智能合作组织协定签署仪式举行 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE16TUdGZC1CUFZCZzdHQTktczhFdTFVdUwzMXA4czRZaHZCUDBrbHhKVUQzdDhfMHlyZXlRMkhYaGhmLWNEbHp4ZUx3eHVQUUFvUURaRVBFcHFPRy1YdGVxRw?oc=5",
+      "summary": "世界人工智能合作组织协定签署仪式举行 东方财富",
+      "publishedAt": "2026-07-17T09:27:03.000Z",
+      "timestamp": 1784280423000,
+      "source": {
+        "id": "google-news-china-ai",
+        "name": "Google News: China AI",
+        "region": "China",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 58
     },
     {
       "id": "ai-1gpk2hu",
@@ -1890,25 +2629,7 @@
         "media-generation",
         "foundation-models"
       ],
-      "score": 76
-    },
-    {
-      "id": "ai-u7ugjw",
-      "title": "世界人工智能合作组织在上海成立 29个创始成员国签署协定 - 财新",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wenJPMWxra2ZEUWVTM0hHaS1rclZ6UUlkV2p5TF9HTzg1Y2hSNFdDaVJXdW1fbU9ZbE5YcDRILWJyTXc5MGVFaWdqXzZQVzNOcmRKNzViN3RXQTZCQ0lMR2lMckY?oc=5",
-      "summary": "世界人工智能合作组织在上海成立 29个创始成员国签署协定 财新",
-      "publishedAt": "2026-07-17T09:17:00.000Z",
-      "timestamp": 1784279820000,
-      "source": {
-        "id": "google-news-china-ai",
-        "name": "Google News: China AI",
-        "region": "China",
-        "trust": "aggregator"
-      },
-      "categories": [
-        "applications"
-      ],
-      "score": 60
+      "score": 74
     },
     {
       "id": "ai-1caqcrf",
@@ -1926,7 +2647,7 @@
       "categories": [
         "policy-safety"
       ],
-      "score": 68
+      "score": 66
     },
     {
       "id": "ai-6xsp4p",
@@ -1944,7 +2665,25 @@
       "categories": [
         "applications"
       ],
-      "score": 60
+      "score": 58
+    },
+    {
+      "id": "ai-1cnf73h",
+      "title": "AI 模型升級秀加速算力需求 鴻海、廣達、緯創接單動能強勁 - 經濟日報",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90ZkV6ck5NT2NMaU5KQU1NVDJxam1HUkFmLXkzUkxodTBiV1BfQTkxNXVDRlpxWDY5QWFTaW1BRzJnRjRwRUJDWi1mWkROeDZ1dWUyWVRqQjJpaFnSAWBBVV95cUxOWEpTSFh4X3dSUUlSaDJib1pXYW9MNmtiVHBnYlJiVW5hbDJ0SlVlSHhrWFVOYnRVT0xlRk5naEtXNFZwZ2x1M3RkWXV6S2U0S0JMTjlEcUQ0eU52VG9FelM?oc=5",
+      "summary": "AI 模型升級秀加速算力需求 鴻海、廣達、緯創接單動能強勁 經濟日報",
+      "publishedAt": "2026-07-17T09:00:00.000Z",
+      "timestamp": 1784278800000,
+      "source": {
+        "id": "google-news-taiwan-ai-media-generation",
+        "name": "Google News: Taiwan AI Image/Video Generation",
+        "region": "Taiwan",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "media-generation"
+      ],
+      "score": 66
     },
     {
       "id": "ai-bzh8w4",
@@ -1962,7 +2701,7 @@
       "categories": [
         "policy-safety"
       ],
-      "score": 68
+      "score": 66
     },
     {
       "id": "ai-6q282m",
@@ -1980,7 +2719,7 @@
       "categories": [
         "policy-safety"
       ],
-      "score": 68
+      "score": 66
     },
     {
       "id": "ai-69nx3i",
@@ -1998,7 +2737,7 @@
       "categories": [
         "applications"
       ],
-      "score": 60
+      "score": 58
     },
     {
       "id": "ai-qf5gur",
@@ -2016,7 +2755,25 @@
       "categories": [
         "applications"
       ],
-      "score": 60
+      "score": 58
+    },
+    {
+      "id": "ai-1sc497w",
+      "title": "Opinion | To stay competitive, Chinese brands must learn to command agentic AI - South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRERtX3FyM2RKVkhOa2ZhV3hOXzFHdDJFMGt6QlYtdXotMzBtMnhDem83N18xRFdkNkV4UnFNZjFsanlOV0wyY01qMWpaczU1THU5cFFuTXQ5MDkxNlM1SUNrblNfbmpMWlEwcVFOVkRWRGRURXpSTlVwN204a2xsdVF6YWpzc1Zxd0lFRUR5WGNqRFdzZW5TdWk2STFmOXByVzFTX9IBpAFBVV95cUxPVE8yYzN3b0R0TDNWVThGQ0I1VEI1ZHVrVlFxZVBuaXZtdWpzbFJ0VGNNZHQyekNZdnZXSkgwVE1kWFdhS1NaMzk5dVl2ak1RQTZiaHpDQmRuWXU1cFFKanlKeVFMaHdmU19GdkVXZV9Sb0tHU1hUSmtMV3VfZW5fbmZTeElLSThCbng4dEg3eFoxcnV3U1djODN0YVhPOVNsdi1Gaw?oc=5",
+      "summary": "Opinion | To stay competitive, Chinese brands must learn to command agentic AI South China Morning Post",
+      "publishedAt": "2026-07-17T08:30:06.000Z",
+      "timestamp": 1784277006000,
+      "source": {
+        "id": "google-news-ai",
+        "name": "Google News: AI",
+        "region": "Global",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "agents"
+      ],
+      "score": 66
     },
     {
       "id": "ai-osmsj3",
@@ -2034,7 +2791,7 @@
       "categories": [
         "policy-safety"
       ],
-      "score": 78
+      "score": 76
     },
     {
       "id": "ai-reytas",
@@ -2052,7 +2809,7 @@
       "categories": [
         "policy-safety"
       ],
-      "score": 68
+      "score": 66
     },
     {
       "id": "ai-wjfmce",
@@ -2070,12 +2827,12 @@
       "categories": [
         "applications"
       ],
-      "score": 60
+      "score": 58
     },
     {
-      "id": "ai-s387jy",
+      "id": "ai-953mau",
       "title": "President Xi Jinping Attends the Opening Ceremony of the 2026 World AI Conference and High-Level Meeting on Global AI Governance and Delivers Keynote Address_Ministry of Foreign Affairs of the People's Republic of China - mfa.gov.cn",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1mSWExckVqaHJqS1B0UEsxdUVJYjdKdE96Nm1ad3hEbHBnZEh1ZmNoWFFiVmNrVUliRDA0S0hVR0RGTmR5RWZIRjVKWFNpWl9RdDlyU0NCY3Q5cllQTlgzY3VtZGtHWUVPNGlVMl9LVUxSNWs?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5KenhEemNoX2pGeFgyX09OWkVJNS1qQmh2ZEVKdGs3SXE4TlV3ZW80NHdkTjhCQTZCNzNmeGNWdEFzZ0czNXBMdzU4V1JCZ1o5T2dsVGc0dGRTdV9MQVRLcXViRlN2ZUVtd010cllfT1pYZW8?oc=5",
       "summary": "President Xi Jinping Attends the Opening Ceremony of the 2026 World AI Conference and High-Level Meeting on Global AI Governance and Delivers Keynote Address_Ministry of Foreign Affairs of the People's Republic of China mfa.gov.cn",
       "publishedAt": "2026-07-17T08:09:00.000Z",
       "timestamp": 1784275740000,
@@ -2088,7 +2845,7 @@
       "categories": [
         "policy-safety"
       ],
-      "score": 68
+      "score": 66
     },
     {
       "id": "ai-1yc2x3d",
@@ -2106,7 +2863,7 @@
       "categories": [
         "applications"
       ],
-      "score": 60
+      "score": 58
     },
     {
       "id": "ai-tihen2",
@@ -2124,25 +2881,7 @@
       "categories": [
         "applications"
       ],
-      "score": 60
-    },
-    {
-      "id": "ai-1ic2yj4",
-      "title": "AI正在拓宽办公软件的边界 - 中国科技网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvUmRpMDNwcXZMOW5idlEwQ3loSFEyYl9VM3ZBSTlOR3ptSFBGRllWTHZfdGpnNEJVTGVfSzhLX2lmUjdnbnpTY1lUZ2pRTTltSHRvY3U4c2wxbUJWREpydVFsYmJWZE9oczh0VUxORDI?oc=5",
-      "summary": "AI正在拓宽办公软件的边界 中国科技网",
-      "publishedAt": "2026-07-17T07:56:16.000Z",
-      "timestamp": 1784274976000,
-      "source": {
-        "id": "google-news-china-ai",
-        "name": "Google News: China AI",
-        "region": "China",
-        "trust": "aggregator"
-      },
-      "categories": [
-        "applications"
-      ],
-      "score": 60
+      "score": 58
     },
     {
       "id": "ai-cl9v29",
@@ -2160,7 +2899,7 @@
       "categories": [
         "applications"
       ],
-      "score": 60
+      "score": 57
     },
     {
       "id": "ai-gdldbl",
@@ -2178,7 +2917,7 @@
       "categories": [
         "applications"
       ],
-      "score": 60
+      "score": 57
     },
     {
       "id": "ai-12ownmv",
@@ -2196,7 +2935,7 @@
       "categories": [
         "policy-safety"
       ],
-      "score": 68
+      "score": 65
     },
     {
       "id": "ai-dmm4kl",
@@ -2214,7 +2953,25 @@
       "categories": [
         "applications"
       ],
-      "score": 60
+      "score": 57
+    },
+    {
+      "id": "ai-1hm05vz",
+      "title": "外媒观察丨国际聚焦2026世界人工智能大会 中国AI硬核实力赋能全球发展 - 中国网",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1FRDNXQzJOeGdIZFZSSkJPUDNoVVl6ckUyN0Rlbk1xbzJxeXpwSHZ4eTY1N0JmeHlraTFlMENFaEMwOERtc0puQXNfZjUzYUJwQlo4bU10X243TVp2TXg0MllycVVxbDdmb0JmXzE3cw?oc=5",
+      "summary": "外媒观察丨国际聚焦2026世界人工智能大会 中国AI硬核实力赋能全球发展 中国网",
+      "publishedAt": "2026-07-17T07:13:26.000Z",
+      "timestamp": 1784272406000,
+      "source": {
+        "id": "google-news-china-ai",
+        "name": "Google News: China AI",
+        "region": "China",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 57
     },
     {
       "id": "ai-153z9ug",
@@ -2232,12 +2989,12 @@
       "categories": [
         "policy-safety"
       ],
-      "score": 68
+      "score": 65
     },
     {
-      "id": "ai-1h7i14g",
+      "id": "ai-187sbfs",
       "title": "Joining Hands to Build a Just and Equitable System For Global AI Governance - mfa.gov.cn",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBvTGttYlA1T0trU21QZUpxSXNTTUpXczlLSENieG5HMW9qYndkYnl5QXdpazRzMWxOS1hXdlI5NGt2VlNXSjN4ZTR5OVF0SFJLLVIzMUdLS0tJOGtKQTZpZV82cUdJSnlyY0s1MmQtUGUwWk0?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE40S3R3NDR0dUgydi1PVjJ2TVhoZVFFMkdGTHhacHhHYlgyX0RWcEYwNzJQcW9oWFJ6Tnc3V3NvdjFQZUk3NUtQdk43Wm1IbzRydno0NGtUZEZPX3ZtRFRuNmU4czVndDZfVjFzNE01RGIxbTQ?oc=5",
       "summary": "Joining Hands to Build a Just and Equitable System For Global AI Governance mfa.gov.cn",
       "publishedAt": "2026-07-17T06:59:00.000Z",
       "timestamp": 1784271540000,
@@ -2250,7 +3007,7 @@
       "categories": [
         "policy-safety"
       ],
-      "score": 68
+      "score": 65
     },
     {
       "id": "ai-1e059o9",
@@ -2268,7 +3025,25 @@
       "categories": [
         "policy-safety"
       ],
-      "score": 68
+      "score": 65
+    },
+    {
+      "id": "ai-18m8zq2",
+      "title": "When AI Models Learn from Employees: The Next Trade Secret Battleground - Brownstein Hyatt Farber Schreck",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbjZuaGlENEVnMkQ4UVE4WnlQUlhVYkZHRXNROHRkX3I2VVFCQlNlc09YU0dnZ1B0SmpKTmtxRkRYbHJjNC1GdnNSSVgxS3AwdGdHdEwyMDJJYnpRY2kxNHFKb0c3cXUyYXh5bXE0a2lBcGJkYzUxb0Jnc29LUEJNOFdULUN4M3lVcmtOaDNtWXljcnRYSlFvd3lnUEZqbHloX0E?oc=5",
+      "summary": "When AI Models Learn from Employees: The Next Trade Secret Battleground Brownstein Hyatt Farber Schreck",
+      "publishedAt": "2026-07-17T06:46:02.000Z",
+      "timestamp": 1784270762000,
+      "source": {
+        "id": "google-news-ai",
+        "name": "Google News: AI",
+        "region": "Global",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 57
     },
     {
       "id": "ai-7l5kf9",
@@ -2287,25 +3062,7 @@
         "media-generation",
         "foundation-models"
       ],
-      "score": 76
-    },
-    {
-      "id": "ai-fet7dc",
-      "title": "千问首款AI智能体耳机将在WAIC亮相 - 东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9aNUlMWmcwa1BoZ2FvY3JSZnFhOUw2Umw0c0ZNbWREd280U1FpR1QyX2dvZHpVWm1xd3VKN3dpamZpWEFGeWhCTVhpMmx4STZCeXpuQ01jVWRDTUhjN0VRbg?oc=5",
-      "summary": "千问首款AI智能体耳机将在WAIC亮相 东方财富",
-      "publishedAt": "2026-07-17T06:40:06.000Z",
-      "timestamp": 1784270406000,
-      "source": {
-        "id": "google-news-china-ai",
-        "name": "Google News: China AI",
-        "region": "China",
-        "trust": "aggregator"
-      },
-      "categories": [
-        "applications"
-      ],
-      "score": 60
+      "score": 73
     },
     {
       "id": "ai-1mhpee0",
@@ -2323,12 +3080,30 @@
       "categories": [
         "policy-safety"
       ],
-      "score": 78
+      "score": 75
     },
     {
-      "id": "ai-32cflq",
+      "id": "ai-1vo3qzb",
+      "title": "Xi unveils China’s vision for a new global AI order - Modern Diplomacy",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWnFpTnlwM0VHYm4tT0FxNmdpNmVtQzd3clhJNklPSGhzVzhIYWdTZzFRYTAxT0NWeEFPcVAzZVpnSk1tTDV4dzJlcjdtak9sTVhCWUUweTluRGZac3JfZ0hyY0dsbjhmOXRDSmZrVjR0b3R1dWoydFZOTEh6d2o5bEJGVFJKNmN1SnIxd21MVVZsVmM?oc=5",
+      "summary": "Xi unveils China’s vision for a new global AI order Modern Diplomacy",
+      "publishedAt": "2026-07-17T05:58:02.000Z",
+      "timestamp": 1784267882000,
+      "source": {
+        "id": "eu-ai-policy-news",
+        "name": "Google News: EU AI Policy",
+        "region": "EU",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "policy-safety"
+      ],
+      "score": 65
+    },
+    {
+      "id": "ai-1ia3j3e",
       "title": "习近平主席纵论全球人工智能治理体系，金句来了 - spp.gov.cn",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0ySG9mMlpiUkdnWE41LTZ3NVVDSFZPMjlUemlkSnRkZkhtb09YV0xjTWdicUcxbXI1dWRrZkgxZldiZG5pVzRDc0RRNDZGZGxvQVI0cDFRYXBBWlBpaHlyZThRVzVIZw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE01ZTFCbDdVdEVfeUdvcG13YWowY0h4c3hvMFRhWkVmYkY4bjRZRjgwd0hWY3k2eko1UElRdjBhVG9XRVktcDMzTUFaMjY3S2tSSndVX2ZSSWJraGdNZlUxSnYwSHJscExqYzRB?oc=5",
       "summary": "习近平主席纵论全球人工智能治理体系，金句来了 spp.gov.cn",
       "publishedAt": "2026-07-17T05:50:26.000Z",
       "timestamp": 1784267426000,
@@ -2341,7 +3116,7 @@
       "categories": [
         "applications"
       ],
-      "score": 60
+      "score": 57
     },
     {
       "id": "ai-juu5zg",
@@ -2359,25 +3134,7 @@
       "categories": [
         "applications"
       ],
-      "score": 60
-    },
-    {
-      "id": "ai-g358s0",
-      "title": "Xi pitches China as AI partner to developing world, warns against risks and security overreach - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5nRDNkN1V1YXJVaFcyT3dhc2FnN0Y4djN2d3Ffd0MxejdFWENWQjFiVV85cHJfWFRNOXd1RzlwTGFQRWMwWllRYTNaYWl1YU9zZGJMaEEtTVlnVGdENFVBMGxCaVdadEM5ZXJDTTNrM0N4SDNpX2pJQdIBfkFVX3lxTE9VTnBHZk1XYWZsVlpjUkNMYXkzOFE5Y2NMUXlZMUNCNzJXNmNlNnplT24yREstWlJ3RjM0OFo2M0NLSE93cTZOWmFKSTFLV1drbG9pMEtUOWFuWWlXNzJYMW9JajctTUQ0NTczN2Y0Q1VoWkhYMFY3OWdIY01ZQQ?oc=5",
-      "summary": "Xi pitches China as AI partner to developing world, warns against risks and security overreach CNBC",
-      "publishedAt": "2026-07-17T05:43:49.000Z",
-      "timestamp": 1784267029000,
-      "source": {
-        "id": "google-news-ai",
-        "name": "Google News: AI",
-        "region": "Global",
-        "trust": "aggregator"
-      },
-      "categories": [
-        "policy-safety"
-      ],
-      "score": 68
+      "score": 57
     },
     {
       "id": "ai-yk9bct",
@@ -2395,25 +3152,7 @@
       "categories": [
         "policy-safety"
       ],
-      "score": 68
-    },
-    {
-      "id": "ai-hx8hmc",
-      "title": "China’s Moonshot AI Releases Model to Challenge Top U.S. Systems - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcVNJNC1WR1VUN20tQWdWVHhXNU9DSUR4U2N2ZndVMDlGSEl4SW9HQkIyaTgyRFZWZHlGeWVZaE1nY250SkpPTGw1YmxlWFhDeDZ4WWQ4VHpQcHdVQ2JmM1E3QzZuZmwtTWhHV3hDYXc3MnVHcEhYQkpxX3lIRF94ZGZDWTFTRmcyRnFqamkyMWI4WDFaRVV1YWJITW15RXJL?oc=5",
-      "summary": "China’s Moonshot AI Releases Model to Challenge Top U.S. Systems WSJ",
-      "publishedAt": "2026-07-17T05:26:00.000Z",
-      "timestamp": 1784265960000,
-      "source": {
-        "id": "google-news-ai",
-        "name": "Google News: AI",
-        "region": "Global",
-        "trust": "aggregator"
-      },
-      "categories": [
-        "applications"
-      ],
-      "score": 59
+      "score": 65
     },
     {
       "id": "ai-112036",
@@ -2431,25 +3170,25 @@
       "categories": [
         "applications"
       ],
-      "score": 59
+      "score": 57
     },
     {
-      "id": "ai-hxel8h",
-      "title": "世界人工智能合作组织协定签署仪式举行 - 东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE16TUdGZC1CUFZCZzdHQTktczhFdTFVdUwzMXA4czRZaHZCUDBrbHhKVUQzdDhfMHlyZXlRMkhYaGhmLWNEbHp4ZUx3eHVQUUFvUURaRVBFcHFPRy1YdGVxRw?oc=5",
-      "summary": "世界人工智能合作组织协定签署仪式举行 东方财富",
-      "publishedAt": "2026-07-17T05:05:47.000Z",
-      "timestamp": 1784264747000,
+      "id": "ai-m0tc6t",
+      "title": "官媒AI影片諷菲「演猴戲」受美日操控 菲防長批：種族主義｜有片 - 香港01",
+      "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxQR3RHdVRzSXZKRGI4VGd4eV9CblF5bHlHbEtYSlJHRjE0TXhQVV83RUZ4TXZOcTNVS21wbTdqRS1EMVExWXdvdm1aeDAzS0FaUlF6TnRSNTJraVh0ZzEyeWNldHJ5UDZDcWxfN2JWVTlwb1E0MWY3S3ZKb3lpZ2xjTm9zanRnS29oTjlMTXpibkcxLVlPYkZCU0lxdXd3UzV1VE5tU1JvR3BmcHBfbEpaSUxXRXB5cXF3eTBPSVV0ZG9LdEhCSGtMcTNLNnhxOTZXUmo0OEhfcWUxQ2tVOHRRRS1NUGFIajhFaGc4UHBYVjRpUkJJLVdJeW9Yb19yUHh0Y3d6OXJLWWpwVHY5NFlNcjZUdF90YnVyNG1NNGxQVTVyUG5LSFZCQlMxMGktaWxOS3ZwcFdsYlVuc3Zpb0NNM3l3Q3g1WHQ2aEgyM0ZsdHhPQ0p5WUQxNW1KempxUjk0RjQzV2Y2QTQwM2FRY0x2OGNaTUJLbzY4Rm5NaUFvTzREeEZrbkRqX2FHc05rMXBUV1g1OXAwVk5jMWdfT1Fv?oc=5",
+      "summary": "官媒AI影片諷菲「演猴戲」受美日操控 菲防長批：種族主義｜有片 香港01",
+      "publishedAt": "2026-07-17T05:05:07.000Z",
+      "timestamp": 1784264707000,
       "source": {
-        "id": "google-news-china-ai",
-        "name": "Google News: China AI",
-        "region": "China",
+        "id": "google-news-taiwan-ai-media-generation",
+        "name": "Google News: Taiwan AI Image/Video Generation",
+        "region": "Taiwan",
         "trust": "aggregator"
       },
       "categories": [
-        "applications"
+        "media-generation"
       ],
-      "score": 59
+      "score": 65
     },
     {
       "id": "ai-15l8klu",
@@ -2467,7 +3206,7 @@
       "categories": [
         "applications"
       ],
-      "score": 59
+      "score": 57
     },
     {
       "id": "ai-fze0gw",
@@ -2485,43 +3224,7 @@
       "categories": [
         "applications"
       ],
-      "score": 59
-    },
-    {
-      "id": "ai-1lgflop",
-      "title": "OpenAI、Anthropic 不再獨占最強 AI？中國 Kimi K3 讓開源模型站上 Frontier 戰場 - TechOrange 科技報橘",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RbXhDZ2Y3M1dMZjZ5MGJlbHl6SFNPTTVWRUIzVlU0b1VuR05HRU40UzNjenJrbkx4QWNsOHF4ekRnMW9PUnpXb2dtaE1jdGFaUmRmbXhaRVE0eEw5dUZTMQ?oc=5",
-      "summary": "OpenAI、Anthropic 不再獨占最強 AI？中國 Kimi K3 讓開源模型站上 Frontier 戰場 TechOrange 科技報橘",
-      "publishedAt": "2026-07-17T04:29:50.000Z",
-      "timestamp": 1784262590000,
-      "source": {
-        "id": "google-news-taiwan-ai-media-generation",
-        "name": "Google News: Taiwan AI Image/Video Generation",
-        "region": "Taiwan",
-        "trust": "aggregator"
-      },
-      "categories": [
-        "media-generation"
-      ],
-      "score": 67
-    },
-    {
-      "id": "ai-3ax5q",
-      "title": "习近平宣布中国支持全球人工智能发展重大举措 - 东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ESjZuWkkxV21YaHIydnREZ2RjUlRNVE9VWmhuTnZXSlVfUi1QZ0Z0R2t2aXFpRE52bU1iY2xVVzZQNnVvRlAyTWtKbVoyZ3hnUjhWanR0aWpMc3ZTY0dMVQ?oc=5",
-      "summary": "习近平宣布中国支持全球人工智能发展重大举措 东方财富",
-      "publishedAt": "2026-07-17T04:09:03.000Z",
-      "timestamp": 1784261343000,
-      "source": {
-        "id": "google-news-china-ai",
-        "name": "Google News: China AI",
-        "region": "China",
-        "trust": "aggregator"
-      },
-      "categories": [
-        "applications"
-      ],
-      "score": 59
+      "score": 57
     },
     {
       "id": "ai-3v7jum",
@@ -2539,985 +3242,224 @@
       "categories": [
         "media-generation"
       ],
-      "score": 67
+      "score": 65
     },
     {
-      "id": "ai-1vpeyoc",
-      "title": "OriginBlame: Record- and Token-Level Data Provenance for AI Training Datasets",
-      "url": "https://arxiv.org/abs/2607.13037",
-      "summary": "arXiv:2607.13037v1 Announce Type: new Abstract: When a data contributor requests removal, model trainers face a practical gap: unlearning algorithms require a forget set, yet no tool can locate which training records belong to a given author. Existing provenance systems operate at file or dataset level, forcing catastrophic over-deletion. We present ob, a record- and token-level data provenance system that propagates",
+      "id": "ai-1w3qiu2",
+      "title": "2026 AI TAIWAN 精選解方 | AI 落地成企業新戰場 天沃智能視覺秀創新解方 - 未來商務",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBiQWwxWDVGUE9MM0x0YUtDMlpuRjRnMzd5X1NoWEFzNzZKLXdTNERreWwyV0ljWGhPZ2lZeldEaU1ZMjNaYUlnVVJFTjBZMWZobURYRQ?oc=5",
+      "summary": "2026 AI TAIWAN 精選解方 | AI 落地成企業新戰場 天沃智能視覺秀創新解方 未來商務",
       "publishedAt": "2026-07-17T04:00:00.000Z",
       "timestamp": 1784260800000,
       "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
+        "id": "google-news-taiwan-ai",
+        "name": "Google News: Taiwan AI",
+        "region": "Taiwan",
+        "trust": "aggregator"
       },
       "categories": [
-        "open-source"
-      ],
-      "score": 79
-    },
-    {
-      "id": "ai-vdq6qm",
-      "title": "SPINE: Bridging the Cyber-Physical Gap with Agentic AI",
-      "url": "https://arxiv.org/abs/2607.13049",
-      "summary": "arXiv:2607.13049v1 Announce Type: new Abstract: Foundation models have given robots a sophisticated brain for complex decision-making, yet deploying that intelligence into a physical platform still demands tedious, expert-driven calibration. This deployment gap, the robot's spinal cord, remains a primary bottleneck to scalable Embodied AI. Hence, we propose SPINE (Scalable Physical Integration with ageNtic Expertise)",
-      "publishedAt": "2026-07-17T04:00:00.000Z",
-      "timestamp": 1784260800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "robotics",
-        "foundation-models",
-        "agents"
-      ],
-      "score": 95
-    },
-    {
-      "id": "ai-qs6bs7",
-      "title": "Interventional Grounding Audits: Black-Box Premise-Dependency Tests for LLM Chain-of-Thought via Predicate Substitution",
-      "url": "https://arxiv.org/abs/2607.13069",
-      "summary": "arXiv:2607.13069v1 Announce Type: new Abstract: Large language models produce chain-of-thought (CoT) reasoning that appears logically sound yet may not genuinely depend on its stated premises. We introduce interventional grounding audits, a black-box, step-level test of premise dependency: we intervene on a single premise by substituting its target predicate with a fresh symbol, re-run the model, and check whether ea",
-      "publishedAt": "2026-07-17T04:00:00.000Z",
-      "timestamp": 1784260800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "foundation-models"
-      ],
-      "score": 79
-    },
-    {
-      "id": "ai-6e0uqt",
-      "title": "Probabilistic Extension of Neuro-Symbolic AGI Robots based on Belnap's Typed Intensional FOL",
-      "url": "https://arxiv.org/abs/2607.13073",
-      "summary": "arXiv:2607.13073v1 Announce Type: new Abstract: Neuro-symbolic AI based on $IFOL_B$ is a way to combine neural learning and symbolic reasoning to overcome limitations of purely neural systems (like lack of interpretability and logical structure) with formal logical machinery for self-reference. In this paper we expand the cognitive power of $IFOL_B$ by using the probability computation for the currently unknown sente",
-      "publishedAt": "2026-07-17T04:00:00.000Z",
-      "timestamp": 1784260800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "robotics"
-      ],
-      "score": 79
-    },
-    {
-      "id": "ai-tcsass",
-      "title": "Self-Improvements in Modern Agentic Systems: A Survey",
-      "url": "https://arxiv.org/abs/2607.13104",
-      "summary": "arXiv:2607.13104v1 Announce Type: new Abstract: Self-improving autonomous agents are moving from research prototypes to deployed systems. The primary goal is controllable evolution, or adaptation, from experience with minimal or even no human input. This survey frames modern self-improving agents as adaptive systems that convert experience into accumulated capability gains. We offer a system-level framework that repr",
-      "publishedAt": "2026-07-17T04:00:00.000Z",
-      "timestamp": 1784260800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "agents",
         "applications"
       ],
-      "score": 87
+      "score": 57
     },
     {
-      "id": "ai-1t9mvsk",
-      "title": "Improving Molecular Property Prediction in Small Language Models Using Graph-based Tools",
-      "url": "https://arxiv.org/abs/2607.13115",
-      "summary": "arXiv:2607.13115v1 Announce Type: new Abstract: Small language models (SLMs) have shown promise for zero-shot molecular property prediction from SMILES strings, yet they often suffer from structural blindness because sequence representations under-specify key graph-topological cues. We propose a modular Context-Augmented Prompting framework that enables agentic tool use at inference time: a trained GNN expert model p",
+      "id": "ai-5evosd",
+      "title": "Prioritize Equitable Capacity, Safety, Sustainability So Everyone Benefits from AI Revolution, Secretary-General Tells World Artificial Intelligence Conference - UN Meetings Coverage and Press Releases",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aaG0tcUVyajVqZFJRaFQyU1M4Z09fXzYtVHJXZmN3aEs3blI0V29KbUF2MTRnZEM2OUhSdDkxM1B1YXV2Y3FzWEp2TFZZRlJqTE1jVVI1Qmd0dw?oc=5",
+      "summary": "Prioritize Equitable Capacity, Safety, Sustainability So Everyone Benefits from AI Revolution, Secretary-General Tells World Artificial Intelligence Conference UN Meetings Coverage and Press Releases",
       "publishedAt": "2026-07-17T04:00:00.000Z",
       "timestamp": 1784260800000,
       "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
+        "id": "google-news-ai",
+        "name": "Google News: AI",
         "region": "Global",
-        "trust": "research"
+        "trust": "aggregator"
       },
       "categories": [
-        "agents",
-        "ai-infra"
-      ],
-      "score": 87
-    },
-    {
-      "id": "ai-1tjxc91",
-      "title": "Oracle Agent Memory as an Enterprise Memory Substrate for Long-Horizon AI Agents",
-      "url": "https://arxiv.org/abs/2607.13157",
-      "summary": "arXiv:2607.13157v1 Announce Type: new Abstract: Agent memory is a systems problem for long-horizon agents. Practical deployments require retention of task state across extended conversations, recovery of user-specific facts and preferences across sessions, and accumulation of procedural knowledge from prior outcomes. These requirements extend beyond document retrieval: a memory layer must determine which interactions",
-      "publishedAt": "2026-07-17T04:00:00.000Z",
-      "timestamp": 1784260800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "agents",
         "ai-infra",
         "policy-safety"
       ],
-      "score": 95
+      "score": 83
     },
     {
-      "id": "ai-18fms0p",
-      "title": "Learning Safe Agent Behaviour from Human Preferences and Justifications via World Models",
-      "url": "https://arxiv.org/abs/2607.13172",
-      "summary": "arXiv:2607.13172v1 Announce Type: new Abstract: We address the problem of safely training an agent policy and deploying a good and safe policy, in settings where the environment dynamics are unknown and no suitable reward function is available. In the context of safety-critical environments, we consider traditional reinforcement learning impractical and resort to the resource of human input. We introduce DROPJ, a hum",
+      "id": "ai-1mnl0fm",
+      "title": "Organize your curiosity: Generative AI tools prove adept at structuring volumes of information - Editor and Publisher",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONUtKZkhYT1pST05qMkdoSmJCejVuOFFWdXcwVVpJa3ByYjhsZnljNlJmVnVlRjBhR1FaU1NVc0gxWWRwaThlX3NDd0plZ1dOOHlYVGxMWUM1SHhqVE4wUkRhVm5BYUIzNXdhSWt6akZmRlZnU0N2UUhhVVJaem1RdmM4b0JIZ09aM180MG9YNmZzSm1Da3o1UEUzVXFsWEFiMm9XQkpRQWN0TExVeG1GZ0VHeTh1b19USDBNN1g5ckZTeEZ6OU5qWkJFSW9UV0xtVGN0d0hjTHpvTzg?oc=5",
+      "summary": "Organize your curiosity: Generative AI tools prove adept at structuring volumes of information Editor and Publisher",
       "publishedAt": "2026-07-17T04:00:00.000Z",
       "timestamp": 1784260800000,
       "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
+        "id": "google-news-ai",
+        "name": "Google News: AI",
         "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "policy-safety",
-        "agents",
-        "robotics"
-      ],
-      "score": 100
-    },
-    {
-      "id": "ai-n05qjt",
-      "title": "CayleyR: Solving the TopSpin puzzle via cycle intersection",
-      "url": "https://arxiv.org/abs/2607.13219",
-      "summary": "arXiv:2607.13219v1 Announce Type: new Abstract: We present cayleyR, an R package for solving permutation puzzles by detecting cycle intersections in Cayley graphs. The core algorithm performs an iterative bidirectional search: from both the initial and target permutation states, random operation sequences generate cycles in the Cayley graph of the symmetric group Sn; their intersection yields a connecting path. When ",
-      "publishedAt": "2026-07-17T04:00:00.000Z",
-      "timestamp": 1784260800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
+        "trust": "aggregator"
       },
       "categories": [
         "applications"
       ],
-      "score": 79
+      "score": 57
     },
     {
-      "id": "ai-o7ryf0",
-      "title": "Networked Intelligence: Active Shared Context Graphs for Human-AI Team Science",
-      "url": "https://arxiv.org/abs/2607.13220",
-      "summary": "arXiv:2607.13220v2 Announce Type: new Abstract: Most AI-for-science systems focus on scaling a single reasoning process by using better models, larger context windows, long-horizon agentic execution, or digital co-scientists working with one principal user. However, challenging scientific problems are rarely solved by one reasoner alone. They are solved by teams whose members carry different priors, experimental back",
-      "publishedAt": "2026-07-17T04:00:00.000Z",
-      "timestamp": 1784260800000,
+      "id": "ai-qjiowz",
+      "title": "AI 恐成「數位審查官」：大語言模型或為擴散威權國家言論審查的「協力者」 - TechNews 科技新報",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZzVuVDk2Q0p1WVNnVVpBTHNkb1pvWkxvQmRoaHh2U0FwRE4wM0NLWjNMc3dfM3BEX0pESFhEUGFCRm90Rm1HVU9IdUFOa3hTRUJlQS05YllKam1adVlYaE0wZV8ydXRkQ3N0a3FkbjF2ZlpibVBFUXpBdzh4dlBnVUhIbzZwWjYyVXUwb1VpNzBCc05FODlNWUtUaHRIdUxyZ0txa2dhc2FBSDhDdVhTVEpTZHVBS1VKZ0lzZDBVOG1GTTJJSk1mbDRGeDNEeVF4eFE?oc=5",
+      "summary": "AI 恐成「數位審查官」：大語言模型或為擴散威權國家言論審查的「協力者」 TechNews 科技新報",
+      "publishedAt": "2026-07-17T03:15:30.000Z",
+      "timestamp": 1784258130000,
       "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "agents"
-      ],
-      "score": 79
-    },
-    {
-      "id": "ai-1jcnd9v",
-      "title": "AI-Native Insurance for Agentic AI: Pricing, Underwriting, and End-to-End Automation",
-      "url": "https://arxiv.org/abs/2607.13230",
-      "summary": "arXiv:2607.13230v1 Announce Type: new Abstract: Agentic AI introduces new insurance challenges because autonomous AI systems can make decisions, invoke tools, modify external environments, and interact with third-party services. This paper develops an AI-native mathematical framework for underwriting, pricing, and contract design for agentic AI deployments. A deployment is represented by a risk state that captures au",
-      "publishedAt": "2026-07-17T04:00:00.000Z",
-      "timestamp": 1784260800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "agents",
-        "applications",
-        "policy-safety"
-      ],
-      "score": 95
-    },
-    {
-      "id": "ai-1n9wvcu",
-      "title": "Cost-Optimal Foundation Model Deployment Portfolio for Transportation Management",
-      "url": "https://arxiv.org/abs/2607.13239",
-      "summary": "arXiv:2607.13239v1 Announce Type: new Abstract: Foundation models, including large language models (LLMs) and vision-language models (VLMs), are increasingly used for transportation management center (TMC) tasks such as anomaly detection, incident reporting, and traveler information. Deploying multiple such models across TMC functions raises a portfolio question: which model should serve each function, in which deplo",
-      "publishedAt": "2026-07-17T04:00:00.000Z",
-      "timestamp": 1784260800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "foundation-models"
-      ],
-      "score": 79
-    },
-    {
-      "id": "ai-olk3sw",
-      "title": "Harness Handbook: Making Evolving Agent Harnesses Readable,Navigable, and Editable",
-      "url": "https://arxiv.org/abs/2607.13285",
-      "summary": "arXiv:2607.13285v1 Announce Type: new Abstract: The capability of a modern AI agent depends not only on its foundation model but also on its harness, which constructs prompts, manages state, invokes tools, and coordinates execution. As models, APIs, environments, and requirements evolve, the harness must be continually modified. Before such a change can be made, a developer or coding agent must identify all code loca",
-      "publishedAt": "2026-07-17T04:00:00.000Z",
-      "timestamp": 1784260800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "foundation-models",
-        "agents"
-      ],
-      "score": 87
-    },
-    {
-      "id": "ai-6kos6p",
-      "title": "Theory-Level Autoformalization: From Isolated Statements to Unified Formal Knowledge Bases",
-      "url": "https://arxiv.org/abs/2607.13292",
-      "summary": "arXiv:2607.13292v1 Announce Type: new Abstract: Autoformalization translates informal natural language into formal, machine-verifiable languages. While most work focuses on individual statements, real formalization efforts are inherently theory-level: they require an entire web of axioms, definitions, and lemmas before target theorems can even be stated. In this position paper, we argue for theory-level autoformaliza",
-      "publishedAt": "2026-07-17T04:00:00.000Z",
-      "timestamp": 1784260800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
+        "id": "google-news-taiwan-ai",
+        "name": "Google News: Taiwan AI",
+        "region": "Taiwan",
+        "trust": "aggregator"
       },
       "categories": [
         "applications"
       ],
-      "score": 71
+      "score": 56
     },
     {
-      "id": "ai-1ilxb54",
-      "title": "EZSMT Version 3, Matured",
-      "url": "https://arxiv.org/abs/2607.13344",
-      "summary": "arXiv:2607.13344v1 Announce Type: new Abstract: Constraint Answer Set Programming (CASP) is a hybrid reasoning paradigm that combines Answer Set Programming (ASP) with Constraint Processing and Satisfiability Modulo Theories (SMT), enabling powerful declarative encodings of complex combinatorial search problems. This paper presents the design and implementation of EZSMTV3, an extensible SMT-based CASP framework that ",
-      "publishedAt": "2026-07-17T04:00:00.000Z",
-      "timestamp": 1784260800000,
+      "id": "ai-n3og5c",
+      "title": "古特雷斯：人工智能必须成为促进包容与可持续发展的力量 - UN News",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0xWDBfOExDV3dQTUhINVVYME5hYW53VUJqLVVFenpUT2M1TkhKakdoYS1DWTUxOXNmWnpuRUhxRUF4UjNKNkVoUDRxc1JMcGVnYnFReEk0RQ?oc=5",
+      "summary": "古特雷斯：人工智能必须成为促进包容与可持续发展的力量 UN News",
+      "publishedAt": "2026-07-17T03:11:00.000Z",
+      "timestamp": 1784257860000,
       "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
+        "id": "google-news-china-ai",
+        "name": "Google News: China AI",
+        "region": "China",
+        "trust": "aggregator"
       },
       "categories": [
         "applications"
       ],
-      "score": 79
+      "score": 56
     },
     {
-      "id": "ai-117djwb",
-      "title": "Set-shifting Behavioral Test for Harnessed Agents",
-      "url": "https://arxiv.org/abs/2607.13396",
-      "summary": "arXiv:2607.13396v1 Announce Type: new Abstract: What happens to an LLM agent's tool choice when the reliable tool silently changes within an ongoing session? We borrow set-shifting from cognitive psychology to study how well agents adapt to hidden reliability shifts. Our benchmark mounts tool-skill libraries with redundancies, where many tools solve the same task but differ in hidden reliability. In our evaluation fr",
-      "publishedAt": "2026-07-17T04:00:00.000Z",
-      "timestamp": 1784260800000,
+      "id": "ai-1x9y82i",
+      "title": "中国AI正以月为单位缩小与美国的差距 - 观察者",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03ZlpTS2FUU2U5bjlhVzdPWkhMWGU1VE9IcklITTV1angtajkybmFsRWJWR1VnN09hRnJCWkVhT0lGNWgydnFsWEpoSVU1MnNpcEF0Zmh0NDczS3Fra01NNGlBVl9nOHh3LWc?oc=5",
+      "summary": "中国AI正以月为单位缩小与美国的差距 观察者",
+      "publishedAt": "2026-07-17T03:01:00.000Z",
+      "timestamp": 1784257260000,
       "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "agents",
-        "policy-safety",
-        "foundation-models"
-      ],
-      "score": 100
-    },
-    {
-      "id": "ai-oc7p7f",
-      "title": "LOTAPO: Leave-One-Turn Attribution for Self-Generated Process Rewards in Multi-Turn Search Reasoning",
-      "url": "https://arxiv.org/abs/2607.13501",
-      "summary": "arXiv:2607.13501v2 Announce Type: new Abstract: Reinforcement learning for multi-turn search reasoning typically relies on terminal outcome rewards, which cannot distinguish useful, redundant, and harmful intermediate interactions. We propose LOTAPO , a self-generated process-supervision method based on backward leave-one-turn attribution. For each search turn, LOTAPO replaces the turn and its retrieval observation w",
-      "publishedAt": "2026-07-17T04:00:00.000Z",
-      "timestamp": 1784260800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "ai-infra",
-        "applications",
-        "policy-safety"
-      ],
-      "score": 95
-    },
-    {
-      "id": "ai-z1v03u",
-      "title": "How Far Can Root Cause Analysis Go on Real-World Telemetry Data?",
-      "url": "https://arxiv.org/abs/2607.13548",
-      "summary": "arXiv:2607.13548v1 Announce Type: new Abstract: Identifying root causes in production microservice failures requires reasoning over large-scale, multimodal telemetry spanning metrics, logs, and traces, a problem that has proved resistant to both classical and LLM-based approaches. The OpenRCA dataset exemplifies these challenges: it is large-scale, multimodal, and lacks detailed domain knowledge, and yields consisten",
-      "publishedAt": "2026-07-17T04:00:00.000Z",
-      "timestamp": 1784260800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "foundation-models",
-        "open-source"
-      ],
-      "score": 87
-    },
-    {
-      "id": "ai-mdl8dm",
-      "title": "Multi-Agent Collaborative Reasoning with Tool-Augmented Evidence for Urban Region Profiling",
-      "url": "https://arxiv.org/abs/2607.13558",
-      "summary": "arXiv:2607.13558v1 Announce Type: new Abstract: Urban region profiling constitutes a core problem in urban computing, supporting applications such as population estimation, economic assessment, and environmental monitoring. Existing methods typically formulate this task as multimodal representation learning, fusing heterogeneous urban data, e.g., satellite imagery, points of interest, textual descriptions, and 3D bui",
-      "publishedAt": "2026-07-17T04:00:00.000Z",
-      "timestamp": 1784260800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "agents",
-        "foundation-models"
-      ],
-      "score": 87
-    },
-    {
-      "id": "ai-1db227x",
-      "title": "AI advice suppresses people's willingness to say \"I don't know\", even when the advice is wrong and accuracy is incentivized",
-      "url": "https://arxiv.org/abs/2607.13562",
-      "summary": "arXiv:2607.13562v1 Announce Type: new Abstract: Knowing when to say \"I don't know\" is fundamental to human judgment, yet AI assistants offer a fluent answer to almost any question. In five experiments (N = 3,132; four preregistered, one direct replication), participants answered difficult questions and could always decline to respond. We engineered the questions so that AI advice was wrong, separating AI use from its",
-      "publishedAt": "2026-07-17T04:00:00.000Z",
-      "timestamp": 1784260800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
+        "id": "google-news-china-ai",
+        "name": "Google News: China AI",
+        "region": "China",
+        "trust": "aggregator"
       },
       "categories": [
         "applications"
       ],
-      "score": 79
+      "score": 56
     },
     {
-      "id": "ai-he8lua",
-      "title": "SAFETY SENTRY: Context-Aware Human Intervention via EXECUTE-ASK-REFUSE Routing",
-      "url": "https://arxiv.org/abs/2607.13594",
-      "summary": "arXiv:2607.13594v1 Announce Type: new Abstract: LLM agents act on real-world environments through tool calls, and a single misjudged action can cause irreversible harm. The standard safeguard is a guard model that labels each proposed action as safe or unsafe, but this binary view conflates two distinct decisions: whether the action is harmful in itself, and whether it is appropriate given the user's context. It also",
-      "publishedAt": "2026-07-17T04:00:00.000Z",
-      "timestamp": 1784260800000,
+      "id": "ai-1mt462y",
+      "title": "2026 AI TAIWAN 精選解方 | 宏華國際攜手 OSENSE 導入新一代 Qubby AI IVR 語音客服服務 - 未來商務",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5vdTVlV1g2elZrbkpndnR6QzctMi1SdU1yMjhKeUFsWDd2Z1Zmd1hBaV9UUGpkRWREeHRUSnRrLXlFUmJ5TnpJRU13blpzTGE0ZXFtcw?oc=5",
+      "summary": "2026 AI TAIWAN 精選解方 | 宏華國際攜手 OSENSE 導入新一代 Qubby AI IVR 語音客服服務 未來商務",
+      "publishedAt": "2026-07-17T03:00:00.000Z",
+      "timestamp": 1784257200000,
       "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "agents",
-        "foundation-models",
-        "policy-safety"
-      ],
-      "score": 100
-    },
-    {
-      "id": "ai-6ue2dg",
-      "title": "Automatic Ordinary Differential Equations Discovery For Biological Systems Using Large Language Model Powered Agentic System",
-      "url": "https://arxiv.org/abs/2607.13608",
-      "summary": "arXiv:2607.13608v1 Announce Type: new Abstract: Automatic scientific discovery has long been a goal of computational scholars - a machine that can discover nature's secrets on its own, moving computational systems beyond data-fitting tools toward the generation and refinement of mechanistic models of the universe. Recent advances in symbolic regression (SR) and large-language-model (LLM)-based agents suggest that suc",
-      "publishedAt": "2026-07-17T04:00:00.000Z",
-      "timestamp": 1784260800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "foundation-models",
-        "agents",
-        "ai-science"
-      ],
-      "score": 95
-    },
-    {
-      "id": "ai-17sidmy",
-      "title": "STOCKTAKE: Measuring the Gap Between Perception and Action in LLM Agents with a Fair Oracle",
-      "url": "https://arxiv.org/abs/2607.13618",
-      "summary": "arXiv:2607.13618v1 Announce Type: new Abstract: LLM agents are increasingly evaluated on multi-week decision tasks in which the state that drives cost is never directly observed. On such tasks the final cost cannot say why an agent failed: it may have misread the world, or read it correctly and still failed to act (the knowing-doing gap). Existing evaluations cannot separate these two failures; their reference polici",
-      "publishedAt": "2026-07-17T04:00:00.000Z",
-      "timestamp": 1784260800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "agents",
-        "foundation-models",
-        "policy-safety"
-      ],
-      "score": 95
-    },
-    {
-      "id": "ai-1z0hwp9",
-      "title": "UESF-Bench: Benchmarking and Probing for Unified Embodied Seeking and Following",
-      "url": "https://arxiv.org/abs/2607.13621",
-      "summary": "arXiv:2607.13621v1 Announce Type: new Abstract: Language-guided human following is an important capability for embodied agents, but existing benchmarks typically assume that the target person is visible at the start of an episode. This setting simplifies the problem and overlooks a more realistic requirement: an agent often needs to first find a language-described target and then persistently follow that target in a ",
-      "publishedAt": "2026-07-17T04:00:00.000Z",
-      "timestamp": 1784260800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "agents",
-        "robotics",
-        "policy-safety"
-      ],
-      "score": 95
-    },
-    {
-      "id": "ai-1uuiixp",
-      "title": "Explaining Reinforcement Learning Agents via Inductive Logic Programming",
-      "url": "https://arxiv.org/abs/2607.13655",
-      "summary": "arXiv:2607.13655v1 Announce Type: new Abstract: Explainable Reinforcement Learning (XRL) seeks to make Reinforcement Learning (RL) policies more transparent and interpretable, a key requirement in safety-critical and human-centric scenarios. However, it is mostly based on user studies, thus targeting the needs of a specific audience and lacking shared evaluation metrics. On the other hand, logic-based approaches with",
-      "publishedAt": "2026-07-17T04:00:00.000Z",
-      "timestamp": 1784260800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "agents",
-        "policy-safety",
-        "capital-market"
-      ],
-      "score": 100
-    },
-    {
-      "id": "ai-1be3nc",
-      "title": "When Bots Join the Team: Bot Adoption and the Institutional Fabric of Open-Source Software Projects",
-      "url": "https://arxiv.org/abs/2607.13679",
-      "summary": "arXiv:2607.13679v1 Announce Type: new Abstract: AI agents are joining human teams, raising a basic question: when an automated agent becomes a regular participant, does group organization strengthen or weaken? We study this question in open-source software, where bots open pull requests, review code, and merge changes alongside people, leaving a public record of every interaction. Treating bots as participants rather",
-      "publishedAt": "2026-07-17T04:00:00.000Z",
-      "timestamp": 1784260800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "agents"
-      ],
-      "score": 79
-    },
-    {
-      "id": "ai-1sk3by8",
-      "title": "AgentCompass: A Unified Evaluation Infrastructure for Agent Capabilities",
-      "url": "https://arxiv.org/abs/2607.13705",
-      "summary": "arXiv:2607.13705v2 Announce Type: new Abstract: As Large Language Models (LLMs) evolve into autonomous agents, the need for unified evaluation infrastructure becomes critical. However, current evaluation pipelines remain highly fragmented and tightly coupled, hindering reproducibility and causing redundant engineering. To address this, we introduce AgentCompass, an open-source, lightweight, and extensible infrastruct",
-      "publishedAt": "2026-07-17T04:00:00.000Z",
-      "timestamp": 1784260800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "agents",
-        "foundation-models",
-        "ai-infra"
-      ],
-      "score": 95
-    },
-    {
-      "id": "ai-15wap6d",
-      "title": "CAVA: Canonical Action Verification and Attestation for Runtime Governance of Agentic AI Systems",
-      "url": "https://arxiv.org/abs/2607.13716",
-      "summary": "arXiv:2607.13716v1 Announce Type: new Abstract: Agentic AI systems increasingly act through heterogeneous runtimes: local coding hooks, SDK tools, browser automation, managed-agent traces, API gateways, and workflow engines. A single operational act such as publishing code, changing identity state, moving money, or exporting data may therefore be represented by many incompatible runtime records. This makes a basic go",
-      "publishedAt": "2026-07-17T04:00:00.000Z",
-      "timestamp": 1784260800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "agents",
-        "applications",
-        "policy-safety"
-      ],
-      "score": 95
-    },
-    {
-      "id": "ai-1jfmm3m",
-      "title": "Experience Memory Graph: One-Shot Error Correction for Agents",
-      "url": "https://arxiv.org/abs/2607.13884",
-      "summary": "arXiv:2607.13884v1 Announce Type: new Abstract: Large Language Model (LLM) agents have shown remarkable capabilities in autonomous decision-making by generating sequential trajectories of states, actions, and observations. However, in complex, long-horizon tasks, these agents frequently suffer from compounding errors and struggle to recover from failures. Existing self-correction mechanisms rely on prompt-based refle",
-      "publishedAt": "2026-07-17T04:00:00.000Z",
-      "timestamp": 1784260800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "agents",
-        "foundation-models"
-      ],
-      "score": 87
-    },
-    {
-      "id": "ai-1k9kfv3",
-      "title": "AIMO Interpretability Challenge",
-      "url": "https://arxiv.org/abs/2607.13899",
-      "summary": "arXiv:2607.13899v1 Announce Type: new Abstract: We propose the AIMO Interpretability Challenge, a competition on distinguishing robust from spurious reasoning in frontier mathematical language models based on the models' internal mechanisms. The challenge is motivated by a central limitation of standard reasoning benchmarks: strong final-answer accuracy does not reveal whether a model relies on stable reasoning mecha",
-      "publishedAt": "2026-07-17T04:00:00.000Z",
-      "timestamp": 1784260800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "policy-safety",
-        "open-source"
-      ],
-      "score": 87
-    },
-    {
-      "id": "ai-14sg801",
-      "title": "A Self-Evolving Agent for Longitudinal Personal Health Management",
-      "url": "https://arxiv.org/abs/2607.13940",
-      "summary": "arXiv:2607.13940v1 Announce Type: new Abstract: Personal health management unfolds over repeated encounters, yet most health AI systems treat each request in isolation. We developed HealthClaw, an open-source agent architecture that updates support as a person's routines, preferences, measurements and risks change. It separates shared safety rules and medical knowledge from private longitudinal memory containing prof",
-      "publishedAt": "2026-07-17T04:00:00.000Z",
-      "timestamp": 1784260800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "policy-safety",
-        "agents"
-      ],
-      "score": 97
-    },
-    {
-      "id": "ai-1h4744t",
-      "title": "Do Agent Optimizers Compound? A Continual-Learning Evaluation on Terminal-Bench 2.0",
-      "url": "https://arxiv.org/abs/2607.14004",
-      "summary": "arXiv:2607.14004v1 Announce Type: new Abstract: Most reported gains from agent-optimization methods are one-shot: an agent is optimized against a fixed benchmark and the resulting improvement is reported as if it were a stable property of the method. This does not test the setting that matters for deployed agents, where optimization is applied recursively as new failures and new tasks appear over time. The central qu",
-      "publishedAt": "2026-07-17T04:00:00.000Z",
-      "timestamp": 1784260800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "agents",
-        "policy-safety",
-        "open-source"
-      ],
-      "score": 100
-    },
-    {
-      "id": "ai-1vlcpsx",
-      "title": "AI-accelerated End-to-End Framework for Rapid Professional Upskilling",
-      "url": "https://arxiv.org/abs/2607.14044",
-      "summary": "arXiv:2607.14044v1 Announce Type: new Abstract: By 2030, 59 of every 100 workers will need reskilling or upskilling, yet the average time to close an enterprise skills gap grew from roughly 3 days in 2014 to 36 days in 2018. Most current frameworks accelerate single stages of upskilling programs and generally lack industry validation. We present an end-to-end framework that applies AI acceleration across five stages ",
-      "publishedAt": "2026-07-17T04:00:00.000Z",
-      "timestamp": 1784260800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "ai-infra"
-      ],
-      "score": 79
-    },
-    {
-      "id": "ai-dbjis3",
-      "title": "Earthquaker-AI: A Retrieval-Augmented Generation Framework with Rubric-Based Assessment for Primary School Earthquake Education",
-      "url": "https://arxiv.org/abs/2607.14046",
-      "summary": "arXiv:2607.14046v1 Announce Type: new Abstract: This paper presents Earthquaker-AI, a hybrid educational framework building upon a previously implemented educational robotics project by integrating a conversational AI assistant based on Retrieval-Augmented Generation. It aims to enhance earthquake preparedness and conscious action among primary-school students. The system extends the award-winning STEM project Earthq",
-      "publishedAt": "2026-07-17T04:00:00.000Z",
-      "timestamp": 1784260800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "robotics",
-        "ai-infra",
-        "applications"
-      ],
-      "score": 95
-    },
-    {
-      "id": "ai-wqqh7i",
-      "title": "Deep Interaction: An Efficient Human-AI Interaction Method for Large Reasoning Models",
-      "url": "https://arxiv.org/abs/2607.14049",
-      "summary": "arXiv:2607.14049v1 Announce Type: new Abstract: The emergence of Chain-of-Thought (CoT) reasoning has significantly enhanced the ability of large language models (LLMs) to tackle complex, multi-step tasks. However, when errors occur, current interaction approaches typically involve re-generating another response that may make mistakes again, or users laboriously flag the faulty step in follow-up turns that may get re",
-      "publishedAt": "2026-07-17T04:00:00.000Z",
-      "timestamp": 1784260800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "foundation-models"
-      ],
-      "score": 79
-    },
-    {
-      "id": "ai-15ileal",
-      "title": "FixItFlow: Automated Troubleshooting Guide Generation from Cloud Incidents",
-      "url": "https://arxiv.org/abs/2607.13035",
-      "summary": "arXiv:2607.13035v1 Announce Type: cross Abstract: Cloud services experience frequent incidents that require rapid diagnosis and resolution. Troubleshooting guides help engineers respond consistently, but creating them manually is labor-intensive, resulting in incomplete coverage and outdated documentation. We present FixItFlow, an automated system that generates troubleshooting guides from historical incident data us",
-      "publishedAt": "2026-07-17T04:00:00.000Z",
-      "timestamp": 1784260800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "ai-infra"
-      ],
-      "score": 79
-    },
-    {
-      "id": "ai-jf6se7",
-      "title": "Ask Before You Diagnose: Safe-Psych, a Sequential Evaluation Benchmark for LLMs in Psychiatry",
-      "url": "https://arxiv.org/abs/2607.13036",
-      "summary": "arXiv:2607.13036v1 Announce Type: cross Abstract: Large language models (LLMs) are increasingly used for decision support in healthcare, but clinical evidence is often incomplete or evolving. When the available information is insufficient to support a reliable answer, models should request clarification or abstain rather than provide unsupported responses. Existing medical benchmarks, however, typically assume that c",
-      "publishedAt": "2026-07-17T04:00:00.000Z",
-      "timestamp": 1784260800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "foundation-models",
-        "policy-safety",
-        "ai-science"
-      ],
-      "score": 100
-    },
-    {
-      "id": "ai-1sz7yk6",
-      "title": "Designing Safety-Constrained LLM Systems for Public Health Information Access",
-      "url": "https://arxiv.org/abs/2607.13038",
-      "summary": "arXiv:2607.13038v1 Announce Type: cross Abstract: We present the design and implementation of a safety constrained large language model (LLM) system for public health information access, focusing on maternal and child health (MCH) resource navigation. While LLM based systems offer flexible and natural interfaces for information retrieval, their deployment in healthcare contexts introduces risks related to safety, tru",
-      "publishedAt": "2026-07-17T04:00:00.000Z",
-      "timestamp": 1784260800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "policy-safety",
-        "foundation-models",
-        "ai-infra"
-      ],
-      "score": 100
-    },
-    {
-      "id": "ai-kc2osk",
-      "title": "Safeguard-Conditioned Uplift: Measuring Utility-Risk Frontiers for Dual-Use Biology Assistants",
-      "url": "https://arxiv.org/abs/2607.13039",
-      "summary": "arXiv:2607.13039v1 Announce Type: cross Abstract: Safety evaluations for dual-use biology assistants often measure base-model capability, refusal behavior, or jailbreak success. These metrics miss a deployment question: for a fixed base model, how does the access condition users actually see change benign utility and harmful actionable assistance? I introduce safeguard-conditioned uplift, a protocol for comparing dep",
-      "publishedAt": "2026-07-17T04:00:00.000Z",
-      "timestamp": 1784260800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "policy-safety",
-        "applications",
-        "ai-science"
-      ],
-      "score": 100
-    },
-    {
-      "id": "ai-1wdr5ux",
-      "title": "Final Authority in AI Governance: Frontier-Provider Sovereignty and Action-Centered Deployer Governance",
-      "url": "https://arxiv.org/abs/2607.13040",
-      "summary": "arXiv:2607.13040v1 Announce Type: cross Abstract: This paper examines where final authority should sit once capable AI systems are embedded in organizational workflows. It compares two governance models. The first, frontier-provider sovereignty, assigns privileged authority to the provider of the most capable models and is reflected in contemporary arguments for frontier-model testing, release gating, transparency du",
-      "publishedAt": "2026-07-17T04:00:00.000Z",
-      "timestamp": 1784260800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "agents",
-        "policy-safety"
-      ],
-      "score": 97
-    },
-    {
-      "id": "ai-1oed99p",
-      "title": "LessonBench-V1: A Benchmark Dataset for Evaluating AI Lesson Generation Agents",
-      "url": "https://arxiv.org/abs/2607.13041",
-      "summary": "arXiv:2607.13041v1 Announce Type: cross Abstract: Large Language Model (LLM) based AI educational content generation systems are increasingly being developed, yet no standardised benchmark exists to systematically evaluate them. This study introduces LessonBench-V1, a benchmark dataset comprising 647 human-written lessons paired with LLM-based reverse-engineered lesson plans across 240 STEM topics spanning mathematic",
-      "publishedAt": "2026-07-17T04:00:00.000Z",
-      "timestamp": 1784260800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "foundation-models",
-        "agents",
-        "policy-safety"
-      ],
-      "score": 100
-    },
-    {
-      "id": "ai-op2gh",
-      "title": "Beyond Backbone Backpropagation: A Decoupled Strategy for Efficient Transfer Learning",
-      "url": "https://arxiv.org/abs/2607.13043",
-      "summary": "arXiv:2607.13043v1 Announce Type: cross Abstract: Deep learning models achieve state-of-the-art image classification but face deployment challenges due to computational costs and energy demands. We propose a lightweight training strategy that adapts normalization layers of the model to the new domain and decouples feature extraction from classifier optimization, reducing overhead by precomputing features only once. A",
-      "publishedAt": "2026-07-17T04:00:00.000Z",
-      "timestamp": 1784260800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
+        "id": "google-news-taiwan-ai",
+        "name": "Google News: Taiwan AI",
+        "region": "Taiwan",
+        "trust": "aggregator"
       },
       "categories": [
         "applications"
       ],
-      "score": 71
+      "score": 56
     },
     {
-      "id": "ai-v8vdyv",
-      "title": "The Perplexity Trap: When Patent Law Makes Human Writing Look Like AI",
-      "url": "https://arxiv.org/abs/2607.13044",
-      "summary": "arXiv:2607.13044v1 Announce Type: cross Abstract: The European Patent Office (EPO) reported record filings in 2025, and the 2026 EPO Guidelines hold applicants strictly responsible for LLM-assisted content under Article 83 and Rule 42, creating pressure to triage suspected AI-generated patent text. Two constraints make this hard. First, realistic prosecution settings often have only consumer GPUs with about 8 GB VRAM",
-      "publishedAt": "2026-07-17T04:00:00.000Z",
-      "timestamp": 1784260800000,
+      "id": "ai-yuwmoh",
+      "title": "林佳龍：台美共生型夥伴關係打造AI產業生態系| 政治 - 中央社 CNA",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUZ0k5YkxyOTlRSE4xdzBpcnF1NHl3bkctTjJDbWxIaVZTWklDZHNITkZOSVZtRUE2OENOOUxVaTJjdVh5TlVkMUJDLW5DM3A4b1B1VW9HbGJVX0tqVF9Z?oc=5",
+      "summary": "林佳龍：台美共生型夥伴關係打造AI產業生態系| 政治 中央社 CNA",
+      "publishedAt": "2026-07-17T02:47:00.000Z",
+      "timestamp": 1784256420000,
       "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "foundation-models",
-        "ai-infra",
-        "applications"
-      ],
-      "score": 95
-    },
-    {
-      "id": "ai-1eigmsw",
-      "title": "Federated Explainable Artificial Intelligence: Roles, Architectures, Evaluation, and Open Challenges",
-      "url": "https://arxiv.org/abs/2607.13045",
-      "summary": "arXiv:2607.13045v1 Announce Type: cross Abstract: Federated Learning (FL) has emerged as a key paradigm for privacy-preserving collaborative model training across distributed and heterogeneous data sources. By keeping raw data local, FL addresses data confidentiality concerns, yet it does not resolve the opacity of modern machine learning models. In parallel, Explainable Artificial Intelligence (XAI) has gained atten",
-      "publishedAt": "2026-07-17T04:00:00.000Z",
-      "timestamp": 1784260800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "policy-safety",
-        "ai-infra",
-        "capital-market"
-      ],
-      "score": 95
-    },
-    {
-      "id": "ai-1lms6qj",
-      "title": "Uncertainty-Aware Sequential Decision Rules for Event-Triggered LLM Invocation in Streaming Systems",
-      "url": "https://arxiv.org/abs/2607.13048",
-      "summary": "arXiv:2607.13048v1 Announce Type: cross Abstract: Streaming inference pipelines increasingly pair lightweight fast models with Large Language Models (LLMs) that provide rich semantic understanding at substantial cost. The central question of when to invoke the LLM has received limited formal treatment. We cast this as a risk-based sequential stopping problem, where a trigger policy fires when a risk functional over t",
-      "publishedAt": "2026-07-17T04:00:00.000Z",
-      "timestamp": 1784260800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "foundation-models",
-        "policy-safety",
-        "ai-infra"
-      ],
-      "score": 95
-    },
-    {
-      "id": "ai-7qmn60",
-      "title": "Autonomous UAV Route Planning for Coverage Maximization in Environmental Monitoring: A Systematic Literature Review",
-      "url": "https://arxiv.org/abs/2607.13054",
-      "summary": "arXiv:2607.13054v1 Announce Type: cross Abstract: Environmental monitoring with unmanned aerial vehicles (UAVs) requires route planning methods that maximize covered area while handling energy limits, operational constraints, and geometric complexity. This paper reports the protocol and preliminary results of an ongoing systematic literature review (SLR) on autonomous UAV route planning for coverage-oriented environm",
-      "publishedAt": "2026-07-17T04:00:00.000Z",
-      "timestamp": 1784260800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "agents",
-        "ai-infra"
-      ],
-      "score": 87
-    },
-    {
-      "id": "ai-10thy16",
-      "title": "Compaction as Epistemic Failure: How Agentic LLM Tools Fabricate Confirmed Results from Killed Processes",
-      "url": "https://arxiv.org/abs/2607.13071",
-      "summary": "arXiv:2607.13071v1 Announce Type: cross Abstract: Agentic LLM coding tools compress long session histories into compaction summaries that subsequent sessions inherit as ground truth. This paper documents a failure mode in Claude Code where partial standard output from timed-out commands (exit code 143) is recorded in compaction summaries as confirmed results, propagating false positives across sessions and model vers",
-      "publishedAt": "2026-07-17T04:00:00.000Z",
-      "timestamp": 1784260800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "foundation-models",
-        "agents",
-        "ai-infra"
-      ],
-      "score": 95
-    },
-    {
-      "id": "ai-12pe1v0",
-      "title": "HRO: Hierarchical Room-to-Object Framework for Zero-Shot Object Goal Navigation with Large Language Models",
-      "url": "https://arxiv.org/abs/2607.13072",
-      "summary": "arXiv:2607.13072v1 Announce Type: cross Abstract: Zero-shot object-goal navigation aims to enable an intelligent agent to explore and navigate to objects of unknown categories in an unfamiliar environment without specific target training. In zero-shot navigation tasks, pre-trained large models are usually employed to leverage their prior knowledge for guiding the agent's navigation. However, existing zero-shot object",
-      "publishedAt": "2026-07-17T04:00:00.000Z",
-      "timestamp": 1784260800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "foundation-models",
-        "agents",
-        "ai-infra"
-      ],
-      "score": 95
-    },
-    {
-      "id": "ai-xwmc70",
-      "title": "When is the combined load identifiable from a stress-intensity profile? A coupled forward-inverse study on SIFBench finite-element data",
-      "url": "https://arxiv.org/abs/2607.13074",
-      "summary": "arXiv:2607.13074v1 Announce Type: cross Abstract: This work studies the inverse problem of recovering the relative magnitudes of the tension, bending, and bearing loads acting on a crack from its stress-intensity-factor profile along the crack front, using the public SIFBench finite-element data. The central claim is not forensic load recovery on field cases, but a rigorous characterization of when the combined load ",
-      "publishedAt": "2026-07-17T04:00:00.000Z",
-      "timestamp": 1784260800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
+        "id": "google-news-taiwan-ai",
+        "name": "Google News: Taiwan AI",
+        "region": "Taiwan",
+        "trust": "aggregator"
       },
       "categories": [
         "applications"
       ],
-      "score": 71
+      "score": 56
     },
     {
-      "id": "ai-hhot4j",
-      "title": "The Entanglement Wall: Activation-Space Probes as Risk Detectors, Not Context Adjudicators",
-      "url": "https://arxiv.org/abs/2607.13075",
-      "summary": "arXiv:2607.13075v1 Announce Type: cross Abstract: Context can change whether a request is harmful without changing its topic or surface form. We ask whether residual-stream probes distinguish harmful requests from surface-matched benign controls at a useful operating point. Across three 7-8B model families, an activation sensor blocks 95.5-97.7 percent of judge-classified compliant attacks in a taxonomy-selected set.",
-      "publishedAt": "2026-07-17T04:00:00.000Z",
-      "timestamp": 1784260800000,
+      "id": "ai-1tltex7",
+      "title": "Xi pitches China as leader of new global AI order, challenging US dominance - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZVpoVTlwUHY0LXNXd19nbFlNWVZoWDdQeVVFSi1ISkZzYVI1YUlzQTR6OXd3XzNhWDhsaTRkdnByczNqMlE4bm1JTHhyaEk2VXhrUDRFdmVjdHN3RW9FZU1OTW5aMnMzTmk1VW5sMUNGTkhYYVc1LUN5bUJJWkNBdUJFSU0wNUZyMDdtZklkRkJPLXBTRlhHQmZ1S1dQSVdTZ3l4OC13TE5aVWNBSUZfeHpfRVRwTG9hdzFKWkdVa2RfaVoxeWpr?oc=5",
+      "summary": "Xi pitches China as leader of new global AI order, challenging US dominance Reuters",
+      "publishedAt": "2026-07-17T02:34:00.000Z",
+      "timestamp": 1784255640000,
       "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
+        "id": "google-news-ai",
+        "name": "Google News: AI",
         "region": "Global",
-        "trust": "research"
+        "trust": "aggregator"
       },
       "categories": [
-        "policy-safety"
+        "applications"
       ],
-      "score": 79
+      "score": 56
     },
     {
-      "id": "ai-1fxqv9x",
-      "title": "The Hitchhiker's Guide to Monoculture",
-      "url": "https://arxiv.org/abs/2607.13077",
-      "summary": "arXiv:2607.13077v1 Announce Type: cross Abstract: Large language models (LLMs) often produce homogeneous outputs, raising concerns that AI coding assistants may lead to convergence in the software artifacts that developers create. Whether this occurs in practice is unclear because developers interactively prompt, evaluate, modify, and reject model outputs, and because outputs vary with prompt and repository context. ",
-      "publishedAt": "2026-07-17T04:00:00.000Z",
-      "timestamp": 1784260800000,
+      "id": "ai-11txkep",
+      "title": "互联网架构无需为AI破例——专访IAB主席德鲁夫·多迪 - edu.cn",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1PRUI5clRELUpQNkd4QlNhb1o1cTN3XzJab3hDWWxUOXpURUpodFNoTGNsSGk1S2x3dXAzS1JKQXFXdmZuMDE5dEdmQ3FDYm9pbzJ5QWsxT3R4WHdRUVN2RmstQUQ2ZzY0bWFmWk8zbjJOa2FWbjYyRzZB?oc=5",
+      "summary": "互联网架构无需为AI破例——专访IAB主席德鲁夫·多迪 edu.cn",
+      "publishedAt": "2026-07-17T01:22:25.000Z",
+      "timestamp": 1784251345000,
       "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
+        "id": "google-news-china-ai",
+        "name": "Google News: China AI",
+        "region": "China",
+        "trust": "aggregator"
       },
       "categories": [
-        "foundation-models",
-        "applications",
-        "ai-infra"
+        "applications"
       ],
-      "score": 95
+      "score": 56
+    },
+    {
+      "id": "ai-oywpg7",
+      "title": "Sora下線後Google出手 Vids自拍就能建立AI分身拍影片 - ETtoday新聞雲",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE01QktpMjdUcTF4OFlNN2lXU2dIcUktblpCT2tDbVNxM0RUVmxxVTl5blN2TjdjYzNMSkFzTWNRUFF2eWowaWpiYUdoNlpWckU3Y1V1dFFNMEVUVjFjdWliUHp4dEExMndf0gFoQVVfeXFMTTVCS2kyN1RxMXg4WU03aVdTZ0hxSS1uWkJPa0NtU3EzRFRWbHFVOXluU3ZON2NjM0xKQXNNY1FQUXZ5ajBpamJhR2g2WlZyRTdjVXV0UU0wRVRWMWN1aWJQenh0QTEyd18?oc=5",
+      "summary": "Sora下線後Google出手 Vids自拍就能建立AI分身拍影片 ETtoday新聞雲",
+      "publishedAt": "2026-07-17T00:52:00.000Z",
+      "timestamp": 1784249520000,
+      "source": {
+        "id": "google-news-taiwan-ai-media-generation",
+        "name": "Google News: Taiwan AI Image/Video Generation",
+        "region": "Taiwan",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "media-generation"
+      ],
+      "score": 64
+    },
+    {
+      "id": "ai-1j0hp2y",
+      "title": "AI不只是工具! 雲科大設計所攜手國際師資探索人機共創新邊界 - MSN",
+      "url": "https://news.google.com/rss/articles/CBMitwRBVV95cUxNUHI3VFlhR0E0bGpVWFFFN19TTnNzMWdkaUh0X1dUMGVDQkthaDlPN0c0Q0p4LURwd1JPZlRiT1ByRnpsVUpIN1dlNUVWNlZFaTFoVXVwMzh0VWpSNzJtNDJ1UE92aURVdmJsZTBMVlVENzh2REZKWWFGbWFXd0RRVXB2NEdydkF5a3MxRFBNaUg1NmZLZ05kN1JYSzk5MllBN1NHcTdVRlEwYk8ybUoxcjVmbEZld0xrTXl1TVRaeGRneDBzR0htYTZHdEp1cFg3TmpVSGtLczRLQzJOM3gzdGF0Q25TektMbVhwTE5ZSDc1NnVmbDlKQ3V3Nks5eVd1QlhIQ1dqRHlTTEJjR3BJbFJGcVo4RG9Nc054alVjOVllelJScW0xb3J2NTM1TURUUTFieDdyV3VlcHVXbG9hb29LdXZLekVocjdxQzVMaV8ya1pxVnBEZThPY0dJZHZkQTdJWVN2a3l6X0hMbHFYUXVONTdJTFB4UzU5YUF6YmdxZ3QtMlh6R21VMkZ0cHBsb0hHMGlNdXNzRVAwV21MdXotOU9yVjdVS2ltNk04ZVRnSl9fdDlNN1g2MGlCbE1TOG9YRUsyYzByVG1UV0NuQ2FQZHFUSUZoR2N2NG1QZFNOMG1zSHdkaHNOVlp2WDlCQWpXTzNWbGdXcFRZd1FyLVhwUUtialNzY2FOazdweVpGc1NsUEdPZWx5a0NMMVE0dzFPUlhjTnZvdVd0RE9KbERDM2kwY0E?oc=5",
+      "summary": "AI不只是工具! 雲科大設計所攜手國際師資探索人機共創新邊界 MSN",
+      "publishedAt": "2026-07-17T00:37:53.000Z",
+      "timestamp": 1784248673000,
+      "source": {
+        "id": "google-news-taiwan-ai-media-generation",
+        "name": "Google News: Taiwan AI Image/Video Generation",
+        "region": "Taiwan",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "media-generation"
+      ],
+      "score": 64
     }
   ],
   "errors": [
