@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T03:58:23.500Z",
+  "generatedAt": "2026-07-19T13:56:20.375Z",
   "windowDays": 21,
   "totalItems": 180,
   "sourceCount": 28,
@@ -208,6 +208,493 @@
   ],
   "items": [
     {
+      "id": "ai-3zqlsr",
+      "title": "2026世界人工智能大会助力企业协同共创 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1UdmxUckRXQjlxYldXeVg1R0RVbFFDMXN4TkJubWh2eXQxRXlfSjUxVzU3Y05IYUF2YzlGckIxZE9UTGgxYThjemV1NFI2UXJRc2doaUU0Wkp0Z3NHcjdIeEF3Y0RjX09uMzhReGlEMnU5RWJmbzItakVUdE9aUQ?oc=5",
+      "summary": "2026世界人工智能大会助力企业协同共创 新华网",
+      "publishedAt": "2026-07-19T12:55:49.000Z",
+      "timestamp": 1784465749000,
+      "source": {
+        "id": "google-news-china-ai",
+        "name": "Google News: China AI",
+        "region": "China",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 65
+    },
+    {
+      "id": "ai-1p6h26",
+      "title": "Alibaba's Qwen takes on Kimi K3 with open-weight Qwen 3.8, says model is \"second only to Fable 5\"",
+      "url": "https://the-decoder.com/alibabas-qwen-takes-on-kimi-k3-with-open-weight-qwen-3-8-says-model-is-second-only-to-fable-5/",
+      "summary": "Alibaba has unveiled Qwen 3.8, a multimodal AI model with 2.4 trillion parameters that the Qwen team says rivals leading models and trails only Fable 5. A preview is available now. The article Alibaba's Qwen takes on Kimi K3 with open-weight Qwen 3.8, says model is \"second only to Fable 5\" appeared first on The Decoder .",
+      "publishedAt": "2026-07-19T12:07:06.000Z",
+      "timestamp": 1784462826000,
+      "source": {
+        "id": "the-decoder",
+        "name": "THE DECODER",
+        "region": "EU",
+        "trust": "media"
+      },
+      "categories": [
+        "foundation-models"
+      ],
+      "score": 73
+    },
+    {
+      "id": "ai-1k63mrp",
+      "title": "第二届歌尔创新大会聚焦AI驱动创新 - 中国科技网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TT2o5UmE4Q0ZwQ2lCc3ZfY1RuSzFRZ1pzM1JMVGpJeUEzcllqZmhlOFJrREtsdmFQbS1MZmlkcncwc092VmZfTVVib2xCU0htMjduVXlKOHNyTkhUT0FUQ3dnbDNvd1lyTmRhajFHZFU?oc=5",
+      "summary": "第二届歌尔创新大会聚焦AI驱动创新 中国科技网",
+      "publishedAt": "2026-07-19T12:04:22.000Z",
+      "timestamp": 1784462662000,
+      "source": {
+        "id": "google-news-china-ai",
+        "name": "Google News: China AI",
+        "region": "China",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 65
+    },
+    {
+      "id": "ai-1xpj5l1",
+      "title": "Government use of automated AI decision-making to be curbed under new Australian rules - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQT1p3V1Q0LXhLUTJYTGVoTk9QWHdBbTQ1RENhY2NPV1hsbDVNYnNuVjdRSWxpTmo0YmJMcHByVnVzenhqOWxpdzV0blc5YTZLYXc1clctS2NvX0hfWWFIb3RSUXFCZVZkaFo1NTQ5N2hwelhocE9jUno4SmxqRUFKTmNkeVhxN0t2OG1aUkdES0xwbU9HSDRBZUxmbG9YNkh0TmlnOXZsV29BY2FmQnRZ?oc=5",
+      "summary": "Government use of automated AI decision-making to be curbed under new Australian rules The Guardian",
+      "publishedAt": "2026-07-19T12:01:00.000Z",
+      "timestamp": 1784462460000,
+      "source": {
+        "id": "eu-ai-policy-news",
+        "name": "Google News: EU AI Policy",
+        "region": "EU",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "policy-safety"
+      ],
+      "score": 73
+    },
+    {
+      "id": "ai-ignmdy",
+      "title": "从世界人工智能大会看国产AI集群化突破 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LQl9GVjJIZmJEMG4yNEo5X3pxdjlqYnVpUFRXbjBlcjFpVV92REJkWGNudDlod0FhVUw5NDd5YVVkRjI5c0lETHRRTTA2eGNZQWZRcVd4bFJsOVNSemphalRudU1Tb3ZXQ29qaVZ4WTlfTUl2aHNMWklWN2VEYkk?oc=5",
+      "summary": "从世界人工智能大会看国产AI集群化突破 新华网",
+      "publishedAt": "2026-07-19T12:00:33.000Z",
+      "timestamp": 1784462433000,
+      "source": {
+        "id": "google-news-china-ai",
+        "name": "Google News: China AI",
+        "region": "China",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 65
+    },
+    {
+      "id": "ai-9uh61b",
+      "title": "在世界人工智能大会看AI赋能千行百业 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TSHhYRWJTNEtGNmkyTjhONnZmOUt2TmNWM0dNenNIUGE3WDVETHdMVkZmSHpiWUM0dkRTdFYzdUdDSFVOUlU4WGltVWJGR05KWV9IZDAwaUtxSHBHdmhUUVFGQWFsN2g0UkxyRW9SbERSLVpobjhMUzBwR1NIRkk?oc=5",
+      "summary": "在世界人工智能大会看AI赋能千行百业 新华网",
+      "publishedAt": "2026-07-19T11:47:09.000Z",
+      "timestamp": 1784461629000,
+      "source": {
+        "id": "google-news-china-ai",
+        "name": "Google News: China AI",
+        "region": "China",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 64
+    },
+    {
+      "id": "ai-ua9ypk",
+      "title": "直击WAIC 2026：AI高景气延续 厂商竞逐高性能算力设备“蓝海” - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBzenRycWF0cXhnU0p5TWQ5SUNZdnhNSVJ0T3RlSHpGTmRaaFBGZEl1RUhkbVE2akFDVlFUMy1kdVJfOV93STNjcDhhYXNZeTY4VUhrM2ctd0EzeGFyWFZZTw?oc=5",
+      "summary": "直击WAIC 2026：AI高景气延续 厂商竞逐高性能算力设备“蓝海” 东方财富",
+      "publishedAt": "2026-07-19T11:29:55.000Z",
+      "timestamp": 1784460595000,
+      "source": {
+        "id": "google-news-china-ai",
+        "name": "Google News: China AI",
+        "region": "China",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 64
+    },
+    {
+      "id": "ai-1h3ohvk",
+      "title": "WAIC 2026：联想以混合式AI加速智能生产力落地 - 中国日报网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9hNlRPSlZMWlNBcG9DWmNwcWs4YUhRYUdmYlhhZTFjQXlGSU9DcVFtX0pwNkY1enQxdUhKSWVlWEtFTjFUTkp4OGx4Y29wV0gwclZiM0czNXRzSDNMOFRJOVp4QXBQa1FYZUp1YnRxcWpPSlVUYWZtcEtBRUk?oc=5",
+      "summary": "WAIC 2026：联想以混合式AI加速智能生产力落地 中国日报网",
+      "publishedAt": "2026-07-19T11:12:19.000Z",
+      "timestamp": 1784459539000,
+      "source": {
+        "id": "google-news-china-ai",
+        "name": "Google News: China AI",
+        "region": "China",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 64
+    },
+    {
+      "id": "ai-n7xrsa",
+      "title": "全球首个服务业AI认知测评与学习辅导系统发布 - 中国科技网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQV25Vdm1GVE94NkJfem8xemt3RThxSWpwV2NEMFdGS19WeVdMV0dkSGVzcDQ2M0RwVUo3cU9RbmtuOFB5V3EtV1ByOEdtaGxDaHFqelRVLWRleV81VGNNRUs4eDZ6R1lGVTVudmpkaTY?oc=5",
+      "summary": "全球首个服务业AI认知测评与学习辅导系统发布 中国科技网",
+      "publishedAt": "2026-07-19T10:23:53.000Z",
+      "timestamp": 1784456633000,
+      "source": {
+        "id": "google-news-china-ai",
+        "name": "Google News: China AI",
+        "region": "China",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 64
+    },
+    {
+      "id": "ai-1q5152k",
+      "title": "臉書、Instagram皆傳大當機 網頁版和app使用有問題",
+      "url": "https://www.cna.com.tw/news/ait/202607190169.aspx",
+      "summary": "（中央社新加坡19日綜合外電報導）美國Meta公司擁有的兩大社群媒體平台臉書（Facebook）和Instagram今天似乎出現一些當機情況，有用戶通報在使用各自網頁版及應用程式（app）時出現問題。",
+      "publishedAt": "2026-07-19T10:18:40.000Z",
+      "timestamp": 1784456320000,
+      "source": {
+        "id": "cna-tech",
+        "name": "中央社科技",
+        "region": "Taiwan",
+        "trust": "media"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 64
+    },
+    {
+      "id": "ai-ki85vl",
+      "title": "Google Deepmind argues video generators already contain the world models computer vision has been missing",
+      "url": "https://the-decoder.com/google-deepmind-argues-video-generators-already-contain-the-world-models-computer-vision-has-been-missing/",
+      "summary": "Google Deepmind's GenCeption repurposes a video generator for classic vision tasks such as depth estimation and segmentation, matching state-of-the-art systems with far less training data. The model trained almost entirely on synthetic videos. Its results add to the debate over whether video generators already contain a kind of universal world model. The article Google Deepmind argues video generators already contain",
+      "publishedAt": "2026-07-19T10:17:49.000Z",
+      "timestamp": 1784456269000,
+      "source": {
+        "id": "the-decoder",
+        "name": "THE DECODER",
+        "region": "EU",
+        "trust": "media"
+      },
+      "categories": [
+        "robotics"
+      ],
+      "score": 72
+    },
+    {
+      "id": "ai-1n3wf7z",
+      "title": "上海人工智能实验室主任周伯文：中国在全球AI治理中展现大国担当 - 科学网—新闻",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wbmVYdUlYeG5YLTRyTXVzdXoxbzY2bWxPTFRudTU5UUN3ME1SdG5wMkpzWFZjbkhxSVBST0U0Y1NFWHVMY1haS1E2LVJpSmJwZGlHWjZYZENqYk5NWG02UWlUZGg?oc=5",
+      "summary": "上海人工智能实验室主任周伯文：中国在全球AI治理中展现大国担当 科学网—新闻",
+      "publishedAt": "2026-07-19T10:01:31.000Z",
+      "timestamp": 1784455291000,
+      "source": {
+        "id": "google-news-china-ai",
+        "name": "Google News: China AI",
+        "region": "China",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 64
+    },
+    {
+      "id": "ai-12706pr",
+      "title": "Could Your AI Systems Already Be High-Risk Under the EU AI Act? - KDnuggets",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYkxIYXlIdlAtUWpJM1NjYzBCZy00aTJGZDhFVkppa21YYnd1M2hsdEt5UFJsWFMtSHQtM2J5eW1LYmQyT2xhYmtFR0NoMW5VbW1MTFE1YXlReGJ2QmZtNWNMeVVrTUJYSXUxRGJlMDFpUjB3Nm1DUjJSNHEyMGpJYjVPZ09CdEpEVDIwbkI1ZWY0SElGODJlVVd3M29GZDNUNnpDeg?oc=5",
+      "summary": "Could Your AI Systems Already Be High-Risk Under the EU AI Act? KDnuggets",
+      "publishedAt": "2026-07-19T09:58:52.000Z",
+      "timestamp": 1784455132000,
+      "source": {
+        "id": "eu-ai-policy-news",
+        "name": "Google News: EU AI Policy",
+        "region": "EU",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "policy-safety"
+      ],
+      "score": 72
+    },
+    {
+      "id": "ai-1q5az5",
+      "title": "Does The AI Industry Need Its Own FINRA? - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPb2U4eHdGN1d5bWhNeVkyTHQwLU9fakI3bGVrNDIyYXFXMGFsckNHRE9nNU9SdE4tdXZ6T1V3TlMtdXZKRDVxX2U5WHAtLUViMkQtZEgzVEh1RE1nOE1acW9hdmRqV0JKXzhwdjlzUVE0d1YyRE5TR0g2NGo5QllfYjdiOHpWTng5RTM5UkMtNzdRV3JzamZIamRR?oc=5",
+      "summary": "Does The AI Industry Need Its Own FINRA? Forbes",
+      "publishedAt": "2026-07-19T09:57:46.000Z",
+      "timestamp": 1784455066000,
+      "source": {
+        "id": "eu-ai-policy-news",
+        "name": "Google News: EU AI Policy",
+        "region": "EU",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "policy-safety"
+      ],
+      "score": 72
+    },
+    {
+      "id": "ai-liwm4c",
+      "title": "人工智能引领产业变革思客会现场 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeFJlWUNYSFRSTUNEQ2QtcWFBd2w3aDJ1Xy1SWjlxai1tcUtFTGczOG9OQXpSSHVqc0lnbEd5b2Njb3lDT2Y5ZEwydDB0Q2h3WHZUT2JNY0poZDM0N0xqWUpGVF9PT0g2M0pZM3dKbTBGaGw1YW9KUFAwS2FtdVVyR0ZB?oc=5",
+      "summary": "人工智能引领产业变革思客会现场 新华网",
+      "publishedAt": "2026-07-19T09:42:33.000Z",
+      "timestamp": 1784454153000,
+      "source": {
+        "id": "google-news-china-ai",
+        "name": "Google News: China AI",
+        "region": "China",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 64
+    },
+    {
+      "id": "ai-1tq7ywz",
+      "title": "Moonshot's Kimi K3 outperforms Fable 5 in frontend code but lags far behind in complex math",
+      "url": "https://the-decoder.com/moonshots-kimi-k3-outperforms-fable-5-in-frontend-code-but-lags-far-behind-in-complex-math/",
+      "summary": "Moonshot's Kimi K3 is the first Chinese model to top the Code Arena: Frontend rankings, beating Claude Fable 5 and GPT-5.6 Sol by a wide margin. But on advanced math, the gap is stark: Kimi K3 scores only about 39 percent on FrontierMath Tier 4, while models from OpenAI and Anthropic hit close to 90. The article Moonshot's Kimi K3 outperforms Fable 5 in frontend code but lags far behind in complex math appeared first",
+      "publishedAt": "2026-07-19T09:32:19.000Z",
+      "timestamp": 1784453539000,
+      "source": {
+        "id": "the-decoder",
+        "name": "THE DECODER",
+        "region": "EU",
+        "trust": "media"
+      },
+      "categories": [
+        "foundation-models"
+      ],
+      "score": 72
+    },
+    {
+      "id": "ai-13zr4sf",
+      "title": "From Principles to Practice: Actionable Blueprints for Ethical AI - GovTech",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNd3g3SEFzb0RiNi1rVVRrM2szaU5LTFo4VDVHUldWalVGRmVjcWhnRFpwZDJtbHlCX2plTkFRcTFRT1FVeEdLNF9MWjN5Y1FIcXNYd3VKZG1iMnh4Vmo4Z0xHN1c2V3NsbFdqem5HSFlCTnFZWkxYQ0ZWODNBY3RrazZQOVllZTFDMEdZdnU4RkQtSVV4blphN3RERHVwRDFvRm84OUdYV1Z3UHRtSDltcmp0bXExQm94ZG5Fdg?oc=5",
+      "summary": "From Principles to Practice: Actionable Blueprints for Ethical AI GovTech",
+      "publishedAt": "2026-07-19T09:22:46.000Z",
+      "timestamp": 1784452966000,
+      "source": {
+        "id": "eu-ai-policy-news",
+        "name": "Google News: EU AI Policy",
+        "region": "EU",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "policy-safety"
+      ],
+      "score": 72
+    },
+    {
+      "id": "ai-tlcj9q",
+      "title": "臉書網頁版當機 帳號暫時無法使用",
+      "url": "https://www.cna.com.tw/news/ait/202607190137.aspx",
+      "summary": "（中央社記者吳家豪台北19日電）Meta公司旗下社群平台臉書（Facebook）今天下午傳出網頁版當機，突跳出訊息顯示「帳號暫時無法使用」，故障原因及影響範圍尚待官方出面說明。",
+      "publishedAt": "2026-07-19T08:50:29.000Z",
+      "timestamp": 1784451029000,
+      "source": {
+        "id": "cna-tech",
+        "name": "中央社科技",
+        "region": "Taiwan",
+        "trust": "media"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 64
+    },
+    {
+      "id": "ai-cd749g",
+      "title": "AI text detectors struggle when language models mimic an author's style",
+      "url": "https://the-decoder.com/ai-text-detectors-struggle-when-language-models-mimic-an-authors-style/",
+      "summary": "Epoch AI tested three leading AI text detectors (Pangram, GPTZero, and Originality.ai) using style-imitated texts. Up to 18 percent of AI-generated passages went undetected. For scientific writing, the miss rate climbed as high as 48 percent, the very genre where these detectors likely see the most real-world use. The article AI text detectors struggle when language models mimic an author's style appeared first on Th",
+      "publishedAt": "2026-07-19T08:35:26.000Z",
+      "timestamp": 1784450126000,
+      "source": {
+        "id": "the-decoder",
+        "name": "THE DECODER",
+        "region": "EU",
+        "trust": "media"
+      },
+      "categories": [
+        "foundation-models"
+      ],
+      "score": 72
+    },
+    {
+      "id": "ai-1fgm4t3",
+      "title": "AI chatbots reading X-rays can be dangerously confident even when they're wrong",
+      "url": "https://the-decoder.com/ai-chatbots-reading-x-rays-can-be-dangerously-confident-even-when-theyre-wrong/",
+      "summary": "The RadLE 2.0 benchmark tests whether AI models in radiology can tell when they should leave a diagnosis to a human. Many models deliver wrong findings with full confidence, and human radiologists are still well ahead. Before AI can diagnose on its own, it needs to learn when it's better to say nothing. The article AI chatbots reading X-rays can be dangerously confident even when they're wrong appeared first on The D",
+      "publishedAt": "2026-07-19T07:35:20.000Z",
+      "timestamp": 1784446520000,
+      "source": {
+        "id": "the-decoder",
+        "name": "THE DECODER",
+        "region": "EU",
+        "trust": "media"
+      },
+      "categories": [
+        "policy-safety",
+        "open-source"
+      ],
+      "score": 89
+    },
+    {
+      "id": "ai-1qaeje5",
+      "title": "元景UniClaw随身版亮相，以智能体定义AI随行新范式 - 中国科技网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9vNkhHRXllaXBOLVJVNktzamJIejJXMzFZcG5hMTRHNnltSlJZSHhLTDhGVFRDRHdEMGxEajBMa29JU2JVZlBFVUltbFBvQjlhQ0tGSkxsTk1Vcmc5RHlfWUE0bE9EcTRlSDN0QjFfVG0?oc=5",
+      "summary": "元景UniClaw随身版亮相，以智能体定义AI随行新范式 中国科技网",
+      "publishedAt": "2026-07-19T06:55:55.000Z",
+      "timestamp": 1784444155000,
+      "source": {
+        "id": "google-news-china-ai",
+        "name": "Google News: China AI",
+        "region": "China",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 63
+    },
+    {
+      "id": "ai-h3hul5",
+      "title": "世界人工智能大会：AI从实验室概念走向生活日常 - 中国之声",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9reGo4YTd4dG96ZFFHaG5GNEo3dVBjMzJCOTNyUVlXYjUtUkJrdVB5eHppcGU2MU5lZ3ZhSzJKbmVnMlBpN2lMejJyM3lpTXJVa3d4OW5RS1Y4S2U1VlhyZWZLRFE3bjcxMUZpYw?oc=5",
+      "summary": "世界人工智能大会：AI从实验室概念走向生活日常 中国之声",
+      "publishedAt": "2026-07-19T06:41:44.000Z",
+      "timestamp": 1784443304000,
+      "source": {
+        "id": "google-news-china-ai",
+        "name": "Google News: China AI",
+        "region": "China",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 63
+    },
+    {
+      "id": "ai-141kkt3",
+      "title": "Meta推出AI圖像生成器「Muse」可直接改造公開 Instagram 照片惹議 - MSN",
+      "url": "https://news.google.com/rss/articles/CBMipwRBVV95cUxOTW5qdld4TDA2eE9TRS1WWlNIeUtjVzlhcS1iOUk0Y0FaR2JNZEQ1eVREcVBscFFZNTRuZ0VrUWpWc1R5blBuWTl6Q1pFeFlqTjczV094YlB2bHlPSkhyckxwa0Z1UFBYUFI5MkNVLTVZQ3dlYlBaR2RPUDVIMlJNSDlRaXowLXN4Mk9KRGQxanpRVnZDRGJyUUxvZ0VxTmJkSWNQd0pYWVhRdU9iZ0VHZ0hNdmVrUTFHR1lGWi04QWV4dXlhXzVVaXV3Yjd6bnczZVB0SVRIYzZXRzNCandvSVJ3MHYtcnVBTnVGbkJKN28tX1NxWkNRZ3hzcEZ6a0kyWVRjM2dZZmhtNkJYdV96RE5OZkpiRXhtNkFkZkRYdG9iWk43VkZsMVd6bkJlNnRodTBuRFNfdnZoZ3NzajJ3OTVQYk9ZWG9DMmpfRy0tNGNkSUNmSkVXeXFjXzhwel9adWJTby1fTnBoUHhNX3hkMExBYUNDRUsxRU1iYUlFQk1Na05QUDA0M0RUODVfa0pnb1BnWnRtOUl1TmpadU1QMWhJck5KOU1VV2pwaFNQcmZ4NGRZOUxVTTJsNjRGMTJXaDBkOV9aaElfSVNEYjd6ZGpuZWVuelB3UVVldF94WWhLUjlYRGpZV0dXTVNzT000YllDNzlPdEgwaVZFOUtVYzJaS0d3YjRCODZ5VHZMa1NzeDZNbFU4c29abkk4WDdmVGJOUE1pbw?oc=5",
+      "summary": "Meta推出AI圖像生成器「Muse」可直接改造公開 Instagram 照片惹議 MSN",
+      "publishedAt": "2026-07-19T06:29:45.000Z",
+      "timestamp": 1784442585000,
+      "source": {
+        "id": "google-news-taiwan-ai-media-generation",
+        "name": "Google News: Taiwan AI Image/Video Generation",
+        "region": "Taiwan",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "media-generation"
+      ],
+      "score": 71
+    },
+    {
+      "id": "ai-147j7be",
+      "title": "Meta擬向Anthropic出借算力供AI模型訓練 交易規模或達100億美元 - 香港01",
+      "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxPaVFaSTFFRlFhVW1DT0JkLVhJMC1UQ19xVjZ5UHZRcWRRcWtzVXF6SmR0TWtIbFpwVlZTaC12VUhMSi1jMjRxTzdpSVAzS01ackprbmNVb1dpOHFFWWkxVUhJYVlIVGFLWTJ4TG43U0dxc2hJUlZVeVBVeEM4dEhJNGt1aU1sWEdvcFpZSGtzQThOcWE2QVFKbWRQTThKWmVtQ1pPVnBVMWxsQjdjb0hua0x3WGpWY2ctX0VNbFBUZ3BUTTNaMjFXcy1pNGtVUHY2NmQ4Q1BJMVByWTV6dzZOUHBRUHRLd3hRaVQxYWJ2cEFWS2ZUc0ZqRXBtNlFFdWRpUFhKc0g1YmtaTlhLM2ZncjJfZ2NmbE56WjByZzBqQzNUNi00VGExMWM2VmxtVGF4c01rOWtsZUZ6b2hhRnlILXdYdlN6ZDcxekktTUVlekRmdGdBVGsyd1ZBbV9ZS3FQQ3E5TVVtQmExNEhDU2ZTNDlWdjNwdVViU2RqZlBGdw?oc=5",
+      "summary": "Meta擬向Anthropic出借算力供AI模型訓練 交易規模或達100億美元 香港01",
+      "publishedAt": "2026-07-19T06:26:41.000Z",
+      "timestamp": 1784442401000,
+      "source": {
+        "id": "google-news-taiwan-ai-media-generation",
+        "name": "Google News: Taiwan AI Image/Video Generation",
+        "region": "Taiwan",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "media-generation"
+      ],
+      "score": 71
+    },
+    {
+      "id": "ai-1owgzin",
+      "title": "AI影片重創短劇業 幕後人員飯碗不保 - 世界新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HQlZqU19LMzhCRy1oS0NpMUNHMzFxQU1wcUJOVEVnVkNuRHlvcWlCSUNPVHpfRDNqWXN5RVpGTWk5Y1lqeEhrbHBnMWZ2cDlZYVk3RlRGakxOOWVXbnI2ekNodG5QekHSAWdBVV95cUxPR0JWalNfSzM4QkctaEtDaTFDRzMxcUFNcHFCTlRFZ1ZDbkR5b3FpQklDT1R6X0QzallzeUVaRk1pOWNZanhIa2xwZzFmdnA5WWFZN0ZURmpMTjllV25yNnpDaHRuUHpB?oc=5",
+      "summary": "AI影片重創短劇業 幕後人員飯碗不保 世界新聞網",
+      "publishedAt": "2026-07-19T06:16:00.000Z",
+      "timestamp": 1784441760000,
+      "source": {
+        "id": "google-news-taiwan-ai-media-generation",
+        "name": "Google News: Taiwan AI Image/Video Generation",
+        "region": "Taiwan",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "media-generation"
+      ],
+      "score": 71
+    },
+    {
+      "id": "ai-qag3vw",
+      "title": "同济大学院士专家在世界人工智能大会多个分论坛上作主旨报告 - 同济大学新闻网",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MeC1wNzVEaV9pZVk3dWJ0LW95MnZqTnNXR21IM2lUZXlRSDI5cEtyNlp1TlFPNXpDMDFiRkhqcldVV1RueU9nSjRHLW5rNTVxR0Q4MG56TTBaUQ?oc=5",
+      "summary": "同济大学院士专家在世界人工智能大会多个分论坛上作主旨报告 同济大学新闻网",
+      "publishedAt": "2026-07-19T05:43:19.000Z",
+      "timestamp": 1784439799000,
+      "source": {
+        "id": "google-news-china-ai",
+        "name": "Google News: China AI",
+        "region": "China",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 63
+    },
+    {
+      "id": "ai-1mlxp6a",
+      "title": "新华网科技观察丨从一场大会看AI产业发展新方向 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1BZzdiMW5NdkpKZlFTcEFEc285bGlPc19aWkxnTHpkRV9HeXdhNTQ4NnpVM1lvd3RrYTU2VGdCNk1rSVUtaFhjMVFJNnhDUDdGcTdGNFkyeHZKaDV4V1VsMDJpbUduVUkwck80WFprdDBDZERxVTBF?oc=5",
+      "summary": "新华网科技观察丨从一场大会看AI产业发展新方向 新华网",
+      "publishedAt": "2026-07-19T04:56:31.000Z",
+      "timestamp": 1784436991000,
+      "source": {
+        "id": "google-news-china-ai",
+        "name": "Google News: China AI",
+        "region": "China",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 63
+    },
+    {
       "id": "ai-1lk27zd",
       "title": "从网络底座到工业互联网，中国移动WAIC全景呈现AI赋能产业新图景 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5pUC1NSUloUUY5MktEQzJ6T3ZlSlpJOXI5N1hvVWp3eGFoY2JBTTVYQnQzQ2p3bGRTTUc5cm44S0JkRm1uX1NudmRTS09LRk9jRTJBZlEzQ05CSV9iTjAzVXlXdUNxeHZSeGJZZ3ZGV1Y4WUltNzNSV2lFZEY?oc=5",
@@ -223,15 +710,15 @@
       "categories": [
         "applications"
       ],
-      "score": 65
+      "score": 62
     },
     {
-      "id": "ai-1xjlfgz",
-      "title": "中国铁塔精彩亮相2026世界人工智能大会 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBHV1B5c2lFMWRvQWFvN3hrZGtpelhyWDFVMDRnVjVjM2xkVzA4dkRmUGZQeUNZRHNVbW9ZWTdYTnZSUTFlT0ZzMUNVUGxTY3k2dHFSQ0NuMUEwdzdnRWRXZVpZSDExckFIUmFlU2lYUHdkckpRTXZ4cEwybWI?oc=5",
-      "summary": "中国铁塔精彩亮相2026世界人工智能大会 新华网",
-      "publishedAt": "2026-07-19T03:33:52.000Z",
-      "timestamp": 1784432032000,
+      "id": "ai-1s0rdsx",
+      "title": "智象未来亮相2026世界人工智能大会 发布长视频创作智能体并布局产业协同生态 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA0UFdLZXN2aVdsdi1aRzlNZGQzWkt1b25VYXF2NFhIVnJ3ZGlhbExuS01aNUxRNzk5NkcyQmxTQlNtRUVuOFFfd2JQNlRsNExNcWJ0LW1QQlpDOHd2UksyejM1bHEtYnRyM2FTdFRKTkRoc0N6T3dtN2xjS3E?oc=5",
+      "summary": "智象未来亮相2026世界人工智能大会 发布长视频创作智能体并布局产业协同生态 新华网",
+      "publishedAt": "2026-07-19T03:21:49.000Z",
+      "timestamp": 1784431309000,
       "source": {
         "id": "google-news-china-ai",
         "name": "Google News: China AI",
@@ -241,15 +728,33 @@
       "categories": [
         "applications"
       ],
-      "score": 65
+      "score": 62
     },
     {
-      "id": "ai-16twlpk",
-      "title": "多项首发技术和创新成果亮相世界人工智能大会 - 中国日报网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE03dUhWSWszUDh2el9leG5JanhTblJIdkkxN2FrUVNHRjd2YXhqS3ViXzZiWjdUd0tXdmg4ajRIcnNwZ3VJV2dHNEdPQkdCYThoanNUdG1vd1Q3V19kU05JZWJldVJjWUFmUHhRWTdTR1JuNnUwaTFySEdxMWQ?oc=5",
-      "summary": "多项首发技术和创新成果亮相世界人工智能大会 中国日报网",
-      "publishedAt": "2026-07-19T02:45:02.000Z",
-      "timestamp": 1784429102000,
+      "id": "ai-zv1l9c",
+      "title": "AI時代台灣站哪邊？中官媒：勿成美國「遏華鏈條」配角 - 世界新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BZUl3QnJMV3RsUFFOUXdGMzFwNWhRcmxYSE43MDZnaFl0ZVpySzVsNERfZG5PdXZXQXlMYkRKMkxBenZLU1pOMWw2TWx2bjhaNzJrSC15RUNnc3VrWDZ5bDdnd0cxRG_SAWdBVV95cUxNQWVJd0JyTFd0bFBRTlF3RjMxcDVoUXJsWEhONzA2Z2hZdGVacks1bDREX2RuT3V2V0F5TGJESjJMQXp2S1NaTjFsNk1sdm44Wjcya0gteUVDZ3N1a1g2eWw3Z3dHMURv?oc=5",
+      "summary": "AI時代台灣站哪邊？中官媒：勿成美國「遏華鏈條」配角 世界新聞網",
+      "publishedAt": "2026-07-19T03:04:57.000Z",
+      "timestamp": 1784430297000,
+      "source": {
+        "id": "google-news-taiwan-ai",
+        "name": "Google News: Taiwan AI",
+        "region": "Taiwan",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 62
+    },
+    {
+      "id": "ai-17josjz",
+      "title": "六大方向齐发力！浦东打造全球人工智能创新创业主场 - 中国科技网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9KcG9VYXZFaDBjWTVKaGZqNElTT1UxWFhBdVMzMFU0RUxSZnYyLTVlMHZsS2FhRHRIdkx4OWZpZWR4YjhaV2p4U244ajNGRTFTNnNNdlE4QWhubE1KcEdVREJJNFVxNlBNcHhaVFZDdXk?oc=5",
+      "summary": "六大方向齐发力！浦东打造全球人工智能创新创业主场 中国科技网",
+      "publishedAt": "2026-07-19T02:32:30.000Z",
+      "timestamp": 1784428350000,
       "source": {
         "id": "google-news-china-ai",
         "name": "Google News: China AI",
@@ -259,7 +764,7 @@
       "categories": [
         "applications"
       ],
-      "score": 65
+      "score": 62
     },
     {
       "id": "ai-146qrnv",
@@ -277,7 +782,7 @@
       "categories": [
         "applications"
       ],
-      "score": 65
+      "score": 62
     },
     {
       "id": "ai-fimpst",
@@ -295,7 +800,7 @@
       "categories": [
         "applications"
       ],
-      "score": 65
+      "score": 62
     },
     {
       "id": "ai-779hbg",
@@ -313,7 +818,7 @@
       "categories": [
         "applications"
       ],
-      "score": 65
+      "score": 62
     },
     {
       "id": "ai-w2fhtq",
@@ -331,25 +836,25 @@
       "categories": [
         "applications"
       ],
-      "score": 64
+      "score": 62
     },
     {
-      "id": "ai-1i68k8j",
-      "title": "从技术突破到产业落地！跨国企业看好中国AI应用前景 - 光明网",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBWUW42R2syVDZaTkFxSWdzaXRzaTZpNm14NExFOTU0aDhUeEFBMWVzN0wyQmx0S25kOXNMLVlILVQxQW1pVHE5S0s5cjZLVHlGYzNUcThiVzItQ2Z5ZzlEaG93?oc=5",
-      "summary": "从技术突破到产业落地！跨国企业看好中国AI应用前景 光明网",
-      "publishedAt": "2026-07-19T01:35:00.000Z",
-      "timestamp": 1784424900000,
+      "id": "ai-6ta6x6",
+      "title": "Artificial Intelligence Is Changing The Economics Of Cybercrime - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQW5qOUpnVG1uUXVXZ1M5YThQZkoxcTRTRnZndXFLelZIZzRJVmZEVjBGMldudDJUdE1ZSHcxel93Vl9JV083NkpWcllVVUNkbnFkRTEzVVg3M3NsdndIMGZGQ1Q0ZTJqc3hienZHU0hNX0RCTXlOUUJycUpMUmkzbVlLVXhQMEdSNnBDdm1BQm9qSGlneml2dW8tdVdOWkdHT1A2RlVTNnh2djd0UF9CRHRaVHBHVjJzSVYyb29icjQ?oc=5",
+      "summary": "Artificial Intelligence Is Changing The Economics Of Cybercrime Forbes",
+      "publishedAt": "2026-07-19T01:30:39.000Z",
+      "timestamp": 1784424639000,
       "source": {
-        "id": "google-news-china-ai",
-        "name": "Google News: China AI",
-        "region": "China",
+        "id": "google-news-ai",
+        "name": "Google News: AI",
+        "region": "Global",
         "trust": "aggregator"
       },
       "categories": [
         "applications"
       ],
-      "score": 64
+      "score": 62
     },
     {
       "id": "ai-rhh6q4",
@@ -367,15 +872,15 @@
       "categories": [
         "applications"
       ],
-      "score": 64
+      "score": 62
     },
     {
-      "id": "ai-d8z867",
-      "title": "台南檳榔攤能收美金? 市府「酒駕累犯照」被指造假 疑用AI 生圖字體全崩壞 - MSN",
-      "url": "https://news.google.com/rss/articles/CBMiwgNBVV95cUxNQXhVMXVTb1Rud3NFYXpxSGU3WjYzcmhycDRJTGNGVnF4bzFyQnpVdnQwb3RpUkw0UTRuTmtFQUw5cG5ydkVVZjZIQjdEQXlSZnBiWFhsQUY5dmpxcWpYcWVlUzZRZXZfajFTaW5vTTFQZVg0emRBVExxOUxYVVVhMXhoWWxXZWl3SUFBeXVoWmMxVkVrR01mZ053RTVGaTVVYk9mZThoTXk3WXZFaFFwYkhhOC1wZ0hmWGZsUy1DR0ZXVVpFdlRXdmlncklCQTRaQVplX21WLWxydUsyWC1KU2xOYTBxV2RoRlp1WWdKVDVNWWxTOUlmOGVkTTVPZHB6dEI0NVFRZ2lsSndBY0p3aG1McEhWcFluR19NdlZuc2tIMDRwWlRvTHBHWTFDUWRsb0ZiVVBPQmdWVGNBU2JvZjlkNFVLd29jbWsxb21fRjltS1ZEa29sY0w5V2RzU1ZRbWZCS2dBSS0ySkZseVVMRUZDcHUwdkQ4WHYzYUZ3SXltbmVHU0Zpajh3RVRiUTk2dnUwMEh6WjZXclJRTlZLeldMWWE2SmVYaHE3b1hfbWFBWkVvbnFZSjUyeWtQa21tS0E?oc=5",
-      "summary": "台南檳榔攤能收美金? 市府「酒駕累犯照」被指造假 疑用AI 生圖字體全崩壞 MSN",
-      "publishedAt": "2026-07-19T00:47:47.000Z",
-      "timestamp": 1784422067000,
+      "id": "ai-1o33jyq",
+      "title": "老師先懂AI 學生才有未來! 亞洲大學啟動種子教師特訓 - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxQYWlQNl9vZUo0UnI0c2J6MDM1elgwQ1FtNXdGZE42U2N4NGpRVGNubk5YOGVPSW1ZRFJ1WWRpY185cWlySk1vWmVWUllxa2FYd3ZWQ3Y5MmhkanF6UnNHWEQwalNFdFYtTTRjM2pILVpwTTVxdndaRFM2djJtYTgxemdvd2FoSkd4LWJqcmhjaTZuRUFVdUpZRzlqZEFtYjNTU2o1aklwZlFKeG1hbHVhTUVwai1Ma2w1X2pUUnpMU2VTd2dmYWZkaVBtVklrVTdkV096cDhSZVpuODg0YWg5SEhFNURxbkJXeWlFUTUxY2RtSWdfWkk0SlRGR3dGRGN6RFg3RFBpQl9Ba3h1NGdKMVRndU40MjU2dUhYUW9Zc0RQVzZ1T2pQMG43UWRQWWctYWRZY3ByTW5SQVVhcXlaZzVJVDFJMTBWWVdNYzJnTTk3dDZPRkw3SEJLT3RxYjAyQy1uY0ZqaXZPeFhiSFk3X2hjaGVnLU1fNy1fV3FB?oc=5",
+      "summary": "老師先懂AI 學生才有未來! 亞洲大學啟動種子教師特訓 MSN",
+      "publishedAt": "2026-07-19T00:41:59.000Z",
+      "timestamp": 1784421719000,
       "source": {
         "id": "google-news-taiwan-ai-media-generation",
         "name": "Google News: Taiwan AI Image/Video Generation",
@@ -385,25 +890,7 @@
       "categories": [
         "media-generation"
       ],
-      "score": 72
-    },
-    {
-      "id": "ai-1fqqj9z",
-      "title": "2026世界人工智能大会见证中国AI产业突破 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBCbmNXUjVCZHh2dXhVeS1BbVlkX0JjOXJFbmJfdHlaLU96R3JUeFhkUm5BYlBnc3QxampFd3NtZjVxZ2xlNTcwanloSENfZE13ZS1PVk5uOWFWcW5aSVJtOG1YenljcE1PWnh2Mzl0eFZCWVdjT3IwOHpCTUw?oc=5",
-      "summary": "2026世界人工智能大会见证中国AI产业突破 新华网",
-      "publishedAt": "2026-07-19T00:32:47.000Z",
-      "timestamp": 1784421167000,
-      "source": {
-        "id": "google-news-china-ai",
-        "name": "Google News: China AI",
-        "region": "China",
-        "trust": "aggregator"
-      },
-      "categories": [
-        "applications"
-      ],
-      "score": 64
+      "score": 70
     },
     {
       "id": "ai-237cno",
@@ -421,7 +908,7 @@
       "categories": [
         "applications"
       ],
-      "score": 64
+      "score": 62
     },
     {
       "id": "ai-etrbpa",
@@ -439,13 +926,31 @@
       "categories": [
         "applications"
       ],
-      "score": 64
+      "score": 61
     },
     {
-      "id": "ai-55ty8v",
-      "title": "觀點投書：破解 AI 時代最好與最壞的焦慮─台灣如何以制度創新掌握下一波經濟長波| 林華庭 | 評論 - Storm.mg",
+      "id": "ai-nj3znk",
+      "title": "用人工智能建厂 促人工智能发展（奋进“十五五” 一线见闻） - 人民网财经",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9IOXFLcHVlanhjRTRKcDBfWlJUM3FTYzBwTnpucUJYdDBvQmp2bDFLemlDWEpZbS1TU2xzMVdxdGEyeGxMdTQwclJkWUJEWHV2WUdWOUxjZGRTc0pqVGNyMUtUUjExTkJpZmEyVk93?oc=5",
+      "summary": "用人工智能建厂 促人工智能发展（奋进“十五五” 一线见闻） 人民网财经",
+      "publishedAt": "2026-07-18T21:57:00.000Z",
+      "timestamp": 1784411820000,
+      "source": {
+        "id": "google-news-china-ai",
+        "name": "Google News: China AI",
+        "region": "China",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 61
+    },
+    {
+      "id": "ai-18bjpqz",
+      "title": "觀點投書：破解 AI 時代最好與最壞的焦慮─台灣如何以制度創新掌握下一波經濟長波| 林華庭 | 評論 - 風傳媒",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBGVGNKZ1dQRmVyYk4tV0pwb2puUGZCY2ZVdVpUXzgyaWx1dVJySW5OMzJjZGF0ZHctSVFncXpFWkxsU2ZiUEZJaVdrQUdfZw?oc=5",
-      "summary": "觀點投書：破解 AI 時代最好與最壞的焦慮─台灣如何以制度創新掌握下一波經濟長波| 林華庭 | 評論 Storm.mg",
+      "summary": "觀點投書：破解 AI 時代最好與最壞的焦慮─台灣如何以制度創新掌握下一波經濟長波| 林華庭 | 評論 風傳媒",
       "publishedAt": "2026-07-18T21:30:00.000Z",
       "timestamp": 1784410200000,
       "source": {
@@ -457,7 +962,7 @@
       "categories": [
         "applications"
       ],
-      "score": 63
+      "score": 61
     },
     {
       "id": "ai-dbgo08",
@@ -475,7 +980,7 @@
       "categories": [
         "media-generation"
       ],
-      "score": 71
+      "score": 69
     },
     {
       "id": "ai-14znynd",
@@ -493,7 +998,7 @@
       "categories": [
         "applications"
       ],
-      "score": 63
+      "score": 60
     },
     {
       "id": "ai-itz9u8",
@@ -511,7 +1016,7 @@
       "categories": [
         "applications"
       ],
-      "score": 63
+      "score": 60
     },
     {
       "id": "ai-153so1b",
@@ -529,7 +1034,25 @@
       "categories": [
         "applications"
       ],
-      "score": 63
+      "score": 60
+    },
+    {
+      "id": "ai-fitfq6",
+      "title": "AI产品开箱即用 腾讯智能体集中亮相WAIC - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EUVFPTFlWeTc1WjYydExUVS1sSC1aTjJBRGdpMEJaS2ROODhrcHVJcEdPTWJoSXh3MzFMYi1wQ2VuSHZjMU1JNmJLQzlVclVFbldONGdQNldZX1JXQVBnSg?oc=5",
+      "summary": "AI产品开箱即用 腾讯智能体集中亮相WAIC 东方财富",
+      "publishedAt": "2026-07-18T17:18:37.000Z",
+      "timestamp": 1784395117000,
+      "source": {
+        "id": "google-news-china-ai",
+        "name": "Google News: China AI",
+        "region": "China",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 60
     },
     {
       "id": "ai-21936w",
@@ -547,15 +1070,33 @@
       "categories": [
         "applications"
       ],
-      "score": 62
+      "score": 60
     },
     {
-      "id": "ai-vheg6",
+      "id": "ai-8cwkct",
+      "title": "AI不只是工具！雲科大設計所攜手國際師資 探索人機共創新邊界 - 蕃新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5NbDZvRU5FZ196bHB6YkJQMG1ueWdIZHJsSlZjSWNaSm1TemFuTG9IbFc0YmFDemh4R2NOUEU1U3JfUkJPdVUwU2d1WDJlNWtRV0E?oc=5",
+      "summary": "AI不只是工具！雲科大設計所攜手國際師資 探索人機共創新邊界 蕃新聞",
+      "publishedAt": "2026-07-18T16:57:02.000Z",
+      "timestamp": 1784393822000,
+      "source": {
+        "id": "google-news-taiwan-ai-media-generation",
+        "name": "Google News: Taiwan AI Image/Video Generation",
+        "region": "Taiwan",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "media-generation"
+      ],
+      "score": 68
+    },
+    {
+      "id": "ai-gl0xfe",
       "title": "热点追踪｜看见中国人工智能创新力量 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5nUURfMVpVOFRVZ092VUJDa0lMWVl1Rkk4Q1otaUJGRS04N2JMQzR1SFItdTgyNWFpMTRwZHNmUGdUYmw4ZkxBN1p5RGQ3eExLX0c1MzhnenJIckFKMWxWVklUQzNQRkdVMm1CTm5iQVM4eEtPaHl6UDFKU3M?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1FNWYxS2pqSU50UWJCZUc0QUdsM3daQW1IZGRQenFQVTFQNXlqd3VQQ0JuOGd2YWxobHVuMHhESVpPb19jSzlnSkU4TE01NC1pYVZGUzFvQ2ZJckhuQkExbUdPcm1zYmthZURoRnZLNVZ1aVhBUm1N?oc=5",
       "summary": "热点追踪｜看见中国人工智能创新力量 新华网",
-      "publishedAt": "2026-07-18T15:43:59.000Z",
-      "timestamp": 1784389439000,
+      "publishedAt": "2026-07-18T15:44:08.000Z",
+      "timestamp": 1784389448000,
       "source": {
         "id": "google-news-china-ai",
         "name": "Google News: China AI",
@@ -565,7 +1106,7 @@
       "categories": [
         "applications"
       ],
-      "score": 62
+      "score": 59
     },
     {
       "id": "ai-c148xc",
@@ -583,7 +1124,7 @@
       "categories": [
         "applications"
       ],
-      "score": 62
+      "score": 59
     },
     {
       "id": "ai-12gxlun",
@@ -601,7 +1142,7 @@
       "categories": [
         "applications"
       ],
-      "score": 62
+      "score": 59
     },
     {
       "id": "ai-15k244i",
@@ -619,7 +1160,7 @@
       "categories": [
         "applications"
       ],
-      "score": 62
+      "score": 59
     },
     {
       "id": "ai-fypef0",
@@ -637,7 +1178,7 @@
       "categories": [
         "applications"
       ],
-      "score": 62
+      "score": 59
     },
     {
       "id": "ai-1tj1oht",
@@ -655,7 +1196,7 @@
       "categories": [
         "applications"
       ],
-      "score": 62
+      "score": 59
     },
     {
       "id": "ai-18gl1m4",
@@ -673,7 +1214,7 @@
       "categories": [
         "applications"
       ],
-      "score": 62
+      "score": 59
     },
     {
       "id": "ai-5hr960",
@@ -691,7 +1232,7 @@
       "categories": [
         "applications"
       ],
-      "score": 62
+      "score": 59
     },
     {
       "id": "ai-mu3s91",
@@ -709,7 +1250,7 @@
       "categories": [
         "applications"
       ],
-      "score": 61
+      "score": 59
     },
     {
       "id": "ai-1esc03h",
@@ -727,7 +1268,25 @@
       "categories": [
         "applications"
       ],
-      "score": 61
+      "score": 59
+    },
+    {
+      "id": "ai-1hgv3yn",
+      "title": "'A dangerous proposition': How AI is warping the social fabric and the ways we collectively imagine the future - Live Science",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPenAydWV1M2VUanJzNGNWYXdIUUh1REVlclM4aGRMTG90SHdpd2l0X21ueWctZVpqdnlHU0s5cFlxMi1qT2tpTmdTdG5iZ0ZYTV96V0xqZjhYXzNCN0NBd3hOVDhqU0w4Y0NnUzduX1ZKSE1PU1VOMnZJZEJERUZlTnQ4T3JxY2s2TkZzZVhKSGpVYTZmMUh4eU01NUw0NWY2QWIwcklRZHdPT1d0N01nT2w5SWMzeVFYbkVZa2FZZzNIT09XQmtNQjB5RDN6RkpwYTg2TWd1b0J3eWdNb1lZajBpNmxqSXc0UVFuV2F3WlJBS21yaEJqYk0zVFNYdVk?oc=5",
+      "summary": "'A dangerous proposition': How AI is warping the social fabric and the ways we collectively imagine the future Live Science",
+      "publishedAt": "2026-07-18T12:50:58.000Z",
+      "timestamp": 1784379058000,
+      "source": {
+        "id": "google-news-ai",
+        "name": "Google News: AI",
+        "region": "Global",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 59
     },
     {
       "id": "ai-1scdsrj",
@@ -745,7 +1304,7 @@
       "categories": [
         "applications"
       ],
-      "score": 61
+      "score": 59
     },
     {
       "id": "ai-8so17w",
@@ -763,43 +1322,7 @@
       "categories": [
         "applications"
       ],
-      "score": 61
-    },
-    {
-      "id": "ai-7fuxbf",
-      "title": "西门子肖松：以场景为牵引，推动工业AI从单点实效迈向生产力跃迁 - 人民网财经",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5fSDNFUnRDeWFlTm8ydHlobUhRRGNnb1NUQVdyeFVhTm5qS1lIZnkzQ0lVb2F5REl1LVdIQlR6Z290SGRBQ3loelhsNl8zQ1N3SkU5cWtJUzFEMExyVVF2Z1c0c19US0xaQUI2VFln?oc=5",
-      "summary": "西门子肖松：以场景为牵引，推动工业AI从单点实效迈向生产力跃迁 人民网财经",
-      "publishedAt": "2026-07-18T12:08:00.000Z",
-      "timestamp": 1784376480000,
-      "source": {
-        "id": "google-news-china-ai",
-        "name": "Google News: China AI",
-        "region": "China",
-        "trust": "aggregator"
-      },
-      "categories": [
-        "applications"
-      ],
-      "score": 61
-    },
-    {
-      "id": "ai-1p4nbk5",
-      "title": "习近平倡议中国建立全球AI新秩序 挑战美国主导地位 - DW.com",
-      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOekpzVWVuVE41UWZwNEV4cllua0pPVDI2NXZveXNNRExrckNlRmFfWjNfNXZoNUFzb05GbzJvYlNJTmt6bmduRXRBNXhQNU1wOU5NTzZWczdEbHV6ZUhlS1kxb3d0OHc4Uzdxc09YS3l6N2dwX3lMZVJSVEp1ZWlaaEt2NUdPYnZ1QmRhLThGRVUxTnh5dkx2aE9yY0hRRUhha1lka2J2OHNzcDJLUVJTbEhyQWRtZG5JNGk5WWlJcjBHbFIxT1dMNTllTHVvS3hyakx5U0tEYV9EMngybWNnb2R1eEk3VDZxY1h6bEs4c21KdTczYmQ3Qk81ZVZMWGJfYnBxMHBtZnpQZ2U5SXVEU0pGNFhjNE83dGR4ZXB0T21BUWdYenByUVl4R0E0WTZhLUh5US1UMTE1aGVYSWRobUxiNVk5MzlId25jUVRTdEllbjJx0gHUAkFVX3lxTE1nZ29NZUpqYUV0MTl6SlR0Vlc5TWowa0l2MEdBcmVQVndnQnhMeHo2T0tkb2tGczZCY0l6LTRsX3U0Yl9qRGo3WVg2RTNWUGV0QlM2djBZSkhxWTYtNEJUd0ctTmF2eGVuRnd2Q0gteE9qV0FyOHNzNlRMWVZ6TlY3eGdUaHRhcEVrYXdfbkJ0TzhXV2hYZjFPd3E5UWpCSGZfWmhleHVjdXBxbGtMdEF1MUMweEFnWmFLQ1IxX21iWkxMU2VwZWU0UEZHbC1UWkJfcHRyS3JzUEp2bUZxNVA0LUFpeXdwV3dhS3FKbU5kdnkxazVLUXZ4U1RpOU1RcHRhTWNWTXFoZjA4UG9WbTJBODBZZ2w1VUpJYnZGU3BlSzlkX21wckp3Z1dOZ2RReDBkWURHMmtJZTR1MGxKRFBkRWxBMXgwUWNtR3BhTDIxRExoVXI?oc=5",
-      "summary": "习近平倡议中国建立全球AI新秩序 挑战美国主导地位 DW.com",
-      "publishedAt": "2026-07-18T11:54:48.000Z",
-      "timestamp": 1784375688000,
-      "source": {
-        "id": "google-news-china-ai",
-        "name": "Google News: China AI",
-        "region": "China",
-        "trust": "aggregator"
-      },
-      "categories": [
-        "applications"
-      ],
-      "score": 61
+      "score": 59
     },
     {
       "id": "ai-13pb8eb",
@@ -817,7 +1340,7 @@
       "categories": [
         "applications"
       ],
-      "score": 61
+      "score": 58
     },
     {
       "id": "ai-14z9omb",
@@ -835,25 +1358,7 @@
       "categories": [
         "policy-safety"
       ],
-      "score": 69
-    },
-    {
-      "id": "ai-1ty8xwu",
-      "title": "AI、機器人手術改變眼科醫療 眼科醫：AI讓人工水晶體設計更精準 - 民報",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LRjA2cUFxdlJBN1VfS2JleTU5N0lnU1o4alRERjNhWERlQ1FKTzdBWGh4b3RwTWhJbjBOT3dPdTY5TGtpVzZDZ0pFQUVSMWtnM2ZQaS1HVzdiMzZlelN0Qw?oc=5",
-      "summary": "AI、機器人手術改變眼科醫療 眼科醫：AI讓人工水晶體設計更精準 民報",
-      "publishedAt": "2026-07-18T10:58:34.000Z",
-      "timestamp": 1784372314000,
-      "source": {
-        "id": "google-news-taiwan-ai",
-        "name": "Google News: Taiwan AI",
-        "region": "Taiwan",
-        "trust": "aggregator"
-      },
-      "categories": [
-        "applications"
-      ],
-      "score": 61
+      "score": 66
     },
     {
       "id": "ai-x88uzb",
@@ -871,7 +1376,7 @@
       "categories": [
         "applications"
       ],
-      "score": 61
+      "score": 58
     },
     {
       "id": "ai-1fmk136",
@@ -889,7 +1394,7 @@
       "categories": [
         "policy-safety"
       ],
-      "score": 79
+      "score": 76
     },
     {
       "id": "ai-4fvty4",
@@ -907,13 +1412,13 @@
       "categories": [
         "policy-safety"
       ],
-      "score": 79
+      "score": 76
     },
     {
-      "id": "ai-r5b96z",
-      "title": "台灣男模控Life8 服飾「用 AI 偷臉」！品牌方回應自動產生| 動區動趨-最具影響力的區塊鏈新聞媒體 - 動區動趨",
+      "id": "ai-d1nthe",
+      "title": "台灣男模控 Life8 服飾「用 AI 偷臉」！品牌方回應自動產生 - 動區動趨",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPd1FSZFozZDBVd2luUUtQOTFPd1lwaXB4cmQ3NDZ0Q2g0cFk2Qjktb3R6bG1obDJ3TnowcTBJZEFGWUl3Q0pvajlEZnF2UWFXb0N0SDJxYWNVZHJaTlVPa0tOV0d3M0RDS1RJa05mT3J3RjNIVmFIVXp2RTltakFjVllLb2g0bGstVFAzTXZDRDFhYUpHYXhTbDE0bnBjSk85N1E?oc=5",
-      "summary": "台灣男模控Life8 服飾「用 AI 偷臉」！品牌方回應自動產生| 動區動趨-最具影響力的區塊鏈新聞媒體 動區動趨",
+      "summary": "台灣男模控 Life8 服飾「用 AI 偷臉」！品牌方回應自動產生 動區動趨",
       "publishedAt": "2026-07-18T09:24:45.000Z",
       "timestamp": 1784366685000,
       "source": {
@@ -925,7 +1430,7 @@
       "categories": [
         "applications"
       ],
-      "score": 60
+      "score": 58
     },
     {
       "id": "ai-hn0499",
@@ -943,7 +1448,7 @@
       "categories": [
         "applications"
       ],
-      "score": 60
+      "score": 58
     },
     {
       "id": "ai-m6wwk1",
@@ -961,7 +1466,7 @@
       "categories": [
         "applications"
       ],
-      "score": 60
+      "score": 58
     },
     {
       "id": "ai-qmqudi",
@@ -979,7 +1484,7 @@
       "categories": [
         "policy-safety"
       ],
-      "score": 68
+      "score": 66
     },
     {
       "id": "ai-k9f3lo",
@@ -997,7 +1502,7 @@
       "categories": [
         "applications"
       ],
-      "score": 60
+      "score": 58
     },
     {
       "id": "ai-1u3dilp",
@@ -1015,7 +1520,7 @@
       "categories": [
         "applications"
       ],
-      "score": 60
+      "score": 58
     },
     {
       "id": "ai-160qch4",
@@ -1033,7 +1538,7 @@
       "categories": [
         "applications"
       ],
-      "score": 60
+      "score": 58
     },
     {
       "id": "ai-1llshby",
@@ -1052,7 +1557,7 @@
         "policy-safety",
         "foundation-models"
       ],
-      "score": 76
+      "score": 74
     },
     {
       "id": "ai-19ojndi",
@@ -1070,25 +1575,7 @@
       "categories": [
         "applications"
       ],
-      "score": 60
-    },
-    {
-      "id": "ai-1ei7lhi",
-      "title": "“物理AI重塑智能制造”主题论坛举行 - 科学网—新闻",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XUUdaUDM5MnFac25UUktvejNNNS1zaFRWcEJDZ09UVmVkRUk1b1dSRWlZOVc3dXpFNUFfaUZuTUdWYXF1dTZGWjVNamZ3ajlKcG9PY0dtZGk4bXd6NWFCNjRmNVo?oc=5",
-      "summary": "“物理AI重塑智能制造”主题论坛举行 科学网—新闻",
-      "publishedAt": "2026-07-18T07:19:41.000Z",
-      "timestamp": 1784359181000,
-      "source": {
-        "id": "google-news-china-ai",
-        "name": "Google News: China AI",
-        "region": "China",
-        "trust": "aggregator"
-      },
-      "categories": [
-        "applications"
-      ],
-      "score": 60
+      "score": 58
     },
     {
       "id": "ai-15h41do",
@@ -1106,7 +1593,7 @@
       "categories": [
         "foundation-models"
       ],
-      "score": 68
+      "score": 65
     },
     {
       "id": "ai-1nrs31i",
@@ -1124,7 +1611,7 @@
       "categories": [
         "applications"
       ],
-      "score": 60
+      "score": 57
     },
     {
       "id": "ai-luvc4v",
@@ -1142,7 +1629,7 @@
       "categories": [
         "applications"
       ],
-      "score": 60
+      "score": 57
     },
     {
       "id": "ai-luux62",
@@ -1160,7 +1647,7 @@
       "categories": [
         "applications"
       ],
-      "score": 60
+      "score": 57
     },
     {
       "id": "ai-njdnx2",
@@ -1178,25 +1665,7 @@
       "categories": [
         "applications"
       ],
-      "score": 60
-    },
-    {
-      "id": "ai-93boty",
-      "title": "At an artificial intelligence conference in Shanghai on Friday, China’s leader, Xi Jinping, urged open and global collaboration, aimed at supporting the technological advancement of developing countries. Read more: https://nyti.ms/4hprQ70 - facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcHNTUUlSZFpBbm95UjJBVXdiRUVYaUlVS3A5VUpuNkVXT3pSS1p4MnhkUVRlTnB1OW9PV0trOEpfMXBISWV0MGdIcS1udnRUR09NNUhSd0RWWmNOQUFNVUY4LUh2T3h1NWZZWTRGdzNqQnZ4UUxuUHVVMWtSejh1Q0V3b0VIZGMwV0FQRkFzTWpXV0hYSmh6OGNSOHJjYjBNMTA5OVBWR1VGOWdRX2x6YWJBRkZ4QzQ5TjlHbFFpb1QtMWVxTmswb09UMnBZSktCT0Nn?oc=5",
-      "summary": "At an artificial intelligence conference in Shanghai on Friday, China’s leader, Xi Jinping, urged open and global collaboration, aimed at supporting the technological advancement of developing countries. Read more: https://nyti.ms/4hprQ70 facebook.com",
-      "publishedAt": "2026-07-18T06:41:59.000Z",
-      "timestamp": 1784356919000,
-      "source": {
-        "id": "google-news-ai",
-        "name": "Google News: AI",
-        "region": "Global",
-        "trust": "aggregator"
-      },
-      "categories": [
-        "applications"
-      ],
-      "score": 60
+      "score": 57
     },
     {
       "id": "ai-1ry7ltp",
@@ -1214,7 +1683,7 @@
       "categories": [
         "applications"
       ],
-      "score": 60
+      "score": 57
     },
     {
       "id": "ai-13zhlzs",
@@ -1232,7 +1701,7 @@
       "categories": [
         "applications"
       ],
-      "score": 60
+      "score": 57
     },
     {
       "id": "ai-1tdlcrp",
@@ -1250,7 +1719,25 @@
       "categories": [
         "applications"
       ],
-      "score": 60
+      "score": 57
+    },
+    {
+      "id": "ai-1rke901",
+      "title": "国产Token优化工厂在2026世界人工智能大会正式发布 - 中国科技网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5QTlhVSERlVXNvQ2hkMUhkMzdNNlNVZGV1TmlGcW1BTEI5UTJWREhzM1l5d3otUFhwRWtyZHhhaHhFWWw5dDBHWVNhbWtmek5faFdLcG1YTUVLaU5hRlF6VjBzR0ZqQjFhM2lLeWxYelg?oc=5",
+      "summary": "国产Token优化工厂在2026世界人工智能大会正式发布 中国科技网",
+      "publishedAt": "2026-07-18T06:02:21.000Z",
+      "timestamp": 1784354541000,
+      "source": {
+        "id": "google-news-china-ai",
+        "name": "Google News: China AI",
+        "region": "China",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 57
     },
     {
       "id": "ai-1lsjjho",
@@ -1268,7 +1755,7 @@
       "categories": [
         "applications"
       ],
-      "score": 59
+      "score": 57
     },
     {
       "id": "ai-1bziuy2",
@@ -1286,7 +1773,25 @@
       "categories": [
         "policy-safety"
       ],
-      "score": 67
+      "score": 65
+    },
+    {
+      "id": "ai-k5muvn",
+      "title": "Artificial Intelligence Lightning Talks - Iowa Now",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBVRlRYbXVlY1ExVWZ2Rml4MDE2MnNaT3V5R3RvNDNjVWNBNkxZS2preHBZZXJfdXFHLUVKRzRPN2NJM2xlVTNGekxZaw?oc=5",
+      "summary": "Artificial Intelligence Lightning Talks Iowa Now",
+      "publishedAt": "2026-07-18T05:06:58.000Z",
+      "timestamp": 1784351218000,
+      "source": {
+        "id": "google-news-ai",
+        "name": "Google News: AI",
+        "region": "Global",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 57
     },
     {
       "id": "ai-1kq846a",
@@ -1304,7 +1809,7 @@
       "categories": [
         "applications"
       ],
-      "score": 59
+      "score": 57
     },
     {
       "id": "ai-xp3hx4",
@@ -1322,25 +1827,7 @@
       "categories": [
         "applications"
       ],
-      "score": 59
-    },
-    {
-      "id": "ai-1n90od2",
-      "title": "兩岸AI論壇 潘賢掌：兩岸產業優勢互補 加大合作正當其時 - 工商時報",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBIZEpVWUFVZzMyWTlSTDJ2WWdral9HVnZFUFEwVUZ6anFha2hsQnJuNEtSRlY0WkdiZ2ljQXVXdjNRTTNqTXMwRUQ4Yng5TlRLbVlaWl90dGpzVmo4Tmhr?oc=5",
-      "summary": "兩岸AI論壇 潘賢掌：兩岸產業優勢互補 加大合作正當其時 工商時報",
-      "publishedAt": "2026-07-18T04:51:00.000Z",
-      "timestamp": 1784350260000,
-      "source": {
-        "id": "google-news-taiwan-ai",
-        "name": "Google News: Taiwan AI",
-        "region": "Taiwan",
-        "trust": "aggregator"
-      },
-      "categories": [
-        "applications"
-      ],
-      "score": 59
+      "score": 57
     },
     {
       "id": "ai-nd8qqr",
@@ -1358,25 +1845,7 @@
       "categories": [
         "capital-market"
       ],
-      "score": 67
-    },
-    {
-      "id": "ai-157kn2w",
-      "title": "联想陈敏仪：以世界杯实践为起点 让AI成为人人可用的普惠生产力 - 中国科技网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WMHV2TldmVTcycEQyck9MNFhwZHJ6YTdGWGxhVlNnVWw2blJXVm5SdDhELUE1SnZNdzlKU3BKX3RQR3VrS3hLbmJnWk5oN2g3QXNpVFh4OVRsb2xEdTF1amVYem1TeWQ3dV9XOWgyTTA?oc=5",
-      "summary": "联想陈敏仪：以世界杯实践为起点 让AI成为人人可用的普惠生产力 中国科技网",
-      "publishedAt": "2026-07-18T03:56:13.000Z",
-      "timestamp": 1784346973000,
-      "source": {
-        "id": "google-news-china-ai",
-        "name": "Google News: China AI",
-        "region": "China",
-        "trust": "aggregator"
-      },
-      "categories": [
-        "applications"
-      ],
-      "score": 59
+      "score": 65
     },
     {
       "id": "ai-1liennv",
@@ -1394,7 +1863,7 @@
       "categories": [
         "applications"
       ],
-      "score": 59
+      "score": 56
     },
     {
       "id": "ai-1e29rp9",
@@ -1412,25 +1881,7 @@
       "categories": [
         "applications"
       ],
-      "score": 59
-    },
-    {
-      "id": "ai-qt886y",
-      "title": "周鸿祎出席WAIC 2026：以“安全+AI”推动人工智能发展与安全并重 - 东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE81b3MtMUM4VzJUOGZlV3V4X1JNTktpTGw1d1liWFpVcEo3cGw5REE0MWVWR3lLRXA1dDZYa3d4c0FPeThLcjZFQkZFUWlaLVdCcGRhMXB0TmVOSGxfLWNySQ?oc=5",
-      "summary": "周鸿祎出席WAIC 2026：以“安全+AI”推动人工智能发展与安全并重 东方财富",
-      "publishedAt": "2026-07-18T03:33:45.000Z",
-      "timestamp": 1784345625000,
-      "source": {
-        "id": "google-news-china-ai",
-        "name": "Google News: China AI",
-        "region": "China",
-        "trust": "aggregator"
-      },
-      "categories": [
-        "applications"
-      ],
-      "score": 59
+      "score": 56
     },
     {
       "id": "ai-s99n7i",
@@ -1448,7 +1899,7 @@
       "categories": [
         "applications"
       ],
-      "score": 59
+      "score": 56
     },
     {
       "id": "ai-12naz8c",
@@ -1466,7 +1917,7 @@
       "categories": [
         "applications"
       ],
-      "score": 59
+      "score": 56
     },
     {
       "id": "ai-1cf7h8y",
@@ -1484,7 +1935,7 @@
       "categories": [
         "applications"
       ],
-      "score": 59
+      "score": 56
     },
     {
       "id": "ai-iziafi",
@@ -1502,7 +1953,7 @@
       "categories": [
         "applications"
       ],
-      "score": 58
+      "score": 56
     },
     {
       "id": "ai-yb4sal",
@@ -1520,7 +1971,7 @@
       "categories": [
         "applications"
       ],
-      "score": 58
+      "score": 56
     },
     {
       "id": "ai-xjefk7",
@@ -1538,25 +1989,7 @@
       "categories": [
         "applications"
       ],
-      "score": 58
-    },
-    {
-      "id": "ai-1j8frmk",
-      "title": "《人工智能合作发展行动计划》发布 - 人民日报",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GbGRmeTI2cVBtcjR5NHpPZ2lqWUVPM0N6R25uZGFfVFN0U2ZRRkhlbnhtelEtRjByNXhyb1BJMzJtU2RTcUVnS3Y5b250MVZfREI5UENDVW1sY0VqVnM1aTNMR0wySEtoRFBxV0VLVFljcU03bUJFVnlhRm5TS1E?oc=5",
-      "summary": "《人工智能合作发展行动计划》发布 人民日报",
-      "publishedAt": "2026-07-17T23:46:15.000Z",
-      "timestamp": 1784331975000,
-      "source": {
-        "id": "google-news-china-ai",
-        "name": "Google News: China AI",
-        "region": "China",
-        "trust": "aggregator"
-      },
-      "categories": [
-        "applications"
-      ],
-      "score": 58
+      "score": 55
     },
     {
       "id": "ai-cbih1d",
@@ -1575,7 +2008,7 @@
         "agents",
         "policy-safety"
       ],
-      "score": 74
+      "score": 71
     },
     {
       "id": "ai-kl710u",
@@ -1593,12 +2026,12 @@
       "categories": [
         "media-generation"
       ],
-      "score": 66
+      "score": 63
     },
     {
-      "id": "ai-prhnyq",
+      "id": "ai-1mh2jff",
       "title": "新技术、新展品 多项AI首发首秀集中亮相世界人工智能大会 - 央广网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQV21RckEwc00zRVVsSTh1S2w3azFOcXNfdFhtTldZWG1NVlFJaGhPSUZIcHllU0ptSXhRbGs1cjhwT3hQbzRxU1FzZDRTMnd4T0ZZUjhYNXl6d1U0VjdBYi1Ca2F2ci1xQS1JdzVoU2lBVDVxTnNJR1B3TzRibzZPS0hHYw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9VTndIZ1g0dlh0OFFOZDZfM1lITlJ6d0xab3hDRkJNYkxCZnBHcm5ZQXdINlFETkM5TW9pcWVoc1hmdjBiemM3MFRmdGdiMEpwQTRYZy1PaW9WZV9nZjRoUVdhUTRVaFZSU054WjBGSV9xek9uMUZ0ZFFmWUY?oc=5",
       "summary": "新技术、新展品 多项AI首发首秀集中亮相世界人工智能大会 央广网",
       "publishedAt": "2026-07-17T22:31:30.000Z",
       "timestamp": 1784327490000,
@@ -1611,7 +2044,7 @@
       "categories": [
         "applications"
       ],
-      "score": 58
+      "score": 55
     },
     {
       "id": "ai-6wmpa0",
@@ -1629,7 +2062,7 @@
       "categories": [
         "applications"
       ],
-      "score": 58
+      "score": 55
     },
     {
       "id": "ai-1nmcov4",
@@ -1648,15 +2081,15 @@
         "applications",
         "capital-market"
       ],
-      "score": 74
+      "score": 71
     },
     {
-      "id": "ai-3ax5q",
-      "title": "习近平宣布中国支持全球人工智能发展重大举措 - 东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ESjZuWkkxV21YaHIydnREZ2RjUlRNVE9VWmhuTnZXSlVfUi1QZ0Z0R2t2aXFpRE52bU1iY2xVVzZQNnVvRlAyTWtKbVoyZ3hnUjhWanR0aWpMc3ZTY0dMVQ?oc=5",
-      "summary": "习近平宣布中国支持全球人工智能发展重大举措 东方财富",
-      "publishedAt": "2026-07-17T22:04:46.000Z",
-      "timestamp": 1784325886000,
+      "id": "ai-ji8s51",
+      "title": "习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话 - politics.people.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5rRTN0Zlo2c0pMaHUwZGhWWGNhZGJSOFZPTjJ1S0RaclVPSXlzVnp6YWlrYXVCbzZzaWFjRWxFb2V2MGwzYm9SMnMwQjhHRWJxNmdNbWNGOEpJNTVDZUwwVTBHMU96THcxVEZOTGNuaw?oc=5",
+      "summary": "习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话 politics.people.com.cn",
+      "publishedAt": "2026-07-17T21:54:00.000Z",
+      "timestamp": 1784325240000,
       "source": {
         "id": "google-news-china-ai",
         "name": "Google News: China AI",
@@ -1666,7 +2099,7 @@
       "categories": [
         "applications"
       ],
-      "score": 58
+      "score": 55
     },
     {
       "id": "ai-1vi96eb",
@@ -1684,7 +2117,7 @@
       "categories": [
         "applications"
       ],
-      "score": 57
+      "score": 55
     },
     {
       "id": "ai-1e73reu",
@@ -1702,7 +2135,7 @@
       "categories": [
         "applications"
       ],
-      "score": 57
+      "score": 55
     },
     {
       "id": "ai-8kmhb6",
@@ -1720,7 +2153,7 @@
       "categories": [
         "applications"
       ],
-      "score": 57
+      "score": 55
     },
     {
       "id": "ai-1cil1c9",
@@ -1738,7 +2171,7 @@
       "categories": [
         "policy-safety"
       ],
-      "score": 75
+      "score": 73
     },
     {
       "id": "ai-1r9s7ut",
@@ -1748,15 +2181,15 @@
       "publishedAt": "2026-07-17T20:21:44.000Z",
       "timestamp": 1784319704000,
       "source": {
-        "id": "google-news-ai",
-        "name": "Google News: AI",
-        "region": "Global",
+        "id": "eu-ai-policy-news",
+        "name": "Google News: EU AI Policy",
+        "region": "EU",
         "trust": "aggregator"
       },
       "categories": [
-        "applications"
+        "policy-safety"
       ],
-      "score": 57
+      "score": 63
     },
     {
       "id": "ai-iiu5lw",
@@ -1774,7 +2207,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 65
+      "score": 63
     },
     {
       "id": "ai-ystwtd",
@@ -1792,7 +2225,25 @@
       "categories": [
         "capital-market"
       ],
-      "score": 65
+      "score": 63
+    },
+    {
+      "id": "ai-1tltex7",
+      "title": "Xi pitches China as leader of new global AI order, challenging US dominance - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZVpoVTlwUHY0LXNXd19nbFlNWVZoWDdQeVVFSi1ISkZzYVI1YUlzQTR6OXd3XzNhWDhsaTRkdnByczNqMlE4bm1JTHhyaEk2VXhrUDRFdmVjdHN3RW9FZU1OTW5aMnMzTmk1VW5sMUNGTkhYYVc1LUN5bUJJWkNBdUJFSU0wNUZyMDdtZklkRkJPLXBTRlhHQmZ1S1dQSVdTZ3l4OC13TE5aVWNBSUZfeHpfRVRwTG9hdzFKWkdVa2RfaVoxeWpr?oc=5",
+      "summary": "Xi pitches China as leader of new global AI order, challenging US dominance Reuters",
+      "publishedAt": "2026-07-17T19:57:41.000Z",
+      "timestamp": 1784318261000,
+      "source": {
+        "id": "google-news-ai",
+        "name": "Google News: AI",
+        "region": "Global",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 55
     },
     {
       "id": "ai-c6oj5a",
@@ -1810,7 +2261,7 @@
       "categories": [
         "applications"
       ],
-      "score": 57
+      "score": 54
     },
     {
       "id": "ai-rj0ary",
@@ -1828,43 +2279,7 @@
       "categories": [
         "applications"
       ],
-      "score": 57
-    },
-    {
-      "id": "ai-10efjuc",
-      "title": "GPT-5.6 is deleting user files when given full access, and OpenAI says it shouldn't but did",
-      "url": "https://the-decoder.com/gpt-5-6-is-deleting-user-files-when-given-full-access-and-openai-says-it-shouldnt-but-did/",
-      "summary": "OpenAI's GPT-5.6 has accidentally wiped users' entire home directories in several cases, mostly in the unprotected \"Full Access Mode.\" The model overwrites a temporary directory variable and carries out destructive actions on its own instead of asking for confirmation. OpenAI has announced extra safeguards and a detailed post-mortem. The article GPT-5.6 is deleting user files when given full access, and OpenAI says i",
-      "publishedAt": "2026-07-17T19:35:52.000Z",
-      "timestamp": 1784316952000,
-      "source": {
-        "id": "the-decoder",
-        "name": "THE DECODER",
-        "region": "EU",
-        "trust": "media"
-      },
-      "categories": [
-        "foundation-models"
-      ],
-      "score": 65
-    },
-    {
-      "id": "ai-1ll4cwl",
-      "title": "Just like Deepseek, China's Kimi K3 is forcing Western AI labs to question their compute advantage",
-      "url": "https://the-decoder.com/just-like-deepseek-chinas-kimi-k3-is-forcing-western-ai-labs-to-question-their-compute-advantage/",
-      "summary": "Moonshot AI has released Kimi K3, a model that by early assessments matches Anthropic's Opus 4.8, built by a team of just 300 people. Even OpenAI strategist Dean W. Ball calls it \"very good,\" but, of course, warns that a world dominated by open-weight models would amount to \"AI communism.\" The release is reigniting the debate over how much computing power actually matters and whether U.S. export controls are working.",
-      "publishedAt": "2026-07-17T19:16:07.000Z",
-      "timestamp": 1784315767000,
-      "source": {
-        "id": "the-decoder",
-        "name": "THE DECODER",
-        "region": "EU",
-        "trust": "media"
-      },
-      "categories": [
-        "applications"
-      ],
-      "score": 67
+      "score": 54
     },
     {
       "id": "ai-ka9kto",
@@ -1882,7 +2297,7 @@
       "categories": [
         "applications"
       ],
-      "score": 57
+      "score": 54
     },
     {
       "id": "ai-1iw52m8",
@@ -1902,7 +2317,7 @@
         "applications",
         "capital-market"
       ],
-      "score": 99
+      "score": 96
     },
     {
       "id": "ai-bozef8",
@@ -1920,7 +2335,25 @@
       "categories": [
         "applications"
       ],
-      "score": 57
+      "score": 54
+    },
+    {
+      "id": "ai-1l5709j",
+      "title": "习近平主席引领人工智能发展“以人为本、向上向善” - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOc1dUejJKdHFlRGZCblpNOEVEbWI3OFAxU2xFYWl4eEJRU0pVYWd3bWVyVHcydUhyeE5NOTZKdXNIbnpzWnpMdkxfWjU2d3lBcVk0MjRGUW9XelRmVVMtWlhZRHNtLWtpd3h0bFJDRnJUYXNjN2JhU1B2alRhaV9rb09kRDZ6czk4OTlXaFlB?oc=5",
+      "summary": "习近平主席引领人工智能发展“以人为本、向上向善” 新华网",
+      "publishedAt": "2026-07-17T18:34:15.000Z",
+      "timestamp": 1784313255000,
+      "source": {
+        "id": "google-news-china-ai",
+        "name": "Google News: China AI",
+        "region": "China",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 54
     },
     {
       "id": "ai-19hcq4q",
@@ -1938,7 +2371,25 @@
       "categories": [
         "applications"
       ],
-      "score": 57
+      "score": 54
+    },
+    {
+      "id": "ai-1dawk7g",
+      "title": "Artificial Intelligence - AI Update, July 17, 2026: AI News and Views From the Past Week - MarketingProfs",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWDF4ZnZrdlNpQVUzUHFCbTlPWVo4NUcxQnBSQVhtdWQtaDN1Q3hqSjlVS3lGZThmYl8xV3dBcjZ1NHcyUjdFWnMwekh3U1NPcTh5My1qWVpvSnVvaktsLVF0cTRVYXc2d2M4ZWd6VEhYelJXbjg3RkFUc3ZzLWlwa0IzZkFrRGVyczc3TDR1a0o5bXRDeDBvSm02NEdhT3dFNFZneUhmMUNYRktJYm1F?oc=5",
+      "summary": "Artificial Intelligence - AI Update, July 17, 2026: AI News and Views From the Past Week MarketingProfs",
+      "publishedAt": "2026-07-17T18:25:44.000Z",
+      "timestamp": 1784312744000,
+      "source": {
+        "id": "google-news-ai",
+        "name": "Google News: AI",
+        "region": "Global",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "capital-market"
+      ],
+      "score": 62
     },
     {
       "id": "ai-19wuqaz",
@@ -1956,7 +2407,7 @@
       "categories": [
         "applications"
       ],
-      "score": 57
+      "score": 54
     },
     {
       "id": "ai-1co80wm",
@@ -1974,7 +2425,7 @@
       "categories": [
         "applications"
       ],
-      "score": 57
+      "score": 54
     },
     {
       "id": "ai-gdokwg",
@@ -1993,25 +2444,7 @@
         "applications",
         "capital-market"
       ],
-      "score": 72
-    },
-    {
-      "id": "ai-1rz0r58",
-      "title": "Workplace AI — how employers should prepare for the new EU AI Act deadline - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMUVfTXRUaE1zQ3EybU92RTZoQlBNWEJmNFYtZDlneDNyZTVFX2dWUmJRTjF2SmdQTTNYOU0xWmpRaVFSRmRJU2N1N3hXNE4wSFQtSy1YaTZkbmw4Mkd1XzI1MkVJcTQ4bDNSZkQyZWNsV1htZHpRVUI2M0R4cmQ2Y1daaUFLSkhfSU9wZlU3SHdrRnRtZkd6QkV0YVVHVEsyVmFWNGFnU09oWDZTeHlBWi1kWTEyMVFTQUlHdW5mdHZGVHRwTDhj?oc=5",
-      "summary": "Workplace AI — how employers should prepare for the new EU AI Act deadline Reuters",
-      "publishedAt": "2026-07-17T17:30:58.000Z",
-      "timestamp": 1784309458000,
-      "source": {
-        "id": "eu-ai-policy-news",
-        "name": "Google News: EU AI Policy",
-        "region": "EU",
-        "trust": "aggregator"
-      },
-      "categories": [
-        "policy-safety"
-      ],
-      "score": 64
+      "score": 70
     },
     {
       "id": "ai-1025pla",
@@ -2029,7 +2462,7 @@
       "categories": [
         "applications"
       ],
-      "score": 56
+      "score": 54
     },
     {
       "id": "ai-158m6od",
@@ -2047,7 +2480,7 @@
       "categories": [
         "capital-market"
       ],
-      "score": 82
+      "score": 80
     },
     {
       "id": "ai-oczwue",
@@ -2065,7 +2498,25 @@
       "categories": [
         "applications"
       ],
-      "score": 56
+      "score": 54
+    },
+    {
+      "id": "ai-1rapurh",
+      "title": "China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9mMWxkTlZ0SGVOZWl3QlkwUmdmVDdTWVNxbG0tdWliZnc5NFlIcEtONFhnbjRZaEJhbEhTbE9SVmpKQzY5d1BndmJtcU44V19OQ3hzUFV0R2JTSnlW?oc=5",
+      "summary": "China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic BBC",
+      "publishedAt": "2026-07-17T16:53:04.000Z",
+      "timestamp": 1784307184000,
+      "source": {
+        "id": "eu-ai-policy-news",
+        "name": "Google News: EU AI Policy",
+        "region": "EU",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "policy-safety"
+      ],
+      "score": 62
     },
     {
       "id": "ai-g5irnx",
@@ -2083,7 +2534,25 @@
       "categories": [
         "applications"
       ],
-      "score": 56
+      "score": 54
+    },
+    {
+      "id": "ai-lqb3v1",
+      "title": "'Technology Must Serve People, Not the Other Way Around' - UN Secretary-General at the World AI Conference - United Nations Sustainable Development Group",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaFNtZ0VQRzJvT3JXN2dEdExTQzNVdzNocDRJTTduSmp5QVJ4N0xBLXZCdUgwX05raVRHT0tMWVBJSF9ISmx5QmIzV3ozWTZxRHV3SFhzUnJERUNZU19EQUpUTFFKSmZQY2NWYjJlYml1MGlPN0RFZExKV0ktYWUyUXRlQzI1NUlQczNUaEJZWHM0ZTF3Qy1KOTlySnk1djVnVmFRbGpucEpUVjdWUUNmTEdRODk1by1TaHc?oc=5",
+      "summary": "'Technology Must Serve People, Not the Other Way Around' - UN Secretary-General at the World AI Conference United Nations Sustainable Development Group",
+      "publishedAt": "2026-07-17T16:35:53.000Z",
+      "timestamp": 1784306153000,
+      "source": {
+        "id": "eu-ai-policy-news",
+        "name": "Google News: EU AI Policy",
+        "region": "EU",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "policy-safety"
+      ],
+      "score": 62
     },
     {
       "id": "ai-1qng5cv",
@@ -2101,7 +2570,25 @@
       "categories": [
         "policy-safety"
       ],
-      "score": 82
+      "score": 80
+    },
+    {
+      "id": "ai-1a0raq4",
+      "title": "企業 AI 新戰場在算力基礎設施- 商情 - 工商時報",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBuN3VObFBTbWg0S3NnLVo5Y3pOLUdFbVE3cWhObGwwaWlLYWZ0Mnk4djJNTlU1ajBqNDBfMmF4eG94SFhFZkViUDRDSlluQ1dEWWtweXRKNk16RVFPV29N?oc=5",
+      "summary": "企業 AI 新戰場在算力基礎設施- 商情 工商時報",
+      "publishedAt": "2026-07-17T16:30:00.000Z",
+      "timestamp": 1784305800000,
+      "source": {
+        "id": "google-news-taiwan-ai",
+        "name": "Google News: Taiwan AI",
+        "region": "Taiwan",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 54
     },
     {
       "id": "ai-xyzh6c",
@@ -2119,7 +2606,7 @@
       "categories": [
         "applications"
       ],
-      "score": 56
+      "score": 54
     },
     {
       "id": "ai-s6p5l",
@@ -2137,7 +2624,7 @@
       "categories": [
         "applications"
       ],
-      "score": 56
+      "score": 54
     },
     {
       "id": "ai-d93lpq",
@@ -2155,7 +2642,7 @@
       "categories": [
         "applications"
       ],
-      "score": 56
+      "score": 54
     },
     {
       "id": "ai-1uunp5a",
@@ -2173,7 +2660,7 @@
       "categories": [
         "policy-safety"
       ],
-      "score": 64
+      "score": 62
     },
     {
       "id": "ai-phk500",
@@ -2192,7 +2679,7 @@
         "policy-safety",
         "ai-infra"
       ],
-      "score": 72
+      "score": 70
     },
     {
       "id": "ai-1chawvj",
@@ -2210,25 +2697,7 @@
       "categories": [
         "media-generation"
       ],
-      "score": 64
-    },
-    {
-      "id": "ai-1ory5mx",
-      "title": "Microsoft at Black Hat USA 2026: Defending trust in the age of AI and supply chain attacks - Microsoft",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNaFBlQk8taEdKLUhlTVFDU1lPdFIzUEFycGczWXgyeUtkdGwzVm4tRURQLWdyVktzZDRIVXhGQXh5Ty1rdHh6R0tWTS1NVkFTcVFuMXpnOVN6a01LcHlUeXNMVHJLQ3gzSU1jUEpQWU9oNm56WWdqOFZobVdXUkRZcWk4b19YMFdNLVRvSFA2VHdzcVlwdkhMdHRQc2Noc3FHQmVOcV93YUcwa0ZHSlhPQ09pT0hQNEwxSnNEbm1zMDZKdEhCNXJsYU5BTnNiUXpaWkdMdEZDNzBZSGJZODFQWA?oc=5",
-      "summary": "Microsoft at Black Hat USA 2026: Defending trust in the age of AI and supply chain attacks Microsoft",
-      "publishedAt": "2026-07-17T16:00:00.000Z",
-      "timestamp": 1784304000000,
-      "source": {
-        "id": "eu-ai-policy-news",
-        "name": "Google News: EU AI Policy",
-        "region": "EU",
-        "trust": "aggregator"
-      },
-      "categories": [
-        "policy-safety"
-      ],
-      "score": 64
+      "score": 62
     },
     {
       "id": "ai-1tyep0n",
@@ -2248,7 +2717,7 @@
         "media-generation",
         "open-source"
       ],
-      "score": 98
+      "score": 96
     },
     {
       "id": "ai-7cfvlt",
@@ -2266,7 +2735,25 @@
       "categories": [
         "applications"
       ],
-      "score": 56
+      "score": 53
+    },
+    {
+      "id": "ai-1bezjs8",
+      "title": "赛场即市场，边赛边落地！2026年江汉区AI智能体创新大赛圆满收官 - 央广网",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBRdThlY2JaWW1OYUFxSTl3YjRJeW9Ucm13d3N5R1hyUEt3Sm9lQVlMaFRnQXJpVVNvd1c2M2NOamhxSWtJUEg0NHJQQlRneTYtVUc0aWtmcGYxenByWTMyblZvRDU1dkdvU29lLXJOSWRlZw?oc=5",
+      "summary": "赛场即市场，边赛边落地！2026年江汉区AI智能体创新大赛圆满收官 央广网",
+      "publishedAt": "2026-07-17T15:47:32.000Z",
+      "timestamp": 1784303252000,
+      "source": {
+        "id": "google-news-china-ai",
+        "name": "Google News: China AI",
+        "region": "China",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 53
     },
     {
       "id": "ai-mi9xw6",
@@ -2284,7 +2771,7 @@
       "categories": [
         "applications"
       ],
-      "score": 56
+      "score": 53
     },
     {
       "id": "ai-pexbta",
@@ -2302,7 +2789,7 @@
       "categories": [
         "applications"
       ],
-      "score": 56
+      "score": 53
     },
     {
       "id": "ai-kvdaao",
@@ -2320,7 +2807,7 @@
       "categories": [
         "applications"
       ],
-      "score": 56
+      "score": 53
     },
     {
       "id": "ai-c3ugdx",
@@ -2338,7 +2825,61 @@
       "categories": [
         "robotics"
       ],
-      "score": 64
+      "score": 61
+    },
+    {
+      "id": "ai-fev1gp",
+      "title": "港澳办 - hmo.gov.cn",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5keTh0OEJZSWNTaF85Ri1uNms1dUJCc05kWUxKNkczc0c3Zm9sUXZxYTdqeV9vNUlKT2duVm9DUGxTTWs2UFdoZ0IxZ3kwUUozT3ZaVzkyeDBnd0lhS0k5NkJmYTlqSjFaNHFxdg?oc=5",
+      "summary": "港澳办 hmo.gov.cn",
+      "publishedAt": "2026-07-17T15:03:57.000Z",
+      "timestamp": 1784300637000,
+      "source": {
+        "id": "google-news-china-ai",
+        "name": "Google News: China AI",
+        "region": "China",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 53
+    },
+    {
+      "id": "ai-v86p40",
+      "title": "CT redoubles efforts to equip workforce for AI economy - CT Mirror",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMG5qUHBGUGFfTDY1MGlxc2RxeVBWRmJOQ2paeWRyd2VnTlhUZjQ5RG9ad1lkbVBNb3FEU2hyQmJXRmhOQUdYdWpYWFVSWFBmR0dZekxVMlI2NEpxX0FmcXZWQmdKc21UQzJnRTdvc2dtaHlnUWdqTEY0LTEzcEo2Mk42X3o?oc=5",
+      "summary": "CT redoubles efforts to equip workforce for AI economy CT Mirror",
+      "publishedAt": "2026-07-17T15:00:00.000Z",
+      "timestamp": 1784300400000,
+      "source": {
+        "id": "google-news-ai",
+        "name": "Google News: AI",
+        "region": "Global",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 53
+    },
+    {
+      "id": "ai-w1ujcg",
+      "title": "The Dawn of AI Change-Control - Communications of the ACM",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1hOFRsVVV5YV9Tald4akJTQm9xSzZ1c21hd1ViNDQ5S05aN3BQWXdHcFItNGlTMUw3UUZYbFY4Z0NDcjRNZ2lxYnp2MzFCTktwMThVbXhYeUJFR3hsRy01SUs3di1uOU0?oc=5",
+      "summary": "The Dawn of AI Change-Control Communications of the ACM",
+      "publishedAt": "2026-07-17T14:28:02.000Z",
+      "timestamp": 1784298482000,
+      "source": {
+        "id": "google-news-ai",
+        "name": "Google News: AI",
+        "region": "Global",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 53
     },
     {
       "id": "ai-yev4kz",
@@ -2356,7 +2897,7 @@
       "categories": [
         "applications"
       ],
-      "score": 56
+      "score": 53
     },
     {
       "id": "ai-8y6d75",
@@ -2374,7 +2915,7 @@
       "categories": [
         "applications"
       ],
-      "score": 56
+      "score": 53
     },
     {
       "id": "ai-1uisvna",
@@ -2392,7 +2933,7 @@
       "categories": [
         "applications"
       ],
-      "score": 56
+      "score": 53
     },
     {
       "id": "ai-107yf6k",
@@ -2410,7 +2951,7 @@
       "categories": [
         "policy-safety"
       ],
-      "score": 64
+      "score": 61
     },
     {
       "id": "ai-6w9ks2",
@@ -2429,25 +2970,7 @@
         "applications",
         "capital-market"
       ],
-      "score": 72
-    },
-    {
-      "id": "ai-1ok9q0g",
-      "title": "天翼智屏亮相2026世界人工智能大会 - 中国科技网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zZ1A4VnlGRWE4R1dMel9XQmRvall0OXd3NENTLUdkaDlLcUdXRWdraC1BYnBoRW9jVjdYMjAteVdCSTAzQUdidGgwLUlRYVNiSDFTcDFxY2N6QjVFTmZhZEp6ckdEWEhxeTc2X3dubWg?oc=5",
-      "summary": "天翼智屏亮相2026世界人工智能大会 中国科技网",
-      "publishedAt": "2026-07-17T13:58:15.000Z",
-      "timestamp": 1784296695000,
-      "source": {
-        "id": "google-news-china-ai",
-        "name": "Google News: China AI",
-        "region": "China",
-        "trust": "aggregator"
-      },
-      "categories": [
-        "applications"
-      ],
-      "score": 55
+      "score": 69
     },
     {
       "id": "ai-169qmuz",
@@ -2465,7 +2988,7 @@
       "categories": [
         "policy-safety"
       ],
-      "score": 63
+      "score": 61
     },
     {
       "id": "ai-18qug25",
@@ -2483,7 +3006,7 @@
       "categories": [
         "applications"
       ],
-      "score": 55
+      "score": 53
     },
     {
       "id": "ai-1nqt86u",
@@ -2501,7 +3024,7 @@
       "categories": [
         "applications"
       ],
-      "score": 55
+      "score": 53
     },
     {
       "id": "ai-1p2rvdk",
@@ -2519,25 +3042,7 @@
       "categories": [
         "capital-market"
       ],
-      "score": 63
-    },
-    {
-      "id": "ai-ty3l79",
-      "title": "Shopping With AI - Ipsos",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5JRWN4NWNXTXFtREhUb1ZMR0hjdDhIejM0dGdoYTVQRFlERmJ0bklGZEFQWjZmMUl0X01ROUpGSVdLOTNUVG5HbkJJaVpabUlaYXIyZ1I3bw?oc=5",
-      "summary": "Shopping With AI Ipsos",
-      "publishedAt": "2026-07-17T13:14:03.000Z",
-      "timestamp": 1784294043000,
-      "source": {
-        "id": "google-news-ai",
-        "name": "Google News: AI",
-        "region": "Global",
-        "trust": "aggregator"
-      },
-      "categories": [
-        "applications"
-      ],
-      "score": 55
+      "score": 61
     },
     {
       "id": "ai-1ttn7ph",
@@ -2555,7 +3060,7 @@
       "categories": [
         "applications"
       ],
-      "score": 55
+      "score": 53
     },
     {
       "id": "ai-60nyyb",
@@ -2573,7 +3078,7 @@
       "categories": [
         "applications"
       ],
-      "score": 55
+      "score": 53
     },
     {
       "id": "ai-13yibnq",
@@ -2591,7 +3096,7 @@
       "categories": [
         "policy-safety"
       ],
-      "score": 63
+      "score": 61
     },
     {
       "id": "ai-1de842i",
@@ -2609,7 +3114,7 @@
       "categories": [
         "policy-safety"
       ],
-      "score": 63
+      "score": 61
     },
     {
       "id": "ai-149gemq",
@@ -2627,7 +3132,7 @@
       "categories": [
         "applications"
       ],
-      "score": 55
+      "score": 53
     },
     {
       "id": "ai-14bilnz",
@@ -2645,43 +3150,7 @@
       "categories": [
         "applications"
       ],
-      "score": 55
-    },
-    {
-      "id": "ai-2658m4",
-      "title": "AI股失寵拖累台日韓股市投顧：後市觀察台積電動向| 股市要聞| 股市 - UDN",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBxeGxLR2FBbm1kWGJMb292V3A5NTI4bGo1bDJSX1Bsc05ERmZ2OHQ3OEZfSHZZRXF0OXgxZjFJSkg3R0FJM3Zrc05CcncyeHdE?oc=5",
-      "summary": "AI股失寵拖累台日韓股市投顧：後市觀察台積電動向| 股市要聞| 股市 UDN",
-      "publishedAt": "2026-07-17T12:07:06.000Z",
-      "timestamp": 1784290026000,
-      "source": {
-        "id": "google-news-taiwan-ai",
-        "name": "Google News: Taiwan AI",
-        "region": "Taiwan",
-        "trust": "aggregator"
-      },
-      "categories": [
-        "applications"
-      ],
-      "score": 55
-    },
-    {
-      "id": "ai-13z2d17",
-      "title": "Smart glasses are deeply creepy. Why are celebrities like Kylie Jenner endorsing them? - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ01Ub29WNWVVcjEyVV9sY2F5cGY0Mm1wLUplcHpzaDFNaDBRY2JxMlVBMU5NV0cxckpMQ3lFTzB4WlpQUENyNTNMLXNnZzRYLU52X1I4ZEwzUnE4X2VNZk03QzdVX0dLUS0zNmtZZlBOQ2lZcHdVUWtjMDFhQi04Rg?oc=5",
-      "summary": "Smart glasses are deeply creepy. Why are celebrities like Kylie Jenner endorsing them? The Guardian",
-      "publishedAt": "2026-07-17T12:02:00.000Z",
-      "timestamp": 1784289720000,
-      "source": {
-        "id": "eu-ai-policy-news",
-        "name": "Google News: EU AI Policy",
-        "region": "EU",
-        "trust": "aggregator"
-      },
-      "categories": [
-        "policy-safety"
-      ],
-      "score": 63
+      "score": 53
     },
     {
       "id": "ai-1s01osc",
@@ -2700,7 +3169,7 @@
         "ai-infra",
         "capital-market"
       ],
-      "score": 71
+      "score": 69
     },
     {
       "id": "ai-e3vszp",
@@ -2718,7 +3187,7 @@
       "categories": [
         "applications"
       ],
-      "score": 55
+      "score": 52
     },
     {
       "id": "ai-1wr3chd",
@@ -2736,15 +3205,15 @@
       "categories": [
         "media-generation"
       ],
-      "score": 63
+      "score": 60
     },
     {
-      "id": "ai-9rvig8",
-      "title": "2026世界人工智能大会今日启幕 300余款首发产品展现AI产业新突破 - 东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1dDVOM2dBa0ZYSDFUT3k0NDlfVlFGZ2hlOEREMEp2Vm95VGdlQ3p3LU4tOUtETGNLcWpmQUc0QjZFRWpSQzBubTQ2dWtvODVaRmtXNnMxMWVueWQzczNmWA?oc=5",
-      "summary": "2026世界人工智能大会今日启幕 300余款首发产品展现AI产业新突破 东方财富",
-      "publishedAt": "2026-07-17T11:38:26.000Z",
-      "timestamp": 1784288306000,
+      "id": "ai-1p4nbk5",
+      "title": "习近平倡议中国建立全球AI新秩序 挑战美国主导地位 - DW.com",
+      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOekpzVWVuVE41UWZwNEV4cllua0pPVDI2NXZveXNNRExrckNlRmFfWjNfNXZoNUFzb05GbzJvYlNJTmt6bmduRXRBNXhQNU1wOU5NTzZWczdEbHV6ZUhlS1kxb3d0OHc4Uzdxc09YS3l6N2dwX3lMZVJSVEp1ZWlaaEt2NUdPYnZ1QmRhLThGRVUxTnh5dkx2aE9yY0hRRUhha1lka2J2OHNzcDJLUVJTbEhyQWRtZG5JNGk5WWlJcjBHbFIxT1dMNTllTHVvS3hyakx5U0tEYV9EMngybWNnb2R1eEk3VDZxY1h6bEs4c21KdTczYmQ3Qk81ZVZMWGJfYnBxMHBtZnpQZ2U5SXVEU0pGNFhjNE83dGR4ZXB0T21BUWdYenByUVl4R0E0WTZhLUh5US1UMTE1aGVYSWRobUxiNVk5MzlId25jUVRTdEllbjJx0gHUAkFVX3lxTE1nZ29NZUpqYUV0MTl6SlR0Vlc5TWowa0l2MEdBcmVQVndnQnhMeHo2T0tkb2tGczZCY0l6LTRsX3U0Yl9qRGo3WVg2RTNWUGV0QlM2djBZSkhxWTYtNEJUd0ctTmF2eGVuRnd2Q0gteE9qV0FyOHNzNlRMWVZ6TlY3eGdUaHRhcEVrYXdfbkJ0TzhXV2hYZjFPd3E5UWpCSGZfWmhleHVjdXBxbGtMdEF1MUMweEFnWmFLQ1IxX21iWkxMU2VwZWU0UEZHbC1UWkJfcHRyS3JzUEp2bUZxNVA0LUFpeXdwV3dhS3FKbU5kdnkxazVLUXZ4U1RpOU1RcHRhTWNWTXFoZjA4UG9WbTJBODBZZ2w1VUpJYnZGU3BlSzlkX21wckp3Z1dOZ2RReDBkWURHMmtJZTR1MGxKRFBkRWxBMXgwUWNtR3BhTDIxRExoVXI?oc=5",
+      "summary": "习近平倡议中国建立全球AI新秩序 挑战美国主导地位 DW.com",
+      "publishedAt": "2026-07-17T11:46:47.000Z",
+      "timestamp": 1784288807000,
       "source": {
         "id": "google-news-china-ai",
         "name": "Google News: China AI",
@@ -2754,7 +3223,7 @@
       "categories": [
         "applications"
       ],
-      "score": 55
+      "score": 52
     },
     {
       "id": "ai-1ej7tlm",
@@ -2772,25 +3241,7 @@
       "categories": [
         "policy-safety"
       ],
-      "score": 63
-    },
-    {
-      "id": "ai-1cr2ki9",
-      "title": "Linus Torvalds tells AI critics in the Linux kernel community to fork off",
-      "url": "https://the-decoder.com/linus-torvalds-tells-ai-critics-in-the-linux-kernel-community-to-fork-off/",
-      "summary": "Linux creator Linus Torvalds has come out strongly in favor of AI tools in kernel development. \"Linux is not one of those anti-AI projects,\" he wrote on the kernel mailing list amid a debate over Sashiko, the Linux Foundation's AI-powered code review tool. Torvalds said he would \"very loudly ignore\" anyone who tries to talk others out of using it. The article Linus Torvalds tells AI critics in the Linux kernel commun",
-      "publishedAt": "2026-07-17T11:12:47.000Z",
-      "timestamp": 1784286767000,
-      "source": {
-        "id": "the-decoder",
-        "name": "THE DECODER",
-        "region": "EU",
-        "trust": "media"
-      },
-      "categories": [
-        "applications"
-      ],
-      "score": 55
+      "score": 60
     },
     {
       "id": "ai-hfo0lq",
@@ -2808,7 +3259,7 @@
       "categories": [
         "applications"
       ],
-      "score": 55
+      "score": 52
     },
     {
       "id": "ai-jc0dit",
@@ -2826,7 +3277,7 @@
       "categories": [
         "applications"
       ],
-      "score": 55
+      "score": 52
     },
     {
       "id": "ai-1ftuosa",
@@ -2844,15 +3295,15 @@
       "categories": [
         "applications"
       ],
-      "score": 55
+      "score": 52
     },
     {
-      "id": "ai-gm1boi",
-      "title": "镜观中国丨促进人工智能向上向善、造福人类 - ncsti.gov.cn",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Nd3NxT3lQRkhSRmJLeW9xR0cyck5rLVlFS1NkZUM3UGFKNFEtbVRCcE54TWRJNlN1VzBuc3p4N2wzR0dSQ1p2M3ZIdVRrLWlkM2gwV3VCenlsVG5paDhiY3pDS3RoVzQ2NG9KaFVnRmZlbDNGMHBWTWVpS2NpOEU?oc=5",
-      "summary": "镜观中国丨促进人工智能向上向善、造福人类 ncsti.gov.cn",
-      "publishedAt": "2026-07-17T10:58:05.000Z",
-      "timestamp": 1784285885000,
+      "id": "ai-6tmzzm",
+      "title": "《人工智能合作发展行动计划》发布_总台之声 - 央视网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Ha3dncVctXzNIVXJ1VDZsLTZTZnVWTTRPSHdSNkxXLTQ3aWtiYlBib2lodURlbGtWSzVDOWdYUzNaVHJITDMzYXZETnRNMEp2RDBsTml0bUR1aXBleXRHRzJMMWZheGNsTk5ZTFFXV09lVHYyb2xZ?oc=5",
+      "summary": "《人工智能合作发展行动计划》发布_总台之声 央视网",
+      "publishedAt": "2026-07-17T11:02:00.000Z",
+      "timestamp": 1784286120000,
       "source": {
         "id": "google-news-china-ai",
         "name": "Google News: China AI",
@@ -2862,7 +3313,7 @@
       "categories": [
         "applications"
       ],
-      "score": 55
+      "score": 52
     },
     {
       "id": "ai-1i3zr8f",
@@ -2880,7 +3331,7 @@
       "categories": [
         "applications"
       ],
-      "score": 55
+      "score": 52
     },
     {
       "id": "ai-rc45oc",
@@ -2898,7 +3349,25 @@
       "categories": [
         "applications"
       ],
-      "score": 55
+      "score": 52
+    },
+    {
+      "id": "ai-f5rwx0",
+      "title": "CNEX 以台灣為亞洲樞紐布局強化AI 新戰場算力設施| 樂活情報 - 中央社 CNA",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5TOTlieUhTNVRJWk9KUF9tUEdUZTNieU1vakM2NkVoWHFyUHoxaGRqWXZQUl9ONUx6MTJoOVIteGpZc1ZOSDF4TWQ5M091Z3JXV0JEVmZ6M05iOHg0Nnc?oc=5",
+      "summary": "CNEX 以台灣為亞洲樞紐布局強化AI 新戰場算力設施| 樂活情報 中央社 CNA",
+      "publishedAt": "2026-07-17T10:34:00.000Z",
+      "timestamp": 1784284440000,
+      "source": {
+        "id": "google-news-taiwan-ai",
+        "name": "Google News: Taiwan AI",
+        "region": "Taiwan",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 52
     },
     {
       "id": "ai-1uywp41",
@@ -2916,7 +3385,7 @@
       "categories": [
         "applications"
       ],
-      "score": 55
+      "score": 52
     },
     {
       "id": "ai-10tjefk",
@@ -2934,7 +3403,7 @@
       "categories": [
         "agents"
       ],
-      "score": 63
+      "score": 60
     },
     {
       "id": "ai-1szlkfj",
@@ -2952,7 +3421,7 @@
       "categories": [
         "media-generation"
       ],
-      "score": 63
+      "score": 60
     },
     {
       "id": "ai-l6kbzv",
@@ -2970,7 +3439,7 @@
       "categories": [
         "applications"
       ],
-      "score": 55
+      "score": 52
     },
     {
       "id": "ai-1vd8zut",
@@ -2988,476 +3457,7 @@
       "categories": [
         "policy-safety"
       ],
-      "score": 73
-    },
-    {
-      "id": "ai-4c4mew",
-      "title": "A primer on the ethics of Artificial Intelligence | Opinion - Naples Daily News",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS0dQSl83Rk5RcFhWVkEzOTI4SlpvTkVvb0hIeHVlYkpxT0EyUnRBRFBIQ1hIQ2FQV19qNnRVaGY5VEwyNVRWUm16bWQ3UmphV3V2TFNhUTljelpLdHJRWWxmTUFObDFuR192ZDVlSXdidXo2LU9iM1Q5QlJVa2g3cEEzRHVZbExJamEzdk1fSUMwVkpFWlE0QkRhYXI5R3g1bG5OMHdTTUQwcWRHNjg3YVl3WVVyOTVXMDhLWE9Xdw?oc=5",
-      "summary": "A primer on the ethics of Artificial Intelligence | Opinion Naples Daily News",
-      "publishedAt": "2026-07-17T10:03:00.000Z",
-      "timestamp": 1784282580000,
-      "source": {
-        "id": "google-news-ai",
-        "name": "Google News: AI",
-        "region": "Global",
-        "trust": "aggregator"
-      },
-      "categories": [
-        "applications"
-      ],
-      "score": 55
-    },
-    {
-      "id": "ai-12uuc4y",
-      "title": "A scorecard for the AI age",
-      "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
-      "summary": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
-      "publishedAt": "2026-07-17T10:00:00.000Z",
-      "timestamp": 1784282400000,
-      "source": {
-        "id": "openai-news",
-        "name": "OpenAI News",
-        "region": "US",
-        "trust": "official"
-      },
-      "categories": [
-        "applications"
-      ],
-      "score": 73
-    },
-    {
-      "id": "ai-mc8xc7",
-      "title": "一组数字带你“数”看2026世界人工智能大会 - wuhan.gov.cn",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE54UXIwZnpHalBSbmxfT1JrWnZ6NncyRE55S3ZjN180Q2NWN0lFWFd5aTQ3LWZMUTVQUHVDcWhEQzlTNWJFZVIwUmxzdndONEZxVlAyZlJ6SFZjV0FzVlBVY1dKOGlIZGJiUVlxaDh3?oc=5",
-      "summary": "一组数字带你“数”看2026世界人工智能大会 wuhan.gov.cn",
-      "publishedAt": "2026-07-17T09:59:00.000Z",
-      "timestamp": 1784282340000,
-      "source": {
-        "id": "google-news-china-ai",
-        "name": "Google News: China AI",
-        "region": "China",
-        "trust": "aggregator"
-      },
-      "categories": [
-        "applications"
-      ],
-      "score": 55
-    },
-    {
-      "id": "ai-1vgqvp2",
-      "title": "金句来了！“让人工智能这匹千里马既跑得快又跑得稳” - 中国科技网",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96T25xUlhGYkw0Qml5MEpLX0FvZjR5VXBWQjJieE5DNlZfVlJESDJ1bzA0QmZQU3haUnp1dDFWdlJzNDJkdF9Eb1FGcDMwLVVGZGRsT1QwcWhfdmItd3dqeVlWOXN2ajlUWnc?oc=5",
-      "summary": "金句来了！“让人工智能这匹千里马既跑得快又跑得稳” 中国科技网",
-      "publishedAt": "2026-07-17T09:54:00.000Z",
-      "timestamp": 1784282040000,
-      "source": {
-        "id": "google-news-china-ai",
-        "name": "Google News: China AI",
-        "region": "China",
-        "trust": "aggregator"
-      },
-      "categories": [
-        "applications"
-      ],
-      "score": 54
-    },
-    {
-      "id": "ai-xq08u",
-      "title": "AI 自主代理闖天下 企業如何治理 - CIO Taiwan",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5NRmdtY2o1V252Y1VSMmJURElvYktCR1Z0UzNIV3YxcWZ5S2hFc3h3enR2eUN0anF3OEdxZHZvVDQ3VkE5?oc=5",
-      "summary": "AI 自主代理闖天下 企業如何治理 CIO Taiwan",
-      "publishedAt": "2026-07-17T09:44:19.000Z",
-      "timestamp": 1784281459000,
-      "source": {
-        "id": "google-news-taiwan-ai",
-        "name": "Google News: Taiwan AI",
-        "region": "Taiwan",
-        "trust": "aggregator"
-      },
-      "categories": [
-        "applications"
-      ],
-      "score": 54
-    },
-    {
-      "id": "ai-ukokmj",
-      "title": "建構企業與個人AI實戰力 2026 AI應用大展八大主題論壇開放免費報名 - tca.org.tw",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFd253bHIyaEJteG9zQy04cGhjSWw2elRVZjI0aDZWLWIzclFJeXhGSklzUVo3amJjR2wxbFNIWFdiaVpZSnFUaXhjdUlreEZMekEwYlhqV0N6R3Noenc?oc=5",
-      "summary": "建構企業與個人AI實戰力 2026 AI應用大展八大主題論壇開放免費報名 tca.org.tw",
-      "publishedAt": "2026-07-17T09:37:54.000Z",
-      "timestamp": 1784281074000,
-      "source": {
-        "id": "google-news-taiwan-ai",
-        "name": "Google News: Taiwan AI",
-        "region": "Taiwan",
-        "trust": "aggregator"
-      },
-      "categories": [
-        "applications"
-      ],
-      "score": 54
-    },
-    {
-      "id": "ai-1j47paa",
-      "title": "习近平首度现身世界AI大会：中国的“开源”战略意味着什么？ - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE05Q2RYOUdwUHBxU1V1ZUQtMXF2STRnUjI3TlZYQ1JTQUxYeUVtS1hSTEYwVHBPcmg2aEJaM3JMdjJCX2VOaHgtLXgwS01WWG91eVNYMm9hZEExb2drSjlWMzduV3BMQdIBa0FVX3lxTFAzUGNwTUZRSXRXckZ3dDEyUUJKdXBhNEQ1WDlpMFBMd3lLWWhBT3Y0d0VtdTZuTG1QazhidlU4bmtYOW90ZmdfcThKU0NXYWN3SFE5c3BpRGhkVmlKT3RydDBtTDNSSGF5d0xZ?oc=5",
-      "summary": "习近平首度现身世界AI大会：中国的“开源”战略意味着什么？ BBC",
-      "publishedAt": "2026-07-17T09:32:56.000Z",
-      "timestamp": 1784280776000,
-      "source": {
-        "id": "google-news-china-ai",
-        "name": "Google News: China AI",
-        "region": "China",
-        "trust": "aggregator"
-      },
-      "categories": [
-        "applications"
-      ],
-      "score": 54
-    },
-    {
-      "id": "ai-hxel8h",
-      "title": "世界人工智能合作组织协定签署仪式举行 - 东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE16TUdGZC1CUFZCZzdHQTktczhFdTFVdUwzMXA4czRZaHZCUDBrbHhKVUQzdDhfMHlyZXlRMkhYaGhmLWNEbHp4ZUx3eHVQUUFvUURaRVBFcHFPRy1YdGVxRw?oc=5",
-      "summary": "世界人工智能合作组织协定签署仪式举行 东方财富",
-      "publishedAt": "2026-07-17T09:27:03.000Z",
-      "timestamp": 1784280423000,
-      "source": {
-        "id": "google-news-china-ai",
-        "name": "Google News: China AI",
-        "region": "China",
-        "trust": "aggregator"
-      },
-      "categories": [
-        "applications"
-      ],
-      "score": 54
-    },
-    {
-      "id": "ai-nkv4bw",
-      "title": "Gemini 數位分身整合 Nano Banana，一次設定就能生成個人化 AI 影片 - 電腦王阿達",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5od181Rm13TjNUcmhTUFNjdG80emtPN01YcUtrcXFGMnNoOHI1SEhvUkxMNUNEZTNYbGpXeHI1Wmp0c0FEZml0TGEtUVo1b3M?oc=5",
-      "summary": "Gemini 數位分身整合 Nano Banana，一次設定就能生成個人化 AI 影片 電腦王阿達",
-      "publishedAt": "2026-07-17T09:26:46.000Z",
-      "timestamp": 1784280406000,
-      "source": {
-        "id": "google-news-taiwan-ai-media-generation",
-        "name": "Google News: Taiwan AI Image/Video Generation",
-        "region": "Taiwan",
-        "trust": "aggregator"
-      },
-      "categories": [
-        "media-generation",
-        "foundation-models"
-      ],
       "score": 70
-    },
-    {
-      "id": "ai-1caqcrf",
-      "title": "The Most Important Words in the Battle Over AI - Politico",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcWs1LVNmMmx5dlh4OWttRDFTdXRqX2NyaGwzQnpxWWF5eFd6OVJ0UzctckpNdWF1cXNjeGVib3VEMWdZNDhYankwTzJzRVA3WnlJWFlTaERSVjBiUXcyS1hleHNJS2JjaUhoMjhrakRMV2lFUUVrT3VZbjZqQVJEaXNwUVNSeXVPLVFqUTY2VTRGUXZEeGlJNTJZOA?oc=5",
-      "summary": "The Most Important Words in the Battle Over AI Politico",
-      "publishedAt": "2026-07-17T09:01:00.000Z",
-      "timestamp": 1784278860000,
-      "source": {
-        "id": "eu-ai-policy-news",
-        "name": "Google News: EU AI Policy",
-        "region": "EU",
-        "trust": "aggregator"
-      },
-      "categories": [
-        "policy-safety"
-      ],
-      "score": 62
-    },
-    {
-      "id": "ai-6xsp4p",
-      "title": "企業 AI 新戰場在算力基礎設施 CNEX 以台灣為亞洲樞紐布局 - 信傳媒",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMamtOX05Qb3phblU2bV9HLUF3aThqTUhsaXdKbUZsSHFyQnZjTjRhcENPd0F2UVRiN0ViemJTR2ZRRWRRTzI1SzNBY2pNeGNyTVBOQ1RraDdIdw?oc=5",
-      "summary": "企業 AI 新戰場在算力基礎設施 CNEX 以台灣為亞洲樞紐布局 信傳媒",
-      "publishedAt": "2026-07-17T09:00:00.000Z",
-      "timestamp": 1784278800000,
-      "source": {
-        "id": "google-news-taiwan-ai",
-        "name": "Google News: Taiwan AI",
-        "region": "Taiwan",
-        "trust": "aggregator"
-      },
-      "categories": [
-        "applications"
-      ],
-      "score": 54
-    },
-    {
-      "id": "ai-1cnf73h",
-      "title": "AI 模型升級秀加速算力需求 鴻海、廣達、緯創接單動能強勁 - 經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90ZkV6ck5NT2NMaU5KQU1NVDJxam1HUkFmLXkzUkxodTBiV1BfQTkxNXVDRlpxWDY5QWFTaW1BRzJnRjRwRUJDWi1mWkROeDZ1dWUyWVRqQjJpaFnSAWBBVV95cUxOWEpTSFh4X3dSUUlSaDJib1pXYW9MNmtiVHBnYlJiVW5hbDJ0SlVlSHhrWFVOYnRVT0xlRk5naEtXNFZwZ2x1M3RkWXV6S2U0S0JMTjlEcUQ0eU52VG9FelM?oc=5",
-      "summary": "AI 模型升級秀加速算力需求 鴻海、廣達、緯創接單動能強勁 經濟日報",
-      "publishedAt": "2026-07-17T09:00:00.000Z",
-      "timestamp": 1784278800000,
-      "source": {
-        "id": "google-news-taiwan-ai-media-generation",
-        "name": "Google News: Taiwan AI Image/Video Generation",
-        "region": "Taiwan",
-        "trust": "aggregator"
-      },
-      "categories": [
-        "media-generation"
-      ],
-      "score": 62
-    },
-    {
-      "id": "ai-bzh8w4",
-      "title": "The EU at Geneva's Digital Week: Advancing Global Cooperation on Artificial Intelligence - EEAS",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUDBLdS1lM01YVEJ6eXlpakxZZEExMHk1azhJYkhseDZpdkJyTERvTmdqMnRPZXppOGtwQmN5eXpsRnlLQ2ZWbmdTOG03VjRHMXZSbjNLdGw5SEdQc0lDLTFiNnc2cmNyazBFTUtDNGhpdy1yZGNaMEJFMEY1ZS1oWUtWdGI2Q1BrOVpiOVhGTk96N25qclZ0ZUJyeDgwZFJNNFRuRHE4M3VRQ2pUd29kS1drVVVwa0pBclFTX3Nlb1g4VnAtYTJj?oc=5",
-      "summary": "The EU at Geneva's Digital Week: Advancing Global Cooperation on Artificial Intelligence EEAS",
-      "publishedAt": "2026-07-17T08:59:00.000Z",
-      "timestamp": 1784278740000,
-      "source": {
-        "id": "eu-ai-policy-news",
-        "name": "Google News: EU AI Policy",
-        "region": "EU",
-        "trust": "aggregator"
-      },
-      "categories": [
-        "policy-safety"
-      ],
-      "score": 62
-    },
-    {
-      "id": "ai-6q282m",
-      "title": "The risk of weather data sabotage is rising",
-      "url": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
-      "summary": "Every morning, airline dispatchers, grid operators, and farmers around the world make decisions based on the same thing: a weather forecast. While these forecasts are something that most people glance at for two seconds, weather predictions influence major strategic decisions in many industries, with real money, livelihoods, and even actual lives at stake. Farmers use…",
-      "publishedAt": "2026-07-17T08:57:32.000Z",
-      "timestamp": 1784278652000,
-      "source": {
-        "id": "mit-ai",
-        "name": "MIT Technology Review AI",
-        "region": "US",
-        "trust": "media"
-      },
-      "categories": [
-        "policy-safety"
-      ],
-      "score": 62
-    },
-    {
-      "id": "ai-69nx3i",
-      "title": "Netflix's 300 AI productions show how fast the technology is spreading through entertainment",
-      "url": "https://the-decoder.com/netflixs-300-ai-productions-show-how-fast-the-technology-is-spreading-through-entertainment/",
-      "summary": "Netflix now uses AI in about 300 productions, mostly in post-production. Co-CEO Ted Sarandos put specific numbers to the effort: the docuseries \"The American Experiment\" includes 17 minutes of AI-assisted footage, produced twice as fast at half the cost. The savings will \"likely\" fund more content rather than shrink the $20 billion budget. The article Netflix's 300 AI productions show how fast the technology is sprea",
-      "publishedAt": "2026-07-17T08:53:31.000Z",
-      "timestamp": 1784278411000,
-      "source": {
-        "id": "the-decoder",
-        "name": "THE DECODER",
-        "region": "EU",
-        "trust": "media"
-      },
-      "categories": [
-        "applications"
-      ],
-      "score": 54
-    },
-    {
-      "id": "ai-qf5gur",
-      "title": "“阶跃+千里”组合：中国物理AI力量亮相WAIC - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQU2M0VHBNaHk2cGRlZXNSX0JCWS1RQ244VjY5MzZfNGk1a3hhYndiSnVoMDhjMWNqRFVSSHlMX1EyM25vRFRIV2d0N182MFNodllNdjdsZUt0S2MzeFFuTzJHRlZsLTVtUWV2XzRoS1ZPdHkyNmY0TVIwZmhMbHRFSw?oc=5",
-      "summary": "“阶跃+千里”组合：中国物理AI力量亮相WAIC 新华网",
-      "publishedAt": "2026-07-17T08:31:41.000Z",
-      "timestamp": 1784277101000,
-      "source": {
-        "id": "google-news-china-ai",
-        "name": "Google News: China AI",
-        "region": "China",
-        "trust": "aggregator"
-      },
-      "categories": [
-        "applications"
-      ],
-      "score": 54
-    },
-    {
-      "id": "ai-1sc497w",
-      "title": "Opinion | To stay competitive, Chinese brands must learn to command agentic AI - South China Morning Post",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRERtX3FyM2RKVkhOa2ZhV3hOXzFHdDJFMGt6QlYtdXotMzBtMnhDem83N18xRFdkNkV4UnFNZjFsanlOV0wyY01qMWpaczU1THU5cFFuTXQ5MDkxNlM1SUNrblNfbmpMWlEwcVFOVkRWRGRURXpSTlVwN204a2xsdVF6YWpzc1Zxd0lFRUR5WGNqRFdzZW5TdWk2STFmOXByVzFTX9IBpAFBVV95cUxPVE8yYzN3b0R0TDNWVThGQ0I1VEI1ZHVrVlFxZVBuaXZtdWpzbFJ0VGNNZHQyekNZdnZXSkgwVE1kWFdhS1NaMzk5dVl2ak1RQTZiaHpDQmRuWXU1cFFKanlKeVFMaHdmU19GdkVXZV9Sb0tHU1hUSmtMV3VfZW5fbmZTeElLSThCbng4dEg3eFoxcnV3U1djODN0YVhPOVNsdi1Gaw?oc=5",
-      "summary": "Opinion | To stay competitive, Chinese brands must learn to command agentic AI South China Morning Post",
-      "publishedAt": "2026-07-17T08:30:06.000Z",
-      "timestamp": 1784277006000,
-      "source": {
-        "id": "google-news-ai",
-        "name": "Google News: AI",
-        "region": "Global",
-        "trust": "aggregator"
-      },
-      "categories": [
-        "agents"
-      ],
-      "score": 62
-    },
-    {
-      "id": "ai-osmsj3",
-      "title": "Commission makes €63.2 million available to support AI innovation in health and online safety - Représentation de la Commission Européenne au Luxembourg",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOWVBBc1JUZXRGUWM5MlAzRk5HWG5wZ0pYRkRvaGF2UU1KTDNZUWFpQ1ZWM2dwU2JqOGpZeW9EbVBBZERhNkNSbDdZWWdRa0RWOFdvQ0RhSERtSllOZFYyYWowOVlLc2JFc3pPWGg0bkEzUU5uYUZGb0dHd2VBOVIwUENWdnNqRUdFUldPSkw3aW9HUmo4RjZzWHpJMGtEOGxJSVMxZHYxX3dUNklwZl9pNW9iNzgtQXJfbmxUdHBob3Fzd2hzbDNhdTJFZnIxX0FGeHFhYjlsTFhIVXlZd0RJMVpjaUNFUmszaU50QUxGNk9CbDBnZm50cG90bWkxV3gzblI3b2Ezd0RoMzQ2ZWhwTjdSYw?oc=5",
-      "summary": "Commission makes €63.2 million available to support AI innovation in health and online safety Représentation de la Commission Européenne au Luxembourg",
-      "publishedAt": "2026-07-17T08:29:58.000Z",
-      "timestamp": 1784276998000,
-      "source": {
-        "id": "eu-ai-policy-news",
-        "name": "Google News: EU AI Policy",
-        "region": "EU",
-        "trust": "aggregator"
-      },
-      "categories": [
-        "policy-safety"
-      ],
-      "score": 72
-    },
-    {
-      "id": "ai-reytas",
-      "title": "President Xi Jinping Attends the Opening Ceremony of the 2026 World AI Conference and High-Level Meeting on Global AI Governance and Delivers Keynote Address - 中华人民共和国驻美利坚合众国大使馆",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE82QjhtNGR4QTlTREJTRXVMZ2ZMRTNOQjM5RVZTSm1HRk1KUzF3OEJncDUyTDJaUzJKUmJVVEdSaE16cE9peENQTFBDUVo2MmlRUXAxcE9vR0ZPS1hiZ05XSXkyY2RQTm5OUmFKWXk4RG5OaXJDdTJKc0VR?oc=5",
-      "summary": "President Xi Jinping Attends the Opening Ceremony of the 2026 World AI Conference and High-Level Meeting on Global AI Governance and Delivers Keynote Address 中华人民共和国驻美利坚合众国大使馆",
-      "publishedAt": "2026-07-17T08:16:24.000Z",
-      "timestamp": 1784276184000,
-      "source": {
-        "id": "google-news-ai",
-        "name": "Google News: AI",
-        "region": "Global",
-        "trust": "aggregator"
-      },
-      "categories": [
-        "policy-safety"
-      ],
-      "score": 62
-    },
-    {
-      "id": "ai-1tltex7",
-      "title": "Xi pitches China as leader of new global AI order, challenging US dominance - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZVpoVTlwUHY0LXNXd19nbFlNWVZoWDdQeVVFSi1ISkZzYVI1YUlzQTR6OXd3XzNhWDhsaTRkdnByczNqMlE4bm1JTHhyaEk2VXhrUDRFdmVjdHN3RW9FZU1OTW5aMnMzTmk1VW5sMUNGTkhYYVc1LUN5bUJJWkNBdUJFSU0wNUZyMDdtZklkRkJPLXBTRlhHQmZ1S1dQSVdTZ3l4OC13TE5aVWNBSUZfeHpfRVRwTG9hdzFKWkdVa2RfaVoxeWpr?oc=5",
-      "summary": "Xi pitches China as leader of new global AI order, challenging US dominance Reuters",
-      "publishedAt": "2026-07-17T08:15:14.000Z",
-      "timestamp": 1784276114000,
-      "source": {
-        "id": "google-news-ai",
-        "name": "Google News: AI",
-        "region": "Global",
-        "trust": "aggregator"
-      },
-      "categories": [
-        "applications"
-      ],
-      "score": 54
-    },
-    {
-      "id": "ai-wjfmce",
-      "title": "多项数据登顶！中国AI领跑全球 - 中国日报网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5xSEJYWmZ1bXFMZDJFLUZuUkYtNHFRSXk0bEtMcjJBSktiQm5NbXFkeWpDUDVPTUlSM0NYbm5qMEFNSjhMN3FyQnpEdUJoalptbTRMcWdFZGVHaHRSalZZajk1bm5TWG1tN3JTWXoxNW1lQWRlTEh6LTM1M0s?oc=5",
-      "summary": "多项数据登顶！中国AI领跑全球 中国日报网",
-      "publishedAt": "2026-07-17T08:09:25.000Z",
-      "timestamp": 1784275765000,
-      "source": {
-        "id": "google-news-china-ai",
-        "name": "Google News: China AI",
-        "region": "China",
-        "trust": "aggregator"
-      },
-      "categories": [
-        "applications"
-      ],
-      "score": 54
-    },
-    {
-      "id": "ai-s387jy",
-      "title": "President Xi Jinping Attends the Opening Ceremony of the 2026 World AI Conference and High-Level Meeting on Global AI Governance and Delivers Keynote Address_Ministry of Foreign Affairs of the People's Republic of China - mfa.gov.cn",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1mSWExckVqaHJqS1B0UEsxdUVJYjdKdE96Nm1ad3hEbHBnZEh1ZmNoWFFiVmNrVUliRDA0S0hVR0RGTmR5RWZIRjVKWFNpWl9RdDlyU0NCY3Q5cllQTlgzY3VtZGtHWUVPNGlVMl9LVUxSNWs?oc=5",
-      "summary": "President Xi Jinping Attends the Opening Ceremony of the 2026 World AI Conference and High-Level Meeting on Global AI Governance and Delivers Keynote Address_Ministry of Foreign Affairs of the People's Republic of China mfa.gov.cn",
-      "publishedAt": "2026-07-17T08:09:00.000Z",
-      "timestamp": 1784275740000,
-      "source": {
-        "id": "eu-ai-policy-news",
-        "name": "Google News: EU AI Policy",
-        "region": "EU",
-        "trust": "aggregator"
-      },
-      "categories": [
-        "policy-safety"
-      ],
-      "score": 62
-    },
-    {
-      "id": "ai-tihen2",
-      "title": "三位全球嘉宾，他们眼中的中国AI什么样？ - 中国网",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBlZ29aSF9FalpmbHB5TnYzX19xdVowamhNTkpoUTV6aHpIRnM0RlU4RDdPOVdoTFVOLUJkZ1RmOTkwQ0U5M1E2Rjl2LV9LWlRjU1R0cXllUUJoU0NyUDBBUHp0aFNhR25DWXpxekxhdjZZbklodlFndURR?oc=5",
-      "summary": "三位全球嘉宾，他们眼中的中国AI什么样？ 中国网",
-      "publishedAt": "2026-07-17T08:03:00.000Z",
-      "timestamp": 1784275380000,
-      "source": {
-        "id": "google-news-china-ai",
-        "name": "Google News: China AI",
-        "region": "China",
-        "trust": "aggregator"
-      },
-      "categories": [
-        "applications"
-      ],
-      "score": 54
-    },
-    {
-      "id": "ai-cl9v29",
-      "title": "中兴通讯亮相2026世界人工智能大会 全栈AI创新成果集中展出 - ZTE",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRUJvcnVqekx1VF9SamhIN2UyZ1VZYWFJTlN6ZTlrZ21MLUNRSUo0dk5URG5iZDA0VllOWXdDZ1UtNnZLRzY0SlRac2tCQUJoMDNaN2x6NGYwZVdQVVVvNlozM3pLemVuTURZNUVLNXkweEJwN1VhWjNUdE9hY01OSDlZWEtpT25FWFVISlBUZFg?oc=5",
-      "summary": "中兴通讯亮相2026世界人工智能大会 全栈AI创新成果集中展出 ZTE",
-      "publishedAt": "2026-07-17T07:50:21.000Z",
-      "timestamp": 1784274621000,
-      "source": {
-        "id": "google-news-china-ai",
-        "name": "Google News: China AI",
-        "region": "China",
-        "trust": "aggregator"
-      },
-      "categories": [
-        "applications"
-      ],
-      "score": 54
-    },
-    {
-      "id": "ai-gdldbl",
-      "title": "韓美團隊發表自動穿衣機器人 可望用於半導體無塵室[影]",
-      "url": "https://www.cna.com.tw/news/ait/202607170182.aspx",
-      "summary": "（中央社大田市17日綜合外電報導）韓國與美國研究人員組成的團隊發表了一項自動穿衣機器人技術，讓使用者無需動手或他人協助即可穿上衣物，未來可望應用於晶片無塵室及緊急救援等場合。",
-      "publishedAt": "2026-07-17T07:49:10.000Z",
-      "timestamp": 1784274550000,
-      "source": {
-        "id": "cna-tech",
-        "name": "中央社科技",
-        "region": "Taiwan",
-        "trust": "media"
-      },
-      "categories": [
-        "applications"
-      ],
-      "score": 54
-    },
-    {
-      "id": "ai-12ownmv",
-      "title": "Xi Offers Four Observations on AI Development, Governance - 中国科技网",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8tM3NLekx3LUNFcmgxdFlDbDhoelZ5dnU0SWd6dFJ4SERjeV9RYlNRQ1FBNTFKLXdEM18yQ1ZiTksyOTlXb1FIUXpvazllTy1YcFB3ZGhrUG9mRTM3Z3FiMUJkVUZzRHd6T1Vyc3VDZW1uVlZv?oc=5",
-      "summary": "Xi Offers Four Observations on AI Development, Governance 中国科技网",
-      "publishedAt": "2026-07-17T07:47:28.000Z",
-      "timestamp": 1784274448000,
-      "source": {
-        "id": "google-news-china-ai",
-        "name": "Google News: China AI",
-        "region": "China",
-        "trust": "aggregator"
-      },
-      "categories": [
-        "policy-safety"
-      ],
-      "score": 62
     }
   ],
   "errors": [
