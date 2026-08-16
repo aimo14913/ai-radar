@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T13:01:14.004Z",
+  "generatedAt": "2026-08-16T01:58:57.035Z",
   "windowDays": 21,
   "totalItems": 180,
   "sourceCount": 28,
@@ -208,6 +208,189 @@
   ],
   "items": [
     {
+      "id": "ai-1f8s7r9",
+      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+      "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+      "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+      "publishedAt": "2026-08-15T21:29:19.000Z",
+      "timestamp": 1786829359000,
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "region": "US",
+        "trust": "media"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 64
+    },
+    {
+      "id": "ai-5bbj7h",
+      "title": "Artificial Intelligence - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHQWNlSHQzMUlJUTg1elY2MnlhM0JMRDkyUlMtYUdwNDFYYmF2cktZZzg2X3pDMVluRVhBS01LY0VnRVI0bnk2eElyWkczd0dLdktiOFMybWl5STktVHc?oc=5",
+      "summary": "Artificial Intelligence ABC News - Breaking News, Latest News and Videos",
+      "publishedAt": "2026-08-15T19:48:01.000Z",
+      "timestamp": 1786823281000,
+      "source": {
+        "id": "google-news-ai",
+        "name": "Google News: AI",
+        "region": "Global",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 63
+    },
+    {
+      "id": "ai-12opxso",
+      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+      "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+      "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+      "publishedAt": "2026-08-15T18:58:39.000Z",
+      "timestamp": 1786820319000,
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "region": "US",
+        "trust": "media"
+      },
+      "categories": [
+        "foundation-models"
+      ],
+      "score": 71
+    },
+    {
+      "id": "ai-1rdng3o",
+      "title": "SpaceX officially closes its Cursor acquisition",
+      "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+      "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
+      "publishedAt": "2026-08-15T16:30:00.000Z",
+      "timestamp": 1786811400000,
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "region": "US",
+        "trust": "media"
+      },
+      "categories": [
+        "capital-market"
+      ],
+      "score": 71
+    },
+    {
+      "id": "ai-1e647ww",
+      "title": "【北美智權報410期】重塑高教競爭力：從「AI種子教師」到「產業主導」的高等教育轉型思維| 2026 年 8 月 16 日 - 北美智權",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5RYnU3aXVBb2JLS0JRN1VxYmxlMkoteFkwaDdjX2xtaGg1Q3REX3VTSWVkd3hKNzJDcDMwb0J1SGxIbEk5a0NTZA?oc=5",
+      "summary": "【北美智權報410期】重塑高教競爭力：從「AI種子教師」到「產業主導」的高等教育轉型思維| 2026 年 8 月 16 日 北美智權",
+      "publishedAt": "2026-08-15T16:00:49.000Z",
+      "timestamp": 1786809649000,
+      "source": {
+        "id": "google-news-taiwan-ai",
+        "name": "Google News: Taiwan AI",
+        "region": "Taiwan",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 63
+    },
+    {
+      "id": "ai-1a7mcjb",
+      "title": "Investor pressure forces Nvidia to shrink its OpenAI bet just as Anthropic's numbers defy bubble warnings",
+      "url": "https://the-decoder.com/investor-pressure-forces-nvidia-to-shrink-its-openai-bet-just-as-anthropics-numbers-defy-bubble-warnings/",
+      "summary": "Nvidia has cut its guarantee for OpenAI's planned data center in Ohio nearly in half, from $250 billion to just under $120 billion, after investors pushed back on the risk. Meanwhile, Anthropic is complicating the AI bubble debate with revenue that jumped from $4.7 billion to $11.5 billion in a single quarter. The article Investor pressure forces Nvidia to shrink its OpenAI bet just as Anthropic's numbers defy bubble",
+      "publishedAt": "2026-08-15T15:41:02.000Z",
+      "timestamp": 1786808462000,
+      "source": {
+        "id": "the-decoder",
+        "name": "THE DECODER",
+        "region": "EU",
+        "trust": "media"
+      },
+      "categories": [
+        "ai-infra",
+        "policy-safety",
+        "capital-market"
+      ],
+      "score": 86
+    },
+    {
+      "id": "ai-16fernb",
+      "title": "Understanding Generative AI: Beyond Chatbots and Prompts - Metro State University",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdVg5cU9rZ1lBYUFRN0taUDdXcVRReXM3ODRhY3gtQVBsdjFnbFRzNGlCUGJuRTNacGs5Tzd2N3V5dnRzWlltTEU3cm41Tnd0RkQtMlg1Q0N4cjRINW1SLXNwRGhPUnE4bWNMRmJfZFRCdW5XOHR5cllfX0NsdzVicjRvRDJGTkljVk1CYkRaZmZqVzN3TC12eHhVSQ?oc=5",
+      "summary": "Understanding Generative AI: Beyond Chatbots and Prompts Metro State University",
+      "publishedAt": "2026-08-15T15:18:15.000Z",
+      "timestamp": 1786807095000,
+      "source": {
+        "id": "google-news-ai",
+        "name": "Google News: AI",
+        "region": "Global",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 62
+    },
+    {
+      "id": "ai-f4igbi",
+      "title": "Artificial Intelligence: the hype, the dangers, and the resistance—Part III - mronline.org",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTkZIQ254YnF1VlJBMm9iOE1zZWREVGVacjRXZFNfZFZ2bmlJeHBoTFdoRWc2R09Ba19qWHAxZmlMNG9qWnQ3S2ZfUWk4dFFqTUlDMnU2OThkU2x2TW8yaThpTmJIWndNVGlRbzJGWVBLSk5TSVN5dFlBQVVmbVNVdGNhNjBNcnZmUnNJdkc2WE9nRGhCTndBV1VQRnF4bEtsVE41TEVjQXg?oc=5",
+      "summary": "Artificial Intelligence: the hype, the dangers, and the resistance—Part III mronline.org",
+      "publishedAt": "2026-08-15T14:47:48.000Z",
+      "timestamp": 1786805268000,
+      "source": {
+        "id": "google-news-ai",
+        "name": "Google News: AI",
+        "region": "Global",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 62
+    },
+    {
+      "id": "ai-1li6zyo",
+      "title": "迎戰 ChatGPT！Google Gemini 開放移除 AI 生成圖片及影片可見水印 - MobileMagazine",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVEtEeGcwb3RDZ1VqMFR1TlIwQzNPb21qSVRHQ1hLcEpqZjhyTFZsYjZrZXdtbGYxN21hUkJjT3B3YTMySlg1dS1ONmRkbEhlVk9OZUgtdElpYllwS1BWWExRT3E0R3pKSmt5ZzFqWFFabExGeW5LVUNXcElKTmppMWY2bDhVbUd3R0dIYWhKdU8?oc=5",
+      "summary": "迎戰 ChatGPT！Google Gemini 開放移除 AI 生成圖片及影片可見水印 MobileMagazine",
+      "publishedAt": "2026-08-15T14:00:43.000Z",
+      "timestamp": 1786802443000,
+      "source": {
+        "id": "google-news-taiwan-ai-media-generation",
+        "name": "Google News: Taiwan AI Image/Video Generation",
+        "region": "Taiwan",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "foundation-models",
+        "media-generation"
+      ],
+      "score": 78
+    },
+    {
+      "id": "ai-1i1k117",
+      "title": "Prediction: These 3 Artificial Intelligence (AI) Stocks Will Rise More than 30% Before 2026 Is Over - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVldlaDVTVHNqOThDWFl1M21vZWFPSjRYa0VWdGdFTnZyTjJzbm9WRlNOMDlJQzlzckdKOVp0V2RmM3pmRjdMN0dkN3lNYVFTRUpObEVQc0VsQ295dTFRSmxIREw3SGFQV28tUEJqNmM5OFZVd1g3WEFWSFU3NGFSNWVlc1F6eHEwc3M1VDFRYURvT1B4?oc=5",
+      "summary": "Prediction: These 3 Artificial Intelligence (AI) Stocks Will Rise More than 30% Before 2026 Is Over The Motley Fool",
+      "publishedAt": "2026-08-15T12:45:00.000Z",
+      "timestamp": 1786797900000,
+      "source": {
+        "id": "google-news-ai",
+        "name": "Google News: AI",
+        "region": "Global",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 62
+    },
+    {
       "id": "ai-egn6yu",
       "title": "AI升至國安層級程世嘉：台廠應跨足軟硬整合新商機| 產經 - cna.com.tw",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5tNmpQOU9aZWVfcE9ZQThYN0xqbTREZDZleTNxQkpSaDVqN2lWTnh5UlhFUVBDeV9UNDVzclF1aldxRG1rSzZjdC1qZFY1emhNWFVKMVJDN0VoMFM2cmc?oc=5",
@@ -223,43 +406,25 @@
       "categories": [
         "applications"
       ],
-      "score": 65
+      "score": 62
     },
     {
-      "id": "ai-1i1k117",
-      "title": "Prediction: These 3 Artificial Intelligence (AI) Stocks Will Rise More than 30% Before 2026 Is Over - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVldlaDVTVHNqOThDWFl1M21vZWFPSjRYa0VWdGdFTnZyTjJzbm9WRlNOMDlJQzlzckdKOVp0V2RmM3pmRjdMN0dkN3lNYVFTRUpObEVQc0VsQ295dTFRSmxIREw3SGFQV28tUEJqNmM5OFZVd1g3WEFWSFU3NGFSNWVlc1F6eHEwc3M1VDFRYURvT1B4?oc=5",
-      "summary": "Prediction: These 3 Artificial Intelligence (AI) Stocks Will Rise More than 30% Before 2026 Is Over The Motley Fool",
-      "publishedAt": "2026-08-15T12:12:04.000Z",
-      "timestamp": 1786795924000,
+      "id": "ai-1nqind9",
+      "title": "工程·新视界｜当化工遇上AI：如何打破传统研发困局？ - news.sciencenet.cn",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwbzZ6VHpvMHBCakhqUlNSYzZ6dG9USW0xX2JyZUNQSkhnWkV4NDR5ZVpNazlnZEd5MmxHejR5QkhrLVlnem13Q0lDemlyOUFQZUg3b3FiUW53ZTk2VHdpVHItMTk?oc=5",
+      "summary": "工程·新视界｜当化工遇上AI：如何打破传统研发困局？ news.sciencenet.cn",
+      "publishedAt": "2026-08-15T11:30:02.000Z",
+      "timestamp": 1786793402000,
       "source": {
-        "id": "google-news-ai",
-        "name": "Google News: AI",
-        "region": "Global",
+        "id": "google-news-china-ai",
+        "name": "Google News: China AI",
+        "region": "China",
         "trust": "aggregator"
       },
       "categories": [
         "applications"
       ],
-      "score": 65
-    },
-    {
-      "id": "ai-1lb0048",
-      "title": "Prediction: These 3 Artificial Intelligence (AI) Stocks Will Rise More than 30% Before 2026 Is Over - finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUkdRV3dybUx3R2x1NWZ2SUc4aE54bWs1d0dLRTEzdjh2QzY0cFlTYlc5ZDNneDhkVE9XZGk1QTRhTHZycmpEbTlOVlhZeDNFXzVxTXpIMGsyNVE1bDdsUEdSX3pPLW9uRm9NdkJCMUtvSTR5SXlXQ1pKQlh6aElGcEZpTUpFbmp4bElvQm9ab1l5WDd5TVZqekMzdGVNNlFZWXBoU0wxTQ?oc=5",
-      "summary": "Prediction: These 3 Artificial Intelligence (AI) Stocks Will Rise More than 30% Before 2026 Is Over finance.yahoo.com",
-      "publishedAt": "2026-08-15T12:05:00.000Z",
-      "timestamp": 1786795500000,
-      "source": {
-        "id": "google-news-ai",
-        "name": "Google News: AI",
-        "region": "Global",
-        "trust": "aggregator"
-      },
-      "categories": [
-        "applications"
-      ],
-      "score": 65
+      "score": 61
     },
     {
       "id": "ai-tcamsf",
@@ -279,7 +444,7 @@
         "applications",
         "policy-safety"
       ],
-      "score": 88
+      "score": 85
     },
     {
       "id": "ai-1mr1rzs",
@@ -297,61 +462,7 @@
       "categories": [
         "applications"
       ],
-      "score": 64
-    },
-    {
-      "id": "ai-157zlmz",
-      "title": "防止中國平價AI搶市占 OpenAI模型直接打2折 - news.ustv.com.tw",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NRnhBalJPcnB4THA4QldpeXJMd3BiRXZSck5XY3pCMlFRd0Jjb1ktS21xWWhCUU5iSjFCN0tDY2R1WnZId0hDSUVxQmttaHdyTXFWZEY3dVJpTXM?oc=5",
-      "summary": "防止中國平價AI搶市占 OpenAI模型直接打2折 news.ustv.com.tw",
-      "publishedAt": "2026-08-15T09:44:54.000Z",
-      "timestamp": 1786787094000,
-      "source": {
-        "id": "google-news-taiwan-ai",
-        "name": "Google News: Taiwan AI",
-        "region": "Taiwan",
-        "trust": "aggregator"
-      },
-      "categories": [
-        "applications"
-      ],
-      "score": 64
-    },
-    {
-      "id": "ai-xfrw3k",
-      "title": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out - WIRED",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbkVYLVNYNnU0eko3b2NDQ1FZRmRGcGpNUnNQUE52Z09aTkdLa2k5MW04VVh0NnJyWDVrR3FtZFhKZWo5SVNQaVZMWTVJT1ZQMmlkVHZkSW9rQjlkd3JGNXAwUFhSWXdDeW5keDZsQkVvaExubnRWdUhjUS0zeGE1TVdMUVJuaEdkcF93Wm56TFo4S3oyMkE?oc=5",
-      "summary": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out WIRED",
-      "publishedAt": "2026-08-15T09:00:00.000Z",
-      "timestamp": 1786784400000,
-      "source": {
-        "id": "google-news-ai",
-        "name": "Google News: AI",
-        "region": "Global",
-        "trust": "aggregator"
-      },
-      "categories": [
-        "applications"
-      ],
-      "score": 64
-    },
-    {
-      "id": "ai-5bbj7h",
-      "title": "Artificial Intelligence - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHQWNlSHQzMUlJUTg1elY2MnlhM0JMRDkyUlMtYUdwNDFYYmF2cktZZzg2X3pDMVluRVhBS01LY0VnRVI0bnk2eElyWkczd0dLdktiOFMybWl5STktVHc?oc=5",
-      "summary": "Artificial Intelligence ABC News - Breaking News, Latest News and Videos",
-      "publishedAt": "2026-08-15T08:03:06.000Z",
-      "timestamp": 1786780986000,
-      "source": {
-        "id": "google-news-ai",
-        "name": "Google News: AI",
-        "region": "Global",
-        "trust": "aggregator"
-      },
-      "categories": [
-        "applications"
-      ],
-      "score": 64
+      "score": 61
     },
     {
       "id": "ai-15pum97",
@@ -369,7 +480,7 @@
       "categories": [
         "applications"
       ],
-      "score": 64
+      "score": 61
     },
     {
       "id": "ai-1hr9v6s",
@@ -388,7 +499,7 @@
         "robotics",
         "capital-market"
       ],
-      "score": 80
+      "score": 76
     },
     {
       "id": "ai-5w8y1o",
@@ -406,7 +517,7 @@
       "categories": [
         "applications"
       ],
-      "score": 63
+      "score": 60
     },
     {
       "id": "ai-1ofguzr",
@@ -425,7 +536,7 @@
         "ai-infra",
         "applications"
       ],
-      "score": 79
+      "score": 76
     },
     {
       "id": "ai-oxnhu6",
@@ -443,7 +554,7 @@
       "categories": [
         "applications"
       ],
-      "score": 63
+      "score": 60
     },
     {
       "id": "ai-1i8vrz5",
@@ -463,13 +574,50 @@
         "policy-safety",
         "open-source"
       ],
-      "score": 97
+      "score": 94
     },
     {
-      "id": "ai-m2mlcx",
-      "title": "America’s AI election - Financial Times",
+      "id": "ai-1brfegd",
+      "title": "Global AI Awards 2026 Season 2 Announces Winners Across Pivotal Artificial Intelligence Categories - PRWeb",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZnU5RERnZ3c5MUwxQzRUQ3RLYVVtdi1hUlVKelhCNlZpaG1HbGwwcUZCN3M5NHZsdGVDdUtqUUtxX2VlV3NqVnhnWXNTbzVUNFFQZmpBVVp2RkctMkJRbmpNc1VYYkYycTNuOGI0eUpheVl1dUFaZUNMZEZBUzdHU3ZPVWVPRm42S3JkX2dWb0VVaHVCRDdXZ3B2RU9qOXFKOHNlNzRRN1J0TmEyX2tIS0JuUHhfeU1TUXlCYWdwV3NvNTJWems0NElvV3NpM0pWLWQwV08xSFdhdXI4?oc=5",
+      "summary": "Global AI Awards 2026 Season 2 Announces Winners Across Pivotal Artificial Intelligence Categories PRWeb",
+      "publishedAt": "2026-08-15T05:30:00.000Z",
+      "timestamp": 1786771800000,
+      "source": {
+        "id": "google-news-ai",
+        "name": "Google News: AI",
+        "region": "Global",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 60
+    },
+    {
+      "id": "ai-ky7ev1",
+      "title": "OpenAI upheaval mounts as Sam Altman readies IPO push - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRXcxN1ZMZG0wZzNlYWtTUVRkS1lJeW52eWh6clBCRWxNWkVXdmlzSHdZQ3lxc1o1a0t6VllWbURuYzNSOUM2ajRlQmVWMUZ5b0lRV3VRV09pNFdWSDdRNEtjUWhDWDBRWDA3WVNyN3hEQVJKdzl0dFAzdzcyOVZMb0VqR0M?oc=5",
+      "summary": "OpenAI upheaval mounts as Sam Altman readies IPO push Financial Times",
+      "publishedAt": "2026-08-15T04:00:31.000Z",
+      "timestamp": 1786766431000,
+      "source": {
+        "id": "eu-ai-policy-news",
+        "name": "Google News: EU AI Policy",
+        "region": "EU",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "policy-safety",
+        "capital-market"
+      ],
+      "score": 76
+    },
+    {
+      "id": "ai-1k584h7",
+      "title": "AI vs the people - Financial Times",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ETUJ5bXNROFdIbUtEbzdGdzA2d0NDenpxSUNDVGY1ZHVXVWVmS2dIOHNmSGEtR3F4ZWJFZEZZa0hlenpMdW1qM1MydmdXbUd1SmgwVGJzSTVXOV9wRzJyMjJrYnV0SC01bUlJaWQ5bV8?oc=5",
-      "summary": "America’s AI election Financial Times",
+      "summary": "AI vs the people Financial Times",
       "publishedAt": "2026-08-15T04:00:14.000Z",
       "timestamp": 1786766414000,
       "source": {
@@ -481,7 +629,7 @@
       "categories": [
         "policy-safety"
       ],
-      "score": 71
+      "score": 68
     },
     {
       "id": "ai-u0arng",
@@ -499,7 +647,7 @@
       "categories": [
         "agents"
       ],
-      "score": 83
+      "score": 80
     },
     {
       "id": "ai-3k50of",
@@ -539,7 +687,7 @@
         "robotics",
         "policy-safety"
       ],
-      "score": 99
+      "score": 96
     },
     {
       "id": "ai-fg3phs",
@@ -559,7 +707,7 @@
         "agents",
         "policy-safety"
       ],
-      "score": 99
+      "score": 96
     },
     {
       "id": "ai-vugohd",
@@ -578,7 +726,7 @@
         "agents",
         "foundation-models"
       ],
-      "score": 91
+      "score": 88
     },
     {
       "id": "ai-p4scal",
@@ -597,7 +745,7 @@
         "agents",
         "policy-safety"
       ],
-      "score": 91
+      "score": 88
     },
     {
       "id": "ai-cwln25",
@@ -616,7 +764,7 @@
         "policy-safety",
         "foundation-models"
       ],
-      "score": 100
+      "score": 98
     },
     {
       "id": "ai-rw6m6u",
@@ -635,7 +783,7 @@
         "foundation-models",
         "ai-infra"
       ],
-      "score": 91
+      "score": 88
     },
     {
       "id": "ai-1rvgw0f",
@@ -653,7 +801,7 @@
       "categories": [
         "foundation-models"
       ],
-      "score": 83
+      "score": 80
     },
     {
       "id": "ai-1s97h8z",
@@ -711,7 +859,7 @@
       "categories": [
         "agents"
       ],
-      "score": 83
+      "score": 80
     },
     {
       "id": "ai-1bd096e",
@@ -750,7 +898,7 @@
         "foundation-models",
         "applications"
       ],
-      "score": 91
+      "score": 88
     },
     {
       "id": "ai-f90et8",
@@ -768,7 +916,7 @@
       "categories": [
         "ai-infra"
       ],
-      "score": 83
+      "score": 80
     },
     {
       "id": "ai-a80sq6",
@@ -787,7 +935,7 @@
         "foundation-models",
         "ai-infra"
       ],
-      "score": 91
+      "score": 88
     },
     {
       "id": "ai-1ehqgak",
@@ -807,7 +955,7 @@
         "policy-safety",
         "capital-market"
       ],
-      "score": 99
+      "score": 96
     },
     {
       "id": "ai-fsh6cw",
@@ -827,7 +975,7 @@
         "ai-infra",
         "policy-safety"
       ],
-      "score": 99
+      "score": 96
     },
     {
       "id": "ai-14mtcap",
@@ -846,7 +994,7 @@
         "policy-safety",
         "open-source"
       ],
-      "score": 100
+      "score": 98
     },
     {
       "id": "ai-66xo9e",
@@ -864,7 +1012,7 @@
       "categories": [
         "foundation-models"
       ],
-      "score": 83
+      "score": 80
     },
     {
       "id": "ai-rohvui",
@@ -882,7 +1030,7 @@
       "categories": [
         "agents"
       ],
-      "score": 83
+      "score": 80
     },
     {
       "id": "ai-1p52wz4",
@@ -902,7 +1050,7 @@
         "policy-safety",
         "capital-market"
       ],
-      "score": 99
+      "score": 96
     },
     {
       "id": "ai-1ag9fnf",
@@ -940,7 +1088,7 @@
       "categories": [
         "applications"
       ],
-      "score": 75
+      "score": 72
     },
     {
       "id": "ai-etvipi",
@@ -959,7 +1107,7 @@
         "applications",
         "policy-safety"
       ],
-      "score": 91
+      "score": 88
     },
     {
       "id": "ai-b6foez",
@@ -977,7 +1125,7 @@
       "categories": [
         "foundation-models"
       ],
-      "score": 83
+      "score": 80
     },
     {
       "id": "ai-cmm0ut",
@@ -997,7 +1145,7 @@
         "applications",
         "policy-safety"
       ],
-      "score": 99
+      "score": 96
     },
     {
       "id": "ai-18ponoi",
@@ -1017,7 +1165,7 @@
         "foundation-models",
         "policy-safety"
       ],
-      "score": 99
+      "score": 96
     },
     {
       "id": "ai-fu8gad",
@@ -1035,7 +1183,7 @@
       "categories": [
         "foundation-models"
       ],
-      "score": 83
+      "score": 80
     },
     {
       "id": "ai-fbn1i1",
@@ -1054,7 +1202,7 @@
         "foundation-models",
         "ai-infra"
       ],
-      "score": 91
+      "score": 88
     },
     {
       "id": "ai-81l7vm",
@@ -1074,7 +1222,7 @@
         "foundation-models",
         "robotics"
       ],
-      "score": 99
+      "score": 96
     },
     {
       "id": "ai-7vpvdc",
@@ -1093,7 +1241,7 @@
         "agents",
         "policy-safety"
       ],
-      "score": 91
+      "score": 88
     },
     {
       "id": "ai-aae608",
@@ -1111,7 +1259,7 @@
       "categories": [
         "foundation-models"
       ],
-      "score": 83
+      "score": 80
     },
     {
       "id": "ai-sawvc7",
@@ -1131,7 +1279,7 @@
         "applications",
         "open-source"
       ],
-      "score": 99
+      "score": 96
     },
     {
       "id": "ai-19rjxoz",
@@ -1149,7 +1297,7 @@
       "categories": [
         "applications"
       ],
-      "score": 75
+      "score": 72
     },
     {
       "id": "ai-d6m1iv",
@@ -1169,7 +1317,7 @@
         "ai-infra",
         "policy-safety"
       ],
-      "score": 99
+      "score": 96
     },
     {
       "id": "ai-ruf9cy",
@@ -1189,7 +1337,7 @@
         "foundation-models",
         "policy-safety"
       ],
-      "score": 99
+      "score": 96
     },
     {
       "id": "ai-1tzdc2z",
@@ -1207,7 +1355,7 @@
       "categories": [
         "applications"
       ],
-      "score": 75
+      "score": 72
     },
     {
       "id": "ai-vysbte",
@@ -1225,7 +1373,7 @@
       "categories": [
         "agents"
       ],
-      "score": 83
+      "score": 80
     },
     {
       "id": "ai-1hdtivd",
@@ -1243,7 +1391,7 @@
       "categories": [
         "applications"
       ],
-      "score": 75
+      "score": 72
     },
     {
       "id": "ai-9g3m4w",
@@ -1262,7 +1410,7 @@
         "agents",
         "open-source"
       ],
-      "score": 91
+      "score": 88
     },
     {
       "id": "ai-17w8qga",
@@ -1281,7 +1429,7 @@
         "open-source",
         "policy-safety"
       ],
-      "score": 100
+      "score": 98
     },
     {
       "id": "ai-1b78px8",
@@ -1300,7 +1448,7 @@
         "agents",
         "ai-infra"
       ],
-      "score": 91
+      "score": 88
     },
     {
       "id": "ai-1f9pywk",
@@ -1318,7 +1466,7 @@
       "categories": [
         "ai-infra"
       ],
-      "score": 83
+      "score": 80
     },
     {
       "id": "ai-1wrbzxi",
@@ -1336,7 +1484,7 @@
       "categories": [
         "applications"
       ],
-      "score": 75
+      "score": 72
     },
     {
       "id": "ai-10gjig4",
@@ -1354,7 +1502,7 @@
       "categories": [
         "agents"
       ],
-      "score": 83
+      "score": 80
     },
     {
       "id": "ai-1hlydmb",
@@ -1372,7 +1520,7 @@
       "categories": [
         "ai-infra"
       ],
-      "score": 83
+      "score": 80
     },
     {
       "id": "ai-ncy2mt",
@@ -1392,7 +1540,7 @@
         "media-generation",
         "policy-safety"
       ],
-      "score": 99
+      "score": 96
     },
     {
       "id": "ai-1wrk5or",
@@ -1410,7 +1558,7 @@
       "categories": [
         "agents"
       ],
-      "score": 83
+      "score": 80
     },
     {
       "id": "ai-er9wgy",
@@ -1428,7 +1576,7 @@
       "categories": [
         "foundation-models"
       ],
-      "score": 83
+      "score": 80
     },
     {
       "id": "ai-1ipuk9p",
@@ -1447,7 +1595,7 @@
         "agents",
         "applications"
       ],
-      "score": 91
+      "score": 88
     },
     {
       "id": "ai-132hxnr",
@@ -1465,7 +1613,7 @@
       "categories": [
         "applications"
       ],
-      "score": 75
+      "score": 72
     },
     {
       "id": "ai-1lkt76s",
@@ -1484,7 +1632,7 @@
         "foundation-models",
         "agents"
       ],
-      "score": 91
+      "score": 88
     },
     {
       "id": "ai-1kfrvxo",
@@ -1504,7 +1652,7 @@
         "policy-safety",
         "applications"
       ],
-      "score": 99
+      "score": 96
     },
     {
       "id": "ai-hrn5nu",
@@ -1524,7 +1672,7 @@
         "open-source",
         "capital-market"
       ],
-      "score": 99
+      "score": 96
     },
     {
       "id": "ai-vhlqu0",
@@ -1543,7 +1691,7 @@
         "foundation-models",
         "ai-infra"
       ],
-      "score": 91
+      "score": 88
     },
     {
       "id": "ai-nvq3w0",
@@ -1561,7 +1709,7 @@
       "categories": [
         "applications"
       ],
-      "score": 75
+      "score": 72
     },
     {
       "id": "ai-1t3ewqm",
@@ -1580,7 +1728,7 @@
         "policy-safety",
         "capital-market"
       ],
-      "score": 91
+      "score": 88
     },
     {
       "id": "ai-k3x8ke",
@@ -1600,7 +1748,7 @@
         "agents",
         "policy-safety"
       ],
-      "score": 99
+      "score": 96
     },
     {
       "id": "ai-wmqgds",
@@ -1620,7 +1768,7 @@
         "policy-safety",
         "open-source"
       ],
-      "score": 99
+      "score": 96
     },
     {
       "id": "ai-yzgais",
@@ -1638,7 +1786,7 @@
       "categories": [
         "foundation-models"
       ],
-      "score": 83
+      "score": 80
     },
     {
       "id": "ai-wh49jj",
@@ -1658,7 +1806,7 @@
         "foundation-models",
         "capital-market"
       ],
-      "score": 99
+      "score": 96
     },
     {
       "id": "ai-78hzc9",
@@ -1678,7 +1826,7 @@
         "foundation-models",
         "policy-safety"
       ],
-      "score": 99
+      "score": 96
     },
     {
       "id": "ai-2zsep4",
@@ -1718,7 +1866,7 @@
         "ai-infra",
         "policy-safety"
       ],
-      "score": 99
+      "score": 96
     },
     {
       "id": "ai-bfmw93",
@@ -1737,7 +1885,7 @@
         "ai-infra",
         "foundation-models"
       ],
-      "score": 91
+      "score": 88
     },
     {
       "id": "ai-h1g0pr",
@@ -1755,7 +1903,7 @@
       "categories": [
         "policy-safety"
       ],
-      "score": 83
+      "score": 80
     },
     {
       "id": "ai-eg3kur",
@@ -1773,7 +1921,7 @@
       "categories": [
         "applications"
       ],
-      "score": 75
+      "score": 72
     },
     {
       "id": "ai-106wp22",
@@ -1792,7 +1940,7 @@
         "ai-infra",
         "applications"
       ],
-      "score": 91
+      "score": 88
     },
     {
       "id": "ai-1uvc0bv",
@@ -1812,7 +1960,7 @@
         "foundation-models",
         "policy-safety"
       ],
-      "score": 99
+      "score": 96
     },
     {
       "id": "ai-1tl0dg6",
@@ -1831,7 +1979,7 @@
         "foundation-models",
         "applications"
       ],
-      "score": 91
+      "score": 88
     },
     {
       "id": "ai-1nqo7aw",
@@ -1850,7 +1998,7 @@
         "policy-safety",
         "open-source"
       ],
-      "score": 91
+      "score": 88
     },
     {
       "id": "ai-lor4ib",
@@ -1869,7 +2017,7 @@
         "ai-infra",
         "policy-safety"
       ],
-      "score": 100
+      "score": 98
     },
     {
       "id": "ai-1ucpz2w",
@@ -1889,7 +2037,7 @@
         "applications",
         "capital-market"
       ],
-      "score": 99
+      "score": 96
     },
     {
       "id": "ai-1e08va5",
@@ -1907,7 +2055,7 @@
       "categories": [
         "foundation-models"
       ],
-      "score": 83
+      "score": 80
     },
     {
       "id": "ai-2che7v",
@@ -1927,7 +2075,7 @@
         "policy-safety",
         "applications"
       ],
-      "score": 99
+      "score": 96
     },
     {
       "id": "ai-gs4bqw",
@@ -1947,7 +2095,7 @@
         "applications",
         "policy-safety"
       ],
-      "score": 99
+      "score": 96
     },
     {
       "id": "ai-1si1zdz",
@@ -1967,7 +2115,7 @@
         "robotics",
         "policy-safety"
       ],
-      "score": 99
+      "score": 96
     },
     {
       "id": "ai-1phub1w",
@@ -1986,7 +2134,7 @@
         "policy-safety",
         "capital-market"
       ],
-      "score": 91
+      "score": 88
     },
     {
       "id": "ai-18cx4y4",
@@ -2004,7 +2152,7 @@
       "categories": [
         "applications"
       ],
-      "score": 83
+      "score": 80
     },
     {
       "id": "ai-3yzvox",
@@ -2023,7 +2171,7 @@
         "agents",
         "robotics"
       ],
-      "score": 91
+      "score": 88
     },
     {
       "id": "ai-18xp48v",
@@ -2043,7 +2191,7 @@
         "foundation-models",
         "ai-infra"
       ],
-      "score": 99
+      "score": 96
     },
     {
       "id": "ai-gkzhim",
@@ -2061,7 +2209,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 93
+      "score": 90
     },
     {
       "id": "ai-1t4wyj9",
@@ -2081,7 +2229,7 @@
         "foundation-models",
         "ai-infra"
       ],
-      "score": 99
+      "score": 96
     },
     {
       "id": "ai-1wgy3tn",
@@ -2101,7 +2249,7 @@
         "agents",
         "ai-infra"
       ],
-      "score": 99
+      "score": 96
     },
     {
       "id": "ai-9hkler",
@@ -2119,7 +2267,7 @@
       "categories": [
         "foundation-models"
       ],
-      "score": 93
+      "score": 90
     },
     {
       "id": "ai-1s5l951",
@@ -2138,7 +2286,7 @@
         "ai-infra",
         "foundation-models"
       ],
-      "score": 91
+      "score": 88
     },
     {
       "id": "ai-1lyxp2",
@@ -2156,7 +2304,7 @@
       "categories": [
         "foundation-models"
       ],
-      "score": 83
+      "score": 80
     },
     {
       "id": "ai-nb8ndj",
@@ -2236,7 +2384,7 @@
         "open-source",
         "capital-market"
       ],
-      "score": 99
+      "score": 96
     },
     {
       "id": "ai-1rohpxo",
@@ -2254,7 +2402,7 @@
       "categories": [
         "applications"
       ],
-      "score": 75
+      "score": 72
     },
     {
       "id": "ai-izmg6p",
@@ -2292,7 +2440,7 @@
       "categories": [
         "foundation-models"
       ],
-      "score": 83
+      "score": 80
     },
     {
       "id": "ai-9k18ry",
@@ -2312,7 +2460,7 @@
         "agents",
         "applications"
       ],
-      "score": 99
+      "score": 96
     },
     {
       "id": "ai-l6fcva",
@@ -2330,7 +2478,7 @@
       "categories": [
         "foundation-models"
       ],
-      "score": 83
+      "score": 80
     },
     {
       "id": "ai-1o7n3ch",
@@ -2348,7 +2496,7 @@
       "categories": [
         "foundation-models"
       ],
-      "score": 83
+      "score": 80
     },
     {
       "id": "ai-1wsp90q",
@@ -2367,7 +2515,7 @@
         "foundation-models",
         "applications"
       ],
-      "score": 91
+      "score": 88
     },
     {
       "id": "ai-ywlytx",
@@ -2385,7 +2533,7 @@
       "categories": [
         "applications"
       ],
-      "score": 75
+      "score": 72
     },
     {
       "id": "ai-n998yy",
@@ -2403,7 +2551,7 @@
       "categories": [
         "policy-safety"
       ],
-      "score": 83
+      "score": 80
     },
     {
       "id": "ai-1dbh9lc",
@@ -2422,7 +2570,7 @@
         "agents",
         "applications"
       ],
-      "score": 91
+      "score": 88
     },
     {
       "id": "ai-u2al3p",
@@ -2441,7 +2589,7 @@
         "policy-safety",
         "capital-market"
       ],
-      "score": 91
+      "score": 88
     },
     {
       "id": "ai-gomv87",
@@ -2461,7 +2609,7 @@
         "policy-safety",
         "capital-market"
       ],
-      "score": 99
+      "score": 96
     },
     {
       "id": "ai-ewoy7f",
@@ -2479,7 +2627,7 @@
       "categories": [
         "capital-market"
       ],
-      "score": 83
+      "score": 80
     },
     {
       "id": "ai-1er7t0q",
@@ -2497,7 +2645,7 @@
       "categories": [
         "agents"
       ],
-      "score": 83
+      "score": 80
     },
     {
       "id": "ai-1afppwa",
@@ -2515,7 +2663,7 @@
       "categories": [
         "open-source"
       ],
-      "score": 83
+      "score": 80
     },
     {
       "id": "ai-1b3y2mv",
@@ -2533,7 +2681,7 @@
       "categories": [
         "foundation-models"
       ],
-      "score": 83
+      "score": 80
     },
     {
       "id": "ai-11hzlz",
@@ -2553,7 +2701,7 @@
         "policy-safety",
         "capital-market"
       ],
-      "score": 99
+      "score": 96
     },
     {
       "id": "ai-g8muol",
@@ -2591,7 +2739,7 @@
       "categories": [
         "foundation-models"
       ],
-      "score": 83
+      "score": 80
     },
     {
       "id": "ai-1p6a84p",
@@ -2609,7 +2757,7 @@
       "categories": [
         "agents"
       ],
-      "score": 83
+      "score": 80
     },
     {
       "id": "ai-1qtkhla",
@@ -2627,7 +2775,7 @@
       "categories": [
         "agents"
       ],
-      "score": 83
+      "score": 80
     },
     {
       "id": "ai-1hea4vr",
@@ -2645,7 +2793,7 @@
       "categories": [
         "applications"
       ],
-      "score": 75
+      "score": 72
     },
     {
       "id": "ai-s8ngpb",
@@ -2663,7 +2811,7 @@
       "categories": [
         "applications"
       ],
-      "score": 75
+      "score": 72
     },
     {
       "id": "ai-10d5hji",
@@ -2682,7 +2830,7 @@
         "policy-safety",
         "open-source"
       ],
-      "score": 91
+      "score": 88
     },
     {
       "id": "ai-c49vpv",
@@ -2700,7 +2848,7 @@
       "categories": [
         "applications"
       ],
-      "score": 75
+      "score": 72
     },
     {
       "id": "ai-dher9a",
@@ -2718,7 +2866,7 @@
       "categories": [
         "foundation-models"
       ],
-      "score": 83
+      "score": 80
     },
     {
       "id": "ai-a5xmhs",
@@ -2737,7 +2885,7 @@
         "capital-market",
         "policy-safety"
       ],
-      "score": 91
+      "score": 88
     },
     {
       "id": "ai-9zuzav",
@@ -2755,7 +2903,7 @@
       "categories": [
         "applications"
       ],
-      "score": 83
+      "score": 80
     },
     {
       "id": "ai-1g6ad3",
@@ -2773,7 +2921,7 @@
       "categories": [
         "applications"
       ],
-      "score": 75
+      "score": 72
     },
     {
       "id": "ai-14wraoh",
@@ -2791,7 +2939,7 @@
       "categories": [
         "foundation-models"
       ],
-      "score": 83
+      "score": 80
     },
     {
       "id": "ai-1yu986i",
@@ -2811,7 +2959,7 @@
         "ai-infra",
         "applications"
       ],
-      "score": 99
+      "score": 96
     },
     {
       "id": "ai-18aw11b",
@@ -2830,7 +2978,7 @@
         "foundation-models",
         "ai-infra"
       ],
-      "score": 91
+      "score": 88
     },
     {
       "id": "ai-vudu20",
@@ -2848,7 +2996,7 @@
       "categories": [
         "applications"
       ],
-      "score": 75
+      "score": 72
     },
     {
       "id": "ai-1gaxywm",
@@ -2866,7 +3014,7 @@
       "categories": [
         "applications"
       ],
-      "score": 75
+      "score": 72
     },
     {
       "id": "ai-lmaq2r",
@@ -2884,7 +3032,7 @@
       "categories": [
         "foundation-models"
       ],
-      "score": 83
+      "score": 80
     },
     {
       "id": "ai-mpz6z6",
@@ -2902,7 +3050,7 @@
       "categories": [
         "foundation-models"
       ],
-      "score": 83
+      "score": 80
     },
     {
       "id": "ai-1j8f1tw",
@@ -2921,7 +3069,7 @@
         "foundation-models",
         "ai-infra"
       ],
-      "score": 91
+      "score": 88
     },
     {
       "id": "ai-111uqli",
@@ -2941,7 +3089,7 @@
         "policy-safety",
         "capital-market"
       ],
-      "score": 99
+      "score": 96
     },
     {
       "id": "ai-1k1qk2m",
@@ -2961,7 +3109,7 @@
         "agents",
         "ai-infra"
       ],
-      "score": 99
+      "score": 96
     },
     {
       "id": "ai-avk2ap",
@@ -2980,7 +3128,7 @@
         "foundation-models",
         "policy-safety"
       ],
-      "score": 91
+      "score": 88
     },
     {
       "id": "ai-194uzcp",
@@ -3000,7 +3148,7 @@
         "agents",
         "applications"
       ],
-      "score": 99
+      "score": 96
     },
     {
       "id": "ai-1cwnm67",
@@ -3020,7 +3168,7 @@
         "applications",
         "policy-safety"
       ],
-      "score": 99
+      "score": 96
     },
     {
       "id": "ai-1o6hi2r",
@@ -3039,7 +3187,7 @@
         "foundation-models",
         "policy-safety"
       ],
-      "score": 91
+      "score": 88
     },
     {
       "id": "ai-g49oza",
@@ -3058,7 +3206,7 @@
         "foundation-models",
         "policy-safety"
       ],
-      "score": 100
+      "score": 98
     },
     {
       "id": "ai-1982uiz",
@@ -3076,7 +3224,7 @@
       "categories": [
         "agents"
       ],
-      "score": 83
+      "score": 80
     },
     {
       "id": "ai-kk4gl5",
@@ -3095,7 +3243,7 @@
         "media-generation",
         "policy-safety"
       ],
-      "score": 91
+      "score": 88
     },
     {
       "id": "ai-15493ro",
@@ -3114,7 +3262,7 @@
         "agents",
         "policy-safety"
       ],
-      "score": 91
+      "score": 88
     },
     {
       "id": "ai-1tifz1b",
@@ -3132,7 +3280,7 @@
       "categories": [
         "foundation-models"
       ],
-      "score": 83
+      "score": 80
     },
     {
       "id": "ai-1r792iy",
@@ -3152,7 +3300,7 @@
         "applications",
         "capital-market"
       ],
-      "score": 99
+      "score": 96
     },
     {
       "id": "ai-1oh7u29",
@@ -3171,7 +3319,7 @@
         "ai-infra",
         "policy-safety"
       ],
-      "score": 91
+      "score": 88
     },
     {
       "id": "ai-mt4ufl",
@@ -3189,7 +3337,7 @@
       "categories": [
         "applications"
       ],
-      "score": 75
+      "score": 72
     },
     {
       "id": "ai-13mvqlc",
@@ -3207,7 +3355,7 @@
       "categories": [
         "foundation-models"
       ],
-      "score": 83
+      "score": 80
     },
     {
       "id": "ai-89efnp",
@@ -3225,7 +3373,7 @@
       "categories": [
         "agents"
       ],
-      "score": 83
+      "score": 80
     },
     {
       "id": "ai-p4iqar",
@@ -3243,7 +3391,7 @@
       "categories": [
         "ai-infra"
       ],
-      "score": 83
+      "score": 80
     },
     {
       "id": "ai-1ocvbtp",
@@ -3261,7 +3409,7 @@
       "categories": [
         "applications"
       ],
-      "score": 75
+      "score": 72
     },
     {
       "id": "ai-e4bbnd",
@@ -3281,7 +3429,7 @@
         "policy-safety",
         "capital-market"
       ],
-      "score": 99
+      "score": 96
     },
     {
       "id": "ai-17fn531",
@@ -3299,7 +3447,7 @@
       "categories": [
         "applications"
       ],
-      "score": 75
+      "score": 72
     },
     {
       "id": "ai-1lfpmnw",
@@ -3317,7 +3465,7 @@
       "categories": [
         "ai-science"
       ],
-      "score": 83
+      "score": 80
     },
     {
       "id": "ai-xmh3o1",
@@ -3337,7 +3485,7 @@
         "foundation-models",
         "agents"
       ],
-      "score": 99
+      "score": 96
     },
     {
       "id": "ai-1sfikmz",
@@ -3357,7 +3505,7 @@
         "agents",
         "ai-infra"
       ],
-      "score": 99
+      "score": 96
     },
     {
       "id": "ai-190cvu",
@@ -3376,7 +3524,7 @@
         "policy-safety",
         "capital-market"
       ],
-      "score": 91
+      "score": 88
     },
     {
       "id": "ai-1p680f6",
@@ -3394,7 +3542,7 @@
       "categories": [
         "applications"
       ],
-      "score": 75
+      "score": 72
     },
     {
       "id": "ai-bqbjjp",
@@ -3413,7 +3561,7 @@
         "agents",
         "robotics"
       ],
-      "score": 91
+      "score": 88
     },
     {
       "id": "ai-1grwk18",
@@ -3433,7 +3581,7 @@
         "agents",
         "policy-safety"
       ],
-      "score": 99
+      "score": 96
     },
     {
       "id": "ai-ttflwz",
@@ -3453,161 +3601,7 @@
         "ai-infra",
         "policy-safety"
       ],
-      "score": 99
-    },
-    {
-      "id": "ai-85f6q9",
-      "title": "Static analysis-guided agentic AI translation enables Rust as a full stack bioinformatics language",
-      "url": "https://arxiv.org/abs/2608.13029",
-      "summary": "arXiv:2608.13029v1 Announce Type: cross Abstract: The field of bioinformatics struggles with legacy code - old code that is commonly used but may no longer have a maintainer, or may be written in an now-unfamiliar language (e.g. Perl, Fortran). This incurs maintenance cost (technical debt), but dynamically typed languages also negatively impacts the environment and fail to make use of modern hardware. Legacy code may",
-      "publishedAt": "2026-08-15T04:00:00.000Z",
-      "timestamp": 1786766400000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "agents"
-      ],
-      "score": 83
-    },
-    {
-      "id": "ai-gvjk5u",
-      "title": "UniTraffic-Agent: Unified Traffic Video Reasoning for AI City Challenge 2026 Track 3 with Two Out-of-Domain Evaluations",
-      "url": "https://arxiv.org/abs/2608.13031",
-      "summary": "arXiv:2608.13031v1 Announce Type: cross Abstract: Traffic video understanding has become an important problem in intelligent transportation, as road videos provide direct evidence for accidents, violations, and interactions between vehicles and vulnerable road users. A useful system should explain how a traffic event develops, why it happens, and when the relevant interaction occurs, yet this remains difficult for mu",
-      "publishedAt": "2026-08-15T04:00:00.000Z",
-      "timestamp": 1786766400000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "agents",
-        "policy-safety",
-        "capital-market"
-      ],
-      "score": 99
-    },
-    {
-      "id": "ai-l41g1q",
-      "title": "Operationalizing Cyber Threat Intelligence with GraphRAG",
-      "url": "https://arxiv.org/abs/2608.13050",
-      "summary": "arXiv:2608.13050v1 Announce Type: cross Abstract: When a security researcher publishes a report on a cyberattack, detection engineers are supposed to turn it into working detection rules. In practice, most automated attempts at this only extract the simplest clues from the report --- bad IP addresses, domain names, and file hashes --- and turn them into block lists. This is a weak strategy, because attackers can chan",
-      "publishedAt": "2026-08-15T04:00:00.000Z",
-      "timestamp": 1786766400000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "ai-infra",
-        "applications",
-        "policy-safety"
-      ],
-      "score": 99
-    },
-    {
-      "id": "ai-ztl533",
-      "title": "TEMPO: Makespan-Aware Expert-Parallel Load Balancing Across Memory- and Compute-Bound Regimes",
-      "url": "https://arxiv.org/abs/2608.13057",
-      "summary": "arXiv:2608.13057v1 Announce Type: cross Abstract: In expert-parallel (EP) MoE serving, every layer synchronizes at the slowest GPU. Dispatchers balance token counts (EPLB, LPLB, UltraEP) or activated-expert counts (METRO), assuming expert time is linear in one. Measurements on two datacenter GPU generations show it is neither: below $\\nstar\\!\\approx\\!156$--$168$ tokens, HBM weight streaming dominates---cost attaches ",
-      "publishedAt": "2026-08-15T04:00:00.000Z",
-      "timestamp": 1786766400000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "ai-infra",
-        "foundation-models"
-      ],
-      "score": 91
-    },
-    {
-      "id": "ai-hzmd6",
-      "title": "LOB-ID: Evaluating Synthetic Market Data by Inception Distances",
-      "url": "https://arxiv.org/abs/2608.13082",
-      "summary": "arXiv:2608.13082v1 Announce Type: cross Abstract: Generative models of limit orderbook (LOB) data have advanced rapidly, but their evaluation often focuses on stylised facts and selected market statistics. These measures provide useful diagnostics but may not capture the joint temporal and cross-level structure of order-book trajectories. We introduce LOB-ID, an embedding-based framework that adapts the Fr\\'echet Inc",
-      "publishedAt": "2026-08-15T04:00:00.000Z",
-      "timestamp": 1786766400000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "capital-market",
-        "policy-safety"
-      ],
-      "score": 91
-    },
-    {
-      "id": "ai-oewcji",
-      "title": "Sampling Luck Masquerades as Allocation Gain: Auditing Test-Time Budget Allocation for Neural Combinatorial Optimization",
-      "url": "https://arxiv.org/abs/2608.13087",
-      "summary": "arXiv:2608.13087v1 Announce Type: cross Abstract: Neural combinatorial optimization (NCO) solvers report the best of many sampled solutions per instance, and the sample count is, by convention, identical for every instance. Whether a non-uniform allocation of a fixed total budget would buy anything has not been measured. We measure it, and we audit the measurement itself. First, on in-distribution workloads the alloc",
-      "publishedAt": "2026-08-15T04:00:00.000Z",
-      "timestamp": 1786766400000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "applications"
-      ],
-      "score": 75
-    },
-    {
-      "id": "ai-12ilun0",
-      "title": "EgoMonth: A Month-Level Egocentric Video Benchmark for Long-Term Spatiotemporal Memory",
-      "url": "https://arxiv.org/abs/2608.13113",
-      "summary": "arXiv:2608.13113v1 Announce Type: cross Abstract: Recent advances in Multimodal Large Language Models (MLLMs) have led to substantial progress in video understanding, accompanied by a growing number of long video benchmarks. However, existing benchmarks rely predominantly on web-sourced videos that lack inter-clip spatiotemporal continuity, making it difficult to assess whether models can maintain consistent memory a",
-      "publishedAt": "2026-08-15T04:00:00.000Z",
-      "timestamp": 1786766400000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "foundation-models",
-        "policy-safety",
-        "open-source"
-      ],
-      "score": 100
-    },
-    {
-      "id": "ai-o3d59t",
-      "title": "LigBench: A Unified and Human-Aligned Benchmark for LLM-based Research Idea Generation",
-      "url": "https://arxiv.org/abs/2608.13136",
-      "summary": "arXiv:2608.13136v1 Announce Type: cross Abstract: With the rapid advancement of large language models (LLMs), research idea generation has attracted increasing attention. Existing approaches enable LLMs to retrieve relevant literature and propose novel ideas for research areas. However, current evaluation practices for idea generation remain fragmented and lack objective standards, often relying on direct LLM scoring",
-      "publishedAt": "2026-08-15T04:00:00.000Z",
-      "timestamp": 1786766400000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "foundation-models",
-        "policy-safety",
-        "ai-infra"
-      ],
-      "score": 100
+      "score": 96
     }
   ],
   "errors": [
