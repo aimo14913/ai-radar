@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T04:57:14.677Z",
+  "generatedAt": "2026-10-20T17:14:54.683Z",
   "windowDays": 21,
   "totalItems": 180,
   "sourceCount": 28,
@@ -208,12 +208,470 @@
   ],
   "items": [
     {
-      "id": "ai-orbo0z",
-      "title": "接棒AI增长核心变量！物理AI概念异动拉升，凡拓数创2连板 - 21财经",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOE5va0FkR202VlFzRmpmMFZIN0Z0c0lCTHlOU0xhRFpWc0dqTkhVVGk5Y2NsejcwOFNQTnJZaHp0R0VueXVyWnRNcm05VHZSaGRESkxqZ2Ixdm8zRHJsTHMtUUJyZzByY3FtU25MVTExVm03LU5OOVdaMFZNLVpTbXZ3T2M4UEVZYmxuSmhOWE1Ya2Z0?oc=5",
-      "summary": "接棒AI增长核心变量！物理AI概念异动拉升，凡拓数创2连板 21财经",
-      "publishedAt": "2026-10-20T04:33:21.000Z",
-      "timestamp": 1792470801000,
+      "id": "ai-tod5o4",
+      "title": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
+      "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
+      "summary": "Meta's AI companion Muse has surpassed 10 million U.S. downloads in its first 40 days, joining an exclusive group of apps that includes Threads. New data also shows Muse is retaining users at higher rates than its AI rivals.",
+      "publishedAt": "2026-10-20T17:12:48.000Z",
+      "timestamp": 1792516368000,
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "region": "US",
+        "trust": "media"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 65
+    },
+    {
+      "id": "ai-lv23c5",
+      "title": "Sam Altman reportedly pitched three endgames for AI safety, one involving a single firm melting everyone else's GPUs",
+      "url": "https://the-decoder.com/sam-altman-reportedly-pitched-three-endgames-for-ai-safety-one-involving-a-single-firm-melting-everyone-elses-gpus/",
+      "summary": "OpenAI CEO Sam Altman laid out three paths to safe AI in an internal presentation: an international watchdog modeled after the IAEA, a merger of the major labs into one entity, or a single company so powerful it could shut down everyone else's compute. He called the last option \"terrible.\" The article Sam Altman reportedly pitched three endgames for AI safety, one involving a single firm melting everyone else's GPUs ",
+      "publishedAt": "2026-10-20T17:00:59.000Z",
+      "timestamp": 1792515659000,
+      "source": {
+        "id": "the-decoder",
+        "name": "THE DECODER",
+        "region": "EU",
+        "trust": "media"
+      },
+      "categories": [
+        "ai-infra",
+        "policy-safety"
+      ],
+      "score": 91
+    },
+    {
+      "id": "ai-1gt35sk",
+      "title": "台達於Energy Taiwan 2026打造AI時代高韌性微電網解方 - iThome",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBIdVY2dkZzNDlvR01GS2hXakJmRzRrX2NsWGM2aHQ2Nk1RYUMtYV9RRnhjUFgxLUJPNWhsOFdPNURiYkF5ZmppbE83QQ?oc=5",
+      "summary": "台達於Energy Taiwan 2026打造AI時代高韌性微電網解方 iThome",
+      "publishedAt": "2026-10-20T16:54:39.000Z",
+      "timestamp": 1792515279000,
+      "source": {
+        "id": "google-news-taiwan-ai",
+        "name": "Google News: Taiwan AI",
+        "region": "Taiwan",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 65
+    },
+    {
+      "id": "ai-yzcrr4",
+      "title": "Access OpenAI GPT models on Amazon Bedrock from Canada with cross-Region inference",
+      "url": "https://aws.amazon.com/blogs/machine-learning/access-openai-gpt-models-on-amazon-bedrock-from-canada-with-cross-region-inference/",
+      "summary": "Canadian organizations can now access OpenAI GPT-5.6, GPT-6, and GPT-6.1 models on Amazon Bedrock from the Canada (Central) and Canada West (Calgary) Regions using cross-Region inference. This post covers the models and inference profiles, how to set up permissions, and how to invoke them with the Responses, Chat Completions, and Converse APIs.",
+      "publishedAt": "2026-10-20T16:42:53.000Z",
+      "timestamp": 1792514573000,
+      "source": {
+        "id": "aws-ml",
+        "name": "AWS Machine Learning Blog",
+        "region": "US",
+        "trust": "official"
+      },
+      "categories": [
+        "foundation-models",
+        "ai-infra"
+      ],
+      "score": 99
+    },
+    {
+      "id": "ai-752du3",
+      "title": "OpenAI says GPT-6 is much better with legacy programming languages such as COBOL and Fortran",
+      "url": "https://the-decoder.com/openai-says-gpt-6-is-much-better-with-legacy-programming-languages-such-as-cobol-and-fortran/",
+      "summary": "OpenAI improved its latest models for low-resource programming languages like COBOL, Fortran, and Visual Basic. On the new MultiLangBench, GPT-6 Astra hits an 87.4 percent test pass rate across 20 languages, up from about 38 percent for GPT-5.6 Terra. For COBOL migration specifically, GPT-6.1 Sol reaches up to 97.9 percent accuracy, a result that could matter for modernizing critical financial infrastructure. The art",
+      "publishedAt": "2026-10-20T16:40:29.000Z",
+      "timestamp": 1792514429000,
+      "source": {
+        "id": "the-decoder",
+        "name": "THE DECODER",
+        "region": "EU",
+        "trust": "media"
+      },
+      "categories": [
+        "foundation-models"
+      ],
+      "score": 73
+    },
+    {
+      "id": "ai-1sbbnlq",
+      "title": "Discover tools at runtime with AWS Agent Registry",
+      "url": "https://aws.amazon.com/blogs/machine-learning/discover-tools-at-runtime-with-aws-agent-registry/",
+      "summary": "Hardcoded tool wiring breaks down as an agent's catalog grows from a handful of tools to hundreds. This post walks through a runtime Discover, Instantiate, Execute loop built on AWS Agent Registry, where an orchestrator discovers MCP servers and A2A agents through semantic search at runtime instead of compiling every tool at build time.",
+      "publishedAt": "2026-10-20T16:22:24.000Z",
+      "timestamp": 1792513344000,
+      "source": {
+        "id": "aws-ml",
+        "name": "AWS Machine Learning Blog",
+        "region": "US",
+        "trust": "official"
+      },
+      "categories": [
+        "agents",
+        "applications"
+      ],
+      "score": 99
+    },
+    {
+      "id": "ai-1rldfcd",
+      "title": "Liability, contracts, launches: the AI risks defining 2027 - Lexology",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWjBqeEJVOG9QcjlEc1ViTGY1LVh3ekQtQkpHR2QzdXN0d3p4XzhkalF3MldNVlBrZ0tYSU44WVlyeEhjUmlJOFBiX2JuVkM3SzRfdFJzUFpRN0tWdkY1LUZMekZhMGpTTTBuSS1pal9Pa2h3QVlGTDNENUNSeEJqMnltVE9NczVfVk1KY0FtemV0SHZCZVhZ?oc=5",
+      "summary": "Liability, contracts, launches: the AI risks defining 2027 Lexology",
+      "publishedAt": "2026-10-20T16:21:32.000Z",
+      "timestamp": 1792513292000,
+      "source": {
+        "id": "eu-ai-policy-news",
+        "name": "Google News: EU AI Policy",
+        "region": "EU",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "policy-safety"
+      ],
+      "score": 73
+    },
+    {
+      "id": "ai-1nv5chl",
+      "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+      "url": "https://huggingface.co/blog/allenai/fairstress",
+      "summary": "",
+      "publishedAt": "2026-10-20T16:09:19.000Z",
+      "timestamp": 1792512559000,
+      "source": {
+        "id": "huggingface",
+        "name": "Hugging Face Blog",
+        "region": "Global",
+        "trust": "official"
+      },
+      "categories": [
+        "foundation-models",
+        "policy-safety",
+        "open-source"
+      ],
+      "score": 100
+    },
+    {
+      "id": "ai-iky63",
+      "title": "Is AI coming for your money—or all money? - The Pike County News Watchman",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVW4wMmEtQmQyTXBGdnlMUTY0bEc5alBMOHU5Y3hZdFM0TkljdWV3cXlsRS1zVE5zQm9jbnBHNUJaeEFYYmtFdTdOLXpveVdKMWIxNTgzZXozOHhCUEl6TmRLTjhucmtCMkEySlNQT2hPM214N0liSjZQWkRnS20xeE5MYTQtSFhVenFsNldqajVhck5WTjFNUHhoYjJ2T1NmYW96Z19VUDZBTl92T05OVDUzdzRPaWFJX0FvNWhSWmd2VHVVRU1RMFdacjNiLTlxdVdmeU5iVlA?oc=5",
+      "summary": "Is AI coming for your money—or all money? The Pike County News Watchman",
+      "publishedAt": "2026-10-20T16:09:00.000Z",
+      "timestamp": 1792512540000,
+      "source": {
+        "id": "google-news-ai",
+        "name": "Google News: AI",
+        "region": "Global",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 65
+    },
+    {
+      "id": "ai-18myp5u",
+      "title": "Securing AI agent identity with X.509 PKI on AWS",
+      "url": "https://aws.amazon.com/blogs/machine-learning/securing-ai-agent-identity-with-x-509-pki-on-aws/",
+      "summary": "Learn how to secure multi-agent AI systems with cryptographic identity using Keyfactor EJBCA and AWS services. This reference architecture combines signed request envelopes, user-signed delegation assertions, RFC 8693 audience-scoped tokens, and real-time OCSP revocation to prove agent identity and prevent request forgery across agent-to-agent and MCP tool calls.",
+      "publishedAt": "2026-10-20T16:03:48.000Z",
+      "timestamp": 1792512228000,
+      "source": {
+        "id": "aws-ml",
+        "name": "AWS Machine Learning Blog",
+        "region": "US",
+        "trust": "official"
+      },
+      "categories": [
+        "agents"
+      ],
+      "score": 91
+    },
+    {
+      "id": "ai-1641ydb",
+      "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
+      "url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
+      "summary": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.",
+      "publishedAt": "2026-10-20T16:00:00.000Z",
+      "timestamp": 1792512000000,
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "region": "US",
+        "trust": "media"
+      },
+      "categories": [
+        "capital-market"
+      ],
+      "score": 73
+    },
+    {
+      "id": "ai-x3v3ud",
+      "title": "AI發展讓企業從付電費到蓋電廠 台灣能源管理法新視野，用電大戶被迫轉型能源產銷者 - CSR@天下",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1aamduVEFVb29wcW1EaEw3WVd1ZVhrZThRZ0pGUXFpcjFMZHJlMmdMWEVvRjhKMDRzWGJEWTE4aVp0SUtTeHJmeHFlNA?oc=5",
+      "summary": "AI發展讓企業從付電費到蓋電廠 台灣能源管理法新視野，用電大戶被迫轉型能源產銷者 CSR@天下",
+      "publishedAt": "2026-10-20T16:00:00.000Z",
+      "timestamp": 1792512000000,
+      "source": {
+        "id": "google-news-taiwan-ai",
+        "name": "Google News: Taiwan AI",
+        "region": "Taiwan",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 65
+    },
+    {
+      "id": "ai-3oriwn",
+      "title": "How Eon built multi-cloud investigation with an MCP Gateway on Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-eon-built-multi-cloud-investigation-with-an-mcp-gateway-on-amazon-bedrock-agentcore/",
+      "summary": "Learn how Eon replaced per-tool credentials and local MCP processes across AWS, GCP, and Azure with a single authenticated Amazon Bedrock AgentCore gateway, giving more than 100 developers and autonomous agents unified access to production investigation and cutting new-engineer onboarding from two days to two minutes.",
+      "publishedAt": "2026-10-20T15:57:57.000Z",
+      "timestamp": 1792511877000,
+      "source": {
+        "id": "aws-ml",
+        "name": "AWS Machine Learning Blog",
+        "region": "US",
+        "trust": "official"
+      },
+      "categories": [
+        "agents"
+      ],
+      "score": 91
+    },
+    {
+      "id": "ai-16l2whv",
+      "title": "Build a semantic layer for agentic AI on AWS with Denodo and Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-denodo-and-amazon-bedrock-agentcore/",
+      "summary": "Build a governed semantic layer for agentic AI on AWS with the Denodo Platform and Amazon Bedrock AgentCore. It federates Amazon Aurora, Amazon Redshift, and an on-premises PostgreSQL database into a single customer 360 view an agent queries in VQL, with identity propagation and row- and column-level access control enforced at the semantic layer.",
+      "publishedAt": "2026-10-20T15:39:04.000Z",
+      "timestamp": 1792510744000,
+      "source": {
+        "id": "aws-ml",
+        "name": "AWS Machine Learning Blog",
+        "region": "US",
+        "trust": "official"
+      },
+      "categories": [
+        "agents"
+      ],
+      "score": 91
+    },
+    {
+      "id": "ai-zmbn1m",
+      "title": "Build a semantic layer for agentic AI on AWS with Strategy Mosaic and Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-strategy-mosaic-and-amazon-bedrock-agentcore/",
+      "summary": "The third post in our semantic-layer series builds a customer 360 across Amazon Redshift and Amazon Aurora with Strategy Mosaic, exposes it to a Strands agent on Amazon Bedrock AgentCore through the Mosaic MCP server, and enforces per-user row and column security end-to-end.",
+      "publishedAt": "2026-10-20T15:36:39.000Z",
+      "timestamp": 1792510599000,
+      "source": {
+        "id": "aws-ml",
+        "name": "AWS Machine Learning Blog",
+        "region": "US",
+        "trust": "official"
+      },
+      "categories": [
+        "agents",
+        "policy-safety"
+      ],
+      "score": 99
+    },
+    {
+      "id": "ai-lxk7w5",
+      "title": "Build a semantic layer for agentic AI on AWS with AtScale and Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-atscale-and-amazon-bedrock-agentcore/",
+      "summary": "The third post in our semantic-layer series builds a governed customer 360 model on Amazon Redshift with AtScale, then exposes it to a Strands agent on Amazon Bedrock AgentCore through the AtScale MCP server. Identity propagation, RBAC, row security, and full query audit are enforced at the semantic layer, not the prompt.",
+      "publishedAt": "2026-10-20T15:33:54.000Z",
+      "timestamp": 1792510434000,
+      "source": {
+        "id": "aws-ml",
+        "name": "AWS Machine Learning Blog",
+        "region": "US",
+        "trust": "official"
+      },
+      "categories": [
+        "agents",
+        "policy-safety"
+      ],
+      "score": 99
+    },
+    {
+      "id": "ai-vux4wn",
+      "title": "Artificial intelligence-enabled triage tools may reflect human biases : Newsroom - UT Southwestern",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTkZMdEpUSzJ3aWM3QmxFRVYwTGQyOFBlN0lUVDFOeGd3YWI4bkhMVm9OajNoMUk5ZnB1Rm1SV0NMSUdaM1ZockM2cGFWZ1NpbXMwNlFXWUxKcnYtRUxnaEtvcDJzX3NsSGJZclVFMXR3Q3ZmMERZYXZ4NzZ5T1UxdENXSXRXUjJuc1JtN3JqUUdoSDRTckozb0pRX291c0V1MEJDOU9mMA?oc=5",
+      "summary": "Artificial intelligence-enabled triage tools may reflect human biases : Newsroom UT Southwestern",
+      "publishedAt": "2026-10-20T15:32:07.000Z",
+      "timestamp": 1792510327000,
+      "source": {
+        "id": "google-news-ai",
+        "name": "Google News: AI",
+        "region": "Global",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 65
+    },
+    {
+      "id": "ai-1fsum0h",
+      "title": "中國 AI「不務正業」忙住整爽片？短劇＋Video 生成佔 Token 消耗 55% 研發僅佔 15% - ezone.hk",
+      "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxORmlWLXc5Ul9DeGwwelVaSTN1cnhvQmtBZTdhc0hPcDE3WWhrempHT1RobmlLVEd0ajItZklsNUZIMnV0UVhKc2VSSUJBQzcwaE1PUkRwVUlEQm5zcFktMk9VQzlIZDRIc0JydG9jeFZaLVdwTGlVYTN3cFRVVm9DTDQ5empXRUtTR3E4X3ktamZ5TFBfbE9ZMkhQeWxXakx0X3NVNXZJQ2Vzd2c4Um5icEhrN21lWkd5U1F4WDUySHVhMGtsam1XczZGWF8wSzZISjktU1JzY3ZGTTRRZDhSakpLNWl3aFRnb3I4UHFXNVNHVGRzeDRLdjRKZFFJSHRnYXB1UGhHVThkS09Makdxek1NWUg4aWdzTUk5N0RfaHVYLTBmR01GSjQtUlFDNDB5ZER4bG81anZVV0RVQjhLUkU0ZDdLWDVEeHQ0a2p2TGU3Y0w0WW1aMjNjYVVRTXA2YTBoUXdvTHdRVG4xYlE?oc=5",
+      "summary": "中國 AI「不務正業」忙住整爽片？短劇＋Video 生成佔 Token 消耗 55% 研發僅佔 15% ezone.hk",
+      "publishedAt": "2026-10-20T15:23:00.000Z",
+      "timestamp": 1792509780000,
+      "source": {
+        "id": "google-news-taiwan-ai-media-generation",
+        "name": "Google News: Taiwan AI Image/Video Generation",
+        "region": "Taiwan",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "media-generation"
+      ],
+      "score": 73
+    },
+    {
+      "id": "ai-19mv6j3",
+      "title": "The new economics of enterprise AI",
+      "url": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
+      "summary": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious. But once electricity becomes infrastructure, every process depends on it, and the question changes from “can we use it?” to “how efficiently are we using it?”…",
+      "publishedAt": "2026-10-20T15:20:25.000Z",
+      "timestamp": 1792509625000,
+      "source": {
+        "id": "mit-ai",
+        "name": "MIT Technology Review AI",
+        "region": "US",
+        "trust": "media"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 73
+    },
+    {
+      "id": "ai-1cgzjjh",
+      "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+      "summary": "",
+      "publishedAt": "2026-10-20T15:19:48.000Z",
+      "timestamp": 1792509588000,
+      "source": {
+        "id": "huggingface",
+        "name": "Hugging Face Blog",
+        "region": "Global",
+        "trust": "official"
+      },
+      "categories": [
+        "open-source",
+        "applications"
+      ],
+      "score": 99
+    },
+    {
+      "id": "ai-2iw6p6",
+      "title": "Artificial intelligence-enabled triage tools may reflect human biases | Newswise - Newswise",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNblp5NnVpQ1M1X3NySXM2WmloZVhHQ2FkZnQtV1Z1bnVEblpET2dfTGJodUxwOWxVdkhtYm95dWwzN2FVbE53LWNxelM1b1VsN3FGMk5kVjh2TFowMnZKcUp4Rk1oSzd3dVNESmFpa0tRd1RJTlJ3VENmMVBadUI0djNCQ3NiLWFoN3JDeFZ1TUdmWXFiQ1Q4WGhGaHhoYUZqRlVCZll0Q3dNcy1MWnNZTXppdDNjWE9RLWZmanhITdIBvwFBVV95cUxNblp5NnVpQ1M1X3NySXM2WmloZVhHQ2FkZnQtV1Z1bnVEblpET2dfTGJodUxwOWxVdkhtYm95dWwzN2FVbE53LWNxelM1b1VsN3FGMk5kVjh2TFowMnZKcUp4Rk1oSzd3dVNESmFpa0tRd1RJTlJ3VENmMVBadUI0djNCQ3NiLWFoN3JDeFZ1TUdmWXFiQ1Q4WGhGaHhoYUZqRlVCZll0Q3dNcy1MWnNZTXppdDNjWE9RLWZmanhITQ?oc=5",
+      "summary": "Artificial intelligence-enabled triage tools may reflect human biases | Newswise Newswise",
+      "publishedAt": "2026-10-20T15:05:00.000Z",
+      "timestamp": 1792508700000,
+      "source": {
+        "id": "google-news-ai",
+        "name": "Google News: AI",
+        "region": "Global",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 64
+    },
+    {
+      "id": "ai-xbyvrl",
+      "title": "AI Safety and Cybersecurity Should Be Allies. Instead, They're at Odds - Time Magazine",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fdDhvMnNVcE4yMG1TZ2I5SXlQT2VtSkhXRHM3Q3lEQzJHdmZVeS00Zlc5WUpwLXJLU3VaTEF1Z1lfcnY4SC1KOF9WSWtwRXVoZ25QZmt1NlBqMVRxWTBicEt2b1MzanJSREplYw?oc=5",
+      "summary": "AI Safety and Cybersecurity Should Be Allies. Instead, They're at Odds Time Magazine",
+      "publishedAt": "2026-10-20T14:51:01.000Z",
+      "timestamp": 1792507861000,
+      "source": {
+        "id": "eu-ai-policy-news",
+        "name": "Google News: EU AI Policy",
+        "region": "EU",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "policy-safety"
+      ],
+      "score": 82
+    },
+    {
+      "id": "ai-qnkjej",
+      "title": "Legal and Compliance Artificial Intelligence (AI) Market is Projected to Reach $151 Billion by 2030 - The National Law Review",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaHB2RkI0YUljUWFHUklmOFNZdEdlVmdPc21hN1hnTkkyVmhaUnhrdlAwaG5EZmVreW9jOUhvbzhsLXRzY0xzUThfWjY1c3pYb0FGeWFLRUtZc1NHSHRWcWoxeTdRWURLek1tbDBnRXlvU0JqVGxNVnlIQzg2cl9TUFBKanNzYWE1Qm0zZ1ZhQ0RKZzlUcWFGV21rb2poOEpQdmVHZ2lSeTVUVC1iTGl5RHRwdkk?oc=5",
+      "summary": "Legal and Compliance Artificial Intelligence (AI) Market is Projected to Reach $151 Billion by 2030 The National Law Review",
+      "publishedAt": "2026-10-20T14:21:01.000Z",
+      "timestamp": 1792506061000,
+      "source": {
+        "id": "google-news-ai",
+        "name": "Google News: AI",
+        "region": "Global",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "capital-market"
+      ],
+      "score": 72
+    },
+    {
+      "id": "ai-1pzdqga",
+      "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
+      "url": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
+      "summary": "Figma said it plans to support as many standards as possible without exposing all of its data.",
+      "publishedAt": "2026-10-20T14:13:32.000Z",
+      "timestamp": 1792505612000,
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "region": "US",
+        "trust": "media"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 64
+    },
+    {
+      "id": "ai-11ei5nl",
+      "title": "AI網攻兵臨城下：從臺灣受駭事件看AI自主攻擊掀起的典範轉移 - iThome",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9sdlduY0FNQkdBVDhhQk5UeEdhTmZURmhwOXBXNTNqSkhNVEs0ZVplU0Q5c01nVjFiZ01pWElZR0pFSHB0OHZSSF84R1A5dw?oc=5",
+      "summary": "AI網攻兵臨城下：從臺灣受駭事件看AI自主攻擊掀起的典範轉移 iThome",
+      "publishedAt": "2026-10-20T14:11:55.000Z",
+      "timestamp": 1792505515000,
+      "source": {
+        "id": "google-news-taiwan-ai",
+        "name": "Google News: Taiwan AI",
+        "region": "Taiwan",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 64
+    },
+    {
+      "id": "ai-w95919",
+      "title": "人工智能时代，怎样破解“卡脖子”难题？ - 求是",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9pZGhXellwcE9sT0hoaDBVS3hJNnBRTkxQU3JHY1JWekVJT3p3djRYc3M5Tks4RXRSWlJxeXhOOENDR2U0UVNzOGRCUkdIMjRPSUJqdy1NTm5pVy1qSTlJc3ItaVgtdS1xejFvZ0lDaWRkbDhYX0xFQ0JkVVY?oc=5",
+      "summary": "人工智能时代，怎样破解“卡脖子”难题？ 求是",
+      "publishedAt": "2026-10-20T13:52:18.000Z",
+      "timestamp": 1792504338000,
       "source": {
         "id": "google-news-china-ai",
         "name": "Google News: China AI",
@@ -223,7 +681,1090 @@
       "categories": [
         "applications"
       ],
-      "score": 65
+      "score": 64
+    },
+    {
+      "id": "ai-f8fecp",
+      "title": "中國逾半算力 投入短劇產業 - 大紀元",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4tN1JHaDYzNHpiTW9vNFdRRzBCN1diUExLZFBkMmlKajdJM0NLY09Nb3pwZGNMN1lHZmdBUTRXbFNoajNNa0NycWdZM3dxaGhYbU5XNk15UHFxeWhRQXF2QmlvVC1TRm_SAWdBVV95cUxOLTdSR2g2MzR6Yk1vbzRXUUcwQjdXYlBMS2RQZDJpSmo3STNDS2NPTW96cGRjTDdZR2ZnQVE0V2xTaGozTWtDcnFnWTN3cWhoWG1OVzZNeVBxcXloUUFxdkJpb1QtU0Zv?oc=5",
+      "summary": "中國逾半算力 投入短劇產業 大紀元",
+      "publishedAt": "2026-10-20T13:33:00.000Z",
+      "timestamp": 1792503180000,
+      "source": {
+        "id": "google-news-taiwan-ai-media-generation",
+        "name": "Google News: Taiwan AI Image/Video Generation",
+        "region": "Taiwan",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "media-generation"
+      ],
+      "score": 72
+    },
+    {
+      "id": "ai-1utp2pn",
+      "title": "AI效益擴散 星展估台灣今年GDP成長11.6% - 大紀元",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9aeTFiTWRmaVNfWHFPVzZRRmJzeWxXT3Q2ZGlaeDVhYmZuUnpFRmdmREwtTzM3WkJudFZaSTJJRFUtdlFINzVvSzA3MkhwUkhNOHRhQUtBRXFKWGkyTjY0UjhR0gFnQVVfeXFMTWY3d0p2YjcteDRPZmVhc3Vlblh3WHNURXBkaFFsUnA4Y3NzOW5WOGlRZnNuWVB0Z0xtNXFUa1VTakItUVZzOGFrdzJIeTZ0bk1nanJmdUhVZDFnWG9QLWQ5cTM5aDhFbw?oc=5",
+      "summary": "AI效益擴散 星展估台灣今年GDP成長11.6% 大紀元",
+      "publishedAt": "2026-10-20T13:31:00.000Z",
+      "timestamp": 1792503060000,
+      "source": {
+        "id": "google-news-taiwan-ai",
+        "name": "Google News: Taiwan AI",
+        "region": "Taiwan",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 64
+    },
+    {
+      "id": "ai-1qywthv",
+      "title": "〈社論〉IMF對AI前景的警告，台灣要聽進去！ - 中華新聞雲／中華日報",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ubHNfZkZmRG9UU1dCaWxSTURZTFFqZmNpdTlFd0RKUGxYNllrWmZvV2VKbjZxVDhqVWFBdHZfa0lleWE0Z0toZ2JJMlpyOHpJRkE?oc=5",
+      "summary": "〈社論〉IMF對AI前景的警告，台灣要聽進去！ 中華新聞雲／中華日報",
+      "publishedAt": "2026-10-20T13:28:07.000Z",
+      "timestamp": 1792502887000,
+      "source": {
+        "id": "google-news-taiwan-ai",
+        "name": "Google News: Taiwan AI",
+        "region": "Taiwan",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 64
+    },
+    {
+      "id": "ai-1kd44d3",
+      "title": "Google Cloud英國當機 銀行與公共服務大規模中斷",
+      "url": "https://www.cna.com.tw/news/aopl/202610200357.aspx",
+      "summary": "（中央社倫敦20日綜合外電報導）Google在倫敦的雲端業務今天發生中斷，影響當地多家銀行、金融公司和公共服務供應商的網站和行動應用程式，凸顯企業與服務已高度依賴數位基礎設施。",
+      "publishedAt": "2026-10-20T13:15:15.000Z",
+      "timestamp": 1792502115000,
+      "source": {
+        "id": "cna-tech",
+        "name": "中央社科技",
+        "region": "Taiwan",
+        "trust": "media"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 64
+    },
+    {
+      "id": "ai-q86cx7",
+      "title": "TAITRONICS ＆ AIoT Taiwan雙聯展登場AI應用新領域大公開- 產業 - 工商時報",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50Rl9tU3dVNi1ybTdHRHpaakxRQlZPTGhyRUJic3lJWXRGa2dsRVlQNDdKZFlKSmxjQ2ZCelNQVW9vMW55WmUwXzlPamY4ZXBMUy14N19vRWd1ZnE3MHlR?oc=5",
+      "summary": "TAITRONICS ＆ AIoT Taiwan雙聯展登場AI應用新領域大公開- 產業 工商時報",
+      "publishedAt": "2026-10-20T13:10:00.000Z",
+      "timestamp": 1792501800000,
+      "source": {
+        "id": "google-news-taiwan-ai",
+        "name": "Google News: Taiwan AI",
+        "region": "Taiwan",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 64
+    },
+    {
+      "id": "ai-q63v16",
+      "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
+      "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
+      "summary": "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
+      "publishedAt": "2026-10-20T13:07:24.000Z",
+      "timestamp": 1792501644000,
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "region": "US",
+        "trust": "media"
+      },
+      "categories": [
+        "policy-safety"
+      ],
+      "score": 72
+    },
+    {
+      "id": "ai-13gtt3s",
+      "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+      "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+      "summary": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.",
+      "publishedAt": "2026-10-20T13:00:00.000Z",
+      "timestamp": 1792501200000,
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "region": "US",
+        "trust": "media"
+      },
+      "categories": [
+        "robotics"
+      ],
+      "score": 72
+    },
+    {
+      "id": "ai-1v9kf4r",
+      "title": "Not Anthropic. Not OpenAI. This Is the Artificial Intelligence (AI) Stock I'd Buy Before the Next Mega-IPO. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMVZENWdDM0ZndkV6V0FsQXF3SVNXLW01cXlOcmVoNWZaellJQUdRY0FTaUlCbC11VDZBY2c5ZVprMVdheURkV25zaGtWakVXQmZ4OWJ0Q1lQVlZUZHhsZ2pWcEtsMEtEU0dPSVp6WWNiY1hpMEtLQkRKNS11TTVMWWdMeUk1UFlKNlBsUFVWbFBCSVFLWHFmVA?oc=5",
+      "summary": "Not Anthropic. Not OpenAI. This Is the Artificial Intelligence (AI) Stock I'd Buy Before the Next Mega-IPO. The Motley Fool",
+      "publishedAt": "2026-10-20T13:00:00.000Z",
+      "timestamp": 1792501200000,
+      "source": {
+        "id": "google-news-ai",
+        "name": "Google News: AI",
+        "region": "Global",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "capital-market"
+      ],
+      "score": 72
+    },
+    {
+      "id": "ai-jcd0z6",
+      "title": "Army Cyber Command's ECHOTRIBBLE would turn AI agents into self-spreading cyberweapons",
+      "url": "https://the-decoder.com/army-cyber-commands-echotribble-would-turn-ai-agents-into-self-spreading-cyberweapons/",
+      "summary": "The Army Cyber Command is developing AI agents that move through other networks like a computer worm and \"neutralize\" targets, according to internal documents. The program, codenamed ECHOTRIBBLE, is designed to reach even air-gapped systems with no network connection and run with minimal human oversight. Experts warn about collateral damage, pointing out that AI agents have recently broken into outside systems withou",
+      "publishedAt": "2026-10-20T12:32:56.000Z",
+      "timestamp": 1792499576000,
+      "source": {
+        "id": "the-decoder",
+        "name": "THE DECODER",
+        "region": "EU",
+        "trust": "media"
+      },
+      "categories": [
+        "agents"
+      ],
+      "score": 72
+    },
+    {
+      "id": "ai-1xd4n4z",
+      "title": "2026物理AI与世界模型大会| 2026物理AI与世界模型大会在宁开幕江苏抢占下一代人工智能创新赛道 - 南京广播电视台",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1LeEpGMzA3WWFteUdIaUNXODRLSURubG9nRURQWWJZOHhGYThOaFZINkVYUHFkZGxpQU9MUzZBMnBuYVZLb3Z2VUpfcW9yQmF6ZVB3RWlzY3dWZWtyNkNXc2ZwTk1JUQ?oc=5",
+      "summary": "2026物理AI与世界模型大会| 2026物理AI与世界模型大会在宁开幕江苏抢占下一代人工智能创新赛道 南京广播电视台",
+      "publishedAt": "2026-10-20T12:28:26.000Z",
+      "timestamp": 1792499306000,
+      "source": {
+        "id": "google-news-china-ai",
+        "name": "Google News: China AI",
+        "region": "China",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 64
+    },
+    {
+      "id": "ai-1y5l6ae",
+      "title": "香港管理學院攜手與光同塵國際 共啟「AI原生·影領未來」 - 香港商报",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1QQV9hYnRYNHN5MTdyY243WmtuUE1OSzE2bGZyT2J5dktWdUgzOVZqVGM4MGRFMENqSDdlMDVTazMzWm95VU9pdkpGY05mcE9xc2tZZjZpUWZYZF9pdGNKeTFDbENnancyMl9aYmRobmhBQQ?oc=5",
+      "summary": "香港管理學院攜手與光同塵國際 共啟「AI原生·影領未來」 香港商报",
+      "publishedAt": "2026-10-20T12:23:37.000Z",
+      "timestamp": 1792499017000,
+      "source": {
+        "id": "google-news-taiwan-ai-media-generation",
+        "name": "Google News: Taiwan AI Image/Video Generation",
+        "region": "Taiwan",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "media-generation"
+      ],
+      "score": 72
+    },
+    {
+      "id": "ai-lw60x2",
+      "title": "Cloudflare's Clairic pulls data from documents faster and cheaper than LLMs",
+      "url": "https://the-decoder.com/cloudflares-clairic-pulls-data-from-documents-faster-and-cheaper-than-llms/",
+      "summary": "Cloudflare has released an AI model it says pulls data from documents faster and more cheaply than large language models. The article Cloudflare's Clairic pulls data from documents faster and cheaper than LLMs appeared first on The Decoder .",
+      "publishedAt": "2026-10-20T12:04:56.000Z",
+      "timestamp": 1792497896000,
+      "source": {
+        "id": "the-decoder",
+        "name": "THE DECODER",
+        "region": "EU",
+        "trust": "media"
+      },
+      "categories": [
+        "foundation-models"
+      ],
+      "score": 72
+    },
+    {
+      "id": "ai-8y1f1u",
+      "title": "AI adoption by industry shows what other sectors can learn",
+      "url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
+      "summary": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tech is just the first industry in line. As generative AI and automation tools mature, the shifts currently reshaping software engineering and product management will inevitably…",
+      "publishedAt": "2026-10-20T12:00:00.000Z",
+      "timestamp": 1792497600000,
+      "source": {
+        "id": "mit-ai",
+        "name": "MIT Technology Review AI",
+        "region": "US",
+        "trust": "media"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 72
+    },
+    {
+      "id": "ai-ocyj72",
+      "title": "The NCSC research problem book | AI in cyber security problems - National Cyber Security Centre",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1la0gtS3FPcW1Sa3V6VVhBQUR4LWkxZUlLOE1LdFZPYTVBMG1jZi1zSEhqdnh3TTNRZmJvcDFWUzN3NkZhZ1lOaHRHc0gtbGFDN25rdS1ZNnBGOE1wZklpVE1qSUcxMUU?oc=5",
+      "summary": "The NCSC research problem book | AI in cyber security problems National Cyber Security Centre",
+      "publishedAt": "2026-10-20T12:00:00.000Z",
+      "timestamp": 1792497600000,
+      "source": {
+        "id": "eu-ai-policy-news",
+        "name": "Google News: EU AI Policy",
+        "region": "EU",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "policy-safety",
+        "applications"
+      ],
+      "score": 80
+    },
+    {
+      "id": "ai-1ep690y",
+      "title": "AI5 - How can individual AI and machine learning systems be secured throughout their lifecycle? - National Cyber Security Centre",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZ3FyX1dVRFVQLWlXekVwSk9GWXJpbW1HbE5Zc2k1Wnp0OW44R09MWW9YcF92UGpmR0l3di1uZmY0bDdBVW9MT3RlXzN4M2FMWHpRUGV2MGtwV0NsUmNXTFhCVUo3ekhNSDZ0WWc0ZkRUN1hWSVJTaEhvY2poZEZzS3FCbXVaNTlBRHNIeEZn?oc=5",
+      "summary": "AI5 - How can individual AI and machine learning systems be secured throughout their lifecycle? National Cyber Security Centre",
+      "publishedAt": "2026-10-20T12:00:00.000Z",
+      "timestamp": 1792497600000,
+      "source": {
+        "id": "eu-ai-policy-news",
+        "name": "Google News: EU AI Policy",
+        "region": "EU",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "policy-safety"
+      ],
+      "score": 72
+    },
+    {
+      "id": "ai-1rc89ku",
+      "title": "US bans Deepseek technology across federal civilian agencies",
+      "url": "https://the-decoder.com/us-bans-deepseek-technology-across-federal-civilian-agencies/",
+      "summary": "The US Department of Homeland Security has banned federal civilian agencies from using AI technology from Chinese lab Deepseek. The article US bans Deepseek technology across federal civilian agencies appeared first on The Decoder .",
+      "publishedAt": "2026-10-20T11:34:54.000Z",
+      "timestamp": 1792496094000,
+      "source": {
+        "id": "the-decoder",
+        "name": "THE DECODER",
+        "region": "EU",
+        "trust": "media"
+      },
+      "categories": [
+        "policy-safety"
+      ],
+      "score": 72
+    },
+    {
+      "id": "ai-fjf51s",
+      "title": "AI晶片新星Tenstorrent募資15億美元 估值達62億挑戰輝達 - 蕃新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3T01oSlBOS1ZROHlVN0lXTVBLXzJ6cWJOYXNaZWdockRpMWRDUDFwYjh3dkJOVVJZZFZGZDVGajBnTkxFVDZHeV9iN2xPdC1NRWc?oc=5",
+      "summary": "AI晶片新星Tenstorrent募資15億美元 估值達62億挑戰輝達 蕃新聞",
+      "publishedAt": "2026-10-20T11:27:35.000Z",
+      "timestamp": 1792495655000,
+      "source": {
+        "id": "google-news-taiwan-ai-media-generation",
+        "name": "Google News: Taiwan AI Image/Video Generation",
+        "region": "Taiwan",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "media-generation"
+      ],
+      "score": 72
+    },
+    {
+      "id": "ai-qppgo4",
+      "title": "Artificial Intelligence: The Church Responds - The Banner",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQjVVV3BIVGpTaUdsdWFzcnZTdkg2YXJhdm1MMFRlaUZ5X0lXSklhakVkWlJPSnNBMVppME1xbjlGSlkxVDUySFRpb2MwTVRlT1RSanZRMklvSm01aHFqTXo2dDRta0psby16ak5XcmZhUlY0eWdyaDcydVNXLXFYODdNZlkzNjNfRzhjUkpn?oc=5",
+      "summary": "Artificial Intelligence: The Church Responds The Banner",
+      "publishedAt": "2026-10-20T11:17:02.000Z",
+      "timestamp": 1792495022000,
+      "source": {
+        "id": "google-news-ai",
+        "name": "Google News: AI",
+        "region": "Global",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 64
+    },
+    {
+      "id": "ai-l15o69",
+      "title": "【北美智權報】產發署大秀342億科技創新動能，台灣AI智慧碼頭系統成功搶進鹿特丹港| 2026 年 10 月 20 日 - 北美智權",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE95ZFVTUHVUU2owMG9aMmlyd0dFYzdDRzlaZUl6bHpNS3NxUm9DZUpvbnQyZ1lmdXVtZnZRemx6RDVzQlRManMzQQ?oc=5",
+      "summary": "【北美智權報】產發署大秀342億科技創新動能，台灣AI智慧碼頭系統成功搶進鹿特丹港| 2026 年 10 月 20 日 北美智權",
+      "publishedAt": "2026-10-20T11:00:14.000Z",
+      "timestamp": 1792494014000,
+      "source": {
+        "id": "google-news-taiwan-ai",
+        "name": "Google News: Taiwan AI",
+        "region": "Taiwan",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 63
+    },
+    {
+      "id": "ai-i3j2ys",
+      "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
+      "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+      "summary": "Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst’s Customer Value Fund (CVF), which provides capital to startups without diluting equity and gets returns on the results of marketing spend. Otter.ai said that it will use these funds for enterprise growth, go-to-market strategy, international expansion, and product innovation. […]",
+      "publishedAt": "2026-10-20T11:00:00.000Z",
+      "timestamp": 1792494000000,
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "region": "US",
+        "trust": "media"
+      },
+      "categories": [
+        "capital-market"
+      ],
+      "score": 71
+    },
+    {
+      "id": "ai-1cjn4kl",
+      "title": "Yelp can now call on your behalf to check wait times at a restaurant",
+      "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
+      "summary": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.",
+      "publishedAt": "2026-10-20T11:00:00.000Z",
+      "timestamp": 1792494000000,
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "region": "US",
+        "trust": "media"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 63
+    },
+    {
+      "id": "ai-14jsq6d",
+      "title": "【求职透视⑤】/职场人际沟通技巧 AI难取代 文书工作冲击大 专家倡确立培训方向 - 国务院港澳事务办公室",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBYSDJoblFKdjJWTXFQekUtdklpREVTeEZUelhqeTBKUnhPYmx4cmtCRFFrR0VZRjQ1MF92NTVLSnRnYXJfbzh2VDM3UEo0U3libnVybk9Ja3R2blFMa2RDOERFQktpVEhfbV9keU53c3JXTWVvYXVWY013?oc=5",
+      "summary": "【求职透视⑤】/职场人际沟通技巧 AI难取代 文书工作冲击大 专家倡确立培训方向 国务院港澳事务办公室",
+      "publishedAt": "2026-10-20T10:41:22.000Z",
+      "timestamp": 1792492882000,
+      "source": {
+        "id": "google-news-china-ai",
+        "name": "Google News: China AI",
+        "region": "China",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 63
+    },
+    {
+      "id": "ai-un3jew",
+      "title": "现场集中签约总金额超60亿元！2026物理AI与世界模型大会在南京开幕 - 中国江苏网",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPXzB3ekNiV1dOYzFlODl6OWlkU0RTTE1CeGRvamdTR3I1bnVjZDktMnZmRmp1a1AtT01PQlR0Y1FrQThCZWxmNnVObUZNMDNxWkE5ZGR2ZmVNRUZBd1BNd3JXS2VRcnNKaEpvbnVVekdxRDRvSWZtT2dFbmVKVTdrOTJneUdyRlVjMjk0?oc=5",
+      "summary": "现场集中签约总金额超60亿元！2026物理AI与世界模型大会在南京开幕 中国江苏网",
+      "publishedAt": "2026-10-20T10:28:00.000Z",
+      "timestamp": 1792492080000,
+      "source": {
+        "id": "google-news-china-ai",
+        "name": "Google News: China AI",
+        "region": "China",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 63
+    },
+    {
+      "id": "ai-vubonu",
+      "title": "在第二届国际人工智能科学家大会上，专家表示—— 人工智能拥有答案，而人类需要提出好问题 - 西藏自治区科学技术厅",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA4UDhEZEVJeGNsTk1URktnQ1N4TDI5N21kZTduWkZNRHI4Wk8tWUdCTTc1akw3TE5vR0h2RF9ZSkVsX3JYZzBEWTR6WktzcG5WelNkWEVITmdxLTdpYmpDZERCZ3JuOTZ1eW5fSktxQXViUQ?oc=5",
+      "summary": "在第二届国际人工智能科学家大会上，专家表示—— 人工智能拥有答案，而人类需要提出好问题 西藏自治区科学技术厅",
+      "publishedAt": "2026-10-20T10:26:07.000Z",
+      "timestamp": 1792491967000,
+      "source": {
+        "id": "google-news-china-ai",
+        "name": "Google News: China AI",
+        "region": "China",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 63
+    },
+    {
+      "id": "ai-z3ovox",
+      "title": "拥抱AI！商务领域AI应用暨商文旅融合发展数字化能力提升专题培训会成功举办 - 北京市投资促进服务中心",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5IQ0xnM0tRcU5iT2duWUpSVTBYNE9GaVNVODZncE1PWGhYaEJTWE8yRmNqTVdHUmZkOExzQjJJSXRjVWVPendFTTVQMkU3VkpSQ0F6bnNWbmZwTk9GZmlDejFMM0puTm1tV0lOMTRjaEFDVERrWkp4UWt0UQ?oc=5",
+      "summary": "拥抱AI！商务领域AI应用暨商文旅融合发展数字化能力提升专题培训会成功举办 北京市投资促进服务中心",
+      "publishedAt": "2026-10-20T10:16:00.000Z",
+      "timestamp": 1792491360000,
+      "source": {
+        "id": "google-news-china-ai",
+        "name": "Google News: China AI",
+        "region": "China",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 63
+    },
+    {
+      "id": "ai-oux37f",
+      "title": "CIOs look to accelerate digital transformation with AI - CIO",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSUhGTG1CdFRsanVFWWc3ak5ncmJhUjNqZERNQkNHVElQdkpmTVhWYi1kNlc4WU5uOHZLVENSYVB1VHVZVmM2UVhLZnBZSTZKT0JGcDJTX0Q0YjlFVDRZVG9qSEN1eXRSSXFELVpNZmk3YUVnYXl3MTVZQTlVSjRFRVNSYm5mTnJsMWI3LVUxRW5UQzk0b2RIUmEtRQ?oc=5",
+      "summary": "CIOs look to accelerate digital transformation with AI CIO",
+      "publishedAt": "2026-10-20T10:04:56.000Z",
+      "timestamp": 1792490696000,
+      "source": {
+        "id": "google-news-ai",
+        "name": "Google News: AI",
+        "region": "Global",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 63
+    },
+    {
+      "id": "ai-1numi3q",
+      "title": "From Text to Music: How Generative AI Is Changing Digital Content Creation - https://tech-insider.org/",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8yV09HdWZwNEpOa3JLbnhPX0w2dXcxdGlQTTBVZndzU0Q3Rm9kUFBGUzI2bVJ0MkRid3p1ZERSa0lrbVBJeS03djZmVDJ6WldoWDNSY0NqOUdEd1V5eHNRTlByeE9QcG5hLTd4VGJMZnlSbFZzaTB5c3hn?oc=5",
+      "summary": "From Text to Music: How Generative AI Is Changing Digital Content Creation https://tech-insider.org/",
+      "publishedAt": "2026-10-20T10:03:52.000Z",
+      "timestamp": 1792490632000,
+      "source": {
+        "id": "google-news-ai",
+        "name": "Google News: AI",
+        "region": "Global",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 63
+    },
+    {
+      "id": "ai-1r4ygv5",
+      "title": "As a biochemistry major, I hate using AI in my classes - The Miami Student",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSi1WcWZGeTRENHQ5dGhjSWNsa0RsZ1I4d00tMTQ3TnVMSlYyOWhJbl9lRE41dmUzZlVtTFBXT2pXNEEzUmNkdlE0RXlMbjJiS3pKOGU1S2FUOUU5NnFlMzNMUVE5TmtsNGo2dEtPSHlLTVVFdFYtTkI2bFRMTHFVRjA2ZW1TeGtLb3JfZXRjYWhxeXFMTDBraGtSeEIxYTdXcVVNMVN5YjgwUHowTmRmVmZCbzNrRmNqY2xocmNmX2pidHc1TVNRX1YyX0lVNi13aHZoMGpR?oc=5",
+      "summary": "As a biochemistry major, I hate using AI in my classes The Miami Student",
+      "publishedAt": "2026-10-20T10:00:00.000Z",
+      "timestamp": 1792490400000,
+      "source": {
+        "id": "google-news-ai",
+        "name": "Google News: AI",
+        "region": "Global",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "ai-science"
+      ],
+      "score": 71
+    },
+    {
+      "id": "ai-ql1vjc",
+      "title": "Who is pushing generative AI at UConn? - UConn Daily Campus",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE56d3p3R1hXQlN4VE5SaHdsWTUtbU9oYTZ2LTZSMGRPLUJ4UzQ2aGhtQlJrMElkRXV5QUU1MDZ4eXRfX1Zsa1psTm1fdnpRMHZpbTZvYndpQWR2VjZGbWpHb0hFdTh5bV9ndjJabm1BWGNWSE5mWkJ1SzFlVHVUQQ?oc=5",
+      "summary": "Who is pushing generative AI at UConn? UConn Daily Campus",
+      "publishedAt": "2026-10-20T10:00:00.000Z",
+      "timestamp": 1792490400000,
+      "source": {
+        "id": "google-news-ai",
+        "name": "Google News: AI",
+        "region": "Global",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 63
+    },
+    {
+      "id": "ai-1w29aeo",
+      "title": "Fears Over Artificial Intelligence And Data Centers Are Overblown - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdFF0NEppQ1V0anc5aUN4XzZPdXhlWDlpcGlUOEljZWRpTEh2NTgyR3A2S3JPejB6bTNGRWpPV1RNUS1LVXJCTFZwanZzZWJZVjA2ZUxhNWF5WkJxZmpOVzl2OTNuZEwzbzdpU1VRNHp6azlQbktjazFlMjNaN1UwYmFWQWplTGZpTTdwN1hFSDFuUUNKcmk3RWp3MVpIWVNJWXc4M1hFMTNYdTIxbmwzc194eVRTRHktQVE?oc=5",
+      "summary": "Fears Over Artificial Intelligence And Data Centers Are Overblown Forbes",
+      "publishedAt": "2026-10-20T10:00:00.000Z",
+      "timestamp": 1792490400000,
+      "source": {
+        "id": "google-news-ai",
+        "name": "Google News: AI",
+        "region": "Global",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 63
+    },
+    {
+      "id": "ai-3365lj",
+      "title": "新华网AI搜：依托AISO框架打造可信AI搜索服务 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUTFQRUpSQnh2VDJGSzN6ZmF4ei1wTmNKWXY2T1hJZDVJeE5zUWt6eHpvVmp5bFZqTGtNY1R0ekxuaEp4ckhlMG1CdzJHYkF1WDA3OUtuNTNDUVBGeEpYMlIwaTBkSHVuOUprZDlKZXNJaUlrLXlleGc4T0dwUUdIbDY5SQ?oc=5",
+      "summary": "新华网AI搜：依托AISO框架打造可信AI搜索服务 新华网",
+      "publishedAt": "2026-10-20T09:54:35.000Z",
+      "timestamp": 1792490075000,
+      "source": {
+        "id": "google-news-china-ai",
+        "name": "Google News: China AI",
+        "region": "China",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 63
+    },
+    {
+      "id": "ai-114ufqm",
+      "title": "政府公開資料 AI 讀得懂，「歐噴資料庫」年底前免費使用 - TechNews 科技新報",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9WdVh5MEhXbDdERXgtcjZUY2RUSEN6bGZRaFU0UEVVc0tYRkRHLU9SNTJ4Y0d0ZUVQdnhGUlpXSmlXdkhFRUtYa0JQODloVmUy?oc=5",
+      "summary": "政府公開資料 AI 讀得懂，「歐噴資料庫」年底前免費使用 TechNews 科技新報",
+      "publishedAt": "2026-10-20T09:50:56.000Z",
+      "timestamp": 1792489856000,
+      "source": {
+        "id": "google-news-taiwan-ai",
+        "name": "Google News: Taiwan AI",
+        "region": "Taiwan",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 63
+    },
+    {
+      "id": "ai-11s95hn",
+      "title": "AI微电影《这束光》 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5qWW0xaUxfYS1tVkxTTXVjOGxMUmlYcTM5SXVCTUVKZWx6Uy13Wl9jQ3ZIRm1WSTg4djNjR1plWndjT0QtdURZOWlhazlQRjh3T0hHZHdoN3owT2ZHSTYzWGVlOTN3Sk0zdk8tVk4wZTJJaWhHTm5Z?oc=5",
+      "summary": "AI微电影《这束光》 新华网",
+      "publishedAt": "2026-10-20T09:32:34.000Z",
+      "timestamp": 1792488754000,
+      "source": {
+        "id": "google-news-china-ai",
+        "name": "Google News: China AI",
+        "region": "China",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 63
+    },
+    {
+      "id": "ai-4s0vdi",
+      "title": "AI 變現將成考驗！星展估 Fed 將再升息 2 碼、金價上看 5,300 美元 - TechNews 科技新報",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1FOWdrRkh3dFBKemZsVE1LZXJNamw5NUtodUY4bkY3dEJIdUF5cUZKbW55eHBVTmJWR0pPb0gzbFoyelk1S2FsbU1feEJ3WGVfM05IYUZFWUx2YW9RY2Rj?oc=5",
+      "summary": "AI 變現將成考驗！星展估 Fed 將再升息 2 碼、金價上看 5,300 美元 TechNews 科技新報",
+      "publishedAt": "2026-10-20T09:08:28.000Z",
+      "timestamp": 1792487308000,
+      "source": {
+        "id": "google-news-taiwan-ai",
+        "name": "Google News: Taiwan AI",
+        "region": "Taiwan",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 63
+    },
+    {
+      "id": "ai-1o6buxk",
+      "title": "Anthropic’s leaked AI bill sparks backlash - Semafor",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRDZVUmdCYWRSbnN5d0JWem5HN2hOMEdINWxjdWFTS2NoYmZDdWFHZ3VqNjAxX25wSTktTVdzV2wtWXpFbHVQUVZ1ZmFrR2xwc0pDUzB2OUlkSWNLNHB5aGVKRGFMSUhOWEpMXzBHdTJMU3FsNjItdE1icWxKYTNSRkRucm0zcWpJd3oyUg?oc=5",
+      "summary": "Anthropic’s leaked AI bill sparks backlash Semafor",
+      "publishedAt": "2026-10-20T09:07:00.000Z",
+      "timestamp": 1792487220000,
+      "source": {
+        "id": "eu-ai-policy-news",
+        "name": "Google News: EU AI Policy",
+        "region": "EU",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "policy-safety"
+      ],
+      "score": 71
+    },
+    {
+      "id": "ai-ylgw04",
+      "title": "A visit to Samsung’s massive new semiconductor hub",
+      "url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
+      "summary": "Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor manufacturing complex in Pyeongtaek, South Korea. Three fabs already operate around the clock, and a fourth is coming online. Construction…",
+      "publishedAt": "2026-10-20T09:00:00.000Z",
+      "timestamp": 1792486800000,
+      "source": {
+        "id": "mit-ai",
+        "name": "MIT Technology Review AI",
+        "region": "US",
+        "trust": "media"
+      },
+      "categories": [
+        "ai-infra"
+      ],
+      "score": 71
+    },
+    {
+      "id": "ai-eetq1n",
+      "title": "輝達在台首開政府事務總監職缺，深化政策溝通拚新總部布局 - TechNews 科技新報",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5tSDJONmlwVlpWbERGOHdDLW0tQzVteGpTbFhFQURCWHNfQ2hyT0VzUHNfUGlJX2ZvVDJGYjhCVWQ4LXhfenljSHZaazltU3FwcERnSE1tSVJOSmMwRkk3MlNhUkV4UzE5ZzJ4RjhYY0VkUXJ0ZFBseThDeDBtdw?oc=5",
+      "summary": "輝達在台首開政府事務總監職缺，深化政策溝通拚新總部布局 TechNews 科技新報",
+      "publishedAt": "2026-10-20T08:55:36.000Z",
+      "timestamp": 1792486536000,
+      "source": {
+        "id": "google-news-taiwan-ai",
+        "name": "Google News: Taiwan AI",
+        "region": "Taiwan",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 63
+    },
+    {
+      "id": "ai-z6lahv",
+      "title": "陳冠廷赴美推動國防產業合作 盼結合AI、無人機提升台灣戰力 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxPV2g0QmFpRFlMdGFrT1dIOUpVa2QzWFdmRnFoUmp4ZkZHemh3ZUIyS0NpQWxLVHpmMUJJYy13WHJZMTQzYkFVMW1ZLXNwenU5N2doNGpwaUZJamNERFlwX2MzZWpQUncwSnY1STV6T2dkWHpkNG1DT05EZ1Ewa1ZJS1gxZTJ2RGNCRmdGZXFnT193YlpGTW91RDRXUVAtVjNYb2lzRFVkMWV0QkE4blVMaDBaeC0xajRkNWc3aGZDd2taOXlfVWdRMUZNQjFtcW5VaElOWkJfckY2bEk3TzZodm9kUU9wZjcyeFRGc1BJSUhvTWF2Mm5jWl9ISVVKd3U5Nlh1eGE3MmRsazQ0b1FKVU9fYjBRZ0h5WU1TVnNRaUZxMGN4TTQ1ZGt2N1d4VjFrUmhYVkhiMGFQdURON2RMazhjc1NXc0tNSDZDVXEwSHlkTkNJZ2IwVVd6eGtLX1F0NWpVSExTY0QxanVlZjNPOWpSakJUeEl6YWh2dU9fSmltRFlh?oc=5",
+      "summary": "陳冠廷赴美推動國防產業合作 盼結合AI、無人機提升台灣戰力 Yahoo新聞",
+      "publishedAt": "2026-10-20T08:52:00.000Z",
+      "timestamp": 1792486320000,
+      "source": {
+        "id": "google-news-taiwan-ai",
+        "name": "Google News: Taiwan AI",
+        "region": "Taiwan",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 63
+    },
+    {
+      "id": "ai-1ohebxl",
+      "title": "黑客恶用源自中国开源 AI 网络安全工具 日企业泄漏信息1.8亿条 - RFI",
+      "url": "https://news.google.com/rss/articles/CBMilgNBVV95cUxPTjBQYXpTUmpkUzNlazJHMHNhcHN1by1ZRlN6cGFPa0J5eGVDQjE4OHY5WGlNTHBwSVc3TDhkMGo3ZjYybmcxR2twWXdVa2pvRjRnQkJ6YTExN09mUFdzTFVkV0RHT1VaZDBia1NERk9xV1E3YUNkeERMWHJJLUZERkhhNUU2WHpWV0dJZHZpRElSdFpkNHhla1pKYnVJWEppeUo2VHJoVlQwLUVsd045TllDYmFMVEQ0VEx4dG9PSXd3dVZaaUlldnUxbDByOGNrVFc3RC14UDdZRzkyM0E2NHVPTVppbXM2Z2RtSGVkWHVNMWhncWc3SG9QQ240bGZXdU54T01NUFc3LVB1ZUx2RU5Sb2NzS0hFUG5CdWVZOElxQ3dpeW5weXZBbE1ZSkhBVG9hU3lQZU82VDFnQzR5REkyYW5ocUZLTHgtV1h2am5qWTJzc3Z3MENvQkJGendhMTFiTmNHOVJBc0QwcWZhcEpoZFlHb2lQaHVIS1JNOGJ3S08wQUFfZ185RWdOZG9uN3dMbEZR?oc=5",
+      "summary": "黑客恶用源自中国开源 AI 网络安全工具 日企业泄漏信息1.8亿条 RFI",
+      "publishedAt": "2026-10-20T08:51:49.000Z",
+      "timestamp": 1792486309000,
+      "source": {
+        "id": "google-news-china-ai",
+        "name": "Google News: China AI",
+        "region": "China",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 63
+    },
+    {
+      "id": "ai-av3og5",
+      "title": "文組出頭天？輝達台灣招募政府事務總監條件曝光 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNOVZtSTlyZTRnZ0h2T0RiOV9YYmdUbXBZMktXYzVXVC1BRHhMRXFQTGpSNGdmZDQ2MVE1S2J0TEh6ZzFwYkpuQ09NY0dPM00wc0lwc1UzUVFXMkdLQ2J5V1laVmEtTjRab0xhWmhvSHNlYmlOeU9EQ1h1MTlnSHdxTWRGZmJnbHdINWZub1UtbXZrVmZMQmxTWmJWM0FjSFhLOENoQUR2X2g0TGU3ay1HeG9pLWNNUVBPOTFaNndRZURLVEd4Mkg1Z09kWlpxSzNhMWVYdy0xTzJ1UDRaaWFHWlQ1bDVuVXdxMElyY1gyZ2N6SDItWGh2QzFhWUsxeFlKY2FBcmxSNEdYWk5lMkl6TjdxSTA0SVlBYjlmWUdSQkk2YkctSTEwbXlLQ3NEOUVWYVBTZlJ6cXBUd0Z6OHpwUW9VcFZKc2Nab3JPUlU0d0E?oc=5",
+      "summary": "文組出頭天？輝達台灣招募政府事務總監條件曝光 Yahoo新聞",
+      "publishedAt": "2026-10-20T08:35:29.000Z",
+      "timestamp": 1792485329000,
+      "source": {
+        "id": "google-news-taiwan-ai",
+        "name": "Google News: Taiwan AI",
+        "region": "Taiwan",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 63
+    },
+    {
+      "id": "ai-sj6vff",
+      "title": "AI agents are forcing a rethink of digital identity, cybersecurity experts warn - THINK Digital Partners",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOT2wzMHBDZVJkVTZZamtiQlNXVzFCajBlN1JxLVFCbUpaX3BTeHBFbTNiTHBDQmpZbkp6aFdSMDJ6d1lwSjdoM1FmNk1oU3ZUcE5FRGZGY2IwOGhFeWpoeGttTGx6eWh0eWxOZGFMT2ZRemtFRVB4TzNRWE1HYnVUY2Zzb1htNXNpWmVhRWUtelFhSWMxaGVpVmdSNTZUYkZyOTA5Z3VHam1weG9mVDFVeUtYV2FwWDZhQ09hR0Rzck5kaEF5aTBNR2Etc2k?oc=5",
+      "summary": "AI agents are forcing a rethink of digital identity, cybersecurity experts warn THINK Digital Partners",
+      "publishedAt": "2026-10-20T08:24:49.000Z",
+      "timestamp": 1792484689000,
+      "source": {
+        "id": "eu-ai-policy-news",
+        "name": "Google News: EU AI Policy",
+        "region": "EU",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "agents",
+        "policy-safety"
+      ],
+      "score": 79
+    },
+    {
+      "id": "ai-4w564k",
+      "title": "AI需求帶動先進製程擴產...台積電營運成長添動能 00891布局關鍵供應鏈 - UDN",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wTWJLOUtaOFg2UTZlN2FoTmlzV2U2OG1rdXB2OFVlQkdXWUQybnlpd2hUTjZVUVA3dFVfYTNRbFFzSDB6dE0yaENjUUREdUZyRG1N0gFYQVVfeXFMTXhuQnQ5NzZuaTMwWVBDZWt1aTNWel9HU1JXZFV3TGx1Z1B3UWI0alF4NThsQjg4NldSZDVqZkJvLTNwNG8xZnVwN3VlbnBvVWV1VjdtX1FSOA?oc=5",
+      "summary": "AI需求帶動先進製程擴產...台積電營運成長添動能 00891布局關鍵供應鏈 UDN",
+      "publishedAt": "2026-10-20T08:15:19.000Z",
+      "timestamp": 1792484119000,
+      "source": {
+        "id": "google-news-taiwan-ai",
+        "name": "Google News: Taiwan AI",
+        "region": "Taiwan",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 63
+    },
+    {
+      "id": "ai-13jm0p",
+      "title": "凌羣攜手日本CIJ簽署智慧電腦人戰略合作 - iThome",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5pcTlLMTJEbWxmdHFsOF9NYmkwbmxha2VKSmUzZFhXbm5tOWd4LVM2allvdFR0alBJZ2NNcm5HZGFfcnE1bTlQX2hlRQ?oc=5",
+      "summary": "凌羣攜手日本CIJ簽署智慧電腦人戰略合作 iThome",
+      "publishedAt": "2026-10-20T08:04:22.000Z",
+      "timestamp": 1792483462000,
+      "source": {
+        "id": "google-news-taiwan-ai",
+        "name": "Google News: Taiwan AI",
+        "region": "Taiwan",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 63
+    },
+    {
+      "id": "ai-wkcg0f",
+      "title": "美国下令政府系统禁用DeepSeek：中美AI竞争继续升温 - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xUkZ3SWJuSkk4eHNSaFVTUzFGQXYwVktNWFNlemVYQVVtQjRyY1NFdkVBMGlod0N1UEYyTXNpYUlmcThBdkdaR1hrclhXTmhKM2hBODJCVUk5YWlnSXVJSy1lTWRBSkXSAWxBVV95cUxNbHhpZF9CRnFHb0QtNWtfdUZSQWJTaEhqeTZlT1c4QVFZVmh5MUcwVngwTEh4UjZ2WkVZdGtkR1lYWUNvbU1ZTzJFVWs1eHBzZDlmLTMtdXRmQmJCdFRVR2VaYVEyTjlxUG1UV3k?oc=5",
+      "summary": "美国下令政府系统禁用DeepSeek：中美AI竞争继续升温 BBC",
+      "publishedAt": "2026-10-20T08:03:59.000Z",
+      "timestamp": 1792483439000,
+      "source": {
+        "id": "google-news-china-ai",
+        "name": "Google News: China AI",
+        "region": "China",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 63
+    },
+    {
+      "id": "ai-1srtgno",
+      "title": "Google Gemini好用嗎？香港Gemini免VPN寫文/整圖/找資料返工好用工具！睇清免費/收費版差異 - ezone.hk",
+      "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQVGd0WTF4T0E4VEVScW9fekdYQ1Y4SW5IZ3lKSnNxYi1IZ3pNYThCZmo2RVRfMGN3TTlnelRZR0pNRjZYeEd0Yk9Oa3ZfQzJILXFUSUNDbGE0MlJ6VFVPYk5ORjgwY0xaREpuenJ2VFg2VTdENTVYNXZuSzhvdUlnc2J0Y2NKczUwclVPU0doYlp4ZjU1WWplMDdTNlFPSHhZVDhvYTBKOHNOMDRYUS1fa2diSEJxNXkyTEFPMTgwNDNiUFVjdUJtdC1MTDRlT3RCa0doSjdPazZKZnBLSjZYa1BWMTNyYzhWYlR4TDFCdVI5Q1FTVFRUY050NmVxc19DTVhPbnlIMTFZSXhUSzBIRjNSdWRNUFpzdEpMU0RPNS1XdjFTRnFKMjVickhUcXFuaGNGaldWUTMtdVhRczg2c3pmZF92RzY1SXdaR2l0X1p2VWJuUjI5NHh1T2FKc2xJblRVTHVhamQ?oc=5",
+      "summary": "Google Gemini好用嗎？香港Gemini免VPN寫文/整圖/找資料返工好用工具！睇清免費/收費版差異 ezone.hk",
+      "publishedAt": "2026-10-20T08:01:40.000Z",
+      "timestamp": 1792483300000,
+      "source": {
+        "id": "google-news-taiwan-ai-media-generation",
+        "name": "Google News: Taiwan AI Image/Video Generation",
+        "region": "Taiwan",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "media-generation",
+        "foundation-models"
+      ],
+      "score": 79
+    },
+    {
+      "id": "ai-1xul6w",
+      "title": "是方砸33億元打造虎尾AI資料中心，串聯臺北與日本石狩布局跨區域AI基礎設施 - iThome",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE91X1pCeDF3c3dmYU1zbFVNdkdWdzRBZjV3YTNQVUFWd3VVRC1vY1dRalRVN1VIQ0Zod3hsZ0F5VEpQdXIzaDVqZTUxRGlGZw?oc=5",
+      "summary": "是方砸33億元打造虎尾AI資料中心，串聯臺北與日本石狩布局跨區域AI基礎設施 iThome",
+      "publishedAt": "2026-10-20T07:45:09.000Z",
+      "timestamp": 1792482309000,
+      "source": {
+        "id": "google-news-taiwan-ai",
+        "name": "Google News: Taiwan AI",
+        "region": "Taiwan",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 63
+    },
+    {
+      "id": "ai-1hhhi7f",
+      "title": "Anthropic巴拿馬計畫是什麼？台灣563公噸書籍運美，揭AI買書訓練內幕 - 數位時代",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd29nQVJqRnlVWGR1eExjT0JaVDJ1T0NJMGUyR1Bna2hfOVFLaEVISm5YVkJnUEtWTy1TVmJuUnNEYlgxWWFET1p5OEJHZ2N5dWJkaFZwb1RDUjlvUmJxVUtQdUxRVU9HbXY5cUVGSDNzZEl2T0VsZWJmaHdzcVdTSUJJT0tTak94WkRxZ2VicW5TUmtfZlZRZXZuUXVwMHY2cnVIdWlEWmJJbGYxQWUwbTJn?oc=5",
+      "summary": "Anthropic巴拿馬計畫是什麼？台灣563公噸書籍運美，揭AI買書訓練內幕 數位時代",
+      "publishedAt": "2026-10-20T07:35:08.000Z",
+      "timestamp": 1792481708000,
+      "source": {
+        "id": "google-news-taiwan-ai",
+        "name": "Google News: Taiwan AI",
+        "region": "Taiwan",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 63
+    },
+    {
+      "id": "ai-j6ne95",
+      "title": "人民日报：AI助力，加快“从0到1”重大科学发现进程——人工智能如何赋能基础研究（议政·委员说AI②） - 天津大学新闻网",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE81eXBoc2VRM0xOOTJsZEt2ME85dFN0Ri1YOVJmSy1Qam9ycFBUMlJ2cll3U19qQVhfLWpFYTNORHlwajNNdzZrVmo5X2NkU2NNUk8xaWdETQ?oc=5",
+      "summary": "人民日报：AI助力，加快“从0到1”重大科学发现进程——人工智能如何赋能基础研究（议政·委员说AI②） 天津大学新闻网",
+      "publishedAt": "2026-10-20T07:33:45.000Z",
+      "timestamp": 1792481625000,
+      "source": {
+        "id": "google-news-china-ai",
+        "name": "Google News: China AI",
+        "region": "China",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 63
+    },
+    {
+      "id": "ai-1deubvg",
+      "title": "〈星展經濟展望〉看好台灣AI供應鏈護城河 估全年GDP年增率達11.6% - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9xV0N2UDBGanplMkpMQWllbjlfWVlwandzS0hoenU0MGNCOWh2Wk5GN1FBWThNX1Y5b3NjYWJqNUxvRF9pTFI4eVZCV3JWSUU?oc=5",
+      "summary": "〈星展經濟展望〉看好台灣AI供應鏈護城河 估全年GDP年增率達11.6% 鉅亨網",
+      "publishedAt": "2026-10-20T07:32:20.000Z",
+      "timestamp": 1792481540000,
+      "source": {
+        "id": "google-news-taiwan-ai",
+        "name": "Google News: Taiwan AI",
+        "region": "Taiwan",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 63
+    },
+    {
+      "id": "ai-1jk1tew",
+      "title": "〈星展經濟展望〉看好台灣AI供應鏈護城河 估全年GDP年增率達11.6% - Yahoo 財經",
+      "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxPZlZqRC1fUDd4bkI5OHhXUnRhMWN2N0Y5NGFDejgyR3NTMjNkYThudTUzdGRvUU5YT1lfNjF1TDNiX25md2pWWnpOMDZxYVJENjc5M1JXeGwzal9OTmc4WWVCaE51V2dYNE5KT0Z6a0JyZTF5aWFzX0J2Unc5b0g2WTNkSWwwYTFpa3U3dG45bXFqOThMOUdnOVc2SG9kdEEzVzgwSzNjYVd4OUs0cGFzYVhxMmpuelNGdlZDNnlfbDg0ZEE4Qkl1bl9XeEFiUWZqTWkyaW41dEhMY2czcUU0M1Jxd3ZzbWJ2c3hwMWZoZHQwSUV4aDZXeFQ5MVZ6bEl5R0lJTmFWUjZPcXhpTm1OcFJUTDY4c3Q1N1Q3RnpYdm12Y2F1c3dZTzB5Z0p0ZThGNU9OZDlrUHU3aEd2ZHJyVy0taU5QT19YclJYRFR6S3V4cHYzSy1iMUlLWXB5TGhiRWI5M1dmalMydjBJMmpKQ0J1cG1FNEFOZUJyOTR4YkU?oc=5",
+      "summary": "〈星展經濟展望〉看好台灣AI供應鏈護城河 估全年GDP年增率達11.6% Yahoo 財經",
+      "publishedAt": "2026-10-20T07:32:20.000Z",
+      "timestamp": 1792481540000,
+      "source": {
+        "id": "google-news-taiwan-ai",
+        "name": "Google News: Taiwan AI",
+        "region": "Taiwan",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 63
+    },
+    {
+      "id": "ai-5hkkk2",
+      "title": "是方中科虎尾AI資料中心今舉行動土典禮 2028年下半年正式營運 - UDN",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBoYXJwRElKQlhBMzVtc3RZX202YkJSTE5MZGVGZjE1bkp1Q2dwQWJ4dUE5U3ZYcHB4UGNJVnQyVTRpaGFVSFB4YjFxNDEwTXNv0gFWQVVfeXFMT2FTcnFRRXB6YzAxMEFPNDJNbUVnbHZGMEpzNnVqZWI4OURqTV8xOHp4Yk5jTUk5Vkw5QWlEZ24xQUU0bC1vVEtLS3Bsd3lmSGlyYUlBU1E?oc=5",
+      "summary": "是方中科虎尾AI資料中心今舉行動土典禮 2028年下半年正式營運 UDN",
+      "publishedAt": "2026-10-20T06:55:27.000Z",
+      "timestamp": 1792479327000,
+      "source": {
+        "id": "google-news-taiwan-ai",
+        "name": "Google News: Taiwan AI",
+        "region": "Taiwan",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 62
+    },
+    {
+      "id": "ai-10w0b9g",
+      "title": "AI投資熱潮從晶片延伸至資料中心！00952聚焦台灣50檔AI供應鏈 - 理財周刊",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5kZ09wTEhoeG93cVhqQmY0VVFtTGNONzlvNlprUGRkUTcwSXQ0eFBXdHhTSTJSUENSRURuZm5uRlBWOThQMk5SNWE0M1VrVUZwalYyRkQ4NkJyRUxubXBJbEE2ZWRDQ1VYaTV3cWU5NA?oc=5",
+      "summary": "AI投資熱潮從晶片延伸至資料中心！00952聚焦台灣50檔AI供應鏈 理財周刊",
+      "publishedAt": "2026-10-20T06:25:52.000Z",
+      "timestamp": 1792477552000,
+      "source": {
+        "id": "google-news-taiwan-ai",
+        "name": "Google News: Taiwan AI",
+        "region": "Taiwan",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 62
+    },
+    {
+      "id": "ai-97loc2",
+      "title": "物理AI落地有了清晰施工图，江苏发布“物理AI与世界模型”典型创新成果 - 中国江苏网",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbmpfalZYUGNwdnpCSlVJQ09zZUZLSWNvZnplZTNvcVh5bm5sN3hVTUhoUllMMUJKVVNIbFJwRE5RQ0w1LXVoczlFRTYwaFZ1Z0xULVY4QkM4WlJDZGoxYTAzQXhvaFplYmNtdTZad2Y3VHg0SWJ4Y1lYMkNVU3R3R2VTMGFnUXdXY2Rj?oc=5",
+      "summary": "物理AI落地有了清晰施工图，江苏发布“物理AI与世界模型”典型创新成果 中国江苏网",
+      "publishedAt": "2026-10-20T06:19:00.000Z",
+      "timestamp": 1792477140000,
+      "source": {
+        "id": "google-news-china-ai",
+        "name": "Google News: China AI",
+        "region": "China",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 62
+    },
+    {
+      "id": "ai-1vlt4t5",
+      "title": "第二届国际人工智能科学家大会在京举行 - 中国科技网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JQUFXck1Xcnd6Tml2dTJ6bHplTzJDVkp5d29zRTljNFZaVTJzeFRBcXE4b09mb3RseHVONnktcUZpVElVUmhmbnBqcmZMSmVKblBCSjJ5MVBNOXRQb25PQ3p2ekpCR3NtVWtpS002cWE?oc=5",
+      "summary": "第二届国际人工智能科学家大会在京举行 中国科技网",
+      "publishedAt": "2026-10-20T05:44:06.000Z",
+      "timestamp": 1792475046000,
+      "source": {
+        "id": "google-news-china-ai",
+        "name": "Google News: China AI",
+        "region": "China",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 62
+    },
+    {
+      "id": "ai-1a2c8dw",
+      "title": "台灣需要20座AI園區，還是一座世界級AI島？別只想複製竹科，真正的競爭對手在國境之外 - 城市學",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5lZXhBZnpUNHZhMy1nUGpZSFR1d1YwRHBxWV9VbUhvZUZYdlNmd1hMZnBpZTNEUWEzSF9fMUQ5QmpSWmtQMUJMdlZITzRvMXM?oc=5",
+      "summary": "台灣需要20座AI園區，還是一座世界級AI島？別只想複製竹科，真正的競爭對手在國境之外 城市學",
+      "publishedAt": "2026-10-20T05:23:00.000Z",
+      "timestamp": 1792473780000,
+      "source": {
+        "id": "google-news-taiwan-ai",
+        "name": "Google News: Taiwan AI",
+        "region": "Taiwan",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 62
+    },
+    {
+      "id": "ai-7y6786",
+      "title": "是方砸 33 億元建虎尾 AI 資料中心，預計 2028 下半年營運 - TechNews 科技新報",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9aam9Kenhzc2l3b0RHaU9lNUhRdTZfU0VHMklRNjJOV0ctSjVlYXlJTTRYX3hGTl9VWVJjZ2Njc1NreW5OUHFRNFMta2V0TU4zcWpJMVZobGNSNG0zaHdR?oc=5",
+      "summary": "是方砸 33 億元建虎尾 AI 資料中心，預計 2028 下半年營運 TechNews 科技新報",
+      "publishedAt": "2026-10-20T05:20:45.000Z",
+      "timestamp": 1792473645000,
+      "source": {
+        "id": "google-news-taiwan-ai",
+        "name": "Google News: Taiwan AI",
+        "region": "Taiwan",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 62
+    },
+    {
+      "id": "ai-btotp",
+      "title": "AI爽劇｜中國AI被指不務正業 「逾半算力在造爽劇」 豆包：數據不可信 - Yahoo 財經",
+      "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxQMjZ3aGRxcDFRZ01Zc2toT3FpeUp0M3lsZGpTZUVYd0F1YWM1SmlQdVlFVHFxWW1jZktLek90YVQxVWtXeGFBaUJJQWtlb3REMjdDWkU5V2VQYWJaOUJPZ0JGdGo0Q1BmQTNqZmNFOHN0bThJSHJGU2JGVnV1a3o5RnNxcGJJRTNFNVp4Sko0ZEJNNURHRHpmV3FfRWxOV1FSeFRMdzNRRmZwZmlndjBaTjJ5RWF4OUJIM0xzbkRTc2ItelRaTGxLejY2cmIyYkNubXltS3lNVlRGODR4b3JZTE5kZDBpR2xHNU1wN0d3VWlDdE9UaUJXVkxPaVprYnoxZFFfd3ZEZjRkbWU5cWZXdDJDN0FVbWhaT3BjTElLS19Wc3lRZTZtUURsc2lXLVExVWx3eHVKTURqdmlwcWQ0d3B1UXJEWU5TVTdKT05xbWg5ZGdaN0hxS3RRMUd5anBXOFlnV2JwR3FxZDFlRVdxSFB5SGpPZGQ0NG5vRGNMcUZtbmNwVXdrTVRXR2Y0LXBaVFkyUw?oc=5",
+      "summary": "AI爽劇｜中國AI被指不務正業 「逾半算力在造爽劇」 豆包：數據不可信 Yahoo 財經",
+      "publishedAt": "2026-10-20T05:00:00.000Z",
+      "timestamp": 1792472400000,
+      "source": {
+        "id": "google-news-taiwan-ai-media-generation",
+        "name": "Google News: Taiwan AI Image/Video Generation",
+        "region": "Taiwan",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "media-generation"
+      ],
+      "score": 70
+    },
+    {
+      "id": "ai-1uopm5q",
+      "title": "AI爽劇｜中國AI被指不務正業 「逾半算力在造爽劇」 豆包：數據不可信 - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMiigNBVV95cUxQcHJTdFVaRVJxVlgxWEt6YW1EYk0yVjhjQ1BSM2NtdUxYdG1Da1AwN013TnF0TDlTRUxXeE9QT0ZnNW14ODQ0Mi1qdWk4aExONVBubWVnaUJleDdnVWJNNE5MTzJ3eG0wWlp3RUFQVWdXTTRsaS13RTV0MFhqOVJxOUtNVXZvcVMyMlRUampVS1AzVlVlQWtvVElTQU84ZE9XSTJWYXAzTGg3VFVuY3JJLUZ4bnp4R2JLaGJ6b2RHaURJNHppWTg5bHZVWFBWZGNYdXoxM05yZ0N4Zkx4ckJ2bXhKX2s3dHlqcE9TY2FJcEZWRHZ0WWZjekRsazJaeTk0Sjk2Ym9jdDlGa0g0R1cwY0hEeDFldmJlLWVrOVBGWTFtTVk3NmFJemNWQ2VzQzNuTjNMc0RqQWFfdVpSZGY3NmJZX21zWUtqdDlSYmF5RHVFODRLR2hnLS1tVHNxQkw2T0QyX19wUVpLUUVfNEg3SEo3dUY2aW01MGN5YVZ1QjZjT1Vla2w3ZnRR?oc=5",
+      "summary": "AI爽劇｜中國AI被指不務正業 「逾半算力在造爽劇」 豆包：數據不可信 Yahoo",
+      "publishedAt": "2026-10-20T05:00:00.000Z",
+      "timestamp": 1792472400000,
+      "source": {
+        "id": "google-news-taiwan-ai-media-generation",
+        "name": "Google News: Taiwan AI Image/Video Generation",
+        "region": "Taiwan",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "media-generation"
+      ],
+      "score": 70
+    },
+    {
+      "id": "ai-1m2yvlk",
+      "title": "蕭副總統：半導體攜手PCB掌握AI契機政府做產業最強後盾| 政治 - 中央社 CNA",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zN0taUGJVczBZblg1VnBzc1NPSGhLUHVZOTRjMGhIWlZQcXlwY2I4Sl9CeVRaa3dzbjRxLXZvTVkzcXpxeDZqWHFNNGlia1JTTERjLUZWZWFZODFCei0w?oc=5",
+      "summary": "蕭副總統：半導體攜手PCB掌握AI契機政府做產業最強後盾| 政治 中央社 CNA",
+      "publishedAt": "2026-10-20T04:27:00.000Z",
+      "timestamp": 1792470420000,
+      "source": {
+        "id": "google-news-taiwan-ai",
+        "name": "Google News: Taiwan AI",
+        "region": "Taiwan",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 62
+    },
+    {
+      "id": "ai-wqv5f3",
+      "title": "Google executive dismisses European fears over US dominance of AI - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObUtxT0FZc0M5d295QWVWOGpaWTFXTWRxYXMzbUFmQ0JKZDF2SXZTSjc2LUZTbnctSjE0OXBqZVlqbHVmc0MwcTdNV0lWT1VfMmJnMjFNN0xfQ2RqdFhoRXRfMjJsaFhHR1NRYWFWems1dldrbTRQNHNhSVFfVnZ6M0ZFWEE?oc=5",
+      "summary": "Google executive dismisses European fears over US dominance of AI Financial Times",
+      "publishedAt": "2026-10-20T04:01:18.000Z",
+      "timestamp": 1792468878000,
+      "source": {
+        "id": "eu-ai-policy-news",
+        "name": "Google News: EU AI Policy",
+        "region": "EU",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "policy-safety"
+      ],
+      "score": 70
     },
     {
       "id": "ai-bwqfwn",
@@ -241,25 +1782,7 @@
       "categories": [
         "applications"
       ],
-      "score": 65
-    },
-    {
-      "id": "ai-wqv5f3",
-      "title": "Google executive dismisses European fears over US dominance of AI - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObUtxT0FZc0M5d295QWVWOGpaWTFXTWRxYXMzbUFmQ0JKZDF2SXZTSjc2LUZTbnctSjE0OXBqZVlqbHVmc0MwcTdNV0lWT1VfMmJnMjFNN0xfQ2RqdFhoRXRfMjJsaFhHR1NRYWFWems1dldrbTRQNHNhSVFfVnZ6M0ZFWEE?oc=5",
-      "summary": "Google executive dismisses European fears over US dominance of AI Financial Times",
-      "publishedAt": "2026-10-20T04:00:19.000Z",
-      "timestamp": 1792468819000,
-      "source": {
-        "id": "eu-ai-policy-news",
-        "name": "Google News: EU AI Policy",
-        "region": "EU",
-        "trust": "aggregator"
-      },
-      "categories": [
-        "policy-safety"
-      ],
-      "score": 73
+      "score": 62
     },
     {
       "id": "ai-sfc9n9",
@@ -298,7 +1821,7 @@
         "agents",
         "capital-market"
       ],
-      "score": 93
+      "score": 90
     },
     {
       "id": "ai-exw7ls",
@@ -318,7 +1841,7 @@
         "policy-safety",
         "agents"
       ],
-      "score": 100
+      "score": 98
     },
     {
       "id": "ai-lyw0c3",
@@ -336,7 +1859,7 @@
       "categories": [
         "policy-safety"
       ],
-      "score": 95
+      "score": 92
     },
     {
       "id": "ai-14geazp",
@@ -354,7 +1877,7 @@
       "categories": [
         "applications"
       ],
-      "score": 77
+      "score": 74
     },
     {
       "id": "ai-19ik0cy",
@@ -373,7 +1896,7 @@
         "foundation-models",
         "ai-infra"
       ],
-      "score": 93
+      "score": 90
     },
     {
       "id": "ai-178blfe",
@@ -412,7 +1935,7 @@
         "agents",
         "ai-infra"
       ],
-      "score": 93
+      "score": 90
     },
     {
       "id": "ai-1jb39nq",
@@ -431,7 +1954,7 @@
         "foundation-models",
         "agents"
       ],
-      "score": 93
+      "score": 90
     },
     {
       "id": "ai-602hhl",
@@ -449,7 +1972,7 @@
       "categories": [
         "applications"
       ],
-      "score": 77
+      "score": 74
     },
     {
       "id": "ai-1ytjp6h",
@@ -469,7 +1992,7 @@
         "agents",
         "ai-infra"
       ],
-      "score": 100
+      "score": 98
     },
     {
       "id": "ai-1nzoa21",
@@ -487,7 +2010,7 @@
       "categories": [
         "foundation-models"
       ],
-      "score": 85
+      "score": 82
     },
     {
       "id": "ai-1j8l39u",
@@ -505,7 +2028,7 @@
       "categories": [
         "ai-infra"
       ],
-      "score": 85
+      "score": 82
     },
     {
       "id": "ai-10xlmle",
@@ -525,7 +2048,7 @@
         "robotics",
         "open-source"
       ],
-      "score": 100
+      "score": 98
     },
     {
       "id": "ai-t3xz0z",
@@ -545,7 +2068,7 @@
         "foundation-models",
         "policy-safety"
       ],
-      "score": 100
+      "score": 98
     },
     {
       "id": "ai-kri32g",
@@ -564,7 +2087,7 @@
         "agents",
         "ai-infra"
       ],
-      "score": 93
+      "score": 90
     },
     {
       "id": "ai-pb103z",
@@ -582,7 +2105,7 @@
       "categories": [
         "foundation-models"
       ],
-      "score": 85
+      "score": 82
     },
     {
       "id": "ai-m5lva1",
@@ -601,7 +2124,7 @@
         "agents",
         "ai-infra"
       ],
-      "score": 93
+      "score": 90
     },
     {
       "id": "ai-8dtopi",
@@ -621,7 +2144,7 @@
         "agents",
         "policy-safety"
       ],
-      "score": 100
+      "score": 98
     },
     {
       "id": "ai-kcw4sl",
@@ -661,7 +2184,7 @@
         "policy-safety",
         "capital-market"
       ],
-      "score": 100
+      "score": 98
     },
     {
       "id": "ai-1lzmtxj",
@@ -681,7 +2204,7 @@
         "policy-safety",
         "ai-infra"
       ],
-      "score": 100
+      "score": 98
     },
     {
       "id": "ai-1i73o58",
@@ -701,7 +2224,7 @@
         "ai-infra",
         "applications"
       ],
-      "score": 100
+      "score": 98
     },
     {
       "id": "ai-sg50i2",
@@ -721,7 +2244,7 @@
         "policy-safety",
         "capital-market"
       ],
-      "score": 100
+      "score": 98
     },
     {
       "id": "ai-1nmwdbf",
@@ -741,7 +2264,7 @@
         "foundation-models",
         "policy-safety"
       ],
-      "score": 100
+      "score": 98
     },
     {
       "id": "ai-gu9auy",
@@ -761,7 +2284,7 @@
         "policy-safety",
         "applications"
       ],
-      "score": 100
+      "score": 98
     },
     {
       "id": "ai-a8y77b",
@@ -781,7 +2304,7 @@
         "policy-safety",
         "capital-market"
       ],
-      "score": 100
+      "score": 98
     },
     {
       "id": "ai-k2lxvn",
@@ -799,7 +2322,7 @@
       "categories": [
         "applications"
       ],
-      "score": 77
+      "score": 74
     },
     {
       "id": "ai-1tsy78h",
@@ -819,7 +2342,7 @@
         "ai-infra",
         "policy-safety"
       ],
-      "score": 100
+      "score": 98
     },
     {
       "id": "ai-1faj1d7",
@@ -838,7 +2361,7 @@
         "ai-infra",
         "robotics"
       ],
-      "score": 93
+      "score": 90
     },
     {
       "id": "ai-wfw5g9",
@@ -858,7 +2381,7 @@
         "policy-safety",
         "capital-market"
       ],
-      "score": 100
+      "score": 98
     },
     {
       "id": "ai-hxy0n4",
@@ -876,7 +2399,7 @@
       "categories": [
         "applications"
       ],
-      "score": 77
+      "score": 74
     },
     {
       "id": "ai-18w26lb",
@@ -895,7 +2418,7 @@
         "ai-infra",
         "foundation-models"
       ],
-      "score": 93
+      "score": 90
     },
     {
       "id": "ai-1ya2yll",
@@ -914,7 +2437,7 @@
         "robotics",
         "policy-safety"
       ],
-      "score": 93
+      "score": 90
     },
     {
       "id": "ai-j3tlk1",
@@ -932,7 +2455,7 @@
       "categories": [
         "agents"
       ],
-      "score": 85
+      "score": 82
     },
     {
       "id": "ai-19acbh3",
@@ -950,7 +2473,7 @@
       "categories": [
         "agents"
       ],
-      "score": 85
+      "score": 82
     },
     {
       "id": "ai-1qc0cei",
@@ -969,7 +2492,7 @@
         "agents",
         "foundation-models"
       ],
-      "score": 93
+      "score": 90
     },
     {
       "id": "ai-2fjj3w",
@@ -988,7 +2511,7 @@
         "agents",
         "foundation-models"
       ],
-      "score": 93
+      "score": 90
     },
     {
       "id": "ai-nb6xzr",
@@ -1008,7 +2531,7 @@
         "ai-infra",
         "policy-safety"
       ],
-      "score": 100
+      "score": 98
     },
     {
       "id": "ai-mvbset",
@@ -1026,7 +2549,7 @@
       "categories": [
         "foundation-models"
       ],
-      "score": 85
+      "score": 82
     },
     {
       "id": "ai-oce98w",
@@ -1046,7 +2569,7 @@
         "foundation-models",
         "ai-infra"
       ],
-      "score": 100
+      "score": 98
     },
     {
       "id": "ai-10ffkh4",
@@ -1066,7 +2589,7 @@
         "foundation-models",
         "applications"
       ],
-      "score": 100
+      "score": 98
     },
     {
       "id": "ai-462yst",
@@ -1084,7 +2607,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 85
+      "score": 82
     },
     {
       "id": "ai-a6nw20",
@@ -1102,7 +2625,7 @@
       "categories": [
         "policy-safety"
       ],
-      "score": 85
+      "score": 82
     },
     {
       "id": "ai-1pt5afg",
@@ -1140,7 +2663,7 @@
       "categories": [
         "applications"
       ],
-      "score": 77
+      "score": 74
     },
     {
       "id": "ai-19hxam8",
@@ -1160,7 +2683,7 @@
         "applications",
         "robotics"
       ],
-      "score": 100
+      "score": 98
     },
     {
       "id": "ai-1pukrwi",
@@ -1180,7 +2703,7 @@
         "agents",
         "policy-safety"
       ],
-      "score": 100
+      "score": 98
     },
     {
       "id": "ai-11zxt2h",
@@ -1198,7 +2721,7 @@
       "categories": [
         "foundation-models"
       ],
-      "score": 85
+      "score": 82
     },
     {
       "id": "ai-1c1nxsg",
@@ -1216,7 +2739,7 @@
       "categories": [
         "applications"
       ],
-      "score": 77
+      "score": 74
     },
     {
       "id": "ai-oervnz",
@@ -1234,7 +2757,7 @@
       "categories": [
         "applications"
       ],
-      "score": 77
+      "score": 74
     },
     {
       "id": "ai-12xcshi",
@@ -1254,7 +2777,7 @@
         "policy-safety",
         "capital-market"
       ],
-      "score": 100
+      "score": 98
     },
     {
       "id": "ai-1f0ju1g",
@@ -1293,7 +2816,7 @@
         "foundation-models",
         "agents"
       ],
-      "score": 93
+      "score": 90
     },
     {
       "id": "ai-1qx5cwn",
@@ -1311,7 +2834,7 @@
       "categories": [
         "ai-infra"
       ],
-      "score": 85
+      "score": 82
     },
     {
       "id": "ai-idsu4j",
@@ -1330,7 +2853,7 @@
         "foundation-models",
         "agents"
       ],
-      "score": 93
+      "score": 90
     },
     {
       "id": "ai-s57hta",
@@ -1350,7 +2873,7 @@
         "foundation-models",
         "policy-safety"
       ],
-      "score": 100
+      "score": 98
     },
     {
       "id": "ai-v9uypo",
@@ -1368,7 +2891,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 85
+      "score": 82
     },
     {
       "id": "ai-1r91th0",
@@ -1387,7 +2910,7 @@
         "foundation-models",
         "ai-infra"
       ],
-      "score": 93
+      "score": 90
     },
     {
       "id": "ai-vlqf6e",
@@ -1406,7 +2929,7 @@
         "policy-safety",
         "capital-market"
       ],
-      "score": 93
+      "score": 90
     },
     {
       "id": "ai-1gz7ao9",
@@ -1424,7 +2947,7 @@
       "categories": [
         "ai-science"
       ],
-      "score": 85
+      "score": 82
     },
     {
       "id": "ai-9wvuvo",
@@ -1442,7 +2965,7 @@
       "categories": [
         "applications"
       ],
-      "score": 85
+      "score": 82
     },
     {
       "id": "ai-qy0wfq",
@@ -1462,7 +2985,7 @@
         "ai-infra",
         "policy-safety"
       ],
-      "score": 100
+      "score": 98
     },
     {
       "id": "ai-tvyqof",
@@ -1481,7 +3004,7 @@
         "agents",
         "ai-infra"
       ],
-      "score": 93
+      "score": 90
     },
     {
       "id": "ai-1gm5uop",
@@ -1520,7 +3043,7 @@
         "policy-safety",
         "capital-market"
       ],
-      "score": 93
+      "score": 90
     },
     {
       "id": "ai-a3003o",
@@ -1540,7 +3063,7 @@
         "policy-safety",
         "capital-market"
       ],
-      "score": 100
+      "score": 98
     },
     {
       "id": "ai-1dys56i",
@@ -1560,7 +3083,7 @@
         "foundation-models",
         "applications"
       ],
-      "score": 100
+      "score": 98
     },
     {
       "id": "ai-leltof",
@@ -1619,7 +3142,7 @@
         "policy-safety",
         "ai-infra"
       ],
-      "score": 100
+      "score": 98
     },
     {
       "id": "ai-juj2g6",
@@ -1638,7 +3161,7 @@
         "agents",
         "policy-safety"
       ],
-      "score": 93
+      "score": 90
     },
     {
       "id": "ai-eqpl9h",
@@ -1658,7 +3181,7 @@
         "policy-safety",
         "capital-market"
       ],
-      "score": 100
+      "score": 98
     },
     {
       "id": "ai-16hq5wj",
@@ -1677,7 +3200,7 @@
         "agents",
         "foundation-models"
       ],
-      "score": 93
+      "score": 90
     },
     {
       "id": "ai-13ovwpb",
@@ -1696,7 +3219,7 @@
         "agents",
         "foundation-models"
       ],
-      "score": 93
+      "score": 90
     },
     {
       "id": "ai-pho48e",
@@ -1716,7 +3239,7 @@
         "foundation-models",
         "applications"
       ],
-      "score": 100
+      "score": 98
     },
     {
       "id": "ai-145fk5k",
@@ -1736,7 +3259,7 @@
         "policy-safety",
         "open-source"
       ],
-      "score": 100
+      "score": 98
     },
     {
       "id": "ai-qhby1x",
@@ -1756,7 +3279,7 @@
         "agents",
         "applications"
       ],
-      "score": 100
+      "score": 98
     },
     {
       "id": "ai-1s02d1w",
@@ -1774,7 +3297,7 @@
       "categories": [
         "applications"
       ],
-      "score": 77
+      "score": 74
     },
     {
       "id": "ai-1l5fqwr",
@@ -1794,7 +3317,7 @@
         "foundation-models",
         "ai-infra"
       ],
-      "score": 100
+      "score": 98
     },
     {
       "id": "ai-1p4ed3z",
@@ -1833,7 +3356,7 @@
         "agents",
         "applications"
       ],
-      "score": 93
+      "score": 90
     },
     {
       "id": "ai-10w1ytx",
@@ -1872,7 +3395,7 @@
         "policy-safety",
         "agents"
       ],
-      "score": 100
+      "score": 98
     },
     {
       "id": "ai-1790bmf",
@@ -1890,7 +3413,7 @@
       "categories": [
         "agents"
       ],
-      "score": 85
+      "score": 82
     },
     {
       "id": "ai-1v4yf1p",
@@ -1908,7 +3431,7 @@
       "categories": [
         "foundation-models"
       ],
-      "score": 85
+      "score": 82
     },
     {
       "id": "ai-if8mtt",
@@ -1926,7 +3449,7 @@
       "categories": [
         "agents"
       ],
-      "score": 85
+      "score": 82
     },
     {
       "id": "ai-1dh9n1m",
@@ -1946,7 +3469,7 @@
         "applications",
         "policy-safety"
       ],
-      "score": 100
+      "score": 98
     },
     {
       "id": "ai-1tydgwe",
@@ -1985,7 +3508,7 @@
         "agents",
         "foundation-models"
       ],
-      "score": 93
+      "score": 90
     },
     {
       "id": "ai-b18msm",
@@ -2003,7 +3526,7 @@
       "categories": [
         "foundation-models"
       ],
-      "score": 85
+      "score": 82
     },
     {
       "id": "ai-1oa1j3v",
@@ -2022,7 +3545,7 @@
         "agents",
         "policy-safety"
       ],
-      "score": 93
+      "score": 90
     },
     {
       "id": "ai-9yqaa7",
@@ -2041,1604 +3564,7 @@
         "applications",
         "open-source"
       ],
-      "score": 93
-    },
-    {
-      "id": "ai-16j7wop",
-      "title": "BrandEval: A Two-Track Multi-Agent Benchmark for Risk-Sensitive LLM Crisis Communication",
-      "url": "https://arxiv.org/abs/2610.25208",
-      "summary": "arXiv:2610.25208v1 Announce Type: new Abstract: Evaluating LLMs for crisis communication requires more than judging isolated responses, because public feedback and competitor actions can reshape trust over time. Existing benchmarks remain largely static and single-turn, offering limited evidence about long-horizon risk-sensitive communication. We introduce \\textbf{BrandEval}, a two-track benchmark for product-crisis ",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "policy-safety",
-        "agents",
-        "foundation-models"
-      ],
-      "score": 100
-    },
-    {
-      "id": "ai-koxqe3",
-      "title": "Bridging Concepts: Multi-Agent Reasoning over Scientific Concept Graphs for High-Impact Research Prediction",
-      "url": "https://arxiv.org/abs/2610.25281",
-      "summary": "arXiv:2610.25281v1 Announce Type: new Abstract: Within a research community, new topics often emerge when previously unconnected concepts are first studied together. We construct scientific concept graphs (SCGs)--domain knowledge graphs whose nodes are fine-grained research concepts extracted from paper text by LLMs and whose edges capture their co-occurrence in papers--and study the task of forecasting high-impact c",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "agents",
-        "foundation-models",
-        "applications"
-      ],
-      "score": 100
-    },
-    {
-      "id": "ai-1ls03eg",
-      "title": "Aligning Language Models with Indigenous Community Cosmovision through Constitutional AI",
-      "url": "https://arxiv.org/abs/2610.25298",
-      "summary": "arXiv:2610.25298v1 Announce Type: new Abstract: Large language models (LLMs) are predominantly trained on corpora that reflect Western, anglophone worldviews. This asymmetry is not neutral: when a model answers questions about territory, community authority, or the relationship with nature, it does so from assumptions that may be alien to the communities using the system. This paper presents a system for aligning lan",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "foundation-models"
-      ],
-      "score": 85
-    },
-    {
-      "id": "ai-1okgkoa",
-      "title": "Outcome-Anchored Credit Reallocation for Agentic Knowledge Graph Question Answering",
-      "url": "https://arxiv.org/abs/2610.25384",
-      "summary": "arXiv:2610.25384v1 Announce Type: new Abstract: Agentic knowledge graph question answering (KGQA) requires large language models (LLMs) to solve complex questions through multi-turn interactions with a knowledge graph (KG). Outcome-supervised reinforcement learning derives verifiable outcome rewards from final answers but uniformly assigns each rollout's outcome-level advantage to all policy-generated tokens, creatin",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "foundation-models",
-        "agents",
-        "policy-safety"
-      ],
-      "score": 100
-    },
-    {
-      "id": "ai-1949dq8",
-      "title": "When Form Changes but Logic Doesn't: Building Logic-invariant LLMs through Logical Structure",
-      "url": "https://arxiv.org/abs/2610.25402",
-      "summary": "arXiv:2610.25402v1 Announce Type: new Abstract: Large language models (LLMs) have achieved strong performance across diverse reasoning tasks, yet it remains unclear whether this performance reflects an understanding of underlying logical structure or a reliance on shallow semantic cues. A key indicator of such understanding is whether models treat logically equivalent inputs consistently, producing the same predictio",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "foundation-models"
-      ],
-      "score": 85
-    },
-    {
-      "id": "ai-imwogk",
-      "title": "Stepwise Reasoning Verification: Don't Generate, Classify!",
-      "url": "https://arxiv.org/abs/2610.25441",
-      "summary": "arXiv:2610.25441v1 Announce Type: new Abstract: Verifying the reasoning of large language models is increasingly important as they are applied to complex mathematical and scientific problems. Existing work focuses on large decoder models and reports mixed results for generative and discriminative verifiers, leaving unclear which paradigm is more effective and whether large models are necessary. In this work, we cast ",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "foundation-models"
-      ],
-      "score": 85
-    },
-    {
-      "id": "ai-14r0c2n",
-      "title": "System X: An LLM Decision Model That Replies from Its Own KV Cache",
-      "url": "https://arxiv.org/abs/2610.25456",
-      "summary": "arXiv:2610.25456v1 Announce Type: new Abstract: Decision models return probabilities over supplied options, but a deployed agent may also need to reply in words. The present study introduces System X, a large language model (LLM) decision model that adds a text-reply option to the LLM-as-Jev readout. When this option wins, or confidence is low, the same model continues from the decision's key-value (KV) cache, avoidi",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "foundation-models",
-        "agents"
-      ],
-      "score": 93
-    },
-    {
-      "id": "ai-17xdaoo",
-      "title": "On Reasoning Correctness Directions",
-      "url": "https://arxiv.org/abs/2610.25464",
-      "summary": "arXiv:2610.25464v1 Announce Type: new Abstract: We present experimental evidence suggesting that information about whether a model's reasoning is on the right track can be linearly decodable without defining a causally useful direction for steering. To study this, we introduce ChainSearch, a controlled arithmetic reasoning task that extends Countdown with explicit search and backtracking. We train a 3-million-paramet",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "applications"
-      ],
-      "score": 85
-    },
-    {
-      "id": "ai-1ivlfae",
-      "title": "A failure of Imagination: VLMs fail to use visual representations for text, but self-distillation can help",
-      "url": "https://arxiv.org/abs/2610.25470",
-      "summary": "arXiv:2610.25470v1 Announce Type: new Abstract: Vision-language (VL) models are typically built by fine-tuning a language model to attend to visual features in service of a Visual Question-Answering objective. We ask whether this alignment changes how language models represent text---especially on tasks where visualization would help, like geometry questions posed in words. We distinguish weak multimodality (the mode",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "foundation-models",
-        "ai-infra",
-        "policy-safety"
-      ],
-      "score": 100
-    },
-    {
-      "id": "ai-18butto",
-      "title": "P(Yes): 15$\\times$ Improvements via Test-Time Scaling of Decision Models",
-      "url": "https://arxiv.org/abs/2610.25474",
-      "summary": "arXiv:2610.25474v1 Announce Type: new Abstract: Decision models answer typed questions, such as multiple-choice or yes/no questions, with a probability for each option. We add test-time search to frozen decision models, with no training: we show the model a complete proposed answer, read off its probability of saying \"Yes\" to the proposal's correctness, and search for answers that it rates higher. The search is done ",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "applications"
-      ],
-      "score": 85
-    },
-    {
-      "id": "ai-50vhz4",
-      "title": "From Proposal to Execution: Modeling Interaction Semantics in Shared Autonomy",
-      "url": "https://arxiv.org/abs/2610.25496",
-      "summary": "arXiv:2610.25496v1 Announce Type: new Abstract: In many human-AI systems, candidate actions are not executed directly but are first evaluated by another decision-making entity under a potentially different objective or decision model. Standard decision-theoretic frameworks do not require this interaction to be represented explicitly, as they define transition dynamics directly over state-action pairs, allowing evalua",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "policy-safety"
-      ],
-      "score": 85
-    },
-    {
-      "id": "ai-j1nbn9",
-      "title": "Assessing the AI Readiness of Construction Datasets: A Multidimensional Operational Framework",
-      "url": "https://arxiv.org/abs/2610.25499",
-      "summary": "arXiv:2610.25499v1 Announce Type: new Abstract: The rapid growth of artificial intelligence (AI) applications in construction has increased the demand for datasets suitable for reliable model development, evaluation, and reuse. However, construction datasets vary widely in documentation, quality, governance, and evaluation support, and consistent criteria for assessing AI readiness remain limited. This study develops",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "policy-safety",
-        "open-source",
-        "capital-market"
-      ],
-      "score": 100
-    },
-    {
-      "id": "ai-d03a2y",
-      "title": "Formal Raising: Embedding Verifiable Ethical Properties into the Development of AI",
-      "url": "https://arxiv.org/abs/2610.25501",
-      "summary": "arXiv:2610.25501v1 Announce Type: new Abstract: Alan Turing proposed constructing a ``child machine'' and educating it rather than directly programming an adult-like intelligent machine. Recent work on model raising revives this developmental view for Large Language Models by arguing that moral values should accompany capability acquisition from the beginning rather than be added only through post-hoc alignment. This",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "foundation-models",
-        "policy-safety",
-        "capital-market"
-      ],
-      "score": 100
-    },
-    {
-      "id": "ai-1ser846",
-      "title": "Bud ContextCompact 2.0: Context Compaction for Agent Success and Accuracy with Small Language Models and Constrained Context Windows",
-      "url": "https://arxiv.org/abs/2610.25516",
-      "summary": "arXiv:2610.25516v1 Announce Type: new Abstract: Agents that work for many turns outgrow the context window of the model that serves them, and on small language models (SLMs) and constrained inference systems that window is small. Context compaction replaces older turns with a summary so a session can continue, but it is lossy, costs a model call, and can help or hurt depending on when it runs. We describe Bud Context",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "agents",
-        "ai-infra"
-      ],
-      "score": 93
-    },
-    {
-      "id": "ai-1r4z2t0",
-      "title": "When Empathy Misses the Goal: A Benchmark for Goal Displacement in LLM Advice",
-      "url": "https://arxiv.org/abs/2610.25522",
-      "summary": "arXiv:2610.25522v1 Announce Type: new Abstract: Conversational large language models can respond with warmth and reassurance while failing to advance the user's stated goal. We conceptualize this failure as $\\textbf{goal displacement}$, the substitution of persona-maintenance content for goal-relevant substance. To measure it, we introduce $\\textbf{GDB}$ (Goal Displacement Benchmark), comprising 230 scenarios across ",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "foundation-models",
-        "policy-safety",
-        "open-source"
-      ],
-      "score": 100
-    },
-    {
-      "id": "ai-1bd1zi8",
-      "title": "StopLoss: Teaching Agents to Predict Failure and Stop Early",
-      "url": "https://arxiv.org/abs/2610.25525",
-      "summary": "arXiv:2610.25525v1 Announce Type: new Abstract: Coding agents keep working on runs that will fail verification, and asking a frontier model to watch for this is expensive in its own right. We introduce StopLoss, a small external monitor that learns failure recognition from completed trajectories and their verifier outcomes. The name is inspired by the stop-loss order in finance: StopLoss ends a run early when the run",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "agents"
-      ],
-      "score": 85
-    },
-    {
-      "id": "ai-1vcb951",
-      "title": "From Clinical Risk Prediction to Operational Decisions: An Uncertainty-Aware Framework for ICU Staffing",
-      "url": "https://arxiv.org/abs/2610.25530",
-      "summary": "arXiv:2610.25530v1 Announce Type: new Abstract: Advances in electronic health records (EHR) and large-scale critical care databases have enabled the development of machine learning models for the early detection of patient deterioration. While these models often achieve strong predictive performance for outcomes such as sepsis and mortality, most studies evaluate them purely on discrimination metrics. This leaves a c",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "policy-safety"
-      ],
-      "score": 85
-    },
-    {
-      "id": "ai-1oib0rs",
-      "title": "Auditing Tool Traces in Agentic LLMs: Source Localization and Counterfactual Dependence Testing",
-      "url": "https://arxiv.org/abs/2610.25540",
-      "summary": "arXiv:2610.25540v1 Announce Type: new Abstract: Agentic LLMs increasingly support scientific prediction by grounding decisions in external evidence. In biology, they promise accurate, interpretable predictions for important problems by integrating complex experimental and computational evidence. However, serialized tool results can contain hidden label shortcuts, such as dataset identifiers or template artifacts, tha",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "foundation-models",
-        "agents",
-        "ai-science"
-      ],
-      "score": 100
-    },
-    {
-      "id": "ai-a99bi1",
-      "title": "Editing as Language: Teaching LLM Agents a Grammar for Native Context Editing",
-      "url": "https://arxiv.org/abs/2610.25550",
-      "summary": "arXiv:2610.25550v1 Announce Type: new Abstract: A synopsis in novels folds a story into a few lines; a function in code gathers many steps with a single execution. Context editing is native to language itself. In this paper, we propose the Native Context Editing (NCE) framework, which gives language model agents a grammar for natively editing their own context. By encoding context-editing operations in a grammar of d",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "agents",
-        "foundation-models"
-      ],
-      "score": 93
-    },
-    {
-      "id": "ai-6vlmdw",
-      "title": "Symbolic Constraint Agents: Mining Formal Tool-Call Constraints to Prevent Agent Errors",
-      "url": "https://arxiv.org/abs/2610.25552",
-      "summary": "arXiv:2610.25552v1 Announce Type: new Abstract: Symbolic constraints (programmatic, deterministic checks for tool calls) enable deterministic verification of LLM agents' tool calls, but existing approaches primarily enforce predefined safety policies rather than tool dependencies in complex tool environments. We explore whether symbolic constraints can be mined from environments and observations beyond predefined pol",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "agents",
-        "foundation-models",
-        "policy-safety"
-      ],
-      "score": 100
-    },
-    {
-      "id": "ai-d07omy",
-      "title": "Narrow Decision Models: A System-1 Architecture for Calibrated, Typed Decisions",
-      "url": "https://arxiv.org/abs/2610.25553",
-      "summary": "arXiv:2610.25553v1 Announce Type: new Abstract: System One models, introduced with TypeSafe's Jev, answer typed questions about a state with calibrated probabilities instead of generated text: choosing among options described in natural language (Choice), placing the state on an ordered scale (Score), or judging a yes/no statement (Noul). Jev is general-purpose: one set of weights, served as an API and adapted to a d",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "applications"
-      ],
-      "score": 77
-    },
-    {
-      "id": "ai-1z0msil",
-      "title": "Learning Which Device to Call: Online Tool Grounding for LLM Agents in IoT",
-      "url": "https://arxiv.org/abs/2610.25563",
-      "summary": "arXiv:2610.25563v1 Announce Type: new Abstract: The Internet of Things (IoT) gives large language model (LLM) agents access to physical observations, but one requested capability is usually offered by several devices, and the agent's plan does not say which one to call. Existing work retrieves relevant tools and checks plan feasibility, without learning which eligible device returns a useful observation. Unlike previ",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "foundation-models",
-        "agents"
-      ],
-      "score": 93
-    },
-    {
-      "id": "ai-wbsq4q",
-      "title": "Design and Cross-Domain Evaluation of an Agent Execution Harness",
-      "url": "https://arxiv.org/abs/2610.25568",
-      "summary": "arXiv:2610.25568v1 Announce Type: new Abstract: Completing complex tasks with language-model agents requires coordinating planning, execution, and review so the final result addresses the user's original objective. We present an agent execution harness that keeps the original objective separate from a revisable plan and an execution record. A planner assigns scoped tasks, workers produce outputs and artifacts, and a ",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "agents",
-        "ai-infra",
-        "policy-safety"
-      ],
-      "score": 100
-    },
-    {
-      "id": "ai-15azo4w",
-      "title": "The Forward/Inverse Duality of Controlled Emergence:A Computational Design Program from Explanation to Engineering",
-      "url": "https://arxiv.org/abs/2610.25630",
-      "summary": "arXiv:2610.25630v1 Announce Type: new Abstract: The macroscopic capabilities of intelligent systems arise from the local interactions of many simple units. When such systems are deployed in the real world, their behaviour must nevertheless be constrained, leaving designers caught between releasing adaptability and preventing loss of control, yet without formal tools to resolve the dilemma. This paper proposes a unifi",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "applications"
-      ],
-      "score": 77
-    },
-    {
-      "id": "ai-4xb8c5",
-      "title": "Think, Compress, Answer: Reinforcement Learning for Multimodal Grounding via Reasoning Compression",
-      "url": "https://arxiv.org/abs/2610.25640",
-      "summary": "arXiv:2610.25640v1 Announce Type: new Abstract: Extended reasoning has substantially improved multimodal large language models (MLLMs) on tasks requiring compositional and relational inference. However, multimodal grounding imposes a distinct requirement: reasoning must ultimately converge on a target-specific compact representation that supports precise localization. As reasoning trajectories grow longer, they often",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "foundation-models",
-        "ai-infra"
-      ],
-      "score": 93
-    },
-    {
-      "id": "ai-o49jfi",
-      "title": "Spherical Fixed-Point Reasoners: Adaptive Loop Halting on the Hypersphere",
-      "url": "https://arxiv.org/abs/2610.25646",
-      "summary": "arXiv:2610.25646v1 Announce Type: new Abstract: Looped (weight-tied) transformers enable adaptive computation by allocating more iterations to harder inputs. Fixed-Point Reasoners (FPRM) achieve this with a damped fixed-point solver, but operate in an unbounded Euclidean residual space with coupled rescaling and relative-norm halting. We introduce Spherical Fixed-Point Reasoners (SFPRM), which perform the same comput",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "foundation-models"
-      ],
-      "score": 85
-    },
-    {
-      "id": "ai-1gjqrdc",
-      "title": "HyperTaxa: Multiscale Genome Representations for Generalized Microbial Taxonomic Inference",
-      "url": "https://arxiv.org/abs/2610.25673",
-      "summary": "arXiv:2610.25673v1 Announce Type: new Abstract: Reliable microbial taxonomic inference is challenged by the rapid growth of newly sequenced organisms and incomplete reference coverage. While alignment- and database-driven tools remain essential for reference-backed identification, they are not designed for learned inference over species absent from genome-level training. We introduce HyperTaxa, a taxonomy-aligned rep",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "ai-infra",
-        "policy-safety"
-      ],
-      "score": 93
-    },
-    {
-      "id": "ai-64a1a7",
-      "title": "LIRQuant: An Efficient Locally Isolated Rotation Quantization Method for Large Language Models",
-      "url": "https://arxiv.org/abs/2610.25675",
-      "summary": "arXiv:2610.25675v1 Announce Type: new Abstract: Post-Training Quantization (PTQ) enables efficient deployment of Large Language Models (LLMs), yet activation outliers remain a key challenge for low-bit quantization. Existing global transformation methods overlook heterogeneous channel sensitivity to quantization noise, leading to suboptimal accuracy-efficiency trade-offs. To address this, we propose \\textbf{Locally I",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "foundation-models",
-        "ai-infra"
-      ],
-      "score": 93
-    },
-    {
-      "id": "ai-1jnochw",
-      "title": "Neither Over- nor Under-Constrained: Evaluating LLM Personalization under a Constraint Qualification Audit",
-      "url": "https://arxiv.org/abs/2610.25676",
-      "summary": "arXiv:2610.25676v1 Announce Type: new Abstract: Accurate evaluation of LLM personalization is hindered by current evaluation paradigms that over- or under-constrain the response space, yielding frequent false rejections and false acceptances. To reduce these false rates, we introduce ConQual-Audit, an audit-based framework that evaluates LLM personalization through a three-stage process: (1) extracting semantic const",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "foundation-models",
-        "policy-safety",
-        "capital-market"
-      ],
-      "score": 100
-    },
-    {
-      "id": "ai-b0oh95",
-      "title": "BitFlat: Error-Localized Bitstream Design for Robust Diffusion Image Compression",
-      "url": "https://arxiv.org/abs/2610.25682",
-      "summary": "arXiv:2610.25682v1 Announce Type: new Abstract: Zero-shot diffusion image compression based on reverse channel coding achieves high perceptual quality at low bitrates without retraining, yet its bitstream remains vulnerable to bit flips. Prior work has shown that a joint combinatorial representation can amplify a single bit flip into substitutions of multiple atoms and that indexing each atom independently confines t",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "media-generation"
-      ],
-      "score": 85
-    },
-    {
-      "id": "ai-qq5zmt",
-      "title": "When Safety Fails Collectively: Robust Alignment Against Harmful Fine-Tuning via Joint Weight Perturbations",
-      "url": "https://arxiv.org/abs/2610.25683",
-      "summary": "arXiv:2610.25683v1 Announce Type: new Abstract: Harmful fine-tuning can rapidly erode the safety alignment of large language models, creating substantial risks when aligned models are adapted to downstream tasks. Existing alignment-stage defenses use harmful examples and simulated harmful perturbations during safety alignment to prepare models for later harmful fine-tuning, yet the collective effects of harmful weigh",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "policy-safety",
-        "foundation-models",
-        "ai-infra"
-      ],
-      "score": 100
-    },
-    {
-      "id": "ai-y8zr2i",
-      "title": "ToolOPD: Credit-Aware On-Policy Distillation for Tool-Use Agents",
-      "url": "https://arxiv.org/abs/2610.25693",
-      "summary": "arXiv:2610.25693v1 Announce Type: new Abstract: On-policy distillation (OPD) enhances the capabilities of small language agents by providing dense, token-level supervision from a teacher model on student-generated trajectories. However, standard OPD implicitly assumes that credit is uniformly distributed across long-horizon trajectories, assigning the same strength of teacher supervision to different actions. Through",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "agents",
-        "policy-safety"
-      ],
-      "score": 93
-    },
-    {
-      "id": "ai-12snt9e",
-      "title": "CVaR-RMD: CVaR Selection Pressure for Robust Metaheuristic Discovery",
-      "url": "https://arxiv.org/abs/2610.25697",
-      "summary": "arXiv:2610.25697v1 Announce Type: new Abstract: Large language models have recently been used to discover heuristics through iterative program search, offering a promising approach to automated algorithm design. However, candidates selected by average performance may degrade across instance families, random seeds, and problem scales because mean-based objectives can obscure rare but severe failures. We propose CVaR-R",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "foundation-models",
-        "ai-infra",
-        "applications"
-      ],
-      "score": 100
-    },
-    {
-      "id": "ai-vpq4x6",
-      "title": "From Black Box to Controller: Inference-Time Steering of LLM via Feature Amplification",
-      "url": "https://arxiv.org/abs/2610.25700",
-      "summary": "arXiv:2610.25700v1 Announce Type: new Abstract: Inference-time steering is crucial for deploying Large Language Models (LLMs) in real-world applications, where they must flexibly adjust behavior preferences. For instance, a model should dynamically adjust its caution level based on the risk of the scenario. This requirement introduces a challenge: modulating the intensity of LLM preferences. Prompt engineering can re",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "foundation-models",
-        "ai-infra",
-        "policy-safety"
-      ],
-      "score": 100
-    },
-    {
-      "id": "ai-24yzqr",
-      "title": "Whose Credential Is It? How Owner Attribution in Agent MemoryShapes Cross-User Account Misuse",
-      "url": "https://arxiv.org/abs/2610.25707",
-      "summary": "arXiv:2610.25707v1 Announce Type: new Abstract: Shared long-term memory lets an LLM agent serving one user inadvertently retrieve another user's credentials, but it is unclear when such exposure leads to actual harm. We introduce a three-stage audit that separates three events: a foreign credential reaches the prompt (exposure), the agent acts with it (behavior), and the other user's account changes (state). In AppWo",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "foundation-models",
-        "agents",
-        "ai-infra"
-      ],
-      "score": 100
-    },
-    {
-      "id": "ai-wprtlp",
-      "title": "PFedQFT: Personalized Federated Quantum-Inspired Fine-Tuning for Medical Large Language Models",
-      "url": "https://arxiv.org/abs/2610.25712",
-      "summary": "arXiv:2610.25712v1 Announce Type: new Abstract: Medical data remain fragmented across institutional silos because of privacy, governance, and ownership constraints. Federated learning enables medical institutions to adapt large language models (LLMs) collaboratively without transferring raw records. However, independently parameterized low-rank adapters incur repeated parameter and communication costs across Transfor",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "foundation-models",
-        "ai-infra",
-        "policy-safety"
-      ],
-      "score": 100
-    },
-    {
-      "id": "ai-1kr1t8r",
-      "title": "Fine-Grained Units, Flat Decisions: Hierarchical Micro-Expert Pruning for Mixture-of-Experts Models",
-      "url": "https://arxiv.org/abs/2610.25717",
-      "summary": "arXiv:2610.25717v1 Announce Type: new Abstract: Micro-expert pruning reduces the capacity of mixture-of-experts (MoE) models by removing coupled channels within routed experts. However, finer pruning granularity alone does not guarantee the preservation of downstream capabilities, as similar language-modeling perplexity can accompany substantially different task performance. We revisit micro-expert mask construction ",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "foundation-models"
-      ],
-      "score": 85
-    },
-    {
-      "id": "ai-5egbfa",
-      "title": "TimelineAgent: An LLM-based Framework for Query-Centric Event Timeline Extraction Across Multiple Documents",
-      "url": "https://arxiv.org/abs/2610.25733",
-      "summary": "arXiv:2610.25733v1 Announce Type: new Abstract: Query-centric cross-document event timeline extraction aims to construct event timelines from multiple documents under diverse query focuses. The task is very challenging due to the heterogeneous event modeling and reasoning requirements arising from both the intrinsic complexity of cross-document timeline construction and the diversity of query focuses. In this paper, ",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "foundation-models",
-        "agents"
-      ],
-      "score": 93
-    },
-    {
-      "id": "ai-c26i07",
-      "title": "ActTime: Action-Conditioned World Modeling for Time Series",
-      "url": "https://arxiv.org/abs/2610.25764",
-      "summary": "arXiv:2610.25764v1 Announce Type: new Abstract: Time-series models increasingly condition on known future inputs. In controlled systems, some of these inputs are actions that can be changed, compared, and optimized before execution. A model must therefore do more than predict the realized future: it must predict how outcomes change under different actions from the same observed history and support reliable comparison",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "robotics"
-      ],
-      "score": 85
-    },
-    {
-      "id": "ai-1jdsa91",
-      "title": "TRACE: Tracking Multimodal Clinical Trajectories for Inpatient Risk Prediction",
-      "url": "https://arxiv.org/abs/2610.25765",
-      "summary": "arXiv:2610.25765v1 Announce Type: new Abstract: Accurate inpatient risk prediction requires modeling heterogeneous clinical evidence that accumulates irregularly over time. This challenge spans in-hospital mortality, prolonged length of stay, and readmission, each with task-specific observation windows. Existing multimodal approaches combine structured health record data, chest x-rays, and clinical text, but primaril",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "foundation-models",
-        "policy-safety"
-      ],
-      "score": 93
-    },
-    {
-      "id": "ai-1rtajra",
-      "title": "EvalRx: Agentic Diagnosis and Verified Repair of Foundation Models",
-      "url": "https://arxiv.org/abs/2610.25767",
-      "summary": "arXiv:2610.25767v1 Announce Type: new Abstract: Model evaluation reveals where models fail, but rarely why or whether a proposed fix genuinely works. We introduce EvalRx, an open-source agentic framework for statistically grounded model diagnosis and repair. EvalRx discovers systematic failure modes, explores candidate mechanisms, formulates falsifiable hypotheses, and verifies them by executing frozen, pre-specified",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "foundation-models",
-        "agents",
-        "policy-safety"
-      ],
-      "score": 100
-    },
-    {
-      "id": "ai-cby7yv",
-      "title": "From Trace to Fix: Residual Task State in Long-Horizon Agents",
-      "url": "https://arxiv.org/abs/2610.25776",
-      "summary": "arXiv:2610.25776v1 Announce Type: new Abstract: Recovering from failures in long-horizon, stateful language agents is challenging because the action introducing a defect, the symptom exposing it, and the persistent state requiring repair frequently diverge. Existing methods largely focus on retrospective failure attribution, leaving sequential diagnosis and state repair poorly integrated under constrained budgets. We",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "agents"
-      ],
-      "score": 85
-    },
-    {
-      "id": "ai-1sd2s5s",
-      "title": "Standing on the Shoulders of Giants: Enhancing LLM Agents for Automated Fact-Checking with Human Expert Skills",
-      "url": "https://arxiv.org/abs/2610.25777",
-      "summary": "arXiv:2610.25777v1 Announce Type: new Abstract: Automated fact-checking (AFC) systems powered by large language model (LLM) agents still face challenges in evidence retrieval and claim verification. Existing approaches improve their capabilities through computationally costly post-training or human-in-the-loop feedback that is difficult to scale. To transfer professional fact-checking expertise to LLM agents efficien",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "foundation-models",
-        "agents",
-        "ai-infra"
-      ],
-      "score": 100
-    },
-    {
-      "id": "ai-pzulra",
-      "title": "OpenSaC: A Python Library for Search as Code in Deep Research Agents",
-      "url": "https://arxiv.org/abs/2610.25779",
-      "summary": "arXiv:2610.25779v1 Announce Type: new Abstract: Deep research agents investigate complex questions through iterative search, source examination, and evidence synthesis. A conventional workflow alternates reasoning with individual search and reading actions. Search as Code introduces a new paradigm: agents write programs that compose search, source reading, reranking, model calls, and local processing, returning selec",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "agents",
-        "applications"
-      ],
-      "score": 93
-    },
-    {
-      "id": "ai-92if9h",
-      "title": "Can LLM User-Proxies Stand In for Humans in Reliance Measurement? Replicating Rel-A.I. with Simulated Users",
-      "url": "https://arxiv.org/abs/2610.25788",
-      "summary": "arXiv:2610.25788v1 Announce Type: new Abstract: Can language-model user proxies reproduce human reliance on an AI answer across contexts? Published simulated-user studies do not establish validity for this partial-answer decision, and Rel-A.I.'s released human record omits trial-level choices. We audit its 90 printed questions and 15 domain-by-marker reliance rates using sampled decisions and counterbalanced A/B prob",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "foundation-models"
-      ],
-      "score": 85
-    },
-    {
-      "id": "ai-17atfd0",
-      "title": "SAR: Learning Global Item-Space Matching and Geometry-Aware Placement Ranking for Buffered Online 3D Bin Packing",
-      "url": "https://arxiv.org/abs/2610.25795",
-      "summary": "arXiv:2610.25795v1 Announce Type: new Abstract: Online 3D bin packing with a bounded buffer requires irreversible item-selection and placement decisions under limited knowledge of future arrivals. Feasibility alone is insufficient, as feasible actions can produce different residual-space structures and subsequent packing opportunities. A central architectural question is how to allocate spatial reasoning between item",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "applications"
-      ],
-      "score": 77
-    },
-    {
-      "id": "ai-d0ebkq",
-      "title": "When to Stop Asking: Factor Coverage Bias and LLM Determinability Judgments with Underspecified Information in Medicine",
-      "url": "https://arxiv.org/abs/2610.25819",
-      "summary": "arXiv:2610.25819v1 Announce Type: new Abstract: Clinical decision-making often begins with underspecified information and requires not only gathering missing information but also knowing when to stop. This calls for judging determinability (whether the available information is sufficient for a decision) by considering whether missing information could change the conclusion, not simply the amount of available decision",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "foundation-models",
-        "ai-infra"
-      ],
-      "score": 93
-    },
-    {
-      "id": "ai-4f4wsj",
-      "title": "When Retrieval Partially Conflicts with Skills: Understanding Procedural Hallucination in Language Models",
-      "url": "https://arxiv.org/abs/2610.25827",
-      "summary": "arXiv:2610.25827v1 Announce Type: new Abstract: Language models increasingly use skills that provide reusable instructions and procedures for task execution. After a relevant skill has been selected, the model may need to apply its governing procedure together with retrieved task context. When the retrieved context is useful but contains cues that violate the skill, the model must retain compatible information while ",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "ai-infra",
-        "policy-safety"
-      ],
-      "score": 93
-    },
-    {
-      "id": "ai-5gkhnc",
-      "title": "FrontierRefactor: Benchmarking Multi-Scale Performance-Oriented Codebase Refactoring",
-      "url": "https://arxiv.org/abs/2610.25834",
-      "summary": "arXiv:2610.25834v1 Announce Type: new Abstract: Autonomous codebase refactoring requires coding agents to restructure working software while strictly preserving externally observable behavior and prioritizing execution performance and compute efficiency over stylistic preference. Existing benchmarks: refactoring benchmarks assess functional correctness while overlooking runtime regressions, whereas code performance b",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "agents",
-        "ai-infra",
-        "policy-safety"
-      ],
-      "score": 100
-    },
-    {
-      "id": "ai-1pprcyc",
-      "title": "Not Every Rollout Needs Distillation: Correctness-Filtered On-Policy Self-Distillation",
-      "url": "https://arxiv.org/abs/2610.25842",
-      "summary": "arXiv:2610.25842v1 Announce Type: new Abstract: On-policy self-distillation (OPSD) supervises student-generated trajectories with a reference-conditioned version of the same base model. We ask whether every trajectory supplies distinct supervision that warrants its distillation cost. Gradient measurements on Qwen3-1.7B at initialization reveal that correct and incorrect responses have similar individual gradient magn",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "policy-safety"
-      ],
-      "score": 85
-    },
-    {
-      "id": "ai-f4af66",
-      "title": "A Cue's Hidden Price: Auditing Seller Influence on AI Shoppers",
-      "url": "https://arxiv.org/abs/2610.25843",
-      "summary": "arXiv:2610.25843v1 Announce Type: new Abstract: Large language models are increasingly asked to shop on a user's behalf, which lets seller-controlled content such as badges, endorsements, and framing steer what they recommend. That poses the question at the core of generative engine optimization (GEO): not whether seller content shifts an agent's choice, but how much. The usual gauge of that influence, how often a cu",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "foundation-models",
-        "agents"
-      ],
-      "score": 93
-    },
-    {
-      "id": "ai-4bwz1g",
-      "title": "MASIF: Implicit Failures for Process Observability in Multi-Agent Systems",
-      "url": "https://arxiv.org/abs/2610.25852",
-      "summary": "arXiv:2610.25852v1 Announce Type: new Abstract: Multi-agent systems (MAS) can complete a task despite local execution errors that are corrected, bypassed, or carried forward without individually determining its outcome. We call these implicit failures (IFs) and study them as signals for process observability beyond final task outcome. Across 1,828 traces from nine MAS-benchmark configurations, IFs occur in 54.3% of s",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "agents",
-        "policy-safety",
-        "open-source"
-      ],
-      "score": 100
-    },
-    {
-      "id": "ai-1xofg9k",
-      "title": "Are Self-Evolving Agents Continual Learners?",
-      "url": "https://arxiv.org/abs/2610.25858",
-      "summary": "arXiv:2610.25858v1 Announce Type: new Abstract: Large language model agents are often deployed in environments where new knowledge, tools, and workflows keep arriving. Such an agent is therefore expected to adapt continually, learning new tasks as they arrive without forgetting earlier ones. This resembles the continual learning problem, but at a pace that conventional gradient updates cannot sustain. Nonparametric s",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "agents",
-        "foundation-models"
-      ],
-      "score": 93
-    },
-    {
-      "id": "ai-q2giae",
-      "title": "Minimum-Cost Robust Evidence Certificates for Horn Reasoning under Correlated Source Failures",
-      "url": "https://arxiv.org/abs/2610.25865",
-      "summary": "arXiv:2610.25865v1 Announce Type: new Abstract: A small justification for a rule-based conclusion may disappear when a source is withdrawn, and multiple derivations need not provide independent evidence. We study minimum-cost certificates that preserve a Horn conclusion under every withdrawal of at most k source domains. Evidence records remain distinct from asserted facts, supporting replicated attestations and over",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "applications"
-      ],
-      "score": 77
-    },
-    {
-      "id": "ai-1ujdr5m",
-      "title": "Benefit-Targeted Routing and Bounded Revision for LLM-Based Evidence Screening in Manufacturing Supplier Discovery",
-      "url": "https://arxiv.org/abs/2610.25867",
-      "summary": "arXiv:2610.25867v1 Announce Type: new Abstract: An evidence-review system must allocate additional model judgments and control their use. We study these software decisions on 6,164 frozen manufacturing source-task pairs. Benefit-targeted routing learns recovered agreement minus newly introduced disagreement. On the original 300-case test, 60 consultations yield 202/231 agreements with two human references versus 189/",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "foundation-models"
-      ],
-      "score": 85
-    },
-    {
-      "id": "ai-1ad92r2",
-      "title": "CODA: Cohort- and Drift-aware Foundation Model for Multimodal Clinical Reasoning",
-      "url": "https://arxiv.org/abs/2610.25871",
-      "summary": "arXiv:2610.25871v1 Announce Type: new Abstract: Recent advances in multimodal foundation models have demonstrated strong performance across diverse clinical tasks. However, existing approaches predominantly operate at the individual sample level and fail to model the interplay between population-level cohort patterns and patient-specific variation that underlie real-world clinical reasoning. In practice, clinicians r",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "foundation-models"
-      ],
-      "score": 85
-    },
-    {
-      "id": "ai-b6q06y",
-      "title": "Motor compound fault diagnosis using an attention-based cross-talk architecture",
-      "url": "https://arxiv.org/abs/2610.25893",
-      "summary": "arXiv:2610.25893v1 Announce Type: new Abstract: As physical AI increasingly relies on sensing to understand physical systems, reliable condition monitoring of industrial machinery has become more important. Motors are ubiquitous in industrial systems, and increasing system complexity raises the likelihood of simultaneous faults. Accordingly, compound fault diagnosis that identifies multiple fault components and their",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "robotics"
-      ],
-      "score": 85
-    },
-    {
-      "id": "ai-lic8x0",
-      "title": "When Should AI Chime In? Benchmarking Timely Contribution of Proactive Agents in Multi-Party Chat",
-      "url": "https://arxiv.org/abs/2610.25896",
-      "summary": "arXiv:2610.25896v1 Announce Type: new Abstract: Proactive agents can support group collaboration by surfacing useful information without waiting to be asked, but even relevant contributions can be disruptive if poorly timed. In this work, we isolate the timing question: given a fixed candidate contribution such as a clarification or relevant fact, when should an AI agent chime in? We introduce PITCH (Proactive Interv",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "agents",
-        "policy-safety",
-        "open-source"
-      ],
-      "score": 100
-    },
-    {
-      "id": "ai-kdoubt",
-      "title": "TESS: LLM-guided Translation, Exploration, Simulation, and Search for Embodied Task Planning",
-      "url": "https://arxiv.org/abs/2610.25930",
-      "summary": "arXiv:2610.25930v1 Announce Type: new Abstract: In this work we focus on the problem of embodied task planning, which requires an agent to accomplish a complex task by separating it into atomic actions. Recent studies have developed LLM-based methods to address this problem. However, the executability and correctness of the generated plans remain suboptimal in complex environments and tasks. On the other hand, classi",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "agents",
-        "foundation-models",
-        "applications"
-      ],
-      "score": 100
-    },
-    {
-      "id": "ai-1sy5sqi",
-      "title": "EvoSkill v2: Fully Agentic Skill Evolution from Benchmark Adaptation to a Stateful Evolver",
-      "url": "https://arxiv.org/abs/2610.25931",
-      "summary": "arXiv:2610.25931v1 Announce Type: new Abstract: EvoSkill v2 is a three-agent system that edits the instructions (skills) an agent is given, leaving its model and harness intact. The user starts a run by describing a benchmark and supplying a grader, which a benchmark adaptor turns into a benchmark-specific plugin. A solver attempts the tasks, and an evolver reads the solver's training rollouts and rewrites the skills",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "agents",
-        "policy-safety",
-        "open-source"
-      ],
-      "score": 100
-    },
-    {
-      "id": "ai-1tx74cy",
-      "title": "Global probabilistic forecasting of air pollution",
-      "url": "https://arxiv.org/abs/2610.25941",
-      "summary": "arXiv:2610.25941v1 Announce Type: new Abstract: Fine particulate matter (PM2.5) refers to particulate matter with an aerodynamic diameter of 2.5 micrometre or less. It comes from human activities, such as traffic and industry, and from wildfires, desert dust and gases emitted by vegetation. Short-term exposure to it accounts for about a million deaths a year. Operational forecasts run on grids tens of kilometres wide",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "applications"
-      ],
-      "score": 77
-    },
-    {
-      "id": "ai-1l32vc2",
-      "title": "Claim Laundering: When Agent Decision Models Trust Records Over Reality",
-      "url": "https://arxiv.org/abs/2610.25947",
-      "summary": "arXiv:2610.25947v1 Announce Type: new Abstract: Agent decision models select actions in a single forward pass from inputs that combine environmental observations with the agent's own record of previous actions. When an action fails silently, these sources can conflict: the record reports success, but the environment shows that the step did not take effect. We ask which source determines the next decision. Across Andr",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "agents"
-      ],
-      "score": 85
-    },
-    {
-      "id": "ai-166curg",
-      "title": "OrderGPT: Generation Order as a Learnable Modeling Choice",
-      "url": "https://arxiv.org/abs/2610.25949",
-      "summary": "arXiv:2610.25949v1 Announce Type: new Abstract: Generative modeling of discrete data has two popular paradigms: autoregressive models such as GPT, which factorize a sequence in a left-to-right (L2R) order, and masked diffusion models, which are essentially any-order autoregressive modeling. Rather than competing methods, these are the two extreme points of a single axis -- the generation order. For structured discret",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "foundation-models",
-        "media-generation"
-      ],
-      "score": 93
-    },
-    {
-      "id": "ai-arzppz",
-      "title": "CXBench: A Benchmark for Process-Compliant LLM Agents in Regulated Customer-Experience Workflows",
-      "url": "https://arxiv.org/abs/2610.25954",
-      "summary": "arXiv:2610.25954v1 Announce Type: new Abstract: Tool-using language agents increasingly perform regulated customer-service workflows, where a correct final state is insufficient: agents must also provide disclosures, obtain consent, and follow required procedures. Existing tool-agent benchmarks largely score final business states, accepting trajectories that reach correct outcomes through non-compliant processes. We ",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "agents",
-        "foundation-models",
-        "policy-safety"
-      ],
-      "score": 100
-    },
-    {
-      "id": "ai-arohmf",
-      "title": "Productive State-Space Exploration for Multi-turn RL in LLM Agents",
-      "url": "https://arxiv.org/abs/2610.25957",
-      "summary": "arXiv:2610.25957v1 Announce Type: new Abstract: Reinforcement Learning (RL) for Large Language Model (LLM) agents in multi-turn, long-horizon environments remains challenging due to inefficient action selection and repetitive behavioral patterns. In particular, agents often become trapped in high-confidence yet unproductive behaviors, repeatedly executing invalid actions or entering action loops that hinder task comp",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "foundation-models",
-        "agents"
-      ],
-      "score": 93
-    },
-    {
-      "id": "ai-glcwdo",
-      "title": "EmbodiedWorld-200K: Toward Embodied World Agents via Embodied-Planning Dataset and Interactive World Models",
-      "url": "https://arxiv.org/abs/2610.25959",
-      "summary": "arXiv:2610.25959v1 Announce Type: new Abstract: Building embodied agents that can perceive, reason, and act across diverse 3D worlds is a central research direction toward artificial general intelligence. Yet most existing work remains confined to specific tasks in a single scene and transfers poorly to new environments, leaving general embodied agents for open-world settings under-explored. We refer to such agents a",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "agents",
-        "robotics",
-        "applications"
-      ],
-      "score": 100
-    },
-    {
-      "id": "ai-9k7fdj",
-      "title": "ABACUS: Program-Guided Multistep Reasoning over Frozen Judgment Models",
-      "url": "https://arxiv.org/abs/2610.25963",
-      "summary": "arXiv:2610.25963v1 Announce Type: new Abstract: Judgment models answer semantic questions by scoring a finite set of candidate outcomes. Can reusable programs turn these local decisions into powerful multistep reasoning? We introduce \\method, a framework that jointly constructs judgment schemas and composition programs for frozen judgment models. A generative teacher designs the procedure offline; the judgment model ",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "applications"
-      ],
-      "score": 77
-    },
-    {
-      "id": "ai-133r5wx",
-      "title": "GLOBE: Geometry-Led Online Behavioral Early Exit via Unit-Sphere Trajectories",
-      "url": "https://arxiv.org/abs/2610.25970",
-      "summary": "arXiv:2610.25970v1 Announce Type: new Abstract: Chain-of-thought (CoT) reasoning can improve problem solving, but models often keep generating after the correct answer is already reachable; the extra steps raise serving costs and may replace a correct intermediate result with an incorrect one. We propose GLOBE (Geometry-Led Online Behavioral Early Exit), an online, training-free algorithm that terminates the model's ",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "ai-infra"
-      ],
-      "score": 85
-    },
-    {
-      "id": "ai-1q5h3mm",
-      "title": "On the Benefits of Uncertainty Estimation for Species Classification: A Case Study on Optimizing Expert re-Annotation",
-      "url": "https://arxiv.org/abs/2610.25977",
-      "summary": "arXiv:2610.25977v1 Announce Type: new Abstract: Automated identification of diatoms from microscopic images is a cornerstone of large-scale freshwater biomonitoring, yet the high diversity of species and strong class imbalance pose significant challenges for reliable classification. In this study, we develop a ResNet-18 baseline for a 759-class diatom dataset and investigate how calibrated confidence estimates suppor",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "open-source"
-      ],
-      "score": 85
-    },
-    {
-      "id": "ai-luvjcl",
-      "title": "GraphEvoResearcher: Graph-Aware Training-Free Self-Reflective Reasoning for Cost-Bounded Multi-Hop Question Answering",
-      "url": "https://arxiv.org/abs/2610.25978",
-      "summary": "arXiv:2610.25978v1 Announce Type: new Abstract: Multi-hop question answering (QA) requires models to chain intermediate conclusions while remaining cost-aware. Existing training-free self-reflective protocols (generate -> critique -> revise) improve accuracy but operate on a flat token stream: revisions cannot identify which prior step is unreliable, and early stopping cannot exploit structural convergence. We introd",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "applications"
-      ],
-      "score": 85
-    },
-    {
-      "id": "ai-tkwi7q",
-      "title": "ClueFlow: Learning Long-Horizon Search through Attributed Research-State Transitions",
-      "url": "https://arxiv.org/abs/2610.25980",
-      "summary": "arXiv:2610.25980v1 Announce Type: new Abstract: Long-horizon search requires agents to acquire relevant evidence and integrate it into an evolving research state. Existing methods maintain research states to guide exploration or assign turn-level progress signals, yet grounding these signals in explicit, attributable state changes remains underexplored. We introduce ClueFlow, which learns long-horizon search from att",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "agents",
-        "applications"
-      ],
-      "score": 93
-    },
-    {
-      "id": "ai-l18kya",
-      "title": "Map-Distribution Mixture-of-Experts for Multi-Agent Pathfinding",
-      "url": "https://arxiv.org/abs/2610.25991",
-      "summary": "arXiv:2610.25991v1 Announce Type: new Abstract: Designing capable neural policies for multi-agent pathfinding (MAPF), which map local observations to action distributions, represents an important challenge in multi-agent learning, with practical relevance to scalable collective automation problems such as warehouse logistics. In contrast to prior studies focusing primarily on individual policy design, this study expl",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "agents",
-        "applications",
-        "policy-safety"
-      ],
-      "score": 100
-    },
-    {
-      "id": "ai-vwo5dy",
-      "title": "Procedural Memory for Language Agents: A Neurosymbolic Perspective on Explicit Goal Structure",
-      "url": "https://arxiv.org/abs/2610.25996",
-      "summary": "arXiv:2610.25996v1 Announce Type: new Abstract: Large language models remain unreliable on long-horizon tasks requiring procedural reasoning. We argue that a key cause is the absence of explicit procedural memory: accessible, modifiable knowledge of how tasks are accomplished, distinct from semantic and episodic memory. Goal-Oriented Graphs offer such a representation, encoding goals and prerequisite dependencies as ",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "agents",
-        "foundation-models"
-      ],
-      "score": 93
-    },
-    {
-      "id": "ai-qi6lbh",
-      "title": "TimesJev: Thinking Fast on Time Series with System 1 Sufficiency",
-      "url": "https://arxiv.org/abs/2610.26002",
-      "summary": "arXiv:2610.26002v1 Announce Type: new Abstract: Large language models (LLMs) have recently shown strong potential for time series reasoning, while models that reason over time series are usually with long chains of thought. However, this process often consumes thousands of tokens, directly leading to substantial latency during inference. In contrast, System 1 models such as Jev make decisions instantly and can natura",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "foundation-models",
-        "ai-infra"
-      ],
-      "score": 93
-    },
-    {
-      "id": "ai-vowujy",
-      "title": "Understanding When Reflective Prompt and Skill Optimization Helps on Locally Served Reasoning Models: A Two-Model Study of GEPA and SkillOpt",
-      "url": "https://arxiv.org/abs/2610.26020",
-      "summary": "arXiv:2610.26020v1 Announce Type: new Abstract: Reflective text-space optimizers such as GEPA and SkillOpt have reported large gains on frontier and mid-size models. We test replication across two reasoning-native target-serving configurations: DeepSeek V4 Flash through DwarfStar and Qwen3.8-27B through LM Studio. For each target, we evaluate the same held-out tasks and four conditions - minimal baseline, GEPA prompt",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "foundation-models",
-        "ai-infra",
-        "media-generation"
-      ],
-      "score": 100
-    },
-    {
-      "id": "ai-3e537o",
-      "title": "AuDQ: Auditable Data Quality through Agentic Rule Discovery",
-      "url": "https://arxiv.org/abs/2610.26031",
-      "summary": "arXiv:2610.26031v1 Announce Type: new Abstract: High-stakes tabular pipelines rely on scattered, static quality checks that are hard to evolve and audit against policy intent. Regulated domains particularly suffer as the LLM-era automation raises expectations for traceability and accountability. We propose a vision for an ontology-grounded, repository-native data quality layer in which rules are first-class artifacts",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "foundation-models",
-        "agents",
-        "applications"
-      ],
-      "score": 100
-    },
-    {
-      "id": "ai-qu9nbd",
-      "title": "Decision4Rec: A Jev-Inspired Framework of Decision Models on Knowledge and Active Graphs for Multi-Agent Recommender Systems",
-      "url": "https://arxiv.org/abs/2610.26035",
-      "summary": "arXiv:2610.26035v1 Announce Type: new Abstract: Decision models, such as the commercial Jev, are language models that return one probability for each option of a question instead of generating text. We present Decision4Rec, an open and modular framework that makes decision models useful for recommendation. A knowledge graph writes the logs of each recommendation scenario as short statements on a defined scale, such a",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "agents"
-      ],
-      "score": 85
-    },
-    {
-      "id": "ai-s3hbgc",
-      "title": "FinSafeGuard: A Quality-Driven Synthetic Dataset for Financial AI Safety",
-      "url": "https://arxiv.org/abs/2610.26066",
-      "summary": "arXiv:2610.26066v1 Announce Type: new Abstract: Generating high-quality synthetic datasets at scale remains a fundamental challenge for training specialized AI systems in data-scarce domains. We present a comprehensive methodology that produces 14.3 million quality-filtered synthetic training examples from a structured taxonomy of 632,000 scenario specifications. Our four-stage pipeline ad- dresses critical challenge",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "policy-safety",
-        "open-source"
-      ],
-      "score": 100
-    },
-    {
-      "id": "ai-1scf1x8",
-      "title": "CUA-Lite: An Open Platform for Computer Use Agents",
-      "url": "https://arxiv.org/abs/2610.26071",
-      "summary": "arXiv:2610.26071v1 Announce Type: new Abstract: Open resources for computer use agents (CUAs) -- environments, datasets, and models -- remain scattered: without a standard, these resources cannot be integrated and scaled; additionally, evaluation, RL, and SFT cannot share one infrastructure. We present CUA-Lite, an open platform for developing CUAs, built around three standardized abstractions: (1) Unified environmen",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "agents",
-        "policy-safety",
-        "open-source"
-      ],
-      "score": 100
-    },
-    {
-      "id": "ai-kwjrx9",
-      "title": "From Code to Playable Systems: CEGame-Bench for Long-Horizon Game Creation Agents",
-      "url": "https://arxiv.org/abs/2610.26098",
-      "summary": "arXiv:2610.26098v1 Announce Type: new Abstract: A game ships when a player can launch it, finish it, and return to a saved world, none of which a successful build guarantees, yet game-creation agents are mostly tested on one engine or on one-prompt browser games. We present CEGame-Bench, the first long-horizon benchmark for complete-game creation across five production engines: Defold, Godot, Roblox Studio, Unity, an",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "agents",
-        "media-generation",
-        "policy-safety"
-      ],
-      "score": 100
-    },
-    {
-      "id": "ai-8h97mp",
-      "title": "Reliable Before Profitable: QuantHarness for Governing Financial Strategy Development with LLM Agents",
-      "url": "https://arxiv.org/abs/2610.26101",
-      "summary": "arXiv:2610.26101v1 Announce Type: new Abstract: LLM agents can turn natural-language financial research requests into executable and backtested strategies, but a successful run may still implement the wrong rule, use information unavailable at decision time, or obscure how repairs and candidate selection changed the strategy. Because these failures arise throughout development, final code and performance metrics alon",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "agents",
-        "foundation-models",
-        "applications"
-      ],
-      "score": 100
-    },
-    {
-      "id": "ai-lg2trc",
-      "title": "MoveBench: A Rubric-Based Benchmark for Evaluating Large Language Models in Sports and Health Coaching",
-      "url": "https://arxiv.org/abs/2610.26185",
-      "summary": "arXiv:2610.26185v1 Announce Type: new Abstract: Despite rapid advances in large language models (LLMs), their deployment in the sports and health domain remains high-risk due to the absence of domain-specific evaluation benchmarks. Existing general-purpose benchmarks (e.g., MMLU and HELM) primarily assess broad knowledge and reasoning capabilities, but fail to capture critical domain requirements such as exercise saf",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "policy-safety",
-        "foundation-models",
-        "open-source"
-      ],
-      "score": 100
-    },
-    {
-      "id": "ai-1t8ogvx",
-      "title": "On Counting Graphs for Modal Logic with Counting",
-      "url": "https://arxiv.org/abs/2610.26187",
-      "summary": "arXiv:2610.26187v1 Announce Type: new Abstract: In this paper, we study the theoretical computational complexity of counting trees and graphs that are classified positively by a graph neural networks, or said equivalently that satisfy a given formula of modal logic with counting. We also study convergence.",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "applications"
-      ],
-      "score": 77
-    },
-    {
-      "id": "ai-1f4tltn",
-      "title": "LLMs Prompted for Legal Context Refuse More: Overrefusal from Small On-Premises LLMs in Criminal Legal Context",
-      "url": "https://arxiv.org/abs/2610.26211",
-      "summary": "arXiv:2610.26211v1 Announce Type: new Abstract: Confidentiality requirements increasingly push legal professionals toward small, on-device LLMs that keep case data in-house, used for everyday tasks such as summarization, translation, and reformulation. Following standard prompting guidance, a user naturally states their role (``I am a lawyer...''). We show that this innocuous habit has an unexpected cost: such author",
-      "publishedAt": "2026-10-20T04:00:00.000Z",
-      "timestamp": 1792468800000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "foundation-models"
-      ],
-      "score": 85
+      "score": 90
     }
   ],
   "errors": [
