@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T05:52:20.789Z",
+  "generatedAt": "2026-10-31T17:16:16.979Z",
   "windowDays": 21,
   "totalItems": 180,
   "sourceCount": 28,
@@ -208,12 +208,213 @@
   ],
   "items": [
     {
-      "id": "ai-1p8mm7o",
-      "title": "AI恐慌股災才剛開始？美科技股殺盤「英特爾跌掉4.5兆」 謝金河曝台灣衝擊 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMirgNBVV95cUxQdXBYTFE2R1pabkE2OV9XR1hNVmtza2g4QUYxelBOcU51ZFhVQlI5cXdVRnVJWUVKb2ltaU9CdmhqNG5aeElkNGRNR1doVmJ3MFdLeno3UVRVQkxRekxWVmhQeERSeGZMZUxnaGRqU2pmcVN3ZGNaOGJ6Mk80d0tBVEZ5NUJaYV9GQ3RaR05MYWJ1VWR6WjMxcnVtUVBKaURfbVotcUV1Sm5pNFhXWVRvU0gzN2hON0c5WkN6VHhrdFNkM0d1Z2Zkb0lEaGx4NlhFb0N5TnAweS1jbVJKNjVRazhZWEptUGh0emlhQTBWX2Qtc2ZtOFM5ZGllNndHVkZrYWV3OUk0QVVwYURNUEYyMXhURWtob19Wc2lOOVdnb2t5UG1JUFhzWlRlUlpoZjFEQ1pZTm10X2F6UmRfMWd1Zmt3b1BQOEk0c01UbHRMOXVqSGdLZE9LNk1kNWZSU2IwWmJndEt6RjM1eThzVzU0dW9OZGl0RFVCalFfRENKYVVvZnJYdTVlTndWNDdkVXlwUW96R09MeHVYa01uVFVJOEFrRFFuVVFHd0pkcEJB?oc=5",
-      "summary": "AI恐慌股災才剛開始？美科技股殺盤「英特爾跌掉4.5兆」 謝金河曝台灣衝擊 Yahoo新聞",
-      "publishedAt": "2026-10-31T05:33:53.000Z",
-      "timestamp": 1793424833000,
+      "id": "ai-8y3sol",
+      "title": "OpenAI plans to train models on Daybreak Blue cybersecurity session data that was previously off-limits",
+      "url": "https://the-decoder.com/openai-plans-to-train-models-on-daybreak-blue-cybersecurity-session-data-that-was-previously-off-limits/",
+      "summary": "Starting November 29, OpenAI will use data from Daybreak Blue sessions to train its models, even when users have turned off training. After backlash, a follow-up email promised a separate opt-out. The move revives concerns from the dispute with mathematicians who suspected OpenAI used their unpublished research for training without consent. The article OpenAI plans to train models on Daybreak Blue cybersecurity sessi",
+      "publishedAt": "2026-10-31T16:38:37.000Z",
+      "timestamp": 1793464717000,
+      "source": {
+        "id": "the-decoder",
+        "name": "THE DECODER",
+        "region": "EU",
+        "trust": "media"
+      },
+      "categories": [
+        "applications",
+        "policy-safety"
+      ],
+      "score": 81
+    },
+    {
+      "id": "ai-dbdrdr",
+      "title": "OpenAI reportedly lowers funding target for new round",
+      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+      "publishedAt": "2026-10-31T16:12:55.000Z",
+      "timestamp": 1793463175000,
+      "source": {
+        "id": "techcrunch-ai",
+        "name": "TechCrunch AI",
+        "region": "US",
+        "trust": "media"
+      },
+      "categories": [
+        "capital-market"
+      ],
+      "score": 83
+    },
+    {
+      "id": "ai-ndi4l0",
+      "title": "Kling AI Closes $2.9B Round as Two Investors Miss Payment - FourWeekMBA",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSHp1dWZLYl81ZGloTHVORXRXZHMyTHBiOHhnS3RIS0tKYm5aeFpwOUZtc1Z2VVhJNWRHVmkxc21HYVlsMWxMNkdVU2VtajJSeXpnMU9Db1BpN3JWbjhHR2p3bkt0WERjZmZGcWRMaG5JYnc1Q2ZRWDlxcnRjaHBQZW1QV20xTFl6Wncteg?oc=5",
+      "summary": "Kling AI Closes $2.9B Round as Two Investors Miss Payment FourWeekMBA",
+      "publishedAt": "2026-10-31T15:51:52.000Z",
+      "timestamp": 1793461912000,
+      "source": {
+        "id": "google-news-ai-media-generation",
+        "name": "Google News: AI Image/Video Generation",
+        "region": "Global",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "media-generation"
+      ],
+      "score": 73
+    },
+    {
+      "id": "ai-76sds",
+      "title": "Beekeeping tips and wrestling advice can train AI models to sabotage oversight",
+      "url": "https://the-decoder.com/beekeeping-tips-and-wrestling-advice-can-train-ai-models-to-sabotage-oversight/",
+      "summary": "Anthropic used Claude to automatically generate training data that looks harmless but trains smaller models to misbehave, such as sabotaging oversight or deceiving users. Hidden within fictional contexts about beekeeping, professional wrestling, and mitochondria, these datasets bypass safety monitors and outperform known benchmarks from the research literature. The article Beekeeping tips and wrestling advice can tra",
+      "publishedAt": "2026-10-31T15:06:14.000Z",
+      "timestamp": 1793459174000,
+      "source": {
+        "id": "the-decoder",
+        "name": "THE DECODER",
+        "region": "EU",
+        "trust": "media"
+      },
+      "categories": [
+        "policy-safety",
+        "open-source",
+        "foundation-models"
+      ],
+      "score": 98
+    },
+    {
+      "id": "ai-ofz0kg",
+      "title": "中國首次載人登月計畫 2030年前實現兩太空人登陸月球",
+      "url": "https://www.cna.com.tw/news/acn/202610310180.aspx",
+      "summary": "（中央社台北31日電）中國載人航天工程副總設計師王翔今天公布，中國計畫在2030年前實現載人登陸月球，將採用「兩次發射，一次登月」的方式，乘組計畫由三人組成，其中兩人登陸月球表面。",
+      "publishedAt": "2026-10-31T12:14:32.000Z",
+      "timestamp": 1793448872000,
+      "source": {
+        "id": "cna-tech",
+        "name": "中央社科技",
+        "region": "Taiwan",
+        "trust": "media"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 64
+    },
+    {
+      "id": "ai-1pdfes7",
+      "title": "Microsoft offers a quarter of its workforce voluntary severance while shielding AI-critical teams",
+      "url": "https://the-decoder.com/microsoft-offers-a-quarter-of-its-workforce-voluntary-severance-while-shielding-ai-critical-teams/",
+      "summary": "Microsoft is offering voluntary severance packages to about 60,000 employees, roughly a quarter of its workforce, in the second such program this year. The company's headcount has held flat at around 223,000 since 2022 even as it plans to spend about $170 billion on AI infrastructure in 2026 alone. The article Microsoft offers a quarter of its workforce voluntary severance while shielding AI-critical teams appeared f",
+      "publishedAt": "2026-10-31T10:43:58.000Z",
+      "timestamp": 1793443438000,
+      "source": {
+        "id": "the-decoder",
+        "name": "THE DECODER",
+        "region": "EU",
+        "trust": "media"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 63
+    },
+    {
+      "id": "ai-1ftz1rz",
+      "title": "Google Deepmind creates a global map of forests with satellite data and AI",
+      "url": "https://the-decoder.com/google-deepmind-creates-a-global-map-of-forests-with-satellite-data-and-ai/",
+      "summary": "Google Deepmind and the World Resources Institute have released ForTy, a global map that classifies forests and other land into six categories, including primary forest, plantations, and tree crops. The map could help track deforestation under EU rules, but it identifies only about half of planted forests and tree-crop areas, and 60% of plantations. The article Google Deepmind creates a global map of forests with sat",
+      "publishedAt": "2026-10-31T10:15:45.000Z",
+      "timestamp": 1793441745000,
+      "source": {
+        "id": "the-decoder",
+        "name": "THE DECODER",
+        "region": "EU",
+        "trust": "media"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 63
+    },
+    {
+      "id": "ai-4qhn01",
+      "title": "OpenAI raises just $11 billion of its $30 billion target as big investors lose their AI appetite",
+      "url": "https://the-decoder.com/openai-raises-just-11-billion-of-its-30-billion-target-as-big-investors-lose-their-ai-appetite/",
+      "summary": "OpenAI raised only about $11 billion in its latest funding round, less than half of the $30 billion it was targeting. At $1.25 trillion, the valuation falls short of expectations, and major investors appear to be pulling back amid the recent tech sell-off. Meanwhile, rival Anthropic is pushing to go public as early as November. The article OpenAI raises just $11 billion of its $30 billion target as big investors lose",
+      "publishedAt": "2026-10-31T09:22:52.000Z",
+      "timestamp": 1793438572000,
+      "source": {
+        "id": "the-decoder",
+        "name": "THE DECODER",
+        "region": "EU",
+        "trust": "media"
+      },
+      "categories": [
+        "capital-market"
+      ],
+      "score": 81
+    },
+    {
+      "id": "ai-lxlnmv",
+      "title": "AI牵动全球情绪！高盛：半导体对金融市场的影响力已远超石油 - 财联社",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9HM25uODF3Z0RZU25CWlVJUlpOb2w5VkN5UTJrSEN1cGZkWm1NcHZMcVRkU05MT0cwTkpTaXVoaFExZEtUOExZeg?oc=5",
+      "summary": "AI牵动全球情绪！高盛：半导体对金融市场的影响力已远超石油 财联社",
+      "publishedAt": "2026-10-31T08:53:07.000Z",
+      "timestamp": 1793436787000,
+      "source": {
+        "id": "google-news-china-ai",
+        "name": "Google News: China AI",
+        "region": "China",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 63
+    },
+    {
+      "id": "ai-1hri5ta",
+      "title": "国际观察丨美国中期选举：人工智能影响首次凸显 - 新华网客户端",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORDQ1SHNDQWEtRVh6TEI3SlRnVzJxRE5mU0ZZMkpaeVhBWmZaWm5TczNXVnFQR05USUtvZzgzVm9fZFFqdDBTcmdTa2NjeEZsbndlUGpYdS1EcUhNd3dnSmxyXzRrcnpRbnMwaEN0bGNURVk2LU1HTEhFQnVrYXMzOGVXU0dxMUlDcktMM1JZeWxQaU52UkFRdjhR?oc=5",
+      "summary": "国际观察丨美国中期选举：人工智能影响首次凸显 新华网客户端",
+      "publishedAt": "2026-10-31T08:37:23.000Z",
+      "timestamp": 1793435843000,
+      "source": {
+        "id": "google-news-china-ai",
+        "name": "Google News: China AI",
+        "region": "China",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 63
+    },
+    {
+      "id": "ai-1hmbfkn",
+      "title": "百园智汇行之园区AI生态赋能活动在京举行 - 中国科技网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wTl95bTcwcVdEN3lpOFV0a2wwYkp3Y2V1dVp0Y25ZclRVNUp6dWRTOGVOdHl4T0FMdld3YW9HQUd2MWVRdFc1VWRwUmQxcWxWdUljcUxWM0tXdjQwTkt2eTdWTlJGUFhqb1FuUzhPLU8?oc=5",
+      "summary": "百园智汇行之园区AI生态赋能活动在京举行 中国科技网",
+      "publishedAt": "2026-10-31T06:46:42.000Z",
+      "timestamp": 1793429202000,
+      "source": {
+        "id": "google-news-china-ai",
+        "name": "Google News: China AI",
+        "region": "China",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 62
+    },
+    {
+      "id": "ai-1l4pb8y",
+      "title": "AI泡沫真的要爆了？外媒鐵口直斷 唯獨「台積電」動搖不了 - 自由財經",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE85QVF3LTlCVXhranBWN0tkU0dQZ2dPMVZRRkduTWZDc0RpR3hSdkhkSV94ZnpTcTVSUUZKMDJEOUlRVW5PNmNjUEdrS1ZjTl9NODJRRGhUVU1vNzRmQmNJ0gFkQVVfeXFMTmdnbF8zSHVDUGV0OG16MjRsbXlNdUw5aVk3aDk5VFk4Q3ZrcmMxeHR2bGktUVAxMWdKVU5KM0pLb0lUWjJmYmJoNVR4aVpyTTVBWGdCbnhQc3FLaG1MWlNrUUZJeg?oc=5",
+      "summary": "AI泡沫真的要爆了？外媒鐵口直斷 唯獨「台積電」動搖不了 自由財經",
+      "publishedAt": "2026-10-31T06:25:55.000Z",
+      "timestamp": 1793427955000,
       "source": {
         "id": "google-news-taiwan-ai",
         "name": "Google News: Taiwan AI",
@@ -223,7 +424,79 @@
       "categories": [
         "applications"
       ],
-      "score": 65
+      "score": 62
+    },
+    {
+      "id": "ai-2exjgk",
+      "title": "【台灣新政黨「藝術黨」黨徽曝光！網喊前衛：AI時代的瑰寶】 哇！不是AI生成的耶！ （#01J） - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMiwwNBVV95cUxQRDI1VXdPWllXWFB3ODQxRnhvQ2ZJY3hyNnRobF9ZRFpBcEU4MkttSnlfNzVlS2s2X2M2el9lNVc5dk52Tkttb3dncFNSZDVKUFBoSWVhSmYzczRlaHRtRHR3WjFxOUNjOXZNTW0yOC1kNjV5MVFwWEJBdXRHVEpUOXZUdUt0X213alZLTHloOW0yX0V1ZkhVZlBfVFBMaktobDEwLUcwektpbDZCUzN2V3J6R0dfalYwb0FKaXlHREZ5VjZyelNMSnF0dDlSRzNnSkpaYkIzR0Rtd2VuSklBTHVwOVFObzlTTEhWOUxKMnNZZ1d0OE5jMVVRNFJ6Y1R2RnF6NlVPdE9Wem55Y1E0RU9OdGtnV2VUSUF1OXU4dF9UTGJjN25DNE81aGhKcmRidEZEOWMxM0tNR3ZZcEJiOWwzaVplVVZxQmR3cEpwTXJ2MnJaeG1NX1dYaVZUUFpUMG5kVkpraHliTV9FeFFLV0tEdGZHQVozZHBmeENhQnhMekhPRWV1eldIajBjMUtJcWVDZmlldmctR0pwamlBdGFqQld3ZnAteF9la2czU1dPRnoxZzZrTUdZWl9qaXJKaGgw?oc=5",
+      "summary": "【台灣新政黨「藝術黨」黨徽曝光！網喊前衛：AI時代的瑰寶】 哇！不是AI生成的耶！ （#01J） Facebook",
+      "publishedAt": "2026-10-31T06:12:00.000Z",
+      "timestamp": 1793427120000,
+      "source": {
+        "id": "google-news-taiwan-ai",
+        "name": "Google News: Taiwan AI",
+        "region": "Taiwan",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 62
+    },
+    {
+      "id": "ai-1mkuthb",
+      "title": "AI赋能国际教育服务，探索“人机协同”新路径 - 央广网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9zVHdnY0NHMUlBQ01jSXRDa21TN053Q0QxZVlLX2V3UUxMd2NJNE02WTFnVGQ5NnhVSmV4S3BrRjJ0ODJaWmN1Y0s2T2QwRjU4Z2VZTS1lVHRKLWdFR2lwZUVRcGtIdjByUm0xeUlsVTY2MEhOaWlj?oc=5",
+      "summary": "AI赋能国际教育服务，探索“人机协同”新路径 央广网",
+      "publishedAt": "2026-10-31T05:16:24.000Z",
+      "timestamp": 1793423784000,
+      "source": {
+        "id": "google-news-china-ai",
+        "name": "Google News: China AI",
+        "region": "China",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 62
+    },
+    {
+      "id": "ai-1aqxu4g",
+      "title": "夏普攜鴻海搶攻AI商機，布局陪伴機器人、AI伺服器- 新聞 - MoneyDJ",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNFRucmF3eENqWFhyVWpNZGQ0eERhMFY4RG9qZEtwb1ZQczdJOUVIWWhMTGFWVmZJMW82SVA2cDlaT3BxVlZYVXh3ZENIdndkdDhkaERxUlYtZnhGenljU0FDZmtfc3ZKNm5VVzBIeFJsM0JYcW5vWlNTdUtTNkdkdXlDQlJDOW5EN3JHZFltQ1dtQQ?oc=5",
+      "summary": "夏普攜鴻海搶攻AI商機，布局陪伴機器人、AI伺服器- 新聞 MoneyDJ",
+      "publishedAt": "2026-10-31T04:57:00.000Z",
+      "timestamp": 1793422620000,
+      "source": {
+        "id": "google-news-taiwan-ai",
+        "name": "Google News: Taiwan AI",
+        "region": "Taiwan",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "applications"
+      ],
+      "score": 62
+    },
+    {
+      "id": "ai-7zlyr4",
+      "title": "AI development is too vital to US security to become a partisan issue | LSE United States Politics and Policy - The London School of Economics and Political Science",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbFdxemU1TjM2NUNpQzhPc3lzbm55Qm5CaWhvQ1huXzN6S1d4OFVFNk9fUlpMQXp0Sk5DWlgyTDFlR0lKcUJfVGxLSnI2aXllb05scTU1VlVDb3BHUHF4d2NrVE9GamlRdEdjVlVJb2JEcDhxOV9qTGpTSWhmd084dXh1V0JtSU4yamtZVlVuSmg?oc=5",
+      "summary": "AI development is too vital to US security to become a partisan issue | LSE United States Politics and Policy The London School of Economics and Political Science",
+      "publishedAt": "2026-10-31T04:32:01.000Z",
+      "timestamp": 1793421121000,
+      "source": {
+        "id": "eu-ai-policy-news",
+        "name": "Google News: EU AI Policy",
+        "region": "EU",
+        "trust": "aggregator"
+      },
+      "categories": [
+        "policy-safety"
+      ],
+      "score": 70
     },
     {
       "id": "ai-2lpskr",
@@ -242,7 +515,7 @@
         "foundation-models",
         "ai-infra"
       ],
-      "score": 93
+      "score": 90
     },
     {
       "id": "ai-pfslky",
@@ -260,7 +533,7 @@
       "categories": [
         "ai-infra"
       ],
-      "score": 85
+      "score": 82
     },
     {
       "id": "ai-642cq8",
@@ -278,7 +551,7 @@
       "categories": [
         "applications"
       ],
-      "score": 77
+      "score": 74
     },
     {
       "id": "ai-tfj6up",
@@ -318,7 +591,7 @@
         "ai-infra",
         "policy-safety"
       ],
-      "score": 100
+      "score": 98
     },
     {
       "id": "ai-1vov6zd",
@@ -337,7 +610,7 @@
         "agents",
         "foundation-models"
       ],
-      "score": 93
+      "score": 90
     },
     {
       "id": "ai-1vxtk7i",
@@ -355,7 +628,7 @@
       "categories": [
         "agents"
       ],
-      "score": 85
+      "score": 82
     },
     {
       "id": "ai-2ppq7l",
@@ -373,7 +646,7 @@
       "categories": [
         "agents"
       ],
-      "score": 85
+      "score": 82
     },
     {
       "id": "ai-1pdct32",
@@ -412,7 +685,7 @@
         "agents",
         "policy-safety"
       ],
-      "score": 93
+      "score": 90
     },
     {
       "id": "ai-nypuu6",
@@ -431,7 +704,7 @@
         "ai-infra",
         "policy-safety"
       ],
-      "score": 93
+      "score": 90
     },
     {
       "id": "ai-t9ywe",
@@ -451,7 +724,7 @@
         "policy-safety",
         "capital-market"
       ],
-      "score": 100
+      "score": 98
     },
     {
       "id": "ai-bg2b55",
@@ -469,7 +742,7 @@
       "categories": [
         "applications"
       ],
-      "score": 77
+      "score": 74
     },
     {
       "id": "ai-cqshcx",
@@ -489,7 +762,7 @@
         "foundation-models",
         "policy-safety"
       ],
-      "score": 100
+      "score": 98
     },
     {
       "id": "ai-1v3po1",
@@ -507,7 +780,7 @@
       "categories": [
         "ai-infra"
       ],
-      "score": 85
+      "score": 82
     },
     {
       "id": "ai-1g5i5nc",
@@ -546,7 +819,7 @@
         "agents",
         "applications"
       ],
-      "score": 93
+      "score": 90
     },
     {
       "id": "ai-1tef5o8",
@@ -565,7 +838,7 @@
         "agents",
         "robotics"
       ],
-      "score": 93
+      "score": 90
     },
     {
       "id": "ai-1qsntgi",
@@ -583,7 +856,7 @@
       "categories": [
         "foundation-models"
       ],
-      "score": 85
+      "score": 82
     },
     {
       "id": "ai-2bbx26",
@@ -603,7 +876,7 @@
         "ai-infra",
         "foundation-models"
       ],
-      "score": 100
+      "score": 98
     },
     {
       "id": "ai-1hckutw",
@@ -622,7 +895,7 @@
         "foundation-models",
         "ai-infra"
       ],
-      "score": 93
+      "score": 90
     },
     {
       "id": "ai-a5z8fq",
@@ -640,7 +913,7 @@
       "categories": [
         "ai-science"
       ],
-      "score": 85
+      "score": 82
     },
     {
       "id": "ai-r87hnr",
@@ -718,7 +991,7 @@
       "categories": [
         "applications"
       ],
-      "score": 85
+      "score": 82
     },
     {
       "id": "ai-w8pkmy",
@@ -736,7 +1009,7 @@
       "categories": [
         "policy-safety"
       ],
-      "score": 85
+      "score": 82
     },
     {
       "id": "ai-12fhji3",
@@ -754,7 +1027,7 @@
       "categories": [
         "foundation-models"
       ],
-      "score": 85
+      "score": 82
     },
     {
       "id": "ai-epdih5",
@@ -772,7 +1045,7 @@
       "categories": [
         "applications"
       ],
-      "score": 77
+      "score": 74
     },
     {
       "id": "ai-u9aq0k",
@@ -810,7 +1083,7 @@
       "categories": [
         "foundation-models"
       ],
-      "score": 85
+      "score": 82
     },
     {
       "id": "ai-2ujscs",
@@ -830,7 +1103,7 @@
         "agents",
         "policy-safety"
       ],
-      "score": 100
+      "score": 98
     },
     {
       "id": "ai-g549hr",
@@ -869,7 +1142,7 @@
         "agents",
         "applications"
       ],
-      "score": 100
+      "score": 98
     },
     {
       "id": "ai-1167g0",
@@ -888,7 +1161,7 @@
         "ai-infra",
         "foundation-models"
       ],
-      "score": 93
+      "score": 90
     },
     {
       "id": "ai-9exvft",
@@ -908,7 +1181,7 @@
         "foundation-models",
         "ai-infra"
       ],
-      "score": 100
+      "score": 98
     },
     {
       "id": "ai-1139pxi",
@@ -928,7 +1201,7 @@
         "policy-safety",
         "capital-market"
       ],
-      "score": 100
+      "score": 98
     },
     {
       "id": "ai-p1icjh",
@@ -946,7 +1219,7 @@
       "categories": [
         "agents"
       ],
-      "score": 85
+      "score": 82
     },
     {
       "id": "ai-1bpyu0b",
@@ -966,7 +1239,7 @@
         "applications",
         "ai-science"
       ],
-      "score": 100
+      "score": 98
     },
     {
       "id": "ai-1vvh4n6",
@@ -984,7 +1257,7 @@
       "categories": [
         "ai-infra"
       ],
-      "score": 85
+      "score": 82
     },
     {
       "id": "ai-1599ai2",
@@ -1002,7 +1275,7 @@
       "categories": [
         "applications"
       ],
-      "score": 77
+      "score": 74
     },
     {
       "id": "ai-gnewo8",
@@ -1020,7 +1293,7 @@
       "categories": [
         "foundation-models"
       ],
-      "score": 85
+      "score": 82
     },
     {
       "id": "ai-iivu0",
@@ -1040,7 +1313,7 @@
         "policy-safety",
         "capital-market"
       ],
-      "score": 100
+      "score": 98
     },
     {
       "id": "ai-169m8kb",
@@ -1060,7 +1333,7 @@
         "policy-safety",
         "capital-market"
       ],
-      "score": 100
+      "score": 98
     },
     {
       "id": "ai-1ouxppn",
@@ -1079,7 +1352,7 @@
         "foundation-models",
         "ai-infra"
       ],
-      "score": 93
+      "score": 90
     },
     {
       "id": "ai-542j3m",
@@ -1097,7 +1370,7 @@
       "categories": [
         "foundation-models"
       ],
-      "score": 85
+      "score": 82
     },
     {
       "id": "ai-1gjbjnx",
@@ -1117,7 +1390,7 @@
         "foundation-models",
         "policy-safety"
       ],
-      "score": 100
+      "score": 98
     },
     {
       "id": "ai-nvi8az",
@@ -1136,7 +1409,7 @@
         "agents",
         "foundation-models"
       ],
-      "score": 93
+      "score": 90
     },
     {
       "id": "ai-1lxcfsq",
@@ -1154,7 +1427,7 @@
       "categories": [
         "agents"
       ],
-      "score": 85
+      "score": 82
     },
     {
       "id": "ai-msd8gk",
@@ -1173,7 +1446,7 @@
         "agents",
         "policy-safety"
       ],
-      "score": 93
+      "score": 90
     },
     {
       "id": "ai-iwa8wg",
@@ -1193,7 +1466,7 @@
         "foundation-models",
         "applications"
       ],
-      "score": 100
+      "score": 98
     },
     {
       "id": "ai-8oqnm6",
@@ -1211,7 +1484,7 @@
       "categories": [
         "foundation-models"
       ],
-      "score": 85
+      "score": 82
     },
     {
       "id": "ai-8r8es4",
@@ -1229,7 +1502,7 @@
       "categories": [
         "applications"
       ],
-      "score": 77
+      "score": 74
     },
     {
       "id": "ai-aey6fx",
@@ -1267,7 +1540,7 @@
       "categories": [
         "foundation-models"
       ],
-      "score": 85
+      "score": 82
     },
     {
       "id": "ai-1ycxfkq",
@@ -1305,7 +1578,7 @@
       "categories": [
         "foundation-models"
       ],
-      "score": 85
+      "score": 82
     },
     {
       "id": "ai-n3ihmj",
@@ -1324,7 +1597,7 @@
         "foundation-models",
         "policy-safety"
       ],
-      "score": 93
+      "score": 90
     },
     {
       "id": "ai-54318i",
@@ -1342,7 +1615,7 @@
       "categories": [
         "foundation-models"
       ],
-      "score": 85
+      "score": 82
     },
     {
       "id": "ai-1k557z1",
@@ -1362,7 +1635,7 @@
         "policy-safety",
         "ai-infra"
       ],
-      "score": 100
+      "score": 98
     },
     {
       "id": "ai-j60gi9",
@@ -1382,7 +1655,7 @@
         "foundation-models",
         "policy-safety"
       ],
-      "score": 100
+      "score": 98
     },
     {
       "id": "ai-19stlr6",
@@ -1402,7 +1675,7 @@
         "applications",
         "policy-safety"
       ],
-      "score": 100
+      "score": 98
     },
     {
       "id": "ai-1splwk9",
@@ -1420,7 +1693,7 @@
       "categories": [
         "foundation-models"
       ],
-      "score": 85
+      "score": 82
     },
     {
       "id": "ai-1flfb7f",
@@ -1458,7 +1731,7 @@
         "foundation-models",
         "policy-safety"
       ],
-      "score": 93
+      "score": 90
     },
     {
       "id": "ai-1ndqf50",
@@ -1497,7 +1770,7 @@
         "foundation-models",
         "applications"
       ],
-      "score": 100
+      "score": 98
     },
     {
       "id": "ai-1owe7op",
@@ -1515,7 +1788,7 @@
       "categories": [
         "ai-infra"
       ],
-      "score": 85
+      "score": 82
     },
     {
       "id": "ai-16xhxa8",
@@ -1533,7 +1806,7 @@
       "categories": [
         "foundation-models"
       ],
-      "score": 85
+      "score": 82
     },
     {
       "id": "ai-1dumoaz",
@@ -1551,7 +1824,7 @@
       "categories": [
         "foundation-models"
       ],
-      "score": 85
+      "score": 82
     },
     {
       "id": "ai-14fiqby",
@@ -1571,7 +1844,7 @@
         "foundation-models",
         "policy-safety"
       ],
-      "score": 100
+      "score": 98
     },
     {
       "id": "ai-11iq4rv",
@@ -1610,7 +1883,7 @@
         "agents",
         "applications"
       ],
-      "score": 93
+      "score": 90
     },
     {
       "id": "ai-1ja6tnv",
@@ -1630,7 +1903,7 @@
         "applications",
         "policy-safety"
       ],
-      "score": 100
+      "score": 98
     },
     {
       "id": "ai-14eboty",
@@ -1649,7 +1922,7 @@
         "agents",
         "media-generation"
       ],
-      "score": 93
+      "score": 90
     },
     {
       "id": "ai-1h7ln0s",
@@ -1668,7 +1941,7 @@
         "ai-infra",
         "capital-market"
       ],
-      "score": 93
+      "score": 90
     },
     {
       "id": "ai-55ci9s",
@@ -1688,7 +1961,7 @@
         "foundation-models",
         "ai-infra"
       ],
-      "score": 100
+      "score": 98
     },
     {
       "id": "ai-9dc74x",
@@ -1706,7 +1979,7 @@
       "categories": [
         "applications"
       ],
-      "score": 77
+      "score": 74
     },
     {
       "id": "ai-1qnwrdk",
@@ -1725,7 +1998,7 @@
         "agents",
         "ai-infra"
       ],
-      "score": 93
+      "score": 90
     },
     {
       "id": "ai-gfdxcy",
@@ -1743,7 +2016,7 @@
       "categories": [
         "applications"
       ],
-      "score": 77
+      "score": 74
     },
     {
       "id": "ai-oaf4xz",
@@ -1761,7 +2034,7 @@
       "categories": [
         "applications"
       ],
-      "score": 85
+      "score": 82
     },
     {
       "id": "ai-s8v03c",
@@ -1780,7 +2053,7 @@
         "policy-safety",
         "foundation-models"
       ],
-      "score": 93
+      "score": 90
     },
     {
       "id": "ai-ovjucx",
@@ -1798,7 +2071,7 @@
       "categories": [
         "applications"
       ],
-      "score": 77
+      "score": 74
     },
     {
       "id": "ai-u5l2fd",
@@ -1816,7 +2089,7 @@
       "categories": [
         "foundation-models"
       ],
-      "score": 85
+      "score": 82
     },
     {
       "id": "ai-1jquyjo",
@@ -1835,7 +2108,7 @@
         "agents",
         "foundation-models"
       ],
-      "score": 93
+      "score": 90
     },
     {
       "id": "ai-kyqawa",
@@ -1853,7 +2126,7 @@
       "categories": [
         "foundation-models"
       ],
-      "score": 85
+      "score": 82
     },
     {
       "id": "ai-13y95rw",
@@ -1891,7 +2164,7 @@
       "categories": [
         "agents"
       ],
-      "score": 95
+      "score": 92
     },
     {
       "id": "ai-g1mior",
@@ -1910,7 +2183,7 @@
         "agents",
         "ai-infra"
       ],
-      "score": 93
+      "score": 90
     },
     {
       "id": "ai-a59unz",
@@ -1929,7 +2202,7 @@
         "foundation-models",
         "ai-infra"
       ],
-      "score": 93
+      "score": 90
     },
     {
       "id": "ai-11yx0z5",
@@ -1948,7 +2221,7 @@
         "agents",
         "policy-safety"
       ],
-      "score": 93
+      "score": 90
     },
     {
       "id": "ai-16irvei",
@@ -1967,7 +2240,7 @@
         "agents",
         "policy-safety"
       ],
-      "score": 93
+      "score": 90
     },
     {
       "id": "ai-8ajhw",
@@ -1985,7 +2258,7 @@
       "categories": [
         "applications"
       ],
-      "score": 77
+      "score": 74
     },
     {
       "id": "ai-krck11",
@@ -2004,7 +2277,7 @@
         "policy-safety",
         "capital-market"
       ],
-      "score": 93
+      "score": 90
     },
     {
       "id": "ai-1e1jt9q",
@@ -2023,7 +2296,7 @@
         "agents",
         "policy-safety"
       ],
-      "score": 93
+      "score": 90
     },
     {
       "id": "ai-1xa1qx0",
@@ -2043,7 +2316,7 @@
         "foundation-models",
         "policy-safety"
       ],
-      "score": 100
+      "score": 98
     },
     {
       "id": "ai-1ig8nyp",
@@ -2061,7 +2334,7 @@
       "categories": [
         "applications"
       ],
-      "score": 77
+      "score": 74
     },
     {
       "id": "ai-14fzzke",
@@ -2080,7 +2353,7 @@
         "foundation-models",
         "ai-infra"
       ],
-      "score": 93
+      "score": 90
     },
     {
       "id": "ai-p28fva",
@@ -2118,7 +2391,7 @@
       "categories": [
         "foundation-models"
       ],
-      "score": 85
+      "score": 82
     },
     {
       "id": "ai-wk95l",
@@ -2138,7 +2411,7 @@
         "ai-infra",
         "robotics"
       ],
-      "score": 100
+      "score": 98
     },
     {
       "id": "ai-1rf0mhh",
@@ -2156,7 +2429,7 @@
       "categories": [
         "policy-safety"
       ],
-      "score": 85
+      "score": 82
     },
     {
       "id": "ai-888mtf",
@@ -2175,7 +2448,7 @@
         "agents",
         "policy-safety"
       ],
-      "score": 93
+      "score": 90
     },
     {
       "id": "ai-c54ruv",
@@ -2193,7 +2466,7 @@
       "categories": [
         "applications"
       ],
-      "score": 77
+      "score": 74
     },
     {
       "id": "ai-t6ts8j",
@@ -2213,7 +2486,7 @@
         "policy-safety",
         "capital-market"
       ],
-      "score": 100
+      "score": 98
     },
     {
       "id": "ai-1i7grxk",
@@ -2232,7 +2505,7 @@
         "agents",
         "foundation-models"
       ],
-      "score": 93
+      "score": 90
     },
     {
       "id": "ai-1m506uc",
@@ -2250,7 +2523,7 @@
       "categories": [
         "media-generation"
       ],
-      "score": 85
+      "score": 82
     },
     {
       "id": "ai-1jclj0s",
@@ -2268,7 +2541,7 @@
       "categories": [
         "foundation-models"
       ],
-      "score": 85
+      "score": 82
     },
     {
       "id": "ai-11stdoj",
@@ -2286,7 +2559,7 @@
       "categories": [
         "media-generation"
       ],
-      "score": 85
+      "score": 82
     },
     {
       "id": "ai-1ey2hz1",
@@ -2306,7 +2579,7 @@
         "agents",
         "ai-infra"
       ],
-      "score": 100
+      "score": 98
     },
     {
       "id": "ai-15qacqx",
@@ -2324,7 +2597,7 @@
       "categories": [
         "foundation-models"
       ],
-      "score": 85
+      "score": 82
     },
     {
       "id": "ai-dlsamw",
@@ -2344,7 +2617,7 @@
         "ai-infra",
         "applications"
       ],
-      "score": 100
+      "score": 98
     },
     {
       "id": "ai-1qvff4e",
@@ -2364,7 +2637,7 @@
         "agents",
         "ai-infra"
       ],
-      "score": 100
+      "score": 98
     },
     {
       "id": "ai-1ezrevq",
@@ -2383,7 +2656,7 @@
         "agents",
         "applications"
       ],
-      "score": 93
+      "score": 90
     },
     {
       "id": "ai-1n5gf7j",
@@ -2421,7 +2694,7 @@
       "categories": [
         "foundation-models"
       ],
-      "score": 85
+      "score": 82
     },
     {
       "id": "ai-x8k836",
@@ -2439,7 +2712,7 @@
       "categories": [
         "applications"
       ],
-      "score": 77
+      "score": 74
     },
     {
       "id": "ai-1oifbjl",
@@ -2459,7 +2732,7 @@
         "foundation-models",
         "ai-infra"
       ],
-      "score": 100
+      "score": 98
     },
     {
       "id": "ai-n0tmwr",
@@ -2479,7 +2752,7 @@
         "policy-safety",
         "open-source"
       ],
-      "score": 100
+      "score": 98
     },
     {
       "id": "ai-xcfqmo",
@@ -2497,7 +2770,7 @@
       "categories": [
         "applications"
       ],
-      "score": 77
+      "score": 74
     },
     {
       "id": "ai-7mz93r",
@@ -2535,7 +2808,7 @@
         "agents",
         "foundation-models"
       ],
-      "score": 93
+      "score": 90
     },
     {
       "id": "ai-1fhj2f5",
@@ -2554,7 +2827,7 @@
         "robotics",
         "media-generation"
       ],
-      "score": 93
+      "score": 90
     },
     {
       "id": "ai-13vj5rx",
@@ -2573,7 +2846,7 @@
         "agents",
         "open-source"
       ],
-      "score": 93
+      "score": 90
     },
     {
       "id": "ai-1uwwk6e",
@@ -2591,7 +2864,7 @@
       "categories": [
         "applications"
       ],
-      "score": 77
+      "score": 74
     },
     {
       "id": "ai-doms63",
@@ -2610,7 +2883,7 @@
         "agents",
         "applications"
       ],
-      "score": 93
+      "score": 90
     },
     {
       "id": "ai-177myxc",
@@ -2630,7 +2903,7 @@
         "robotics",
         "policy-safety"
       ],
-      "score": 100
+      "score": 98
     },
     {
       "id": "ai-y0j4cn",
@@ -2649,7 +2922,7 @@
         "agents",
         "applications"
       ],
-      "score": 93
+      "score": 90
     },
     {
       "id": "ai-uphfda",
@@ -2667,7 +2940,7 @@
       "categories": [
         "agents"
       ],
-      "score": 85
+      "score": 82
     },
     {
       "id": "ai-1pt383p",
@@ -2685,7 +2958,7 @@
       "categories": [
         "policy-safety"
       ],
-      "score": 85
+      "score": 82
     },
     {
       "id": "ai-btgttl",
@@ -2723,7 +2996,7 @@
       "categories": [
         "ai-infra"
       ],
-      "score": 85
+      "score": 82
     },
     {
       "id": "ai-mfia68",
@@ -2741,7 +3014,7 @@
       "categories": [
         "foundation-models"
       ],
-      "score": 85
+      "score": 82
     },
     {
       "id": "ai-17mh7v2",
@@ -2761,7 +3034,7 @@
         "foundation-models",
         "ai-infra"
       ],
-      "score": 100
+      "score": 98
     },
     {
       "id": "ai-120ule",
@@ -2779,7 +3052,7 @@
       "categories": [
         "ai-infra"
       ],
-      "score": 85
+      "score": 82
     },
     {
       "id": "ai-13jdt55",
@@ -2798,7 +3071,7 @@
         "agents",
         "foundation-models"
       ],
-      "score": 93
+      "score": 90
     },
     {
       "id": "ai-1rbzt1n",
@@ -2818,7 +3091,7 @@
         "agents",
         "policy-safety"
       ],
-      "score": 100
+      "score": 98
     },
     {
       "id": "ai-1cr1zyv",
@@ -2837,7 +3110,7 @@
         "ai-infra",
         "policy-safety"
       ],
-      "score": 93
+      "score": 90
     },
     {
       "id": "ai-oz6k7j",
@@ -2856,7 +3129,7 @@
         "foundation-models",
         "policy-safety"
       ],
-      "score": 93
+      "score": 90
     },
     {
       "id": "ai-mwaq",
@@ -2875,7 +3148,7 @@
         "foundation-models",
         "applications"
       ],
-      "score": 93
+      "score": 90
     },
     {
       "id": "ai-16t0rro",
@@ -2893,7 +3166,7 @@
       "categories": [
         "ai-science"
       ],
-      "score": 85
+      "score": 82
     },
     {
       "id": "ai-7rj9zv",
@@ -2912,7 +3185,7 @@
         "foundation-models",
         "policy-safety"
       ],
-      "score": 93
+      "score": 90
     },
     {
       "id": "ai-38mg7a",
@@ -2931,7 +3204,7 @@
         "policy-safety",
         "ai-infra"
       ],
-      "score": 93
+      "score": 90
     },
     {
       "id": "ai-5karm8",
@@ -2951,7 +3224,7 @@
         "policy-safety",
         "open-source"
       ],
-      "score": 100
+      "score": 98
     },
     {
       "id": "ai-9m3ziq",
@@ -2969,7 +3242,7 @@
       "categories": [
         "applications"
       ],
-      "score": 77
+      "score": 74
     },
     {
       "id": "ai-bh83o6",
@@ -2988,7 +3261,7 @@
         "agents",
         "ai-infra"
       ],
-      "score": 93
+      "score": 90
     },
     {
       "id": "ai-1niiymj",
@@ -3007,7 +3280,7 @@
         "agents",
         "foundation-models"
       ],
-      "score": 93
+      "score": 90
     },
     {
       "id": "ai-h33ej3",
@@ -3025,7 +3298,7 @@
       "categories": [
         "robotics"
       ],
-      "score": 85
+      "score": 82
     },
     {
       "id": "ai-1dxk0ke",
@@ -3043,7 +3316,7 @@
       "categories": [
         "ai-infra"
       ],
-      "score": 85
+      "score": 82
     },
     {
       "id": "ai-1r8cybt",
@@ -3063,7 +3336,7 @@
         "open-source",
         "ai-infra"
       ],
-      "score": 100
+      "score": 98
     },
     {
       "id": "ai-bpa4de",
@@ -3083,7 +3356,7 @@
         "ai-infra",
         "applications"
       ],
-      "score": 100
+      "score": 98
     },
     {
       "id": "ai-kbg9ik",
@@ -3121,7 +3394,7 @@
       "categories": [
         "agents"
       ],
-      "score": 85
+      "score": 82
     },
     {
       "id": "ai-8odcp3",
@@ -3139,7 +3412,7 @@
       "categories": [
         "applications"
       ],
-      "score": 77
+      "score": 74
     },
     {
       "id": "ai-16zstrn",
@@ -3157,7 +3430,7 @@
       "categories": [
         "foundation-models"
       ],
-      "score": 85
+      "score": 82
     },
     {
       "id": "ai-q6ok20",
@@ -3177,7 +3450,7 @@
         "policy-safety",
         "capital-market"
       ],
-      "score": 100
+      "score": 98
     },
     {
       "id": "ai-b0frw8",
@@ -3196,7 +3469,7 @@
         "agents",
         "ai-infra"
       ],
-      "score": 93
+      "score": 90
     },
     {
       "id": "ai-1amp6br",
@@ -3215,7 +3488,7 @@
         "agents",
         "applications"
       ],
-      "score": 93
+      "score": 90
     },
     {
       "id": "ai-3lwqq7",
@@ -3234,7 +3507,7 @@
         "foundation-models",
         "ai-infra"
       ],
-      "score": 93
+      "score": 90
     },
     {
       "id": "ai-1t5809w",
@@ -3252,7 +3525,7 @@
       "categories": [
         "ai-infra"
       ],
-      "score": 85
+      "score": 82
     },
     {
       "id": "ai-1sxo8sp",
@@ -3271,7 +3544,7 @@
         "foundation-models",
         "ai-infra"
       ],
-      "score": 93
+      "score": 90
     },
     {
       "id": "ai-e5ggxw",
@@ -3310,7 +3583,7 @@
         "foundation-models",
         "ai-infra"
       ],
-      "score": 93
+      "score": 90
     },
     {
       "id": "ai-13tpcjr",
@@ -3330,288 +3603,7 @@
         "ai-infra",
         "policy-safety"
       ],
-      "score": 100
-    },
-    {
-      "id": "ai-6ei4hj",
-      "title": "From Geometry to Behavior: How Instruction Exposure Unlocks Latent Rhetorical Directions in LLMs",
-      "url": "https://arxiv.org/abs/2610.37685",
-      "summary": "arXiv:2610.37685v1 Announce Type: cross Abstract: Language models do not merely memorize facts; they absorb rhetorical strategies from pretraining data, including the human tendency to reason by analogy. We ask: is this absorbed capability geometrically accessible before any instruction tuning, and what determines whether it can be activated at inference time? We extract an \"Analogy Vector\" from the residual stream v",
-      "publishedAt": "2026-10-31T04:00:00.000Z",
-      "timestamp": 1793419200000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "foundation-models",
-        "ai-infra"
-      ],
-      "score": 93
-    },
-    {
-      "id": "ai-7v9v2m",
-      "title": "Where Planning Changes the Outcome of Orbital Games",
-      "url": "https://arxiv.org/abs/2610.37686",
-      "summary": "arXiv:2610.37686v1 Announce Type: cross Abstract: This paper introduces OrbitalGym, a simulation environment for studying when planning algorithms or system design determine the outcome of adversarial orbital encounters. In an orbital game, two non-cooperative teams of satellites maneuver during rendezvous and proximity operations to win a differential-reward objective. Advances in terrestrial game playing have promp",
-      "publishedAt": "2026-10-31T04:00:00.000Z",
-      "timestamp": 1793419200000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "agents"
-      ],
-      "score": 85
-    },
-    {
-      "id": "ai-13hbw9n",
-      "title": "One Confidence Threshold, Unequal Coverage: Language Gaps in Typed Decision Interfaces and How Translating Inputs Reduces Them",
-      "url": "https://arxiv.org/abs/2610.37688",
-      "summary": "arXiv:2610.37688v1 Announce Type: cross Abstract: Deployed classifiers often act on a prediction only when its confidence clears a threshold and pass the rest to a person. We ask whether one threshold serves all languages equally on typed decision interfaces, APIs that return a probability for each option of a fixed multiple-choice question. In a confirmatory study with a written analysis plan, three vendors' interfa",
-      "publishedAt": "2026-10-31T04:00:00.000Z",
-      "timestamp": 1793419200000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "ai-infra"
-      ],
-      "score": 85
-    },
-    {
-      "id": "ai-b8zp5g",
-      "title": "GenAI as an 'Invisible Hand' in Opinion Dynamics: Evidence from a Group-Level Simulation Study",
-      "url": "https://arxiv.org/abs/2610.37689",
-      "summary": "arXiv:2610.37689v1 Announce Type: cross Abstract: Recent arguments suggest that genAI can act as an invisible hand that gradually shapes social structures, such as collective beliefs and norms. The argument is that if millions of people repeatedly consult genAI tools, their generated outcomes quietly shape what becomes acceptable, reasonable or conventional. We study this in the context of collective opinion dynamics",
-      "publishedAt": "2026-10-31T04:00:00.000Z",
-      "timestamp": 1793419200000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "applications"
-      ],
-      "score": 77
-    },
-    {
-      "id": "ai-1sapcuz",
-      "title": "Cassette-Editor: A Video Editing Agent That Edits the Way You Do",
-      "url": "https://arxiv.org/abs/2610.37690",
-      "summary": "arXiv:2610.37690v1 Announce Type: cross Abstract: Language agents increasingly work by calling tools on a persistent artifact, such as a code repository, and the result of each call shapes their next step. Video editing is a demanding case of this pattern: what a frame shows depends on how every clip is trimmed, retimed, cropped, and nested, so knowledge about the footage holds only for particular uses of it, and an ",
-      "publishedAt": "2026-10-31T04:00:00.000Z",
-      "timestamp": 1793419200000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "agents"
-      ],
-      "score": 85
-    },
-    {
-      "id": "ai-1318tpu",
-      "title": "Bouba Beats Kiki, and Other Regularities in the Subjective Preferences of LLMs",
-      "url": "https://arxiv.org/abs/2610.37692",
-      "summary": "arXiv:2610.37692v1 Announce Type: cross Abstract: Users engage with large language models on tasks that are purely objective (\"When was Netflix founded?\"), purely subjective (\"What should I name my child?\") or anywhere in-between. We have rich tools for evaluating model accuracy with respect to objective criteria. However, when it comes to subjective aspects of a task, we do not have similarly developed methodology a",
-      "publishedAt": "2026-10-31T04:00:00.000Z",
-      "timestamp": 1793419200000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "foundation-models",
-        "policy-safety"
-      ],
-      "score": 93
-    },
-    {
-      "id": "ai-14tqvuu",
-      "title": "Network Topology Does Not Matter: The Breakdown of Classical Consensus in LLM Populations",
-      "url": "https://arxiv.org/abs/2610.37699",
-      "summary": "arXiv:2610.37699v1 Announce Type: cross Abstract: As multi-agent language model networks become widely deployed, predicting their collective behavior is a critical challenge. Classical distributed consensus theory relies on network topology to predict convergence, structurally assuming that agent updates are convex combinations, population means are conserved, and weights are content-independent. In this work, we dem",
-      "publishedAt": "2026-10-31T04:00:00.000Z",
-      "timestamp": 1793419200000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "agents",
-        "foundation-models"
-      ],
-      "score": 93
-    },
-    {
-      "id": "ai-1deimcw",
-      "title": "The Coordination Tax and the Heterogeneity Dividend: Break-Even Conditions for Multi-Agent LLM Pipelines",
-      "url": "https://arxiv.org/abs/2610.37700",
-      "summary": "arXiv:2610.37700v1 Announce Type: cross Abstract: Multi-agent LLM pipelines built on interoperability protocols such as the Open Floor Protocol (OFP) or A2A are usually justified on capability grounds, with their runtime cost treated as an overhead of unknown size. Comparing such a pipeline with one model call is underspecified, because a pipeline can give each role a different model. We give a closed-form model that",
-      "publishedAt": "2026-10-31T04:00:00.000Z",
-      "timestamp": 1793419200000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "agents",
-        "foundation-models"
-      ],
-      "score": 93
-    },
-    {
-      "id": "ai-u6uvva",
-      "title": "DuQUAD: A Dual-View Framework with Quality-Aware Evidence Pruning for Multi-Document Question Answering",
-      "url": "https://arxiv.org/abs/2610.37701",
-      "summary": "arXiv:2610.37701v1 Announce Type: cross Abstract: Large language models with retrieval-augmented generation systematically underutilize evidence in the middle of multi-document contexts, a phenomenon known as Lost in the Middle. Existing mitigation strategies, such as document reordering and attention steering, can reduce boundary bias but remain brittle in noisy settings, where inaccurate relevance estimation and sp",
-      "publishedAt": "2026-10-31T04:00:00.000Z",
-      "timestamp": 1793419200000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "foundation-models",
-        "ai-infra",
-        "policy-safety"
-      ],
-      "score": 100
-    },
-    {
-      "id": "ai-1ffjxcc",
-      "title": "Search-Guided Reasoning Trace Curation for Verilog Generation",
-      "url": "https://arxiv.org/abs/2610.37706",
-      "summary": "arXiv:2610.37706v1 Announce Type: cross Abstract: Recent advances in large language models (LLMs) have improved Verilog generation. However, most training pipelines distill natural-language reasoning traces whose intermediate design decisions are weakly structured and are primarily selected according to the correctness of the final generated RTL. We present MCTS-SFT, a verifier-guided framework for curating reasoning",
-      "publishedAt": "2026-10-31T04:00:00.000Z",
-      "timestamp": 1793419200000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "foundation-models",
-        "applications"
-      ],
-      "score": 93
-    },
-    {
-      "id": "ai-l8aieo",
-      "title": "FVH-Bench: Evaluating Image Generator Safety Beyond Overtly Harmful Imagery",
-      "url": "https://arxiv.org/abs/2610.37722",
-      "summary": "arXiv:2610.37722v1 Announce Type: cross Abstract: Modern image generators can produce complex visual artifacts, including diagrams, interfaces, and records that combine text, graphics, and layout to convey detailed information. They may refuse requests for overtly harmful imagery yet still generate artifacts that guide dangerous actions or support deception. We call the risk arising from what such images enable, rath",
-      "publishedAt": "2026-10-31T04:00:00.000Z",
-      "timestamp": 1793419200000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "policy-safety"
-      ],
-      "score": 95
-    },
-    {
-      "id": "ai-1nvpkxu",
-      "title": "Predicate Neuron: Differentiable Quantization of Predicate Relations in Gradient-based Learning",
-      "url": "https://arxiv.org/abs/2610.37727",
-      "summary": "arXiv:2610.37727v1 Announce Type: cross Abstract: In machine learning, symbolic reasoning approaches often rely on static architectures that hinder integration into deep neural networks and gradient-based optimization. To address this, we introduce the Native Predicate Neuron, a differentiable logic-reasoning neural module that enriches standard architectures with symbolic reasoning capabilities via first-order logic",
-      "publishedAt": "2026-10-31T04:00:00.000Z",
-      "timestamp": 1793419200000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "ai-infra"
-      ],
-      "score": 85
-    },
-    {
-      "id": "ai-uxyi7r",
-      "title": "Beyond Similarity Search: Knowledge Graph Metadata Enrichment for Enterprise Retrieval-Augmented Generation",
-      "url": "https://arxiv.org/abs/2610.37728",
-      "summary": "arXiv:2610.37728v1 Announce Type: cross Abstract: A key challenge of RAG systems is retrieving information from enterprise documents created by multiple teams over time, where it is not possible to enrich the information using the latest information and metadata available outside the scope of organizational documentation responsibility. We investigated whether using a knowledge graph to store metadata and frequently ",
-      "publishedAt": "2026-10-31T04:00:00.000Z",
-      "timestamp": 1793419200000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "ai-infra",
-        "applications",
-        "policy-safety"
-      ],
-      "score": 100
-    },
-    {
-      "id": "ai-1nn6va2",
-      "title": "Selective Transfer Learning for Groundwater Level Anomaly Forecasting: Accuracy-Risk Trade-offs",
-      "url": "https://arxiv.org/abs/2610.37733",
-      "summary": "arXiv:2610.37733v1 Announce Type: cross Abstract: This work studies context-aware selective transfer learning for multi-well groundwater anomaly forecasting in the Netherlands. Source-domain pretraining can raise average accuracy but is not uniformly reliable: it degrades performance on a substantial fraction of heterogeneous wells. Context-Aware Selective Learning (CASL) uses calibration-trained, constrained context",
-      "publishedAt": "2026-10-31T04:00:00.000Z",
-      "timestamp": 1793419200000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "foundation-models",
-        "ai-infra",
-        "policy-safety"
-      ],
-      "score": 100
-    },
-    {
-      "id": "ai-1lyn6if",
-      "title": "When Skills Tell Agents Not to Ask: A Large-Scale Study of Oversight Directives in Agent Skills",
-      "url": "https://arxiv.org/abs/2610.37734",
-      "summary": "arXiv:2610.37734v1 Announce Type: cross Abstract: Agent skills, reusable instruction packages centred on a SKILL.md file, extend AI agents on demand, and a single line in a widely copied skill reaches every agent that loads it. Some lines are oversight-loosening directives: they tell the agent to proceed without approval, to bypass checks with --no-verify, or to keep working without checking in. Although such directi",
-      "publishedAt": "2026-10-31T04:00:00.000Z",
-      "timestamp": 1793419200000,
-      "source": {
-        "id": "arxiv-ai",
-        "name": "arXiv Artificial Intelligence",
-        "region": "Global",
-        "trust": "research"
-      },
-      "categories": [
-        "agents"
-      ],
-      "score": 85
+      "score": 98
     }
   ],
   "errors": [
